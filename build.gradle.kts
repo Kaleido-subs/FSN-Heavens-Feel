@@ -70,6 +70,8 @@ val ed_ktemplate by task<Automation> {
     mux {
         title(get("filetitle"))
 
+        skipUnusedFonts(true)
+
 		from(get("premux")) {
 			video {
 				lang("jpn")
