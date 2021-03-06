@@ -22,7 +22,7 @@ subs {
     readProperties("sub.properties")
     episodes(getList("episodes"))
 
-val ed_ktemplate by task<Automation> {
+    val ed_ktemplate by task<Automation> {
         if (file(get("ED")).exists()) {
             from(get("ED"))
         }
@@ -47,22 +47,39 @@ val ed_ktemplate by task<Automation> {
 
         from(getList("TS"))
 
-        out(get("mergedname"))
+        out(get("mergedname_full"))
     }
 
-	val cleanmerge by task<ASS> {
+	val cleanmerge_full by task<ASS> {
 		from(merge.item())
     	ass {
 			events.lines.removeIf { it.isKaraTemplate() }
 	    }
 	}
 
-    swap {
-        from(cleanmerge.item())
+    val ss_merge by task<ASS> {
+        if (file(get("ED")).exists()) {
+            from(ed_ktemplate.item())
+        }
+
+        if (file(get("IS")).exists()) {
+            from(get("IS"))
+        }
+
+        from(getList("TS"))
+
+        out(get("mergedname_ss"))
     }
 
+	val cleanmerge_ss by task<ASS> {
+		from(ss_merge.item())
+    	ass {
+			events.lines.removeIf { it.isKaraTemplate() }
+	    }
+	}
+
     chapters {
-        from(cleanmerge.item())
+        from(cleanmerge_full.item())
         chapterMarker("chapter")
     }
 
@@ -91,25 +108,25 @@ val ed_ktemplate by task<Automation> {
 			attachments { include(false) }
 		}
 
-		from(cleanmerge.item()) {
-			tracks {
-				lang("enm")
-                name(get("subtitle_eng"))
-				default(true)
-				forced(true)
-				compression(CompressionType.ZLIB)
-			}
-		}
-
-        from(swap.item()) {
+        from(cleanmerge_ss.item()) {
             tracks {
-                name(get("subtitle_jp"))
+                name(get("subtitle_ss"))
                 lang("eng")
-                default(false)
-				forced(false)
+                default(true)
+				forced(true)
                 compression(CompressionType.ZLIB)
             }
         }
+
+		from(cleanmerge_full.item()) {
+			tracks {
+                name(get("subtitle_full"))
+				lang("eng")
+				default(false)
+				forced(false)
+				compression(CompressionType.ZLIB)
+			}
+		}
 
         chapters(chapters.item()) { lang("eng") }
 
