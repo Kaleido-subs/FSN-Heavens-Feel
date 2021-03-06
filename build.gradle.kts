@@ -62,22 +62,28 @@ val ed_ktemplate by task<Automation> {
     }
 
     chapters {
-        from(merge.item())
+        from(cleanmerge.item())
         chapterMarker("chapter")
     }
 
 
     mux {
-        title(get("muxtitle"))
+        title(get("filetitle"))
 
 		from(get("premux")) {
 			video {
 				lang("jpn")
 				default(true)
 			}
-			audio {
+			audio(0) {
 				lang("eng")
 				default(true)
+                forced(true)
+			}
+			audio(1) {
+				lang("jpn")
+				default(false)
+                forced(false)
 			}
             includeChapters(false)
 			attachments { include(false) }
@@ -85,8 +91,8 @@ val ed_ktemplate by task<Automation> {
 
 		from(cleanmerge.item()) {
 			tracks {
-				lang("eng")
-                name(get("sub_title"))
+				lang("enm")
+                name(get("subtitle_eng"))
 				default(true)
 				forced(true)
 				compression(CompressionType.ZLIB)
@@ -95,8 +101,10 @@ val ed_ktemplate by task<Automation> {
 
         from(swap.item()) {
             tracks {
-                name(get("group_alt"))
-                lang("enm")
+                name(get("subtitle_jp"))
+                lang("eng")
+                default(false)
+				forced(false)
                 compression(CompressionType.ZLIB)
             }
         }
@@ -109,12 +117,6 @@ val ed_ktemplate by task<Automation> {
 
         attach(get("fonts")) {
             includeExtensions("ttf", "otf")
-        }
-
-        if (propertyExists("OP")) {
-            attach(get("opfonts")) {
-                includeExtensions("ttf", "otf")
-            }
         }
 
         if (propertyExists("ED")) {
