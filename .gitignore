@@ -9,6 +9,7 @@
 !*.md
 !*.midicsv
 !*.mscx
+!*.sup
 !*.xml
 !*/
 
