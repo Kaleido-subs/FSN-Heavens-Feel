@@ -10,8 +10,9 @@
 !*.midicsv
 !*.mscx
 !*.rar
-!*.sup
 !*.xml
+!*.txt
+!*.srt
 !*/
 
 # Fonts
