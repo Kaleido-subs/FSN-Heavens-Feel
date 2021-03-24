@@ -23,6 +23,7 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{Intro}
 Dialogue: 100,0:00:42.93,0:00:44.43,Default,Shirou,0,0,0,,Saber!
 Dialogue: 100,0:00:46.42,0:00:48.02,Default,Shirou,0,0,0,,Saber!
 Dialogue: 100,0:00:56.16,0:00:57.10,Default,Shirou,0,0,0,,Saber!
@@ -650,7 +651,7 @@ Dialogue: 100,1:16:43.26,1:16:46.03,Default,Tohsaka,0,0,0,,Hmm, what to do?
 Dialogue: 100,1:16:50.18,1:16:54.11,Default,Sakura,0,0,0,,Nee-san, I'll wash these vegetables.
 Dialogue: 100,1:16:54.11,1:16:56.63,Default,Tohsaka,0,0,0,,Yeah, thanks a...
 Dialogue: 100,1:17:04.13,1:17:08.33,Default,Sakura,0,0,0,,Does it sound weird, Nee-san?
-Dialogue: 100,1:17:10.18,1:17:13.99,Default,Tohsaka,0,0,0,,Oh, I wouldn't say {\i1}weird{\i0}...
+Dialogue: 100,1:17:10.18,1:17:13.99,Default,Tohsaka,0,0,0,,Oh, I w-wouldn't say {\i1}w-weird{\i0}...
 Dialogue: 100,1:17:23.81,1:17:27.33,Default,Tohsaka,0,0,0,,Illya, can we talk about you-know-what in my room?
 Dialogue: 100,1:17:28.50,1:17:30.71,Default,Shirou,0,0,0,,What's this you-know-what?
 Dialogue: 100,1:17:30.71,1:17:35.15,Default,Tohsaka,0,0,0,,I figure we need a secret weapon or two.
@@ -697,29 +698,29 @@ Dialogue: 100,1:21:54.88,1:21:58.37,Default,Sakura,0,0,0,,{\i1}Huh? I can't tast
 Dialogue: 100,1:22:05.65,1:22:07.19,Default,Sakura,0,0,0,,{\i1}He's so warm.
 Dialogue: 100,1:22:08.91,1:22:12.27,Default,Sakura,0,0,0,,{\i1}It's okay. I can still feel him.
 Dialogue: 100,1:22:14.69,1:22:18.87,Default,Sakura,0,0,0,,{\i1}I wish this moment could last forever...
-Dialogue: 100,1:22:59.19,1:23:01.13,Default,Sakura,0,0,0,,She went for a lovely walk.
-Dialogue: 100,1:23:01.89,1:23:08.20,Default,Sakura,0,0,0,,Her bobbing head was clear, with no definite goal in mind.
-Dialogue: 100,1:23:09.01,1:23:10.84,Default,Sakura,0,0,0,,And she shook from side to side.
-Dialogue: 100,1:23:10.84,1:23:12.46,Default,Sakura,0,0,0,,Go, go.
-Dialogue: 100,1:23:12.46,1:23:14.58,Default,Sakura,0,0,0,,And she sang with a chuckle.
-Dialogue: 100,1:23:14.58,1:23:15.97,Default,Sakura,0,0,0,,Go, go.
-Dialogue: 100,1:23:16.45,1:23:23.14,Default,Sakura,0,0,0,,And the empty limbs rolled along the ground like paper balloons.
-Dialogue: 100,1:23:24.11,1:23:28.56,Default,Sakura,0,0,0,,And floating through the air would have to wait until she grew up.
-Dialogue: 100,1:23:28.94,1:23:30.56,Default,Sakura,0,0,0,,Go, go.
-Dialogue: 100,1:23:31.33,1:23:32.85,Default,Sakura,0,0,0,,Go, go.
-Dialogue: 100,1:23:33.86,1:23:35.62,Default,Sakura,0,0,0,,Go, go.
-Dialogue: 100,1:24:03.02,1:24:05.62,Default,Sakura,0,0,0,,Someone came up to her and squeaked.
-Dialogue: 100,1:24:06.77,1:24:09.27,Default,Sakura,0,0,0,,It roared at her in laughter.
-Dialogue: 100,1:24:09.76,1:24:12.88,Default,Sakura,0,0,0,,She had no reason to be scared of it!
-Dialogue: 100,1:24:31.41,1:24:34.04,Default,Sakura,0,0,0,,The shrill laughter echoed throughout the room,
-Dialogue: 100,1:24:42.15,1:24:44.88,Default,Sakura,0,0,0,,so her empty stomach growled.
+Dialogue: 100,1:22:59.19,1:23:01.13,Default,Sakura,0,0,0,,{\i1}She went for a lovely walk.
+Dialogue: 100,1:23:01.89,1:23:08.20,Default,Sakura,0,0,0,,{\q2\i1}Her bobbing head was clear, \Nwith no definite goal in mind.
+Dialogue: 100,1:23:09.01,1:23:10.84,Default,Sakura,0,0,0,,{\i1}And she shook from side to side.
+Dialogue: 100,1:23:10.84,1:23:12.46,Default,Sakura,0,0,0,,{\i1}Go, go.
+Dialogue: 100,1:23:12.46,1:23:14.58,Default,Sakura,0,0,0,,{\i1}And she sang with a chuckle.
+Dialogue: 100,1:23:14.58,1:23:15.97,Default,Sakura,0,0,0,,{\i1}Go, go.
+Dialogue: 100,1:23:16.45,1:23:23.14,Default,Sakura,0,0,0,,{\q2\i1}And the empty limbs rolled \Nalong the ground like paper balloons.
+Dialogue: 100,1:23:24.11,1:23:28.56,Default,Sakura,0,0,0,,{\q2\i1}And floating through the air \Nwould have to wait until she grew up.
+Dialogue: 100,1:23:28.94,1:23:30.56,Default,Sakura,0,0,0,,{\i1}Go, go.
+Dialogue: 100,1:23:31.33,1:23:32.85,Default,Sakura,0,0,0,,{\i1}Go, go.
+Dialogue: 100,1:23:33.86,1:23:35.62,Default,Sakura,0,0,0,,{\i1}Go, go.
+Dialogue: 100,1:24:03.02,1:24:05.62,Default,Sakura,0,0,0,,{\i1}Someone came up to her and squeaked.
+Dialogue: 100,1:24:06.77,1:24:09.27,Default,Sakura,0,0,0,,{\i1}It roared at her in laughter.
+Dialogue: 100,1:24:09.76,1:24:12.88,Default,Sakura,0,0,0,,{\i1}She had no reason to be scared of it!
+Dialogue: 100,1:24:31.41,1:24:34.04,Default,Sakura,0,0,0,,{\i1}The shrill laughter echoed throughout the room,
+Dialogue: 100,1:24:42.15,1:24:44.88,Default,Sakura,0,0,0,,{\i1}so her empty stomach growled.
 Dialogue: 100,1:24:52.56,1:24:54.65,Default,Gilgamesh,0,0,0,,You're looking lively.
 Dialogue: 100,1:24:55.26,1:24:58.46,Default,Gilgamesh,0,0,0,,This is why I told you to die the last time we met.
 Dialogue: 100,1:25:13.12,1:25:15.44,Default,Sakura,0,0,0,,So shiny and pretty...
 Dialogue: 100,1:25:27.34,1:25:29.39,Default,Gilgenstein,0,0,0,,This has been postponed long enough.
 Dialogue: 100,1:25:29.93,1:25:32.29,Default,Gilgenstein,0,0,0,,Accept that this is an act of mercy.
-Dialogue: 100,1:25:53.70,1:25:56.91,Default,Gilgenstein,0,0,0,,What? You still have life in you?
-Dialogue: 100,1:25:57.97,1:26:01.64,Default,Gilgenstein,0,0,0,,To think that your body had changed, too, and not just your shadow.
+Dialogue: 100,1:25:53.70,1:25:56.91,Default,Gilgenstein,0,0,0,,What? You yet cling on to life?
+Dialogue: 100,1:25:57.97,1:26:01.64,Default,Gilgenstein,0,0,0,,{\q2}Little did I imagine your body would \Nalso change alongside your shadow.{To think that your body had changed, too, and not just your shadow.}{## editing Gil nicely is so fucking rough}
 Dialogue: 100,1:26:31.53,1:26:34.12,Default,Gilgenstein,0,0,0,,You dare expect me to kneel?
 Dialogue: 100,1:27:07.65,1:27:09.21,Default,Gilgenstein,0,0,0,,Mongrel!
 Dialogue: 100,1:27:29.09,1:27:33.03,Default,Gilgenstein,0,0,0,,Have you truly gone that far?
@@ -926,4 +927,3 @@ Dialogue: 100,1:49:43.55,1:49:46.16,Default,Sakura,0,0,0,,Nii-san...
 Dialogue: 100,1:50:45.53,1:50:47.37,Default,Shirou,0,0,0,,Sakura!
 Dialogue: 100,1:55:51.54,1:55:57.05,Default,Shirou,0,0,0,,I told you before. I'll be your personal superhero.
 Dialogue: 100,1:55:59.09,1:56:03.45,Default,Shirou,0,0,0,,So grit your teeth!
-Comment: 100,0:00:00.00,0:00:00.00,Default,,0,0,0,,
