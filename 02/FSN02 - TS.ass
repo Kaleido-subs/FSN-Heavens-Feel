@@ -11,6 +11,7 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: [SCY] Fate Stay Night Heaven's Feel II. - Lost Butterfly v0 (BD 1080p Hi10 FLAC) [06B8011A].mkv
 Video File: [SCY] Fate Stay Night Heaven's Feel II. - Lost Butterfly v0 (BD 1080p Hi10 FLAC) [06B8011A].mkv
 Keyframes File: [SCY] Fate Stay Night Heaven's Feel II. - Lost Butterfly v0 (BD 1080p Hi10 FLAC) [06B8011A]_keyframes.txt
 Video AR Mode: 4
@@ -23,7 +24,9 @@ Style: TS,Arial,75,&H00FEFEFE,&H000000FF,&H40010106,&H40010106,0,0,0,0,100,100,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:03:08.58,0:03:10.54,TS,,0,0,0,,Today's Headline\NPartial Cave-in on Enzou Mountain, Fuyuki-shi
-Dialogue: 0,0:03:17.14,0:03:22.14,TS,,0,0,0,,{## Missing TL}
+Comment: 0,0:03:17.14,0:03:22.14,TS,,0,0,0,,{## Missing TL}
+Comment: 0,0:06:23.66,0:06:32.41,TS,,0,0,0,,{Missing TL}
+Comment: 0,0:06:32.41,0:06:37.67,TS,,0,0,0,,{Missing TL}
 Dialogue: 0,0:05:25.26,0:05:27.00,TS,,0,0,0,,Road Work Ahead
 Dialogue: 2,0:05:36.85,0:05:37.94,TS,,0,0,0,,{\blur0.8\c&H2EA9FA&\fnDigital Dot Roadsign\fax0.4\frz332.6\pos(952.4,355.6)}A{\fax0.41\c&H2FAAFA&}c{\fax0.42\c&H30ABFA&}c{\fax0.42\c&H31ACF9&}i{\fax0.43\c&H33ADF9&}d{\fax0.44\c&H34AEF9&}e{\fax0.45\c&H35AFF9&}n{\fax0.45\c&H36B1F9&}t{\fax0.46\c&H37B2F8&} {\fax0.47\c&H38B3F8&}a{\fax0.48\c&H3AB4F8&}t{\fax0.48\c&H3BB5F8&} {\fax0.49\c&H3CB6F8&}F{\fax0.5\c&H3DB7F8&}u{\fax0.51\c&H3EB8F7&}y{\fax0.52\c&H3FB9F7&}u{\fax0.52\c&H40BAF7&}k{\fax0.53\c&H42BBF7&}i{\fax0.54\c&H43BCF7&} {\fax0.55\c&H44BDF6&}E{\fax0.55\c&H45BFF6&}n{\fax0.56\c&H46C0F6&}t{\fax0.57\c&H47C1F6&}r{\fax0.58\c&H49C2F6&}a{\fax0.58\c&H4AC3F5&}n{\fax0.59\c&H4BC4F5&}c{\fax0.6\c&H4CC5F5&}e
 Dialogue: 1,0:05:36.85,0:05:37.94,TS,,0,0,0,,{\blur1.5\c&H2EA9FA&\fnDigital Dot Roadsign\fax0.4\frz332.6\pos(952.4,355.6)\alpha&H70&\3c&H2EA9FA&}A{\fax0.41}c{\fax0.42}c{\fax0.42}i{\fax0.43}d{\fax0.44}e{\fax0.45}n{\fax0.45}t{\fax0.46} {\fax0.47}a{\fax0.48}t{\fax0.48} {\fax0.49}F{\fax0.5}u{\fax0.51}y{\fax0.52}u{\fax0.52}k{\fax0.53}i{\fax0.54} {\fax0.55}E{\fax0.55}n{\fax0.56}t{\fax0.57}r{\fax0.58}a{\fax0.58}n{\fax0.59}c{\fax0.6}e
