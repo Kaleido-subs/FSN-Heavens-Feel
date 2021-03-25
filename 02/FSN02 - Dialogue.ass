@@ -33,7 +33,7 @@ Dialogue: 100,0:01:30.51,0:01:33.00,Default,Shirou,0,0,0,,Thank goodness. You're
 Dialogue: 100,0:01:46.63,0:01:47.50,Default,Shirou,0,0,0,,Saber!
 Dialogue: 100,0:02:01.43,0:02:04.72,Default,Shirou,0,0,0,,Why am I back here?
 Dialogue: 100,0:02:25.18,0:02:26.63,Default,Shirou,0,0,0,,{\i1}What...
-Dialogue: 100,0:02:28.43,0:02:29.53,Default,Shirou,0,0,0,,{\i1}...{\i0}are{\i1} you?
+Dialogue: 100,0:02:28.43,0:02:29.53,Default,Shirou,0,0,0,,{\i1}...are you?
 Dialogue: 100,0:02:30.58,0:02:33.72,Default,Shirou,0,0,0,,{\i1}Wh-What is...
 Comment: 100,0:03:17.09,0:03:27.10,Default,Newscaster,0,0,0,,{## Missing TL}
 Comment: 100,0:03:06.08,0:03:11.08,Default,Newscaster,0,0,0,,{## Missing TL}
@@ -60,7 +60,7 @@ Dialogue: 100,0:06:09.38,0:06:12.77,Default,Shirou,0,0,0,,{\i1}What's that shado
 Dialogue: 100,0:06:14.48,0:06:16.36,Default,Shirou,0,0,0,,{\i1}How's it connected to Zouken?
 Dialogue: 100,0:06:17.69,0:06:19.08,Default,Shirou,0,0,0,,{\i1}Is it working under him?
 Dialogue: 100,0:06:20.32,0:06:22.84,Default,Shirou,0,0,0,,{\i1}Nah, he's just using it.
-Dialogue: 100,0:06:25.02,0:06:27.12,Default,Shirou,0,0,0,,{\i1}I'd better get Tohsaka's thoughts, too.
+Dialogue: 100,0:06:25.02,0:06:27.12,Default,Shirou,0,0,0,,{\i1}I'd better hear Tohsaka's thoughts, too.
 Dialogue: 100,0:06:36.64,0:06:37.66,Default,Shirou,0,0,0,,What?
 Dialogue: 100,0:06:41.73,0:06:45.40,Default,Illya,0,0,0,,Oh, you're alive, Onii-chan! {## :BirbBlush:}
 Dialogue: 100,0:06:53.53,0:06:56.02,Default,Illya,0,0,0,,Tell me your name.
@@ -106,7 +106,7 @@ Dialogue: 100,0:09:37.05,0:09:37.88,Default,Tohsaka,0,0,0,,No?
 Dialogue: 100,0:09:38.51,0:09:40.10,Default,Tohsaka,0,0,0,,What's with the long face?
 Dialogue: 100,0:09:40.49,0:09:42.71,Default,Tohsaka,0,0,0,,Fine, have it your way!
 Dialogue: 100,0:09:54.20,0:09:55.28,Default,Shirou,0,0,0,,Huh?
-Dialogue: 100,0:09:56.38,0:09:57.51,Default,Shirou,0,0,0,,Isn't that...?
+Dialogue: 100,0:09:56.38,0:09:57.51,Default,Shirou,0,0,0,,Aren't those...?
 Dialogue: 100,0:10:00.93,0:10:02.54,Default,Tohsaka,0,0,0,,What are you doing?
 Dialogue: 100,0:10:02.94,0:10:05.93,Default,Tohsaka,0,0,0,,Come on, let's get strategizing.
 Dialogue: 100,0:11:01.82,0:11:05.23,Default,Sakura,0,0,0,,I need to get dinner ready.
@@ -116,7 +116,7 @@ Dialogue: 100,0:11:22.70,0:11:23.83,Default,Shirou,0,0,0,,It's not locked?
 Dialogue: 100,0:11:24.50,0:11:27.34,Default,Shirou,0,0,0,,Sakura, you awake?
 Dialogue: 100,0:11:41.21,0:11:42.14,Default,Tohsaka,0,0,0,,Emiya-kun?
 Dialogue: 100,0:11:43.14,0:11:44.18,Default,Tohsaka,0,0,0,,For crying out...
-Dialogue: 100,0:11:59.29,0:12:02.07,Default,Shirou,0,0,0,,Shinji! Let Sakura go!
+Dialogue: 100,0:11:59.29,0:12:02.07,Default,Shirou,0,0,0,,Shinji! Let her go!
 Dialogue: 100,0:12:07.33,0:12:08.49,Default,Shirou,0,0,0,,Shinji!
 Dialogue: 100,0:12:09.58,0:12:12.34,Default,Shinji,0,0,0,,Don't worry, Sakura.
 Dialogue: 100,0:12:12.67,0:12:15.16,Default,Shinji,0,0,0,,I won't kill Emiya.
@@ -154,7 +154,7 @@ Dialogue: 100,0:16:33.47,0:16:35.47,Default,Shinji,0,0,0,,Stand up, Rider!
 Dialogue: 100,0:16:36.97,0:16:38.64,Default,Shinji,0,0,0,,You useless...
 Dialogue: 100,0:16:40.64,0:16:41.51,Default,Sakura,0,0,0,,No...
 Dialogue: 100,0:16:45.21,0:16:47.98,Default,Sakura,0,0,0,,Rider, no...
-Dialogue: 100,0:16:48.44,0:16:49.82,Default,Sakura,0,0,0,,No more of this!
+Dialogue: 100,0:16:48.44,0:16:49.82,Default,Sakura,0,0,0,,Make it stop!
 Dialogue: 100,0:16:58.74,0:16:59.42,Default,Shirou,0,0,0,,Sakura—
 Dialogue: 100,0:16:59.42,0:17:00.80,Default,Tohsaka,0,0,0,,Emiya-kun, get down!
 Dialogue: 100,0:17:16.37,0:17:17.21,Default,Tohsaka,0,0,0,,No way...
@@ -168,9 +168,9 @@ Dialogue: 100,0:17:42.51,0:17:45.49,Default,Tohsaka,0,0,0,,They can't produce an
 Dialogue: 100,0:17:46.06,0:17:51.80,Default,Tohsaka,0,0,0,,{\q2}I figured Zouken summoned Rider \Nand handed her over to Shinji.
 Dialogue: 100,0:17:52.14,0:17:55.08,Default,Tohsaka,0,0,0,,But it was much simpler than that.
 Dialogue: 100,0:17:55.79,0:17:56.81,Default,Shirou,0,0,0,,Tohsaka?
-Dialogue: 100,0:17:57.61,0:18:02.48,Default,Tohsaka,0,0,0,,{\q2}The most suitable person to be \Na Master in the Matou family now...
+Dialogue: 100,0:17:57.61,0:18:02.48,Default,Tohsaka,0,0,0,,{\q2}The person most suited to be \Na Master in the Matou family now...
 Dialogue: 100,0:18:06.44,0:18:11.20,Default,Tohsaka,0,0,0,,{\q2}That would be the Matous' legitimate heir, \Ntheir magus of this generation.
-Dialogue: 100,0:18:11.20,0:18:13.75,Default,Tohsaka,0,0,0,,And that'd be you, Sakura.
+Dialogue: 100,0:18:11.20,0:18:13.75,Default,Tohsaka,0,0,0,,And that would be you, Sakura.
 Dialogue: 100,0:18:16.94,0:18:19.93,Default,Shirou,0,0,0,,Sakura's a Master?
 Dialogue: 100,0:18:20.87,0:18:26.69,Default,Tohsaka,0,0,0,,{\q2}You transferred your Command Spells and \Nused one to make her obey Shinji's orders, huh?
 Dialogue: 100,0:18:27.98,0:18:32.17,Default,Tohsaka,0,0,0,,That's how Shinji became Rider's Master,
