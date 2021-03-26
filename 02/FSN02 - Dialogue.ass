@@ -220,7 +220,7 @@ Dialogue: 100,0:21:46.22,0:21:50.41,Default,Archer,0,0,0,,{\q2}Looks like swappi
 Dialogue: 100,0:22:05.42,0:22:07.13,Default,Tohsaka,0,0,0,,A bounded field?
 Dialogue: 100,0:22:14.16,0:22:15.29,Default,Sakura,0,0,0,,Stop...
 Dialogue: 100,0:22:16.14,0:22:18.60,Default,Sakura,0,0,0,,Please stop, Rider...
-Dialogue: 100,0:22:19.51,0:22:25.26,Default,Sakura,0,0,0,,I didn't summon you to do this!
+Dialogue: 100,0:22:19.51,0:22:25.26,Default,Sakura,0,0,0,,This isn't what I summoned you for!
 Dialogue: 100,0:22:26.29,0:22:28.42,Default,Rider,0,0,0,,I can't obey that order.
 Dialogue: 100,0:22:29.31,0:22:33.05,Default,Rider,0,0,0,,I will prioritize your life above all else.
 Dialogue: 100,0:22:55.31,0:22:56.21,Default,Tohsaka,0,0,0,,No way...
@@ -246,7 +246,7 @@ Dialogue: 100,0:24:53.52,0:24:54.89,Default,Tohsaka,0,0,0,,All of it?
 Dialogue: 100,0:24:56.09,0:24:59.56,Default,Kotomine,0,0,0,,Now, as for the results of my treatment...
 Dialogue: 100,0:25:02.34,0:25:04.01,Default,Shirou,0,0,0,,Crest Worms?
 Dialogue: 100,0:25:04.60,0:25:07.81,Default,Shirou,0,0,0,,What are those? Uh...
-Dialogue: 100,0:25:07.81,0:25:10.90,Default,Kotomine,0,0,0,,Think of them as live Magic Circuits. {## "live" as in "live bait", "live animals", etc.}
+Dialogue: 100,0:25:07.81,0:25:10.90,Default,Kotomine,0,0,0,,Think of them as living Magic Circuits. {## "live" as in "live bait", "live animals", etc.}
 Dialogue: 100,0:25:11.63,0:25:14.20,Default,Kotomine,0,0,0,,Once a Crest Worm sinks its teeth into you,
 Dialogue: 100,0:25:15.05,0:25:21.08,Default,Kotomine,0,0,0,,it penetrates the entire body, eating your life away.
 Dialogue: 100,0:25:21.51,0:25:25.39,Default,Kotomine,0,0,0,,It pierces and dampens the skin with its mucus,
@@ -262,7 +262,7 @@ Dialogue: 100,0:26:05.73,0:26:08.08,Default,Shirou,0,0,0,,But you said the surge
 Dialogue: 100,0:26:08.50,0:26:10.16,Default,Kotomine,0,0,0,,Not entirely.
 Dialogue: 100,0:26:11.05,0:26:13.33,Default,Kotomine,0,0,0,,She has been in this state for eleven years.
 Dialogue: 100,0:26:13.33,0:26:16.92,Default,Kotomine,0,0,0,,{\q2}One wrong move during the extraction, \Nand her body will give out.
-Dialogue: 100,0:26:17.74,0:26:24.16,Default,Kotomine,0,0,0,TLC/Edit,{\q2}To fully remove the Crest Worms would truly \Nrequire some miracle akin to the Holy Grail. {## May be a bit of an overedit, oops}
+Dialogue: 100,0:26:17.74,0:26:24.16,Default,Kotomine,0,0,0,,{\q2}To fully remove the Crest Worms would truly \Nrequire a miracle akin to the Holy Grail. {## May be a bit of an overedit, oops}
 Dialogue: 100,0:26:37.77,0:26:38.74,Default,Shirou,0,0,0,,Tohsaka...
 Dialogue: 100,0:26:43.67,0:26:47.54,Default,Tohsaka,0,0,0,,As Fuyuki's supervisor, I have to dispose of her.
 Dialogue: 100,0:26:51.51,0:26:55.94,Default,Kotomine,0,0,0,,Dispose of her? Matou Sakura?
@@ -279,7 +279,7 @@ Dialogue: 100,0:27:46.31,0:27:48.88,Default,Tohsaka,0,0,0,,Sakura and I are bloo
 Dialogue: 100,0:27:50.57,0:27:53.85,Default,Tohsaka,0,0,0,,Not that we've ever called each other that.
 Dialogue: 100,0:27:54.55,0:27:56.20,Default,Shirou,0,0,0,,Wait, Tohsaka.
 Dialogue: 100,0:27:56.20,0:27:57.99,Default,Shirou,0,0,0,,That's all the more reason to...
-Dialogue: 100,0:28:05.33,0:28:10.54,Default,Tohsaka,0,0,0,,{\q2}If we leave her like this, \Nthe same thing will happen again.
+Dialogue: 100,0:28:05.33,0:28:10.54,Default,Tohsaka,0,0,0,,If we leave her be, history will just repeat itself.
 Dialogue: 100,0:28:12.61,0:28:16.80,Default,Tohsaka,0,0,0,,{\q2}Except it'll be random passersby \Nwho'll pay the price this time. {This time, it'll happen indiscriminately to random bystanders.}
 Dialogue: 100,0:28:17.93,0:28:22.06,Default,Tohsaka,0,0,0,,So I have to kill her now.
 Dialogue: 100,0:29:00.30,0:29:02.11,Default,Shirou,0,0,0,,You win, Sakura.
@@ -334,7 +334,7 @@ Dialogue: 100,0:34:28.97,0:34:33.57,Default,Sakura,0,0,0,,{\q2}I was too scared 
 Dialogue: 100,0:34:34.27,0:34:36.98,Default,Sakura,0,0,0,,Everything around me scared me.
 Dialogue: 100,0:34:38.49,0:34:40.86,Default,Sakura,0,0,0,,I couldn't take a single step.
 Dialogue: 100,0:34:41.77,0:34:44.18,Default,Sakura,0,0,0,,I didn't know what to do!
-Dialogue: 100,0:34:47.55,0:34:52.51,Default,Sakura,0,0,0,,I wanted to keep holding on to the time we share...
+Dialogue: 100,0:34:47.55,0:34:52.51,Default,Sakura,0,0,0,,I didn't want to let go of the times we shared...
 Dialogue: 100,0:34:54.00,0:35:02.29,Default,Sakura,0,0,0,,{\q2}That was the only thing in my life \Nthat held any meaning.
 Dialogue: 100,0:35:11.24,0:35:13.02,Default,Shirou,0,0,0,,{\i1}What I want to protect.
 Dialogue: 100,0:35:13.70,0:35:15.73,Default,Shirou,0,0,0,,{\i1}What's precious to me.
@@ -347,7 +347,7 @@ Dialogue: 100,0:35:55.42,0:35:56.87,Default,Shirou,0,0,0,,Come on, don't cry.
 Dialogue: 100,0:35:57.94,0:36:01.75,Default,Shirou,0,0,0,,I know full well what a bad person you are.
 Dialogue: 100,0:36:05.10,0:36:09.93,Default,Sakura,0,0,0,,I have no idea when I'll lose my mind like I did today.
 Dialogue: 100,0:36:10.48,0:36:13.69,Default,Sakura,0,0,0,TLC/Edit,I'm sure I'll do something I'll truly regret{/something truly unforgivable}.
-Dialogue: 100,0:36:14.31,0:36:18.13,Default,Sakura,0,0,0,,What kind of home could there be for me?
+Dialogue: 100,0:36:14.31,0:36:18.13,Default,Sakura,0,0,0,,{\q2}What kind of home could there be for someone like me?
 Dialogue: 100,0:36:25.50,0:36:28.05,Default,Shirou,0,0,0,,This is your home.
 Dialogue: 100,0:36:36.54,0:36:39.77,Default,Sakura,0,0,0,,I... I...
 Dialogue: 100,0:36:41.02,0:36:43.51,Default,Sakura,0,0,0,,I'm not a virgin.
@@ -364,7 +364,7 @@ Dialogue: 100,0:37:37.95,0:37:42.25,Default,Sakura,0,0,0,,If you do that, I'll e
 Dialogue: 100,0:37:45.42,0:37:47.04,Default,Sakura,0,0,0,,You'll get hurt.
 Dialogue: 100,0:37:57.00,0:37:57.98,Default,Shirou,0,0,0,,Let's go home.
 Dialogue: 100,0:38:16.82,0:38:17.97,Default,Tohsaka,0,0,0,,Sakura.
-Dialogue: 100,0:38:20.55,0:38:21.73,Default,Sakura,0,0,0,,Nee-sama...
+Dialogue: 100,0:38:20.55,0:38:21.73,Default,Sakura,0,0,0,,Nee-san...
 Dialogue: 100,0:38:24.29,0:38:26.06,Default,Sakura,0,0,0,,Tohsaka-senpai...
 Dialogue: 100,0:38:49.93,0:38:51.19,Default,Archer,0,0,0,,Emiya Shirou.
 Dialogue: 100,0:38:52.97,0:38:56.90,Default,Archer,0,0,0,,If you plan to uphold your convictions, then so be it.
@@ -394,8 +394,8 @@ Dialogue: 100,0:41:02.45,0:41:03.68,Default,Shirou,0,0,0,,Good night.
 Dialogue: 100,0:41:04.83,0:41:05.73,Default,Sakura,0,0,0,,Good night.
 Dialogue: 100,0:41:17.05,0:41:17.99,Default,Sakura,0,0,0,,No.
 Dialogue: 100,0:41:18.52,0:41:19.99,Default,Sakura,0,0,0,,Any more than this,
-Dialogue: 100,0:41:21.77,0:41:24.28,Default,Sakura,0,0,0,,and I'll just hurt Senpai...
-Dialogue: 100,0:41:51.38,0:41:53.86,Default,Shirou,0,0,0,,Sakura, can you get the soup stock?
+Dialogue: 100,0:41:21.77,0:41:24.28,Default,Sakura,0,0,0,,and I'll just hurt him...
+Dialogue: 100,0:41:51.38,0:41:53.86,Default,Shirou,0,0,0,,Sakura, can you prep the soup stock?
 Dialogue: 100,0:41:54.62,0:41:55.48,Default,Sakura,0,0,0,,Sure.
 Dialogue: 100,0:41:56.78,0:41:59.27,Default,Sakura,0,0,0,,What should we do with the spinach?
 Dialogue: 100,0:41:59.27,0:42:01.41,Default,Shirou,0,0,0,,Let's dress it with sesame seeds.
@@ -435,7 +435,7 @@ Dialogue: 100,0:44:29.38,0:44:35.36,Default,Rider,0,0,0,,{\q2}I believe the prie
 Dialogue: 100,0:44:37.98,0:44:39.31,Default,Sakura,0,0,0,,You're right.
 Dialogue: 100,0:44:39.78,0:44:42.93,Default,Sakura,0,0,0,,I was actually thinking the same thing.
 Dialogue: 100,0:44:44.11,0:44:47.40,Default,Sakura,0,0,0,,But don't worry, Rider.
-Dialogue: 100,0:44:47.89,0:44:52.13,Default,Sakura,0,0,0,,He won't stand a chance against me.
+Dialogue: 100,0:44:47.89,0:44:52.13,Default,Sakura,0,0,0,,He doesn't stand a chance against me.
 Dialogue: 100,0:44:55.76,0:44:56.59,Default,Rider,0,0,0,,All right, then.
 Dialogue: 100,0:45:41.40,0:45:43.47,Default,Sakura,0,0,0,,Senpai...
 Dialogue: 100,0:46:04.75,0:46:08.45,Default,Sakura,0,0,0,,{\q2}That's it. I just have to make sure \Nhe doesn't go outside anymore.
