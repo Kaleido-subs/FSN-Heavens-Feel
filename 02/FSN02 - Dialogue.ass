@@ -40,7 +40,7 @@ Comment: 100,0:03:06.08,0:03:11.08,Default,Newscaster,0,0,0,,{## Missing TL}
 Dialogue: 100,0:03:10.84,0:03:12.16,Default,Sakura,0,0,0,,Uhm, Senpai.
 Dialogue: 100,0:03:13.98,0:03:15.12,Default,Sakura,0,0,0,,Senpai?
 Dialogue: 100,0:03:16.43,0:03:18.59,Default,Shirou,0,0,0,,Oh, what is it?
-Dialogue: 100,0:03:19.21,0:03:24.83,Default,Sakura,0,0,0,,{\q2}Well, Saber-san returned to \Nher country rather suddenly.
+Dialogue: 100,0:03:19.21,0:03:24.83,Default,Sakura,0,0,0,,{\q2}Well, Saber-san returned to \Nher country rather suddenly, didn't she?
 Dialogue: 100,0:03:25.29,0:03:26.16,Default,Sakura,0,0,0,,Yeah.
 Dialogue: 100,0:03:35.18,0:03:41.92,Default,Sakura,0,0,0,,But now you no longer have to go out at night, right?
 Dialogue: 100,0:03:43.02,0:03:47.88,Default,Sakura,0,0,0,,{\q2}You don't have to put yourself \Nin danger anymore, right?
@@ -246,7 +246,7 @@ Dialogue: 100,0:24:53.52,0:24:54.89,Default,Tohsaka,0,0,0,,All of it?
 Dialogue: 100,0:24:56.09,0:24:59.56,Default,Kotomine,0,0,0,,Now, as for the results of my treatment...
 Dialogue: 100,0:25:02.34,0:25:04.01,Default,Shirou,0,0,0,,Crest Worms?
 Dialogue: 100,0:25:04.60,0:25:07.81,Default,Shirou,0,0,0,,What are those? Uh...
-Dialogue: 100,0:25:07.81,0:25:10.90,Default,Kotomine,0,0,0,,Think of them as living Magic Circuits. {## "live" as in "live bait", "live animals", etc.}
+Dialogue: 100,0:25:07.81,0:25:10.90,Default,Kotomine,0,0,0,,Think of them as living Magic Circuits.
 Dialogue: 100,0:25:11.63,0:25:14.20,Default,Kotomine,0,0,0,,Once a Crest Worm sinks its teeth into you,
 Dialogue: 100,0:25:15.05,0:25:21.08,Default,Kotomine,0,0,0,,it penetrates the entire body, eating your life away.
 Dialogue: 100,0:25:21.51,0:25:25.39,Default,Kotomine,0,0,0,,It pierces and dampens the skin with its mucus,
@@ -613,14 +613,14 @@ Dialogue: 100,1:06:57.82,1:07:00.20,Default,Shirou,0,0,0,,Then this cloth is...
 Dialogue: 100,1:07:00.53,1:07:01.80,Default,Tohsaka,0,0,0,,It's a seal.
 Dialogue: 100,1:07:05.31,1:07:07.71,Default,Shirou,0,0,0,,Thanks a bunch, Tohsaka.
 Dialogue: 100,1:07:07.71,1:07:11.12,Default,Tohsaka,0,0,0,,Huh? Where'd that come from?
-Dialogue: 100,1:07:12.22,1:07:15.49,Default,Tohsaka,0,0,0,,{\q2}I only plan on teaming up with you \Nuntil we beat Zouken,
-Dialogue: 100,1:07:15.99,1:07:20.13,Default,Tohsaka,0,0,0,,{\q2}and it's more convenient for me \Nto have her within eyeshot.
+Dialogue: 100,1:07:12.22,1:07:15.49,Default,Tohsaka,0,0,0,,{\q2}I only plan on teaming up with you \Nuntil we've dealt with Zouken,
+Dialogue: 100,1:07:15.99,1:07:20.13,Default,Tohsaka,0,0,0,,{\q2}and it's simply more convenient for me \Nto have her within eyeshot.
 Dialogue: 100,1:07:21.89,1:07:25.35,Default,Shirou,0,0,0,,I'm glad you're also thinking of Sakura.
 Dialogue: 100,1:07:26.26,1:07:27.92,Default,Tohsaka,0,0,0,,Look, that's not what—
-Dialogue: 100,1:07:29.35,1:07:34.98,Default,Shirou,0,0,0,,{\q2}Plus, if I'd didn't become a Master, \NI never would've met you.
+Dialogue: 100,1:07:29.35,1:07:34.98,Default,Shirou,0,0,0,,{\q2}Plus, if I hadn't become a Master, \NI never would've met you.
 Dialogue: 100,1:07:38.05,1:07:40.24,Default,Tohsaka,0,0,0,,That's where you're wrong.
 Dialogue: 100,1:07:41.75,1:07:47.77,Default,Tohsaka,0,0,0,,{\q2}I don't know about you, \Nbut I've known about you for quite a while.
-Dialogue: 100,1:07:50.17,1:07:52.78,Default,Tohsaka,0,0,0,,It was about four years ago, I think.
+Dialogue: 100,1:07:50.17,1:07:52.78,Default,Tohsaka,0,0,0,,It was about four years ago, I'd say.
 Dialogue: 100,1:07:52.78,1:07:57.80,Default,Tohsaka,0,0,0,,You were doing running high jumps until sundown.
 Dialogue: 100,1:07:58.38,1:08:00.57,Default,Tohsaka,0,0,0,,I was there.
 Dialogue: 100,1:08:02.80,1:08:06.31,Default,Tohsaka,0,0,0,,{\q2}There was this idiot who \Nkept trying jumps he couldn't do.
@@ -634,7 +634,7 @@ Dialogue: 100,1:08:30.66,1:08:32.30,Default,Tohsaka,0,0,0,TM,It really threw me 
 Dialogue: 100,1:08:50.43,1:08:51.75,Default,Sakura,0,0,0,,Don't take them.
 Dialogue: 100,1:08:55.38,1:08:59.32,Default,Sakura,0,0,0,,Don't take my memories from me.
 Dialogue: 100,1:09:13.46,1:09:14.39,Default,Shirou,0,0,0,,Ow.
-Dialogue: 100,1:09:25.72,1:09:30.21,Default,Shirou,0,0,0,,{\q2}Who knows? Maybe it'll be \Nback to normal if I take the cloth off.
+Dialogue: 100,1:09:25.72,1:09:30.21,Default,Shirou,0,0,0,,{\q2}Who knows? Maybe it'll be the same \Nas always once I take the cloth off...
 Dialogue: 100,1:09:52.68,1:09:53.96,Default,Shirou,0,0,0,,No.
 Dialogue: 100,1:09:54.85,1:10:00.17,Default,Shirou,0,0,0,,This is not good.
 Dialogue: 100,1:10:09.42,1:10:10.30,Default,Rider,0,0,0,,Shirou.
