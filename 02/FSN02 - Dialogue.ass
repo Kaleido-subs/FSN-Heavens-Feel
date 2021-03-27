@@ -90,7 +90,7 @@ Dialogue: 100,0:08:19.68,0:08:24.63,Default,Illya,0,0,0,,{\q2}I had to pull a fa
 Dialogue: 100,0:08:24.63,0:08:26.50,Default,Illya,0,0,0,,You should feel honored.
 Dialogue: 100,0:08:26.97,0:08:28.31,Default,Shirou,0,0,0,,Uh-huh...
 Dialogue: 100,0:08:31.22,0:08:34.07,Default,Shirou,0,0,0,,Is it fine if I ask you one more thing?
-Dialogue: 100,0:08:35.12,0:08:38.43,Default,Shirou,0,0,0,,Does the name "Kiritsugu" ring a bell?{Do you know the name Kiritsugu?}
+Dialogue: 100,0:08:35.12,0:08:38.43,Default,Shirou,0,0,0,,Does the name "Emiya Kiritsugu" ring a bell?{Do you know the name Kiritsugu?}
 Dialogue: 100,0:08:45.97,0:08:46.91,Default,Shirou,0,0,0,,Illya?
 Dialogue: 100,0:08:49.35,0:08:52.47,Default,Illya,0,0,0,,It doesn't. Never heard it before.
 Dialogue: 100,0:08:53.11,0:08:54.33,Default,Illya,0,0,0,,I don't know.
@@ -119,12 +119,12 @@ Dialogue: 100,0:11:43.14,0:11:44.18,Default,Tohsaka,0,0,0,,For crying out...
 Dialogue: 100,0:11:59.29,0:12:02.07,Default,Shirou,0,0,0,,Shinji! Let her go!
 Dialogue: 100,0:12:07.33,0:12:08.49,Default,Shirou,0,0,0,,Shinji!
 Dialogue: 100,0:12:09.58,0:12:12.34,Default,Shinji,0,0,0,,Don't worry, Sakura.
-Dialogue: 100,0:12:12.67,0:12:15.16,Default,Shinji,0,0,0,,I won't kill Emiya.
+Dialogue: 100,0:12:12.67,0:12:15.16,Default,Shinji,0,0,0,,I won't kill him.
 Dialogue: 100,0:12:15.57,0:12:20.01,Default,Shinji,0,0,0,,But I may need to get a little rough.
 Dialogue: 100,0:12:21.14,0:12:22.93,Default,Shinji,0,0,0,,Fight Rider.
 Dialogue: 100,0:12:23.33,0:12:26.99,Default,Shinji,0,0,0,,If you make it out in one piece, she's free to go.
 Dialogue: 100,0:12:28.89,0:12:30.43,Default,Shinji,0,0,0,,Get him, Rider.
-Dialogue: 100,0:12:32.91,0:12:36.11,Default,Rider,0,0,0,,If you intended to fight,
+Dialogue: 100,0:12:32.91,0:12:36.11,Default,Rider,0,0,0,,If you seriously intended to fight,
 Dialogue: 100,0:12:37.60,0:12:40.08,Default,Rider,0,0,0,,you should not have come here alone.
 Dialogue: 100,0:13:20.54,0:13:22.28,Default,Shinji,0,0,0,,What's wrong, Emiya?
 Dialogue: 100,0:13:22.28,0:13:25.76,Default,Shinji,0,0,0,,{\q2}Wouldn't be much fun if you \Nwent down {\i1}that{\i0} easily, would it?
@@ -146,11 +146,11 @@ Dialogue: 100,0:16:02.84,0:16:06.31,Default,Tohsaka,0,0,0,,We've been together a
 Dialogue: 100,0:16:07.81,0:16:09.91,Default,Tohsaka,0,0,0,,Now that you've dragged Sakura into this,
 Dialogue: 100,0:16:10.90,0:16:14.66,Default,Tohsaka,0,0,0,,you've made an enemy out of me as well.
 Dialogue: 100,0:16:16.61,0:16:17.92,Default,Shinji,0,0,0,,Sakura...
-Dialogue: 100,0:16:18.43,0:16:20.72,Default,Shinji,0,0,0,,Sakura{ this}, Sakura{ that}, Sakura...
-Dialogue: 100,0:16:20.72,0:16:22.79,Default,Shinji,0,0,0,,{It's always }Sakura, Sakura, Sakura!
+Dialogue: 100,0:16:18.43,0:16:20.72,Default,Shinji,0,0,0,,Sakura this, Sakura that, Sakura...
+Dialogue: 100,0:16:20.72,0:16:22.79,Default,Shinji,0,0,0,,It's always Sakura, Sakura, Sakura!
 Dialogue: 100,0:16:23.29,0:16:26.11,Default,Shinji,0,0,0,,Who gives a shit about her?
 Dialogue: 100,0:16:26.11,0:16:28.46,Default,Shinji,0,0,0,,{\i1}I{\i0} became a Master, not her!
-Dialogue: 100,0:16:33.47,0:16:35.47,Default,Shinji,0,0,0,,Stand up, Rider!
+Dialogue: 100,0:16:33.47,0:16:35.47,Default,Shinji,0,0,0,,Get up, Rider!
 Dialogue: 100,0:16:36.97,0:16:38.64,Default,Shinji,0,0,0,,You useless...
 Dialogue: 100,0:16:40.64,0:16:41.51,Default,Sakura,0,0,0,,No...
 Dialogue: 100,0:16:45.21,0:16:47.98,Default,Sakura,0,0,0,,Rider, no...
@@ -193,7 +193,7 @@ Dialogue: 100,0:19:28.76,0:19:31.90,Default,Tohsaka,0,0,0,,{\q2}You were control
 Dialogue: 100,0:19:31.90,0:19:35.22,Default,Tohsaka,0,0,0,,You were never a Master in the first place.
 Dialogue: 100,0:19:42.66,0:19:44.00,Default,Shirou,0,0,0,,Shinji...
 Dialogue: 100,0:19:48.81,0:19:51.62,Default,Shinji,0,0,0,,Yeah, I knew.
-Dialogue: 100,0:19:52.24,0:19:55.79,Default,Shinji,0,0,0,,I knew, I knew, I knew!
+Dialogue: 100,0:19:52.24,0:19:55.79,Default,Shinji,0,0,0,,I knew! I damn well knew, okay?!
 Dialogue: 100,0:19:56.14,0:20:00.03,Default,Shinji,0,0,0,,I knew I was never cut out for it!
 Dialogue: 100,0:20:03.80,0:20:07.31,Default,Shinji,0,0,0,,So you have to do it.
 Dialogue: 100,0:20:08.17,0:20:12.45,Default,Shinji,0,0,0,,You have to kill them in my stead, Sakura.
@@ -203,7 +203,7 @@ Dialogue: 100,0:20:21.77,0:20:24.09,Default,Sakura,0,0,0,,You broke your promise
 Dialogue: 100,0:20:25.11,0:20:27.44,Default,Sakura,0,0,0,,You said you wouldn't kill Senpai!
 Dialogue: 100,0:20:28.83,0:20:31.33,Default,Sakura,0,0,0,,So stop it!
 Dialogue: 100,0:20:33.09,0:20:34.77,Default,Shinji,0,0,0,,All right, fine.
-Dialogue: 100,0:20:35.85,0:20:38.52,Default,Shinji,0,0,0,,You can just die then.
+Dialogue: 100,0:20:35.85,0:20:38.52,Default,Shinji,0,0,0,,You can die along with them for all I care.
 Dialogue: 100,0:20:48.82,0:20:49.89,Default,Shirou,0,0,0,,Sakura!
 Dialogue: 100,0:20:50.54,0:20:53.32,Default,Sakura,0,0,0,,Senpai... no...
 Dialogue: 100,0:20:53.89,0:20:55.17,Default,Sakura,0,0,0,,Don't look at me...
@@ -214,7 +214,7 @@ Dialogue: 100,0:21:23.33,0:21:26.02,Default,Archer,0,0,0,,{\q2}If she gets struc
 Dialogue: 100,0:21:28.99,0:21:30.93,Default,Rider,0,0,0,,Don't get in my way.
 Dialogue: 100,0:21:30.93,0:21:32.66,Default,Archer,0,0,0,,Listen to me, Rider!
 Dialogue: 100,0:21:33.33,0:21:35.34,Default,Archer,0,0,0,,Your master{/lord} has gone out of control.
-Dialogue: 100,0:21:35.95,0:21:38.81,Default,Archer,0,0,0,,At this rate, she'll burn through all her mana and die!
+Dialogue: 100,0:21:35.95,0:21:38.81,Default,Archer,0,0,0,,{\q2}If we don't deal with this, \Nshe'll burn through all her mana and die!
 Dialogue: 100,0:21:39.15,0:21:43.28,Default,Rider,0,0,0,,{\q2}Then we need only provide her \Nwith mana faster than she loses it.
 Dialogue: 100,0:21:46.22,0:21:50.41,Default,Archer,0,0,0,,{\q2}Looks like swapping masters{/lords} \Ndid little to change who you are!
 Dialogue: 100,0:22:05.42,0:22:07.13,Default,Tohsaka,0,0,0,,A bounded field?
@@ -237,7 +237,7 @@ Dialogue: 100,0:24:17.92,0:24:21.77,Default,Kotomine,0,0,0,,I have just finished
 Dialogue: 100,0:24:22.15,0:24:23.78,Default,Shirou,0,0,0,,Is Sakura...
 Dialogue: 100,0:24:23.78,0:24:25.77,Default,Shirou,0,0,0,,Is Sakura okay?
 Dialogue: 100,0:24:25.77,0:24:27.04,Default,Tohsaka,0,0,0,,Calm down.
-Dialogue: 100,0:24:27.55,0:24:30.08,Default,Tohsaka,0,0,0,,I brought her and Rider here.
+Dialogue: 100,0:24:27.55,0:24:30.08,Default,Tohsaka,0,0,0,,Rider and I brought her here.
 Dialogue: 100,0:24:30.08,0:24:32.53,Default,Tohsaka,0,0,0,,Kirei, how's Sakura's condition?
 Dialogue: 100,0:24:32.90,0:24:37.37,Default,Kotomine,0,0,0,,{\q2}Not stable, but her life is \Nno longer in immediate danger.
 Dialogue: 100,0:24:40.05,0:24:44.42,Default,Tohsaka,0,0,0,,Wait a second. What happened to your Magic Crest?
@@ -266,7 +266,7 @@ Dialogue: 100,0:26:17.74,0:26:24.16,Default,Kotomine,0,0,0,,{\q2}To fully remove
 Dialogue: 100,0:26:37.77,0:26:38.74,Default,Shirou,0,0,0,,Tohsaka...
 Dialogue: 100,0:26:43.67,0:26:47.54,Default,Tohsaka,0,0,0,,As Fuyuki's supervisor, I have to dispose of her.
 Dialogue: 100,0:26:51.51,0:26:55.94,Default,Kotomine,0,0,0,,Dispose of her? Matou Sakura?
-Dialogue: 100,0:26:56.76,0:27:01.48,Default,Tohsaka,0,0,0,,{\q2}Yes. A magus who can't control \Nher power can't be allowed to live.
+Dialogue: 100,0:26:56.76,0:27:01.48,Default,Tohsaka,0,0,0,,{\q2}Yes. A magus who can't control \Nher power can't be allowed to live. {###}
 Dialogue: 100,0:27:02.66,0:27:05.73,Default,Tohsaka,0,0,0,,She's just an insane Master now.
 Dialogue: 100,0:27:06.85,0:27:11.83,Default,Kotomine,0,0,0,,Even if she is your sister by blood?
 Dialogue: 100,0:27:15.86,0:27:17.93,Default,Shirou,0,0,0,,Sister?
@@ -276,12 +276,12 @@ Dialogue: 100,0:27:32.01,0:27:34.51,Default,Tohsaka,0,0,0,,I inherited the magec
 Dialogue: 100,0:27:35.71,0:27:43.93,Default,Tohsaka,0,0,0,,{\q2}Sakura was adopted by the dying Matou family \Nas the heir to the Makiris.
 Dialogue: 100,0:27:44.35,0:27:45.59,Default,Shirou,0,0,0,,Then—
 Dialogue: 100,0:27:46.31,0:27:48.88,Default,Tohsaka,0,0,0,,Sakura and I are blood-related sisters.
-Dialogue: 100,0:27:50.57,0:27:53.85,Default,Tohsaka,0,0,0,,Not that we've ever called each other that.
+Dialogue: 100,0:27:50.57,0:27:53.85,Default,Tohsaka,0,0,0,,Not that we've ever treated each other as such.
 Dialogue: 100,0:27:54.55,0:27:56.20,Default,Shirou,0,0,0,,Wait, Tohsaka.
 Dialogue: 100,0:27:56.20,0:27:57.99,Default,Shirou,0,0,0,,That's all the more reason to...
 Dialogue: 100,0:28:05.33,0:28:10.54,Default,Tohsaka,0,0,0,,If we leave her be, history will just repeat itself.
 Dialogue: 100,0:28:12.61,0:28:16.80,Default,Tohsaka,0,0,0,,{\q2}Except it'll be random passersby \Nwho'll pay the price this time. {This time, it'll happen indiscriminately to random bystanders.}
-Dialogue: 100,0:28:17.93,0:28:22.06,Default,Tohsaka,0,0,0,,So I have to kill her now.
+Dialogue: 100,0:28:17.93,0:28:22.06,Default,Tohsaka,0,0,0,,So I have to kill her before that happens.
 Dialogue: 100,0:29:00.30,0:29:02.11,Default,Shirou,0,0,0,,You win, Sakura.
 Dialogue: 100,0:29:02.73,0:29:04.72,Default,Shirou,0,0,0,,Here, have this.
 Dialogue: 100,0:29:29.99,0:29:38.24,Default,Sakura,0,0,0,,{\q2}This makes the second time I've received \Nsomething important from someone special.
@@ -295,16 +295,16 @@ Dialogue: 100,0:30:37.84,0:30:40.41,Default,Illya,0,0,0,,I know everything that 
 Dialogue: 100,0:30:40.41,0:30:44.37,Default,Illya,0,0,0,,{\q2}Rider's Master collapsed, \Nand now there's only two left.
 Dialogue: 100,0:30:44.91,0:30:49.78,Default,Illya,0,0,0,,{\q2}You want to save Rider's Master, \Nbut you can't find her, right?
 Dialogue: 100,0:30:49.78,0:30:51.07,Default,Shirou,0,0,0,,Shut up!
-Dialogue: 100,0:31:04.73,0:31:06.65,Default,Illya,0,0,0,,You look like you're about to cry.
+Dialogue: 100,0:31:04.73,0:31:06.65,Default,Illya,0,0,0,,You look like you're on the verge of tears.
 Dialogue: 100,0:31:07.76,0:31:10.59,Default,Shirou,0,0,0,,Illya, aren't you mad at me?
 Dialogue: 100,0:31:11.19,0:31:12.81,Default,Illya,0,0,0,,No, I'm not.
 Dialogue: 100,0:31:12.81,0:31:15.36,Default,Illya,0,0,0,,I'm on your side.
 Dialogue: 100,0:31:17.79,0:31:20.34,Default,Shirou,0,0,0,,You're on my side?
 Dialogue: 100,0:31:22.96,0:31:27.87,Default,Illya,0,0,0,,{\q2}When you asked about Kiritsugu this morning, \NI lied. I actually do know him.
-Dialogue: 100,0:31:28.93,0:31:39.00,Default,Illya,0,0,0,,{\q2}I was born to win the Holy Grail War, but my \Npersonal goal was to kill you and Kiritsugu.
-Dialogue: 100,0:31:40.13,0:31:46.27,Default,Illya,0,0,0,,{\q2}But now, if you want to protect \Nsomeone precious to you,
+Dialogue: 100,0:31:28.93,0:31:39.00,Default,Illya,0,0,0,,{\q2}I was born to win the Holy Grail War, \Nbut my personal goal was to kill you and Kiritsugu.
+Dialogue: 100,0:31:40.13,0:31:46.27,Default,Illya,0,0,0,,{\q2}But now, if you want to protect \Nsomeone precious to you, {###}
 Dialogue: 100,0:31:46.27,0:31:49.61,Default,Illya,0,0,0,,I'll be on your side.
-Dialogue: 100,0:31:50.69,0:31:54.76,Default,Illya,0,0,0,,It's only natural to protect the girl you like, right?
+Dialogue: 100,0:31:50.69,0:31:54.76,Default,Illya,0,0,0,,{\q2}It's only natural to want to \Nprotect the girl you like, is it not?
 Dialogue: 100,0:31:55.38,0:31:57.73,Default,Illya,0,0,0,,I know all about it.
 Dialogue: 100,0:32:26.64,0:32:31.91,Default,Sakura,0,0,0,,Now I've lost every last place I can call home...
 Dialogue: 100,0:32:42.78,0:32:44.02,Default,Shirou,0,0,0,,Sakura.
@@ -313,7 +313,7 @@ Dialogue: 100,0:32:53.33,0:32:54.42,Default,Shirou,0,0,0,,Sakura.
 Dialogue: 100,0:32:56.30,0:32:57.52,Default,Shirou,0,0,0,,Let's go home.
 Dialogue: 100,0:32:57.52,0:33:00.45,Default,Shirou,0,0,0,,You're still not over your cold, right?
 Dialogue: 100,0:33:03.25,0:33:04.38,Default,Sakura,0,0,0,,I can't.
-Dialogue: 100,0:33:05.78,0:33:09.63,Default,Sakura,0,0,0,,That liquid wasn't poison or anything.
+Dialogue: 100,0:33:05.78,0:33:09.63,Default,Sakura,0,0,0,,That liquid wasn't poison or anything. {###}
 Dialogue: 100,0:33:10.21,0:33:13.22,Default,Sakura,0,0,0,,It was just a medicine that heightens my senses.
 Dialogue: 100,0:33:14.13,0:33:20.22,Default,Sakura,0,0,0,,{\q2}It took that little for me \Nto lose my mind and hurt you!
 Dialogue: 100,0:33:20.61,0:33:23.35,Default,Shirou,0,0,0,,I'm not hurt one bit.
@@ -328,7 +328,7 @@ Dialogue: 100,0:33:58.81,0:34:04.74,Default,Sakura,0,0,0,,{\q2}So many times, I'
 Dialogue: 100,0:34:06.35,0:34:09.58,Default,Sakura,0,0,0,,{\q2}Even if I saw you in the hallway, \NI'd walk right past you.
 Dialogue: 100,0:34:09.58,0:34:13.19,Default,Sakura,0,0,0,,After school, I'd ignore you.
 Dialogue: 100,0:34:13.19,0:34:18.90,Default,Sakura,0,0,0,,{\q2}Then I'd go home alone \Nand forget all about everything.
-Dialogue: 100,0:34:22.41,0:34:24.41,Default,Sakura,0,0,0,,But I couldn't!
+Dialogue: 100,0:34:22.41,0:34:24.41,Default,Sakura,0,0,0,,But I couldn't do it!
 Dialogue: 100,0:34:25.06,0:34:28.97,Default,Sakura,0,0,0,,{\q2}It was scarier than when I tried to \Ncut my wrists with a knife.
 Dialogue: 100,0:34:28.97,0:34:33.57,Default,Sakura,0,0,0,,{\q2}I was too scared to deceive you, \Nand too scared to stop!
 Dialogue: 100,0:34:34.27,0:34:36.98,Default,Sakura,0,0,0,,Everything around me scared me.
@@ -336,23 +336,23 @@ Dialogue: 100,0:34:38.49,0:34:40.86,Default,Sakura,0,0,0,,I couldn't take a sing
 Dialogue: 100,0:34:41.77,0:34:44.18,Default,Sakura,0,0,0,,I didn't know what to do!
 Dialogue: 100,0:34:47.55,0:34:52.51,Default,Sakura,0,0,0,,I didn't want to let go of the times we shared...
 Dialogue: 100,0:34:54.00,0:35:02.29,Default,Sakura,0,0,0,,{\q2}That was the only thing in my life \Nthat held any meaning.
-Dialogue: 100,0:35:11.24,0:35:13.02,Default,Shirou,0,0,0,,{\i1}What I want to protect.
+Dialogue: 100,0:35:11.24,0:35:13.02,Default,Shirou,0,0,0,,{\i1}It's all I want to protect.
 Dialogue: 100,0:35:13.70,0:35:15.73,Default,Shirou,0,0,0,,{\i1}What's precious to me.
 Dialogue: 100,0:35:18.27,0:35:21.19,Default,Shirou,0,0,0,,{\i1}If I don't want her to cry anymore,
 Dialogue: 100,0:35:23.36,0:35:29.28,Default,Shirou,0,0,0,,{\i1\q2}if nobody will blame Sakura, \Nif she has to do it herself,
-Dialogue: 100,0:35:30.98,0:35:36.07,Default,Shirou,0,0,0,,{\i1}I'll take her by the hand and bring her into the sunlight.
+Dialogue: 100,0:35:30.98,0:35:36.07,Default,Shirou,0,0,0,,{\i1}I'll take her by the hand and \Mdrag her into the sunlight.
 Dialogue: 100,0:35:38.03,0:35:40.05,Default,Shirou,0,0,0,,{\i1}Even if nobody else forgives her...
 Dialogue: 100,0:35:47.91,0:35:53.44,Default,Shirou,0,0,0,,I'll keep forgiving you in your place.
 Dialogue: 100,0:35:55.42,0:35:56.87,Default,Shirou,0,0,0,,Come on, don't cry.
 Dialogue: 100,0:35:57.94,0:36:01.75,Default,Shirou,0,0,0,,I know full well what a bad person you are.
 Dialogue: 100,0:36:05.10,0:36:09.93,Default,Sakura,0,0,0,,I have no idea when I'll lose my mind like I did today.
-Dialogue: 100,0:36:10.48,0:36:13.69,Default,Sakura,0,0,0,TLC/Edit,I'm sure I'll do something I'll truly regret{/something truly unforgivable}.
+Dialogue: 100,0:36:10.48,0:36:13.69,Default,Sakura,0,0,0,,I'm sure I'll do something I'll truly regret.
 Dialogue: 100,0:36:14.31,0:36:18.13,Default,Sakura,0,0,0,,{\q2}What kind of home could there be for someone like me?
 Dialogue: 100,0:36:25.50,0:36:28.05,Default,Shirou,0,0,0,,This is your home.
 Dialogue: 100,0:36:36.54,0:36:39.77,Default,Sakura,0,0,0,,I... I...
 Dialogue: 100,0:36:41.02,0:36:43.51,Default,Sakura,0,0,0,,I'm not a virgin.
 Dialogue: 100,0:36:45.76,0:36:48.74,Default,Sakura,0,0,0,,My first time was long, long ago.
-Dialogue: 100,0:36:49.99,0:36:57.37,Default,Sakura,0,0,0,,{\q2}On top of that, ever since then, \Nthese mysterious things have kept touching me.
+Dialogue: 100,0:36:49.99,0:36:57.37,Default,Sakura,0,0,0,,{\q2}On top of that, ever since then, \Nthese weird things have kept touching me.
 Dialogue: 100,0:36:57.77,0:36:59.94,Default,Sakura,0,0,0,,I don't deserve to be protected by you!
 Dialogue: 100,0:37:07.68,0:37:08.98,Default,Shirou,0,0,0,,I'll protect you.
 Dialogue: 100,0:37:09.75,0:37:14.40,Default,Shirou,0,0,0,,{\q2}No matter what happens, \Neven if you try to kill yourself,
@@ -367,22 +367,22 @@ Dialogue: 100,0:38:16.82,0:38:17.97,Default,Tohsaka,0,0,0,,Sakura.
 Dialogue: 100,0:38:20.55,0:38:21.73,Default,Sakura,0,0,0,,Nee-san...
 Dialogue: 100,0:38:24.29,0:38:26.06,Default,Sakura,0,0,0,,Tohsaka-senpai...
 Dialogue: 100,0:38:49.93,0:38:51.19,Default,Archer,0,0,0,,Emiya Shirou.
-Dialogue: 100,0:38:52.97,0:38:56.90,Default,Archer,0,0,0,,If you plan to uphold your convictions, then so be it.
-Dialogue: 100,0:38:57.47,0:38:59.25,Default,Archer,0,0,0,,I know how that ends.
+Dialogue: 100,0:38:52.97,0:38:56.90,Default,Archer,0,0,0,TLC/Edit,If you plan to uphold your prior convictions, then so be it. {###}
+Dialogue: 100,0:38:57.47,0:38:59.25,Default,Archer,0,0,0,,I know where that leads.
 Dialogue: 100,0:39:00.38,0:39:06.65,Default,Archer,0,0,0,,{\q2}But if you choose a different path, \Nthen Emiya Shirou has no future.
 Dialogue: 100,0:39:07.99,0:39:11.32,Default,Archer,0,0,0,,You will lose absolutely everything.
 Dialogue: 100,0:39:26.48,0:39:27.74,Default,Shirou,0,0,0,,You must be tired.
 Dialogue: 100,0:39:27.74,0:39:29.19,Default,Shirou,0,0,0,,Get a good night's sleep.
-Dialogue: 100,0:39:31.35,0:39:32.36,Default,Sakura,0,0,0,,Yes.
+Dialogue: 100,0:39:31.35,0:39:32.36,Default,Sakura,0,0,0,,Okay.
 Dialogue: 100,0:39:34.04,0:39:36.31,Default,Shirou,0,0,0,,What's wrong, Sakura?
 Dialogue: 100,0:39:36.67,0:39:38.71,Default,Shirou,0,0,0,,You have a fever?
-Dialogue: 100,0:39:38.71,0:39:40.71,Default,Shirou,0,0,0,,Well, you {\i1}were{\i0} in the rain for a while.
+Dialogue: 100,0:39:38.71,0:39:40.71,Default,Shirou,0,0,0,,Well, you {\i1}were{\i0} out in the rain for a bit.
 Dialogue: 100,0:39:42.54,0:39:45.32,Default,Sakura,0,0,0,,It's... not a cold.
 Dialogue: 100,0:39:45.98,0:39:49.73,Default,Sakura,0,0,0,,I'm running low on mana.
-Dialogue: 100,0:39:51.47,0:39:56.41,Default,Shirou,0,0,0,,Uhh, is there anything I can do for you?
+Dialogue: 100,0:39:51.47,0:39:56.41,Default,Shirou,0,0,0,,Is there anything I can do for you?
 Dialogue: 100,0:39:58.05,0:39:59.21,Default,Sakura,0,0,0,,Uhm...
 Dialogue: 100,0:40:01.36,0:40:02.13,Default,Sakura,0,0,0,,Uhm...
-Dialogue: 100,0:40:03.77,0:40:04.96,Default,Sakura,0,0,0,,Can you...
+Dialogue: 100,0:40:03.77,0:40:04.96,Default,Sakura,0,0,0,,Could you...
 Dialogue: 100,0:40:07.01,0:40:11.74,Default,Sakura,0,0,0,,No, all I need is a little bit of your blood.
 Dialogue: 100,0:40:12.65,0:40:14.19,Default,Shirou,0,0,0,,Uh-huh...
 Dialogue: 100,0:40:17.87,0:40:18.77,Default,Shirou,0,0,0,,Will this work?
@@ -399,7 +399,7 @@ Dialogue: 100,0:41:51.38,0:41:53.86,Default,Shirou,0,0,0,,Sakura, can you prep t
 Dialogue: 100,0:41:54.62,0:41:55.48,Default,Sakura,0,0,0,,Sure.
 Dialogue: 100,0:41:56.78,0:41:59.27,Default,Sakura,0,0,0,,What should we do with the spinach?
 Dialogue: 100,0:41:59.27,0:42:01.41,Default,Shirou,0,0,0,,Let's dress it with sesame seeds.
-Dialogue: 100,0:42:01.93,0:42:04.07,Default,Shirou,0,0,0,,Sakura, egg.
+Dialogue: 100,0:42:01.93,0:42:04.07,Default,Shirou,0,0,0,,Sakura, eggs please.
 Dialogue: 100,0:42:04.07,0:42:05.12,Default,Sakura,0,0,0,,Here.
 Dialogue: 100,0:42:11.05,0:42:12.30,Default,Both,0,0,0,,Thanks for the food. {## gotta love dealing with itadakimasu >_>}
 Comment: 100,0:42:11.05,0:42:12.30,Default,Both,0,0,0,,{\an8}O Father in Heaven, hallowed be your name, your kingdom come, your will be done on Earth as it is in Heaven. Give us this day our daily bread and forgive us our sins, as we forgive those who sin against us. Lead us not into temptation, but deliver us from evil, for the kingdom, the power, and the glory are yours, now and forever. Amen.
@@ -415,7 +415,7 @@ Dialogue: 100,0:42:50.75,0:42:53.81,Default,Shirou,0,0,0,,Oh, well, in that case
 Dialogue: 100,0:43:04.88,0:43:06.68,Default,Shirou,0,0,0,,So, about our plans moving forward.
 Dialogue: 100,0:43:07.18,0:43:11.41,Default,Shirou,0,0,0,,I want Sakura to win and use the Holy Grail.
 Dialogue: 100,0:43:12.43,0:43:16.11,Default,Shirou,0,0,0,,But I think she should stay inside.
-Dialogue: 100,0:43:16.52,0:43:19.41,Default,Shirou,0,0,0,,It's too dangerous to have her see Zouken face-to-face.
+Dialogue: 100,0:43:16.52,0:43:19.41,Default,Shirou,0,0,0,,{\q2}It's too dangerous to have her \Nsee Zouken face-to-face.
 Dialogue: 100,0:43:20.76,0:43:22.95,Default,Rider,0,0,0,,Your opinion is correct.
 Dialogue: 100,0:43:22.95,0:43:27.67,Default,Rider,0,0,0,,But how do you plan to defeat that magus?
 Dialogue: 100,0:43:30.55,0:43:33.47,Default,Shirou,0,0,0,,I propose we work with other Masters.
@@ -426,7 +426,7 @@ Dialogue: 100,0:43:46.73,0:43:48.78,Default,Shirou,0,0,0,,Other than that, Illya
 Dialogue: 100,0:43:49.45,0:43:50.85,Default,Shirou,0,0,0,,Berserker...
 Dialogue: 100,0:43:55.70,0:43:57.86,Default,Sakura,0,0,0,,Will you be okay?
 Dialogue: 100,0:43:58.12,0:43:59.81,Default,Shirou,0,0,0,,Yeah, probably.
-Dialogue: 100,0:44:00.55,0:44:03.73,Default,Shirou,0,0,0,,Don't set a foot outside, okay?
+Dialogue: 100,0:44:00.55,0:44:03.73,Default,Shirou,0,0,0,,Don't set foot outside, okay?
 Dialogue: 100,0:44:11.32,0:44:13.15,Default,Rider,0,0,0,,Are you regretting this?
 Dialogue: 100,0:44:15.73,0:44:19.37,Default,Sakura,0,0,0,,After all that's happened, I can't regret anything.
 Dialogue: 100,0:44:20.01,0:44:25.51,Default,Sakura,0,0,0,,Rider, if it gets too dangerous, bring Senpai home.
@@ -449,10 +449,10 @@ Dialogue: 100,0:47:23.71,0:47:25.42,Default,Shirou,0,0,0,,What's it doing here?
 Dialogue: 100,0:48:09.09,0:48:13.53,Default,Illya,0,0,0,,You're a cowardly Servant, much like your lord.
 Dialogue: 100,0:48:13.82,0:48:16.95,Default,Illya,0,0,0,,Neither of you have the will to fight me.
 Dialogue: 100,0:48:18.57,0:48:21.42,Default,Illya,0,0,0,,Your life is simply too precious to you.
-Dialogue: 100,0:48:22.91,0:48:25.21,Default,Zouken,0,0,0,,Indeed it is.
+Dialogue: 100,0:48:22.91,0:48:25.21,Default,Zouken,0,0,0,,Indeed, it is.
 Dialogue: 100,0:48:27.23,0:48:29.88,Default,Zouken,0,0,0,,I seek immortality.
 Dialogue: 100,0:48:30.55,0:48:32.49,Default,Zouken,0,0,0,,Behold my body.
-Dialogue: 100,0:48:33.30,0:48:39.61,Default,Zouken,0,0,0,,{\q2}It's prone to rot, emits a foul odor, and is \Nquick to lose all my accumulated knowledge.
+Dialogue: 100,0:48:33.30,0:48:39.61,Default,Zouken,0,0,0,,{\q2}It's prone to rot, emits a foul odor, and is \Nquick to lose all my accumulated knowledge. {###}
 Dialogue: 100,0:48:40.39,0:48:46.23,Default,Zouken,0,0,0,,Can you comprehend the pain of rotting alive?
 Dialogue: 100,0:48:47.57,0:48:51.05,Default,Zouken,0,0,0,TM,No human exists who does not fear death.
 Dialogue: 100,0:48:54.30,0:48:58.67,Default,Zouken,0,0,0,,But if it will grant my wish,
@@ -461,20 +461,20 @@ Dialogue: 100,0:49:12.27,0:49:13.73,Default,Illya,0,0,0,,I'm floored.
 Dialogue: 100,0:49:14.65,0:49:19.09,Default,Illya,0,0,0,,{\q2}How could you have lost sight \Nof yourself this badly, Makiri?
 Dialogue: 100,0:49:20.14,0:49:23.50,Default,Illya,0,0,0,,Remember our precious wish.
 Dialogue: 100,0:49:23.50,0:49:27.54,Default,Illya,0,0,0,,Remember what led us to long for a miracle.
-Dialogue: 100,0:49:28.64,0:49:36.53,Default,Illya,0,0,0,,{\q2}Remember why us humans attempted to \Nreach a domain man cannot tread.
+Dialogue: 100,0:49:28.64,0:49:36.53,Default,Illya,0,0,0,,{\q2}Remember why we humans attempted to \Nreach a domain man cannot tread.
 Dialogue: 100,0:49:41.54,0:49:44.84,Default,Zouken,0,0,0,,Impressive words for a mere puppet.
 Dialogue: 100,0:49:44.84,0:49:48.56,Default,Zouken,0,0,0,,{\q2}You may have taken imitating \Nyour ancestors too much to heart.
 Dialogue: 100,0:49:49.65,0:49:51.84,Default,Zouken,0,0,0,,Enough of this tomfoolery.
 Dialogue: 100,0:49:53.39,0:49:58.81,Default,Zouken,0,0,0,,{\q2}The great Matou Zouken has come \Nto claim the Einzberns' Holy Grail.
 Dialogue: 100,0:50:29.31,0:50:31.65,Default,Illya,0,0,0,,No, Berserker!
 Dialogue: 100,0:50:56.02,0:50:58.57,Default,Shirou,0,0,0,,Tohsaka? Why?
-Dialogue: 100,0:50:58.99,0:51:02.91,Default,Tohsaka,0,0,0,,Glad to see we landed on the same page.
+Dialogue: 100,0:50:58.99,0:51:02.91,Default,Tohsaka,0,0,0,,I see great minds think alike, huh?
 Dialogue: 100,0:51:30.42,0:51:31.86,Default,Tohsaka,0,0,0,,You've gotta be kidding!
 Dialogue: 100,0:51:50.63,0:51:52.45,Default,Illya,0,0,0,,Get away from there!
 Dialogue: 100,0:51:52.45,0:51:55.56,Default,Illya,0,0,0,,If that thing catches you, there's no coming back!
 Dialogue: 100,0:52:08.45,0:52:10.30,Default,Zouken,0,0,0,,And so it's decided.
 Dialogue: 100,0:52:11.07,0:52:12.90,Default,Zouken,0,0,0,,I leave the rest in your hands.
-Dialogue: 100,0:52:12.90,0:52:17.69,Default,Zouken,0,0,0,TLC,{\q2}Don't squander this opportunity \Nto erase that Einzbern girl. {Einzbern girl, try not to die too pitifully}{## アインツベルンの娘むざむざ逃すなよ, this line sounds a tad odd to me. I think he's telling Assassin to go get her, and will be editing with that idea in mind, but I'd like a double check}
+Dialogue: 100,0:52:12.90,0:52:17.69,Default,Zouken,0,0,0,,{\q2}Don't squander this opportunity \Nto erase that Einzbern girl.
 Dialogue: 100,0:52:28.45,0:52:29.93,Default,Illya,0,0,0,,Berserker!
 Dialogue: 100,0:52:38.76,0:52:40.01,Default,Shirou,0,0,0,,Illya!
 Dialogue: 100,0:52:55.16,0:52:57.57,Default,Shirou,0,0,0,,Archer, I swear...
@@ -526,7 +526,7 @@ Dialogue: 100,1:02:43.78,1:02:45.40,Default,Tohsaka,0,0,0,,Archer!
 Dialogue: 100,1:02:48.91,1:02:50.16,Default,Shirou,0,0,0,,Tohsaka!
 Dialogue: 100,1:02:52.75,1:02:55.83,Default,Archer,0,0,0,,Get moving already, you fool!
 Dialogue: 100,1:03:07.39,1:03:09.34,Default,Illya,0,0,0,,It's gathering mana.
-Dialogue: 100,1:03:09.67,1:03:11.10,Default,Illya,0,0,0,,At this rate...
+Dialogue: 100,1:03:09.67,1:03:11.10,Default,Illya,0,0,0,,At this rate we'll...
 Dialogue: 100,1:03:14.35,1:03:16.02,Default,Shirou,0,0,0,,Tohsaka, run!
 Dialogue: 100,1:03:24.46,1:03:28.84,Default,Archer,0,0,0,,I am the bone of my sword.
 Dialogue: 100,1:03:29.28,1:03:31.97,Default,Archer,0,0,0,,Steel is my body.
@@ -584,12 +584,12 @@ Dialogue: 100,1:04:35.43,1:04:36.82,Default,Illya,0,0,0,,Sh-Shirou!
 Dialogue: 100,1:04:39.89,1:04:40.93,Default,Illya,0,0,0,,Shirou!
 Dialogue: 100,1:04:41.63,1:04:42.94,Default,Illya,0,0,0,,Shirou!
 Dialogue: 100,1:04:49.73,1:04:51.19,Default,Archer,0,0,0,,This is as far as I go.
-Dialogue: 100,1:04:54.74,1:04:57.80,Default,Archer,0,0,0,,You did great, Tohsaka.
+Dialogue: 100,1:04:54.74,1:04:57.80,Default,Archer,0,0,0,,You did great, Tohsaka. {### "be well", render it in a way that doesn't sound shit} 
 Dialogue: 100,1:05:17.16,1:05:18.70,Default,Rider,0,0,0,,Are you sure about this?
 Dialogue: 100,1:05:23.84,1:05:26.22,Default,Rider,0,0,0,,If you do this, you will...
 Dialogue: 100,1:05:28.06,1:05:30.47,Default,Archer,0,0,0,,I don't even have to think about it.
 Dialogue: 100,1:05:30.47,1:05:34.03,Default,Archer,0,0,0,,If I sit idly by, two will disappear.
-Dialogue: 100,1:05:34.03,1:05:37.42,Default,Archer,0,0,0,,But by doing this, at least one will certainly be saved.
+Dialogue: 100,1:05:34.03,1:05:37.42,Default,Archer,0,0,0,,But by doing this, one will certainly be saved.
 Dialogue: 100,1:05:50.82,1:05:52.94,Default,Shirou,0,0,0,,I'm home, Sakura.
 Dialogue: 100,1:05:53.50,1:05:56.09,Default,Shirou,0,0,0,,Oh, right.
 Dialogue: 100,1:05:56.09,1:05:58.92,Default,Shirou,0,0,0,,Yeah, I guess this isn't really a pretty look.
@@ -617,7 +617,7 @@ Dialogue: 100,1:07:12.22,1:07:15.49,Default,Tohsaka,0,0,0,,{\q2}I only plan on t
 Dialogue: 100,1:07:15.99,1:07:20.13,Default,Tohsaka,0,0,0,,{\q2}and it's simply more convenient for me \Nto have her within eyeshot.
 Dialogue: 100,1:07:21.89,1:07:25.35,Default,Shirou,0,0,0,,I'm glad you're also thinking of Sakura.
 Dialogue: 100,1:07:26.26,1:07:27.92,Default,Tohsaka,0,0,0,,Look, that's not what—
-Dialogue: 100,1:07:29.35,1:07:34.98,Default,Shirou,0,0,0,,{\q2}Plus, if I hadn't become a Master, \NI never would've met you.
+Dialogue: 100,1:07:29.35,1:07:34.98,Default,Shirou,0,0,0,,{\q2}Besides, if I hadn't become a Master, \NI never would've met you. {###}
 Dialogue: 100,1:07:38.05,1:07:40.24,Default,Tohsaka,0,0,0,,That's where you're wrong.
 Dialogue: 100,1:07:41.75,1:07:47.77,Default,Tohsaka,0,0,0,,{\q2}I don't know about you, \Nbut I've known about you for quite a while.
 Dialogue: 100,1:07:50.17,1:07:52.78,Default,Tohsaka,0,0,0,,It was about four years ago, I'd say.
@@ -626,13 +626,13 @@ Dialogue: 100,1:07:58.38,1:08:00.57,Default,Tohsaka,0,0,0,,I was there.
 Dialogue: 100,1:08:02.80,1:08:06.31,Default,Tohsaka,0,0,0,,{\q2}There was this idiot who \Nkept trying jumps he couldn't do.
 Dialogue: 100,1:08:06.31,1:08:08.98,Default,Tohsaka,0,0,0,,And I was gawking at him like one, too.
 Dialogue: 100,1:08:10.06,1:08:15.65,Default,Tohsaka,0,0,0,,{\q2}It's in my nature to give up \Nthe moment I decide I can't do something.
-Dialogue: 100,1:08:15.65,1:08:17.90,Default,Tohsaka,0,0,0,,I'm rather cold at heart.
+Dialogue: 100,1:08:15.65,1:08:17.90,Default,Tohsaka,0,0,0,,I'm cold at heart. {### pessimistic?}
 Dialogue: 100,1:08:18.82,1:08:21.34,Default,Tohsaka,0,0,0,,But, you know, I'm a magus.
 Dialogue: 100,1:08:21.78,1:08:26.50,Default,Tohsaka,0,0,0,,{\q2}Right when I was contemplating \Nif it's what I wanted to do in life,
 Dialogue: 100,1:08:26.77,1:08:30.08,Default,Tohsaka,0,0,0,,I ran straight into my polar opposite.
 Dialogue: 100,1:08:30.66,1:08:32.30,Default,Tohsaka,0,0,0,TM,It really threw me for a loop.
 Dialogue: 100,1:08:50.43,1:08:51.75,Default,Sakura,0,0,0,,Don't take them.
-Dialogue: 100,1:08:55.38,1:08:59.32,Default,Sakura,0,0,0,,Don't take my memories from me.
+Dialogue: 100,1:08:55.38,1:08:59.32,Default,Sakura,0,0,0,TM,Don't take my memories from me. {## extend end time a bit?}
 Dialogue: 100,1:09:13.46,1:09:14.39,Default,Shirou,0,0,0,,Ow.
 Dialogue: 100,1:09:25.72,1:09:30.21,Default,Shirou,0,0,0,,{\q2}Who knows? Maybe it'll be the same \Nas always once I take the cloth off...
 Dialogue: 100,1:09:52.68,1:09:53.96,Default,Shirou,0,0,0,,No.
@@ -661,37 +661,37 @@ Dialogue: 100,1:12:30.18,1:12:33.88,Default,Shirou,0,0,0,,Yeah. I love you, Saku
 Dialogue: 100,1:12:39.45,1:12:42.45,Default,Sakura,0,0,0,,Then make love to me.
 Dialogue: 100,1:12:50.24,1:12:55.24,Default,Sakura,0,0,0,,Senpai, am I tainted?
 Dialogue: 100,1:12:56.71,1:12:59.51,Default,Sakura,0,0,0,,Is there something wrong with me?
-Dialogue: 100,1:13:00.94,1:13:06.45,Default,Sakura,0,0,0,,Just by coming to your room, I'm already like this.
+Dialogue: 100,1:13:00.94,1:13:06.45,Default,Sakura,0,0,0,,Just by coming to your room, I'm already like this. {###}
 Dialogue: 100,1:13:07.47,1:13:11.73,Default,Sakura,0,0,0,,Even if I try to console myself, I can't suppress it.
 Dialogue: 100,1:13:12.37,1:13:16.12,Default,Sakura,0,0,0,,I can't think of anything but you.
 Dialogue: 100,1:13:17.35,1:13:20.22,Default,Sakura,0,0,0,,I'm disgusting.
-Dialogue: 100,1:13:24.53,1:13:27.93,Default,Shirou,0,0,0,,No. You're not disgusting.
+Dialogue: 100,1:13:24.53,1:13:27.93,Default,Shirou,0,0,0,,No. You aren't disgusting at all.
 Dialogue: 100,1:13:29.76,1:13:31.45,Default,Shirou,0,0,0,,You're beautiful.
 Dialogue: 100,1:13:33.82,1:13:35.21,Default,Sakura,0,0,0,,Senpai...
 Dialogue: 100,1:14:04.73,1:14:07.64,Default,Sakura,0,0,0,,I'm horrible.
 Dialogue: 100,1:14:08.42,1:14:13.33,Default,Sakura,0,0,0,,When Nee-san took you away earlier,
 Dialogue: 100,1:14:13.33,1:14:16.12,Default,Sakura,0,0,0,,I was so afraid.
-Dialogue: 100,1:14:32.90,1:14:36.20,Default,Shirou,0,0,0,,I'm sorry I didn't notice.
+Dialogue: 100,1:14:32.90,1:14:36.20,Default,Shirou,0,0,0,,I'm sorry for not noticing sooner.
 Dialogue: 100,1:14:41.93,1:14:43.99,Default,Sakura,0,0,0,,Senpai...
 Dialogue: 100,1:14:58.42,1:14:59.53,Default,Shirou,0,0,0,,Sakura...
 Dialogue: 100,1:15:06.26,1:15:09.32,Default,Sakura,0,0,0,,I love you, Senpai.
-Dialogue: 100,1:15:18.57,1:15:20.37,Default,Kotomine,0,0,0,,It is time for the blessing.
+Dialogue: 100,1:15:18.57,1:15:20.37,Default,Kotomine,0,0,0,,It is time for the blessing. {### maybe something more biblical}
 Dialogue: 100,1:15:21.54,1:15:23.06,Default,Gilgington,0,0,0,,Blessing?
 Dialogue: 100,1:15:25.89,1:15:27.09,Default,Gilgington,0,0,0,,For what?
 Dialogue: 100,1:15:28.29,1:15:31.69,Default,Kotomine,0,0,0,,For the other Holy Grail in the process of being born.
 Dialogue: 100,1:15:31.69,1:15:37.86,Default,Kotomine,0,0,0,,{\q2}It was birthed by humans as \N"all the evils of the world",
-Dialogue: 100,1:15:37.86,1:15:41.88,Default,Kotomine,0,0,0,,{\q2}and now it carries something \Nhumans never wished for in its womb.
+Dialogue: 100,1:15:37.86,1:15:41.88,Default,Kotomine,0,0,0,,{\q2}but now it carries something \Nhumans never wished for in its womb.
 Dialogue: 100,1:15:42.79,1:15:45.19,Default,Kotomine,0,0,0,,The distinction between good and evil.
 Dialogue: 100,1:15:45.19,1:15:51.85,Default,Kotomine,0,0,0,,{\q2}Rather than try to answer that question, \Nwhat if one were to give birth to something that could?
 Dialogue: 100,1:15:56.15,1:15:57.94,Default,Kotomine,0,0,0,,The answer is nigh.
 Dialogue: 100,1:15:58.66,1:16:02.75,Default,Kotomine,0,0,0,,Even if this question is blasphemy against God,
 Dialogue: 100,1:16:03.64,1:16:07.50,Default,Kotomine,0,0,0,,I will stand before Him, and with all my soul,
 Dialogue: 100,1:16:08.42,1:16:11.12,Default,Kotomine,0,0,0,,I will even kill the Lord.
-Dialogue: 100,1:16:18.31,1:16:22.60,Default,Tohsaka,0,0,0,,{\q2}If I'm gonna live with you, \NI'm at least gonna make breakfast.
+Dialogue: 100,1:16:18.31,1:16:22.60,Default,Tohsaka,0,0,0,,{\q2}I couldn't live with myself if I were just freeloading. \NThe least I could do is make breakfast.
 Dialogue: 100,1:16:31.03,1:16:35.25,Default,Sakura,0,0,0,,I'll go help Tohsaka-senpai.
 Dialogue: 100,1:16:35.25,1:16:37.03,Default,Shirou,0,0,0,,Ah, Sakura.
 Dialogue: 100,1:16:38.63,1:16:39.63,Default,Sakura,0,0,0,,Yes?
-Dialogue: 100,1:16:40.18,1:16:42.62,Default,Shirou,0,0,0,,Um, try telling Tohsaka...
+Dialogue: 100,1:16:40.18,1:16:42.62,Default,Shirou,0,0,0,,Uhm, try telling Tohsaka...
 Dialogue: 100,1:16:43.26,1:16:46.03,Default,Tohsaka,0,0,0,,Hmm, what to do?
 Dialogue: 100,1:16:50.18,1:16:54.11,Default,Sakura,0,0,0,,Nee-san, I'll wash these vegetables.
 Dialogue: 100,1:16:54.11,1:16:56.63,Default,Tohsaka,0,0,0,,Yeah, thanks a...
@@ -713,7 +713,7 @@ Dialogue: 100,1:18:24.41,1:18:29.06,Default,Shirou,0,0,0,,{\q2}Did you two not h
 Dialogue: 100,1:18:29.67,1:18:30.57,Default,Sakura,0,0,0,,No.
 Dialogue: 100,1:18:30.93,1:18:37.66,Default,Sakura,0,0,0,,We just knew the fact that we were sisters,
 Dialogue: 100,1:18:37.66,1:18:41.25,Default,Sakura,0,0,0,,{\q2}and we tried our best not to \Ncome into contact with each other.
-Dialogue: 100,1:18:43.53,1:18:49.15,Default,Sakura,0,0,0,,And if she knew about my magecraft, she'd hate me.
+Dialogue: 100,1:18:43.53,1:18:49.15,Default,Sakura,0,0,0,,{\q2}And if she knew about my magecraft, \Nshe'd come to hate me.
 Dialogue: 100,1:18:50.39,1:18:53.41,Default,Shirou,0,0,0,,Hate you? How come?
 Dialogue: 100,1:18:57.17,1:19:03.25,Default,Sakura,0,0,0,,{\q2}The Matou family's techniques have always \Nbeen limited to taking from others.
 Dialogue: 100,1:19:04.00,1:19:08.17,Default,Sakura,0,0,0,,{\q2}All they do is steal. \NThey have no teachings for accepting others.
@@ -724,12 +724,12 @@ Dialogue: 100,1:19:24.16,1:19:29.92,Default,Sakura,0,0,0,,I've seen the training
 Dialogue: 100,1:19:31.64,1:19:35.96,Default,Sakura,0,0,0,,I wanted to stop you so many times.
 Dialogue: 100,1:19:37.82,1:19:41.52,Default,Sakura,0,0,0,,Your training was dangerous.
 Dialogue: 100,1:19:41.99,1:19:47.44,Default,Sakura,0,0,0,,It was like you were stabbing yourself in the throat.
-Dialogue: 100,1:19:48.60,1:19:55.95,Default,Sakura,0,0,0,,{\q2}Nobody forced it on you. You just stubbornly \Nkept up that routine on your own.
+Dialogue: 100,1:19:48.60,1:19:55.95,Default,Sakura,0,0,0,,{\q2}Nobody forced it on you. You stubbornly \Nkept up that routine all on your own.
 Dialogue: 100,1:19:57.07,1:20:02.26,Default,Sakura,0,0,0,,I'm sure you're the strongest out of all of us.
 Dialogue: 100,1:20:03.71,1:20:09.45,Default,Sakura,0,0,0,,{\q2}Not because of your magecraft, \Nbut because you're pure of heart.
-Dialogue: 100,1:20:19.78,1:20:23.42,Default,Sakura,0,0,0,,I could tell from the moment we met
-Dialogue: 100,1:20:24.27,1:20:29.89,Default,Sakura,0,0,0,,that you'd never betray anything.
-Dialogue: 100,1:20:37.37,1:20:41.44,Default,Shinji,0,0,0,,You stole everything from me, Emiya!
+Dialogue: 100,1:20:19.78,1:20:23.42,Default,Sakura,0,0,0,,I could tell from the moment we first met
+Dialogue: 100,1:20:24.27,1:20:29.89,Default,Sakura,0,0,0,,that you'd never betray anything. {###}
+Dialogue: 100,1:20:37.37,1:20:41.44,Default,Shinji,0,0,0,,You took everything from me, Emiya!
 Dialogue: 100,1:21:04.75,1:21:06.02,Default,Shinji,0,0,0,,Why?
 Dialogue: 100,1:21:06.02,1:21:09.84,Default,Shinji,0,0,0,,Why won't anything happen?
 Dialogue: 100,1:21:25.13,1:21:26.91,Default,Newscaster,0,0,0,,We now move on to the next headline.
@@ -738,16 +738,16 @@ Dialogue: 100,1:21:31.19,1:21:32.32,Alt,Tohsaka,0,0,0,,See, look!
 Dialogue: 100,1:21:33.32,1:21:35.30,Default,Tohsaka,0,0,0,,Those weeds have turned black.
 Dialogue: 100,1:21:36.02,1:21:38.60,Default,Shirou,0,0,0,,Then that means the shadow did it?
 Dialogue: 100,1:21:39.11,1:21:40.81,Default,Shirou,0,0,0,,Is this Zouken's handiwork?
-Dialogue: 100,1:21:41.25,1:21:45.74,Default,Tohsaka,0,0,0,,{\q2}I don't know. I don't think \Nhe'd leave all this evidence behind.
-Dialogue: 100,1:21:54.88,1:21:58.37,Default,Sakura,0,0,0,,{\i1}Huh? I can't taste anything.
+Dialogue: 100,1:21:41.25,1:21:45.74,Default,Tohsaka,0,0,0,,{\q2}{I don't know. I don't think \Nhe'd leave all this evidence behind.}
+Dialogue: 100,1:21:54.88,1:21:58.37,Default,Sakura,0,0,0,,{\i1}That's odd. I can't taste anything.
 Dialogue: 100,1:22:05.65,1:22:07.19,Default,Sakura,0,0,0,,{\i1}He's so warm.
 Dialogue: 100,1:22:08.91,1:22:12.27,Default,Sakura,0,0,0,,{\i1}It's okay. I can still feel him.
 Dialogue: 100,1:22:14.69,1:22:18.87,Default,Sakura,0,0,0,,{\i1}I wish this moment could last forever...
 Dialogue: 100,1:22:59.19,1:23:01.13,Default,Sakura,0,0,0,,{\i1}She went for a lovely walk.
-Dialogue: 100,1:23:01.89,1:23:08.20,Default,Sakura,0,0,0,,{\i1\q2}Her bobbing head was clear, \Nwith no definite goal in mind.
-Dialogue: 100,1:23:09.01,1:23:10.84,Default,Sakura,0,0,0,,{\i1}And she shook from side to side.
+Dialogue: 100,1:23:01.89,1:23:08.20,Default,Sakura,0,0,0,,{\i1\q2}Her bobbing head was clear, \Nwith no definite goal in mind. {### onomatopoeia}
+Dialogue: 100,1:23:09.01,1:23:10.84,Default,Sakura,0,0,0,,{\i1}And so she shook from side to side.
 Dialogue: 100,1:23:10.84,1:23:12.46,Default,Sakura,0,0,0,,{\i1}Go, go.
-Dialogue: 100,1:23:12.46,1:23:14.58,Default,Sakura,0,0,0,,{\i1}And she sang with a chuckle.
+Dialogue: 100,1:23:12.46,1:23:14.58,Default,Sakura,0,0,0,,{\i1}And sang with a chuckle.
 Dialogue: 100,1:23:14.58,1:23:15.97,Default,Sakura,0,0,0,,{\i1}Go, go.
 Dialogue: 100,1:23:16.45,1:23:23.14,Default,Sakura,0,0,0,,{\i1\q2}And the empty limbs rolled \Nalong the ground like paper balloons.
 Dialogue: 100,1:23:24.11,1:23:28.56,Default,Sakura,0,0,0,,{\i1\q2}And floating through the air \Nwould have to wait until she grew up.
@@ -768,7 +768,7 @@ Dialogue: 100,1:25:53.70,1:25:56.91,Default,Gilgenstein,0,0,0,,What? You yet cli
 Dialogue: 100,1:25:57.97,1:26:01.64,Default,Gilgenstein,0,0,0,,I see your shadow isn't the only thing that's changed.
 Dialogue: 100,1:26:31.53,1:26:34.12,Default,Gilgenstein,0,0,0,,You dare presume to make me kneel?
 Dialogue: 100,1:27:07.65,1:27:09.21,Default,Gilgenstein,0,0,0,,Damned mongrel!
-Dialogue: 100,1:27:29.09,1:27:33.03,Default,Gilgenstein,0,0,0,Edit,How could you have... {## Revisit?}
+Dialogue: 100,1:27:29.09,1:27:33.03,Default,Gilgenstein,0,0,0,,How could you have...
 Dialogue: 100,1:28:04.58,1:28:06.08,Default,Girl,0,0,0,,Did you see that?
 Dialogue: 100,1:28:07.57,1:28:08.72,Default,Girl,0,0,0,,Huh?
 Dialogue: 100,1:28:32.20,1:28:33.04,Default,Tohsaka,0,0,0,,Shirou!
@@ -779,22 +779,22 @@ Dialogue: 100,1:28:54.69,1:28:57.87,Default,Newscaster,0,0,0,,among other unexpl
 Dialogue: 100,1:29:05.69,1:29:06.54,Default,Shirou,0,0,0,,Sakura!
 Dialogue: 100,1:29:07.95,1:29:10.11,Default,Tohsaka,0,0,0,,Don't move. I'll go get a first aid kit!
 Dialogue: 100,1:29:11.51,1:29:12.34,Default,Shirou,0,0,0,,Saku—
-Dialogue: 100,1:29:17.62,1:29:18.87,Default,Shirou,0,0,0,,{\i1}Don't notice it.
-Dialogue: 100,1:29:20.71,1:29:21.71,Default,Shirou,0,0,0,,{\i1}Stop.
+Dialogue: 100,1:29:17.62,1:29:18.87,Default,Shirou,0,0,0,,{\i1}Stop yourself from noticing.
+Dialogue: 100,1:29:20.71,1:29:21.71,Default,Shirou,0,0,0,,{\i1}Don't.
 Dialogue: 100,1:29:30.22,1:29:33.00,Default,Shirou,0,0,0,,{\i1}Don't think they look alike.
 Dialogue: 100,1:29:35.74,1:29:39.87,Default,Newscaster,0,0,0,,There is currently estimated to be over sixty victims.
-Dialogue: 100,1:29:40.76,1:29:45.56,Default,Newscaster,0,0,0,,{\q2}There are also forty building whose residents' \Nwhereabouts are presently unknown.
+Dialogue: 100,1:29:40.76,1:29:45.56,Default,Newscaster,0,0,0,,{\q2}There are also forty buildings whose residents' \Nwhereabouts are presently unknown.
 Dialogue: 100,1:29:48.65,1:29:49.99,Default,Shirou,0,0,0,,How's Sakura?
 Dialogue: 100,1:29:51.61,1:29:52.79,Default,Tohsaka,0,0,0,,Alive.
 Dialogue: 100,1:29:56.63,1:29:57.58,Default,Tohsaka,0,0,0,,But...
-Dialogue: 100,1:29:58.52,1:30:00.57,Default,Shirou,0,0,0,,Is there something different about this?
+Dialogue: 100,1:29:58.52,1:30:00.57,Default,Shirou,0,0,0,,Is there something different about this? {###}
 Dialogue: 100,1:30:01.48,1:30:06.06,Default,Tohsaka,0,0,0,,{\q2}Sakura's body looks like it's \Nput together well on the surface,
 Dialogue: 100,1:30:06.06,1:30:08.63,Default,Tohsaka,0,0,0,,but the muscles in her arms and legs are in tatters.
 Dialogue: 100,1:30:09.23,1:30:12.55,Default,Tohsaka,0,0,0,,She's definitely died at least once.
 Dialogue: 100,1:30:14.47,1:30:21.31,Default,Tohsaka,0,0,0,,{\q2}I can't tell you who did it, but the pain may not have \Ndestroyed just her body, but her mind as well.
 Dialogue: 100,1:30:22.98,1:30:27.13,Default,Tohsaka,0,0,0,,{\q2}We don't have a second to waste \Nif we want to beat Zouken and the shadow.
-Dialogue: 100,1:30:28.50,1:30:30.85,Default,Tohsaka,0,0,0,,Let's do whatever we can.
-Dialogue: 100,1:30:36.97,1:30:38.90,Default,Tohsaka,0,0,0,,Also, Shirou,
+Dialogue: 100,1:30:28.50,1:30:30.85,Default,Tohsaka,0,0,0,,Let's do the best we can.
+Dialogue: 100,1:30:36.97,1:30:38.90,Default,Tohsaka,0,0,0,,But, Shirou, {###}
 Dialogue: 100,1:30:40.22,1:30:45.62,Default,Tohsaka,0,0,0,,{\q2}if Zouken and that shadow turn out \Nto be two entirely separate cases,
 Dialogue: 100,1:30:46.02,1:30:47.62,Default,Tohsaka,0,0,0,,what will you do?
 Dialogue: 100,1:31:01.70,1:31:03.19,Default,Illya,0,0,0,,Good morning.
@@ -805,7 +805,7 @@ Dialogue: 100,1:31:14.67,1:31:17.39,Default,Illya,0,0,0,,I'd be surprised if you
 Dialogue: 100,1:31:22.19,1:31:26.39,Default,Illya,0,0,0,,Sakura, do you know what's going to happen to you?
 Dialogue: 100,1:31:28.15,1:31:32.41,Default,Sakura,0,0,0,,No. What's going to happen to me?
 Dialogue: 100,1:31:33.13,1:31:36.80,Default,Illya,0,0,0,,You'll die. You can't be saved.
-Dialogue: 100,1:31:46.97,1:31:51.05,Default,Fuji-nee,0,0,0,,I'm home! I got some time to be here!
+Dialogue: 100,1:31:46.97,1:31:51.05,Default,Fuji-nee,0,0,0,,I'm home! I made some free time to hang out!
 Dialogue: 100,1:31:52.15,1:31:55.38,Default,Fuji-nee,0,0,0,,Huh? Shirou? You around?
 Dialogue: 100,1:31:57.19,1:31:58.02,Default,Illya,0,0,0,,Who's that?
 Dialogue: 100,1:32:00.89,1:32:05.72,Default,Fuji-nee,0,0,0,,I swear, whatever happened to Shirou?
@@ -826,12 +826,12 @@ Dialogue: 100,1:33:10.14,1:33:13.97,Default,Sakura,0,0,0,,But shouldn't he treat
 Dialogue: 100,1:33:14.43,1:33:17.25,Default,Fuji-nee,0,0,0,,If Shirou's trying to be like Kiritsugu-san,
 Dialogue: 100,1:33:17.92,1:33:21.23,Default,Fuji-nee,0,0,0,,then it's fine for him to have this special person.
 Dialogue: 100,1:33:25.03,1:33:29.25,Default,Fuji-nee,0,0,0,,Kiritsugu-san played favorites too, y'know?
-Dialogue: 100,1:33:31.31,1:33:39.27,Default,Fuji-nee,0,0,0,,{\q2}Even after he moved to this town, \Nhe'd always be abroad.
+Dialogue: 100,1:33:31.31,1:33:39.27,Default,Fuji-nee,0,0,0,,{\q2}Even after moving to this town, \Nhe'd always go abroad.
 Dialogue: 100,1:33:40.47,1:33:44.13,Default,Fuji-nee,0,0,0,,{\q2}He kept heading out until \Nhe couldn't even move anymore.
 Dialogue: 100,1:33:47.94,1:33:51.97,Default,Fuji-nee,0,0,0,,{\q2}There must've been someone \Nhe really wanted to see.
 Dialogue: 100,1:33:56.46,1:34:00.96,Default,Fuji-nee,0,0,0,,It hurts a lot if you can't see that special person.
 Dialogue: 100,1:34:01.89,1:34:04.12,Default,Fuji-nee,0,0,0,,Superhero or not.
-Dialogue: 100,1:34:08.16,1:34:15.13,Default,Fuji-nee,0,0,0,,So make sure to stay by Shirou's side, okay?
+Dialogue: 100,1:34:08.16,1:34:15.13,Default,Fuji-nee,0,0,0,,So make sure to stay by Shirou's side, okay? {###}
 Dialogue: 100,1:34:33.33,1:34:34.86,Default,Shirou?,0,0,0,,{\i1}Will you betray him?
 Dialogue: 100,1:34:42.05,1:34:45.73,Default,Shirou?,0,0,0,,{\i1}Will you betray your past self?
 Dialogue: 100,1:34:52.95,1:34:53.96,Default,Shirou,0,0,0,,Wait...
@@ -882,7 +882,7 @@ Dialogue: 100,1:38:38.65,1:38:43.04,Default,Zouken,0,0,0,,{\q2}Following precede
 Dialogue: 100,1:38:44.18,1:38:45.31,Default,Zouken,0,0,0,,What do you think?
 Dialogue: 100,1:38:45.31,1:38:48.01,Default,Zouken,0,0,0,,Will Sakura be able to hold out?
 Dialogue: 100,1:38:48.83,1:38:50.01,Default,Shirou,0,0,0,,She will.
-Dialogue: 100,1:38:50.01,1:38:51.82,Default,Shirou,0,0,0,,She absolutely will!
+Dialogue: 100,1:38:50.01,1:38:51.82,Default,Shirou,0,0,0,,She definitely will!
 Dialogue: 100,1:38:52.52,1:38:56.64,Default,Zouken,0,0,0,,But the same cannot be said for others.
 Dialogue: 100,1:38:56.64,1:39:01.70,Default,Zouken,0,0,0,,She may have eaten her fill last night,
 Dialogue: 100,1:39:01.70,1:39:05.42,Default,Zouken,0,0,0,,but it will strike again as early as tomorrow.
@@ -891,15 +891,15 @@ Dialogue: 100,1:39:15.07,1:39:16.66,Default,Zouken,0,0,0,,Surely you know.
 Dialogue: 100,1:39:17.56,1:39:20.33,Default,Zouken,0,0,0,,Strike down evil for the sake of the many.
 Dialogue: 100,1:39:20.81,1:39:24.52,Default,Zouken,0,0,0,,If you wish to become Emiya Kiritsugu,
 Dialogue: 100,1:39:25.46,1:39:30.80,Default,Zouken,0,0,0,,then Matou Sakura is your enemy.
-Dialogue: 100,1:39:54.59,1:39:56.92,Default,Shirou,0,0,0,,Sakura, you awake?
+Dialogue: 100,1:39:54.59,1:39:56.92,Default,Shirou,0,0,0,,Sakura, you up yet?
 Dialogue: 100,1:40:00.91,1:40:01.75,Default,Sakura,0,0,0,,Yes.
 Dialogue: 100,1:40:02.93,1:40:05.93,Default,Sakura,0,0,0,,Good morning, Senpai.
 Dialogue: 100,1:41:14.91,1:41:16.30,Default,Shirou,0,0,0,,Hey, Sakura.
-Dialogue: 100,1:41:16.62,1:41:20.87,Default,Shirou,0,0,0,,{\q2}Is there anything you wanna do \Nwhen the battle's over?
+Dialogue: 100,1:41:16.62,1:41:20.87,Default,Shirou,0,0,0,,{\q2}Is there anything you wanna do \Nonce the battle's over?
 Dialogue: 100,1:41:23.79,1:41:27.15,Default,Sakura,0,0,0,,I can't really think of anything.
 Dialogue: 100,1:41:27.15,1:41:31.42,Default,Sakura,0,0,0,,{\q2}As long as I'm with you, \Nit doesn't matter what we do.
 Dialogue: 100,1:41:32.93,1:41:36.64,Default,Shirou,0,0,0,,Then how about we go somewhere fun?
-Dialogue: 100,1:41:37.70,1:41:39.06,Default,Shirou,0,0,0,,Where do you wanna go?
+Dialogue: 100,1:41:37.70,1:41:39.06,Default,Shirou,0,0,0,,Where would you like to go?
 Dialogue: 100,1:41:42.46,1:41:48.15,Default,Sakura,0,0,0,,Well, I suppose I'd like to go flower-viewing...
 Dialogue: 100,1:41:51.10,1:41:52.16,Default,Shirou,0,0,0,,Gotcha.
 Dialogue: 100,1:41:53.87,1:41:55.03,Default,Shirou,0,0,0,,I promise we will.
@@ -915,7 +915,7 @@ Dialogue: 100,1:43:00.41,1:43:01.32,Default,Shirou,0,0,0,,{\an8\i1}Here, have th
 Dialogue: 100,1:43:03.32,1:43:04.20,Default,Shirou,0,0,0,,{\an8\i1}I'll...
 Dialogue: 100,1:43:04.20,1:43:06.20,Default,Sakura,0,0,0,,{\an8\i1}A superhero?
 Dialogue: 100,1:43:06.20,1:43:06.72,Default,Sakura,0,0,0,,{\i1}Senpai...
-Dialogue: 100,1:43:06.72,1:43:10.73,Default,Sakura,0,0,0,,{\i1}I wanted to keep holding on to the time we share.
+Dialogue: 100,1:43:06.72,1:43:10.73,Default,Sakura,0,0,0,,{\i1}I didn't want to let go of the times we shared.
 Dialogue: 100,1:43:08.20,1:43:11.87,Default,Sakura,0,0,0,,{\an8\i1}I wish this moment could last forever...
 Dialogue: 100,1:43:10.62,1:43:11.22,Alt,Sakura,0,0,0,,{\an8\i1}Senpai.
 Dialogue: 100,1:43:11.22,1:43:11.88,Alt,Sakura,0,0,0,,{\an8\i1}Senpai!
@@ -934,7 +934,7 @@ Dialogue: 100,1:45:28.75,1:45:29.81,Default,Rider,0,0,0,,Sakura...
 Dialogue: 100,1:45:35.10,1:45:36.96,Default,Sakura,0,0,0,,This is my last Command Spell.
 Dialogue: 100,1:45:39.16,1:45:41.35,Default,Sakura,0,0,0,,Please, Rider...
 Dialogue: 100,1:45:48.72,1:45:51.78,Default,Sakura,0,0,0,,{\i1}I'll be the one to stop Grandfather.
-Dialogue: 100,1:45:52.71,1:45:54.57,Default,Sakura,0,0,0,,{\i1}It's too late,
+Dialogue: 100,1:45:52.71,1:45:54.57,Default,Sakura,0,0,0,,{\i1}It's too late, {###}
 Dialogue: 100,1:45:55.51,1:45:58.63,Default,Sakura,0,0,0,,{\i1\q2}but I can't cause any more \Ntrouble than I already have.
 Dialogue: 100,1:46:02.23,1:46:04.29,Default,Shirou,0,0,0,,Morning, Sakura.
 Dialogue: 100,1:46:04.90,1:46:07.16,Default,Shirou,0,0,0,,Wait, what?
@@ -952,7 +952,7 @@ Dialogue: 100,1:47:44.14,1:47:46.53,Default,Shinji,0,0,0,,You're nothing but my 
 Dialogue: 100,1:47:50.98,1:47:53.23,Default,Sakura,0,0,0,,{\i1}I've made another mistake.
 Dialogue: 100,1:47:54.65,1:47:57.05,Default,Sakura,0,0,0,,{\i1}That's why something horrible's going to happen to me.
 Dialogue: 100,1:47:58.82,1:48:04.67,Default,Sakura,0,0,0,,{\i1\q2}It's okay. I just have to put up \Nwith it for a while, just like always.
-Dialogue: 100,1:48:05.93,1:48:10.92,Default,Sakura,0,0,0,,{\i1\q2}Put up with it, put up with it, \Nput up with it, put up with it...
+Dialogue: 100,1:48:05.93,1:48:10.88,Default,Sakura,0,0,0,,{\i1\q2}Put up with it, put up with it, \Nput up with it, put up with it...
 Dialogue: 100,1:48:11.25,1:48:12.50,Default,Shirou,0,0,0,,Sakura.
 Dialogue: 100,1:48:13.88,1:48:14.97,Default,Sakura,0,0,0,,No!
 Dialogue: 100,1:48:18.65,1:48:23.12,Default,Sakura,0,0,0,,No. I belong to Senpai now!
@@ -967,7 +967,7 @@ Dialogue: 100,1:48:39.26,1:48:41.46,Default,Sakura,0,0,0,,{\i1}That thought alwa
 Dialogue: 100,1:48:42.11,1:48:44.50,Default,Sakura,0,0,0,,{\i1}I've hated him for so long.
 Dialogue: 100,1:48:46.69,1:48:54.57,Default,Sakura,0,0,0,,{\i1}Why does the world around me hate me so much?
 Dialogue: 100,1:48:59.27,1:49:01.75,Default,Shinji,0,0,0,,Hey, I'd better tell Emiya, too.
-Dialogue: 100,1:49:02.48,1:49:07.11,Default,Shinji,0,0,0,,I'll tell him how much you've clung to me so far
+Dialogue: 100,1:49:02.48,1:49:07.11,Default,Shinji,0,0,0,,I should tell him how much you've clung to me so far
 Dialogue: 100,1:49:08.31,1:49:13.43,Default,Shinji,0,0,0,,and how dirty you are in bed!
 Dialogue: 100,1:49:17.29,1:49:21.09,Default,Sakura,0,0,0,,{\i1}The world would be better off without him.
 Dialogue: 100,1:49:43.55,1:49:46.16,Default,Sakura,0,0,0,,Nii-san...
