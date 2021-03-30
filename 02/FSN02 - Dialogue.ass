@@ -731,7 +731,7 @@ Dialogue: 100,1:20:24.27,1:20:29.89,Default,Sakura,0,0,0,,that you'd never betra
 Dialogue: 100,1:20:37.37,1:20:41.44,Default,Shinji,0,0,0,,You took everything from me, Emiya!
 Dialogue: 100,1:21:04.75,1:21:06.02,Default,Shinji,0,0,0,,Why?
 Dialogue: 100,1:21:06.02,1:21:09.84,Default,Shinji,0,0,0,,Why won't anything happen?
-Dialogue: 100,1:21:25.13,1:21:26.91,Default,Newscaster,0,0,0,,We now move on to the next headline.
+Dialogue: 100,1:21:25.13,1:21:26.91,Default,Newscaster,0,0,0,,{\an8}We now move on to the next headline.
 Dialogue: 100,1:21:27.19,1:21:32.32,Default,Newscaster,0,0,0,,{\an8\q2}Multiple bodies thought to be homicide victims \Nhave been discovered in Fuyuki-shi, Shinto's Central Park.
 Dialogue: 100,1:21:31.19,1:21:32.32,Default,Tohsaka,0,0,0,,See, look!
 Dialogue: 100,1:21:33.32,1:21:35.30,Default,Tohsaka,0,0,0,,Those weeds have turned black.
