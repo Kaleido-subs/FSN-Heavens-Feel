@@ -161,3 +161,112 @@ responsible social distancing :umu:
 > 00:43:22: But how do you plan to defeat that magus?
 
 "that magus" feels a bit too... dehumanising(?) (as much as zouken deserves it)
+
+## Part 3
+
+For commit `697955adca02eabb5a0f1cc92b02a0b799df4ae5`.
+
+> 00:48:47: No human exists who does not fear death.
+
+I'd be inclined to use 'man' instead of 'human'
+especially considering stuff like this line a bit later:
+
+> 00:49:35: {\q2}Remember why we humans attempted to \Nreach a domain man cannot tread.
+
+mixing 'human' and 'man' like this feels a bit weird to me
+
+I think I get the logic, 'human' for when it's meant to be one person, 'man' for the collective, but it still feels weird
+
+> 00:50:58: Tohsaka? Why?
+
+"What're you... {doing here?}" ?
+
+> 00:53:15: I'm the one you'll be fighting here.
+
+maybe "You'll have to go through me" or similar?
+
+> 01:05:33: If I sit idly by, two will disappear.
+
+not sure about 'disappear' here
+
+> 01:06:49: {\q2}If you use that arm even once, \NArcher's Magic Circuits will activate.
+
+"If you {\i1}ever{\i0} use that arm..." or something?
+
+> 01:14:09: When Nee-san took you away earlier,
+
+what was the verdict on 'nee-san', 'senpai' etc?
+
+> 01:15:32: {\q2}It was birthed by humans as \N"all the evils of the world",
+
+Crime Sans
+
+> 01:17:53: but the treasure box of a magician sounds pretty.
+
+I think I prefer 'sorcerer' for 魔法使い (mahoutsukai), feels more "mythical" than 'magician'.
+Would need consultation with Light's Fate Translator Friend
+
+> 01:20:25: that you'd never betray anything. {###}
+
+`###` indeed. I feel like 'anything' is the problem here.
+"never betray anyone for anything", maybe?
+
+> 01:21:30: {\q2}Multiple bodies thought to be homicide victims \Nhave been discovered in Fuyuki-shi, Shinto's Central Park.
+> 01:21:30: See, look!
+
+maybe \an8 and/or alt style the newscaster instead of Tohsaka? feels weird to have her line in alt style
+
+> 01:23:12: {\i1}Go, go.
+
+TL: Is this 囂々? either way, I don't exactly like this
+
+> 01:27:32: How could you have...
+
+I'm not convinced this is what Gil was saying, but no clue what it would be
+gotta love cut-off lines...
+
+> 01:28:45: {\q2}At 10:08 PM today, a widespread blackout \Noccurred near Shinto Station.
+
+nit: I think caps for writing a.m./p.m. is valid, but uncommon?
+
+> 01:29:39: There is currently estimated to be over sixty victims.
+
+'is' or 'are'?
+
+> 01:30:09: She's definitely died at least once.
+
+This feels... weird, idk, kinda like "people die when they are killed"
+"It's as if she'd died and been put back together?" or something?
+
+> 01:30:42: {\q2}if Zouken and that shadow turn out \Nto be two entirely separate cases,
+
+I probably wouldn't use 'case' here
+
+> 01:33:56: It hurts a lot if you can't see that special person.
+
+"special someone"? applies to whole conversation
+
+> 01:34:12: So make sure to keep Shirou closeby, okay?
+
+"close by"?
+
+> 01:36:47: {\q2}Oh, but before that, \NI must tell you what that shadow is.
+> 01:36:54: In a word, it's the contents of the Holy Grail.
+> 01:37:02: Wills overflowing from the gate we call the Grail.
+> 01:37:12: {\q2}I told you to kill the shadow, \Nbut that would prove difficult.
+> 01:37:19: However, you can kill the gate.
+
+This seems to conflict with itself. Is the "gate" the Grail or Sakura? (third line is the most relevant one here)
+
+> 01:41:20: {\q2}Is there anything you wanna do \Nonce the battle's over?
+
+'battle', 'fighting', 'war'/'{Grail }War'?
+
+> 01:43:02: {\q2}This makes the second time I've received \Nsomething important from someone special.
+
+probably should be italics
+
+01:43:13: {\i1}Senpai!
+
+check timing on these, feels mistimed. notably the very last one should probably have a gap before it.
+on successive listens, it starts to feel less off. idk why
