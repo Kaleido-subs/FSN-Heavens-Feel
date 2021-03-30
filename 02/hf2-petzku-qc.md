@@ -1,16 +1,48 @@
 # Pre-TLC/touchup rough QC pass
 
-## Part 1
+## Unaddressed
+
+> 00:06:20: {\i1}Nah, he's just using it.
+
+why is shirou so sure?
+
+> 00:22:28: I can't obey that order.
+
+works, but maybe (uhh, fuck I had a suggestion here)
+
+> 00:53:15: I'm the one you'll be fighting here.
+
+maybe "You'll have to go through me" or similar?
+
+> 01:05:33: If I sit idly by, two will disappear.
+
+not sure about 'disappear' here
+
+> 01:17:53: but the treasure box of a magician sounds pretty.
+
+I think I prefer 'sorcerer' for 魔法使い (mahoutsukai), feels more "mythical" than 'magician'.
+Would need consultation with Light's Fate Translator Friend
+
+> 01:23:12: {\i1}Go, go.
+
+TL: Is this 囂々? either way, I don't exactly like this
+
+> 01:29:39: There is currently estimated to be over sixty victims.
+
+'is' or 'are'?
+
+> 01:30:09: She's definitely died at least once.
+
+This feels... weird, idk, kinda like "people die when they are killed"
+"It's as if she'd died and been put back together?" or something?
+
+## Addressed
 
 up to around 22 min
 
 > 00:03:11: Uhm, Senpai.
 
 "uhm" is not timed (Fixed-gsk)
-
-> 00:06:20: {\i1}Nah, he's just using it.
-
-why is shirou so sure?
 
 ### Addressed in 0571ac0af9aec71b151afdb90302a6b76654e52a
 
@@ -77,9 +109,6 @@ I prefer the bits with some flavour tbh
 
 ### Addressed in 1e2e471c887c9abb1e39516130d32cd22683ca48
 
-> 00:22:28: I can't obey that order.
-
-works, but maybe (uhh, fuck I had a suggestion here)
 
 > 00:25:07: Think of them as live Magic Circuits. {## \"live\" as in \"live bait\", \"live animals\", etc.}
 
@@ -181,14 +210,6 @@ I think I get the logic, 'human' for when it's meant to be one person, 'man' for
 
 "What're you... {doing here?}" ?
 
-> 00:53:15: I'm the one you'll be fighting here.
-
-maybe "You'll have to go through me" or similar?
-
-> 01:05:33: If I sit idly by, two will disappear.
-
-not sure about 'disappear' here
-
 > 01:06:49: {\q2}If you use that arm even once, \NArcher's Magic Circuits will activate.
 
 "If you {\i1}ever{\i0} use that arm..." or something?
@@ -201,11 +222,6 @@ what was the verdict on 'nee-san', 'senpai' etc?
 
 Crime Sans
 
-> 01:17:53: but the treasure box of a magician sounds pretty.
-
-I think I prefer 'sorcerer' for 魔法使い (mahoutsukai), feels more "mythical" than 'magician'.
-Would need consultation with Light's Fate Translator Friend
-
 > 01:20:25: that you'd never betray anything. {###}
 
 `###` indeed. I feel like 'anything' is the problem here.
@@ -216,10 +232,6 @@ Would need consultation with Light's Fate Translator Friend
 
 maybe \an8 and/or alt style the newscaster instead of Tohsaka? feels weird to have her line in alt style
 
-> 01:23:12: {\i1}Go, go.
-
-TL: Is this 囂々? either way, I don't exactly like this
-
 > 01:27:32: How could you have...
 
 I'm not convinced this is what Gil was saying, but no clue what it would be
@@ -228,15 +240,6 @@ gotta love cut-off lines...
 > 01:28:45: {\q2}At 10:08 PM today, a widespread blackout \Noccurred near Shinto Station.
 
 nit: I think caps for writing a.m./p.m. is valid, but uncommon?
-
-> 01:29:39: There is currently estimated to be over sixty victims.
-
-'is' or 'are'?
-
-> 01:30:09: She's definitely died at least once.
-
-This feels... weird, idk, kinda like "people die when they are killed"
-"It's as if she'd died and been put back together?" or something?
 
 > 01:30:42: {\q2}if Zouken and that shadow turn out \Nto be two entirely separate cases,
 
