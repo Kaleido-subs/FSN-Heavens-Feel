@@ -6,7 +6,7 @@ up to around 22 min
 
 > 00:03:11: Uhm, Senpai.
 
-"uhm" is not timed
+"uhm" is not timed (Fixed-gsk)
 
 > 00:06:20: {\i1}Nah, he's just using it.
 
@@ -270,3 +270,4 @@ probably should be italics
 
 check timing on these, feels mistimed. notably the very last one should probably have a gap before it.
 on successive listens, it starts to feel less off. idk why
+(Looks fine on spectrogram, Keep this noted for 2nd QC by basheer.)
