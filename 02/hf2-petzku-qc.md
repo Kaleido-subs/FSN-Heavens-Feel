@@ -38,8 +38,6 @@ This feels... weird, idk, kinda like "people die when they are killed"
 
 ## Addressed
 
-up to around 22 min
-
 > 00:03:11: Uhm, Senpai.
 
 "uhm" is not timed (Fixed-gsk)
@@ -103,12 +101,7 @@ while I love contractions, "that would" feels better here imo (in the context of
 I prefer the bits with some flavour tbh
 (this has apparently already had some back and forth. considering this unresolved for the time being)
 
-## Part 2
-
-22 min to around 47 min
-
 ### Addressed in 1e2e471c887c9abb1e39516130d32cd22683ca48
-
 
 > 00:25:07: Think of them as live Magic Circuits. {## \"live\" as in \"live bait\", \"live animals\", etc.}
 
@@ -191,7 +184,7 @@ responsible social distancing :umu:
 
 "that magus" feels a bit too... dehumanising(?) (as much as zouken deserves it)
 
-## Part 3
+### Addressed in ef7f96772fb13669259f1eda2c440615fbea3579
 
 For commit `697955adca02eabb5a0f1cc92b02a0b799df4ae5`.
 
@@ -269,7 +262,7 @@ This seems to conflict with itself. Is the "gate" the Grail or Sakura? (third li
 
 probably should be italics
 
-01:43:13: {\i1}Senpai!
+> 01:43:13: {\i1}Senpai!
 
 check timing on these, feels mistimed. notably the very last one should probably have a gap before it.
 on successive listens, it starts to feel less off. idk why
