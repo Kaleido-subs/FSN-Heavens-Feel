@@ -23,938 +23,938 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:57.66,0:00:59.87,Default,Rando,0,0,0,,Shirou Emiya is pretty good.
-Dialogue: 0,0:00:59.87,0:01:01.62,Default,Fuji-nee,0,0,0,,Isn't he?
-Dialogue: 0,0:01:02.08,0:01:07.03,Default,Rando,0,0,0,,{\q2}And with Ayako Mitsuzuri and Shinji Matou, \Nwe've got the Rookie Competition in the bag.
-Dialogue: 0,0:01:07.57,0:01:08.96,Default,Fuji-nee,0,0,0,,Yup!
-Dialogue: 0,0:01:10.11,0:01:11.72,Default,Rando,0,0,0,,But Fujimura-sensei, well...
-Dialogue: 0,0:01:11.72,0:01:12.43,Default,Fuji-nee,0,0,0,,Hmm?
-Dialogue: 0,0:01:13.34,0:01:16.63,Default,Rando,0,0,0,,Even among the first-years, Emiya feels kinda...
-Dialogue: 0,0:01:16.63,0:01:21.99,Default,Rando,0,0,0,TM,{\q2}I dunno, different, I suppose? \NI have a hard time pinning it down. {## split?}
-Dialogue: 0,0:01:36.60,0:01:39.62,Default,Shinji,0,0,0,,You got hurt at work right before the tournament?
-Dialogue: 0,0:01:39.62,0:01:40.87,Default,Shinji,0,0,0,,The hell, man?
-Dialogue: 0,0:01:41.74,0:01:45.25,Default,Shinji,0,0,0,,{\q2}Swear to god. Everyone's gonna be \Noff their game now, You know that, right?
-Dialogue: 0,0:01:45.70,0:01:47.09,Default,Shirou,0,0,0,TM,I'm sorry.
-Dialogue: 0,0:01:47.09,0:01:51.34,Default,Shirou,0,0,0,TM,{\q2}But you and Mitsuzuri should be \Nable to handle it, no sweat.
-Dialogue: 0,0:01:57.82,0:01:58.95,Default,Shirou,0,0,0,,Sorry.
-Dialogue: 0,0:02:13.86,0:02:15.23,Default,Shirou,0,0,0,,I'm home.
-Dialogue: 0,0:02:54.40,0:02:56.30,Default,Shirou,0,0,0,,Commence tuning.
-Dialogue: 0,0:02:59.45,0:03:01.57,Default,Shirou,0,0,0,,Analyzing base framework.
-Dialogue: 0,0:03:02.53,0:03:05.08,Default,Shirou,0,0,0,,Analyzing component materials.
-Dialogue: 0,0:03:05.79,0:03:08.08,Default,Shirou,0,0,0,,Altering base framework.
-Dialogue: 0,0:03:09.21,0:03:11.54,Default,Shirou,0,0,0,,Reinforcing component materials.
-Dialogue: 0,0:03:37.44,0:03:38.57,Default,Shirou,0,0,0,,Is it raining?
-Dialogue: 0,0:04:09.10,0:04:11.60,Default,Shirou,0,0,0,,Aren't you Shinji's little sister?
-Dialogue: 0,0:04:13.29,0:04:18.75,Default,Best girl,0,0,0,,Yes. My name is Matou Sakura.
-Dialogue: 0,0:04:31.62,0:04:34.62,Default,Fuji-nee,0,0,0,,Shirou! I'm here to check on you!
-Dialogue: 0,0:04:35.96,0:04:37.79,Default,Fuji-nee,0,0,0,,How are you holding up?
-Dialogue: 0,0:04:40.55,0:04:42.50,Default,Shirou,0,0,0,,Uh, I can explain!
-Dialogue: 0,0:04:42.50,0:04:44.97,Default,Shirou,0,0,0,,Look, it's not what it looks like!
-Dialogue: 0,0:04:46.66,0:04:51.65,Default,Shirou,0,0,0,TM,{\q2}I mean, I've been able to get by \Non my own just fine, y'know?
-Dialogue: 0,0:04:51.65,0:04:56.31,Default,Shirou,0,0,0,TM,I can hardly put my friend's sister to work now, can I?
-Dialogue: 0,0:04:59.41,0:05:03.88,Default,Fuji-nee,0,0,0,,As Shirou's guardian, I also have my reservations...
-Dialogue: 0,0:05:03.88,0:05:08.52,Default,Fuji-nee,0,0,0,,{\q2}I help out with all the chores, \Nso it's okey-dokey here!
-Dialogue: 0,0:05:22.80,0:05:25.92,Default,Fuji-nee,0,0,0,,{\q2}Oh, y'know, we just happened to run into each other!
-Dialogue: 0,0:05:27.84,0:05:29.35,Default,Newscaster,0,0,0,,Now, on to today's headlines—
-Dialogue: 0,0:05:30.51,0:05:32.47,Default,Shirou,0,0,0,,The dishes go in the top cupboard.
-Dialogue: 0,0:05:32.47,0:05:35.85,Default,Shirou,0,0,0,,The bottom one is for the rice, the knives, and, uh...
-Dialogue: 0,0:05:37.23,0:05:38.94,Default,Shirou,0,0,0,,Whoa!
-Dialogue: 0,0:05:45.53,0:05:49.70,Default,Shirou,0,0,0,,So you fold the shoulder around to the back,
-Dialogue: 0,0:05:49.70,0:05:53.45,Default,Shirou,0,0,0,,line the sleeve up parallel to the crease,
-Dialogue: 0,0:05:53.45,0:05:57.79,Default,Shirou,0,0,0,,{\q2}and then you do the other side, \Nmaking sure it doesn't come unfolded...
-Dialogue: 0,0:06:00.78,0:06:04.11,Default,Shirou,0,0,0,,{\q2}Don't sweat it. Practice makes perfect. \NThis is good for now.
-Dialogue: 0,0:06:04.63,0:06:06.40,Default,Wife material,0,0,0,,Let me try again.
-Dialogue: 0,0:06:10.86,0:06:13.49,Default,Shirou,0,0,0,,All right, from the top.
-Dialogue: 0,0:06:16.05,0:06:18.42,Default,Sakura,0,0,0,,I'll be on my way.
-Dialogue: 0,0:06:18.42,0:06:21.06,Default,Fuji-nee,0,0,0,,See ya tomorrows, Sakura-chan!
-Dialogue: 0,0:06:21.98,0:06:22.78,Default,Fuji-nee,0,0,0,,Oops.
-Dialogue: 0,0:06:32.02,0:06:34.56,Default,Shirou,0,0,0,,{\i1}Yeah, I remember now.
-Dialogue: 0,0:06:35.39,0:06:42.61,Default,Shirou,0,0,0,,{\q2\i1}On that day a year and a half ago, \NI lost to a really stubborn younger girl.
-Dialogue: 0,0:06:49.91,0:06:51.89,Default,Shirou,0,0,0,,{\i1}The season came and went.
-Dialogue: 0,0:06:52.29,0:06:56.32,Default,Shirou,0,0,0,,{\q2\i1}But even after my shoulder healed, \Nmy lifestyle remained the same.
-Dialogue: 0,0:06:57.16,0:07:02.23,Default,Shirou,0,0,0,,{\i1}I don't remember if it was Sakura's idea or mine.
-Dialogue: 0,0:07:03.06,0:07:05.87,Default,Shirou,0,0,0,,{\i1}Whoever's it was, it was probably pretty trivial.
-Dialogue: 0,0:07:08.50,0:07:13.56,Default,Shirou,0,0,0,,{\q2\i1}If I had to name one thing that changed, \Nit'd be that I stopped going to club.
-Dialogue: 0,0:07:14.04,0:07:20.58,Default,Shirou,0,0,0,TM,{\q2\i1}As for why, I wanted more time at work. \NI was only ever in it to stay in shape anyway, {## split}
-Dialogue: 0,0:07:21.10,0:07:24.31,Default,Shirou,0,0,0,,{\i1}so it felt like a good enough opportunity to quit.
-Dialogue: 0,0:07:30.43,0:07:34.67,Default,Shirou,0,0,0,,{\q2\i1}And, and this may seem \Npretty minimal all things considered,
-Dialogue: 0,0:07:38.11,0:07:39.43,Default,Shirou,0,0,0,,I'm home.
-Dialogue: 0,0:07:40.72,0:07:43.40,Default,Sakura,0,0,0,,Welcome back, Senpai!
-Dialogue: 0,0:07:47.46,0:07:51.72,Default,Shirou,0,0,0,,{\q2\i1}but I found myself using \Nmy own key less and less often.
-Dialogue: 0,0:08:14.18,0:08:17.60,Default,Fuji-nee,0,0,0,TM,Ho-ho-ho! Merry Christmas!
-Dialogue: 0,0:08:18.77,0:08:20.60,Default,Fuji-nee,0,0,0,,Lemme tell ya...
-Dialogue: 0,0:08:23.65,0:08:28.51,Default,Fuji-nee,0,0,0,,Shirou was {\i1}always{\i0} trying to be just like Kiritsugu-san.
-Dialogue: 0,0:08:28.51,0:08:31.11,Default,Fuji-nee,0,0,0,,He'd keep shouting, "I'm gonna be a superhero!"
-Dialogue: 0,0:08:31.11,0:08:35.46,Default,Shirou,0,0,0,,What's this about now? I swear, drunk people.
-Dialogue: 0,0:08:35.46,0:08:40.45,Default,Sakura,0,0,0,,Kiritsugu-san was Senpai's father, yes?
-Dialogue: 0,0:08:42.78,0:08:46.71,Default,Fuji-nee,0,0,0,,Kiritsugu-san was like Shirou's hero.
-Dialogue: 0,0:08:46.99,0:08:50.40,Default,Fuji-nee,0,0,0,,No wonder he wanted to be just like him.
-Dialogue: 0,0:08:51.12,0:08:54.02,Default,Fuji-nee,0,0,0,,{\q2}Surely you must have a hero \Nyou look up to too, right?
-Dialogue: 0,0:08:59.27,0:09:02.12,Default,Sakura,0,0,0,,My hero...
-Dialogue: 0,0:09:26.07,0:09:27.27,Default,Sakura,0,0,0,,Senpai!
-Dialogue: 0,0:09:34.21,0:09:36.06,Default,Issei,0,0,0,,Hey, Emiya.
-Dialogue: 0,0:09:36.06,0:09:37.77,Default,Shirou,0,0,0,,Oh. 'Sup, Issei.
-Dialogue: 0,0:09:37.77,0:09:40.00,Default,Mitsuzuri,0,0,0,,Well, if it ain't Emiya!
-Dialogue: 0,0:09:40.00,0:09:42.49,Default,Mitsuzuri,0,0,0,,Help us scout new members, will ya?
-Dialogue: 0,0:09:42.49,0:09:44.46,Default,Mitsuzuri,0,0,0,,Hmm? Who's this?
-Dialogue: 0,0:09:44.94,0:09:47.56,Default,Shirou,0,0,0,,Oh, this is Shinji's sister.
-Dialogue: 0,0:09:47.56,0:09:49.47,Default,Mitsuzuri,0,0,0,,Ooh, for real?
-Dialogue: 0,0:09:49.47,0:09:52.30,Default,Mitsuzuri,0,0,0,,{\q2}Why, hello there! \NYou happen to be interested in archery?
-Dialogue: 0,0:09:52.30,0:09:54.95,Default,Mitsuzuri,0,0,0,,Your brother does it, \Nso there's gotta be {\i1}some{\i0} interest, ye?
-Dialogue: 0,0:09:54.95,0:09:56.27,Default,Mitsuzuri,0,0,0,,Oh, you are?
-Dialogue: 0,0:09:57.25,0:09:58.54,Default,Sakura,0,0,0,,Sakura...
-Dialogue: 0,0:09:58.54,0:10:00.58,Default,Mitsuzuri,0,0,0,,Sakura! Great!
-Dialogue: 0,0:10:00.58,0:10:02.70,Default,Mitsuzuri,0,0,0,,How's it sound? Wanna join the archery club?
-Dialogue: 0,0:10:02.70,0:10:04.80,Default,Mitsuzuri,0,0,0,,Or you got another club you wanna join?
-Dialogue: 0,0:10:04.80,0:10:05.88,Default,Sakura,0,0,0,,N-No...
-Dialogue: 0,0:10:05.88,0:10:07.36,Default,Mitsuzuri,0,0,0,,Perfecto! Come join us, then!
-Dialogue: 0,0:10:07.36,0:10:09.83,Default,Issei,0,0,0,,Geez. Pushy as ever.
-Dialogue: 0,0:10:16.10,0:10:17.59,Default,Issei,0,0,0,,What's wrong, Emiya?
-Dialogue: 0,0:10:18.05,0:10:19.18,Default,Shirou,0,0,0,,Nothing...
-Dialogue: 0,0:10:19.18,0:10:21.47,Default,Fuji-nee,0,0,0,,Hey, Shirou!
-Dialogue: 0,0:10:26.17,0:10:29.10,Default,Fuji-nee,0,0,0,,Thanks a bunch, Sensei.
-Dialogue: 0,0:10:29.10,0:10:31.14,Default,Shirou,0,0,0,,Aren't you a sensei, too?
-Dialogue: 0,0:10:43.04,0:10:44.51,Default,Sakura,0,0,0,,Senpai?
-Dialogue: 0,0:10:44.51,0:10:46.15,Default,Shirou,0,0,0,,Oh, it's nothing.
-Dialogue: 0,0:10:46.15,0:10:49.08,Default,Fuji-nee,0,0,0,,All right, smile, everyone!
-Dialogue: 0,0:11:29.20,0:11:30.86,Default,Shirou,0,0,0,,Trace on.
-Dialogue: 0,0:11:40.63,0:11:43.14,Default,Shirou,0,0,0,,Ugh, I have to take another one apart...
-Dialogue: 0,0:12:05.93,0:12:08.62,Default,Shirou,0,0,0,,{\i1}Oh. Again.
-Dialogue: 0,0:12:09.47,0:12:13.31,Default,Shirou,0,0,0,,{\i1}The flames lap away at my old memories,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}as if to forbid me from retaining them.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Whenever I dream, this is the endpoint I always reach.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}So I'm about to wake up.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Good morning.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Morning, Sakura.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You know, Sakura, you really don't have to come over every single day.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You have your own life to attend to.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,It's all right. Cooking and archery are my only hobbies.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,And one of my goals for the future is to cook better food than you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I think it's just about within reach.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You saying you've been learning my secrets?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Absolutely. I hope you're ready.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Also, I just can't find food delicious anymore unless I eat it at your house.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Come on, we'd better hurry if you want to make it to morning practice.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Emiya, are you going out with Matou's sister?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,You see, I saw you enjoying yourselves on your way to school together.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Come on, she's my friend's sister.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Get real.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Heck, if you saw me, you should've said something.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Unfortunately, I am still in training.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Such a daring move is far beyond me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Whatever.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Anyway, I'm done with this one.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Morning, Shinji.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Hey, Emiya.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Starting the day off by sticking your nose where it doesn't belong?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,You're a weird one, I'll give you that.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Well, I've got nothing better to do.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,If you ever need help with something, just say the word.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You've always had a hard time stringing and fixing bows, right?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Say, Emiya, you're through with the archery club, right?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Don't you think it'd be in your best interests to mind your own business?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,First off, pronunciation.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Even though the spelling's the same...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Emiya, wanna have lunch?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sorry. I'm going to the cafeteria today.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Oh, Sakura—
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Who was that?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Oh, she's a second-year. Her name is Tohsaka—
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka, right? Tohsaka Rin.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Do you know her, Senpai?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Well, you know, she's kinda famous.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,She always stands out.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Yes, you're right.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Tohsaka-senpai's so pretty, so gallant...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, are you ever going to come back to the archery club?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I dunno.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I don't think Shinji would like that.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I think my brother doesn't like you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,But he still likes you much more than anyone else.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,He's dishonest at heart, so if he hates you, that means he actually likes you.{Fuckin' Nasu.}
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,That's one heck of a personality.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Good night, Senpai.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Do I hear bugs?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,But it's winter right now.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Well.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,I hear you've done a great deal for my granddaughter.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Um, I'm sorry! My name's Emiya Shirou.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm in Shinji's class.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Emiya...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Is the daughter of the Einzberns in good health?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}This dream again.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Right after this, Kiritsugu saved me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Bloomers,0,0,0,,You'd better summon yours soon,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Bloomers,0,0,0,,or you'll die, Onii-chan.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,On to our next headline.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,Late last night, there was a large-scale gas leak in the office district of Shinto.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Done.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura, can you get me a plate?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Sure.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,What's the matter?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura, you sure you're okay? You didn't even have one bite.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,You can skip morning practice if you want.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Even the club advisor says it's okay.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,No, I'm fine.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, I have a favor to ask of you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Could you please try to come home from school as early as possible today?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,This just in.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,In the residential district of Fuyuki-shi, Miyama-cho,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,four individuals were discovered dead in their home.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,According to a press release from the Fuyuki police department,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,the victims were all killed by some sort of blade. The police are...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Mitsuzuri,0,0,0,,Emiya. Emiya.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Mitsuzuri,0,0,0,,Emiya!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Mitsuzuri,0,0,0,,Morning, Emiya.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Morning, Mitsuzuri.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Emiya, do you know about the murder incident that occurred last night in Miyama-cho?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Murder?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Have they caught the guy?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,No, not yet.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,I suppose we'll have to suspend after-school club activities.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kuzuki,0,0,0,,Excuse me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kuzuki,0,0,0,,Ryuudou, can I borrow you?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Oh, sure.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Sorry, Emiya. We can continue this conversation later.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Well, if it isn't Emiya.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,This is a first-year classroom.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What're you doing here?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I thought you didn't have club today.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Club or no club, I'm a busy man. I've got things to do.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Hey, why don't you—
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Try not to give Mitsuzuri too much trouble, okay?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What do you mean by that?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I don't want to hear it from an outsider.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,That reminds me, Emiya!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Mind doing me a solid?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sure. What is it?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Just some dumb cleaning up after the dumb archery club.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Isn't that supposed to be your job?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I've got things to do, remember?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,But you don't, right?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Help a guy out.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Emiya.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Okay. I don't mind.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,That a fact?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Have fun, Mister Goody Two-Shoes.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,PA,0,0,0,,After-school club activities have been suspended for today.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,PA,0,0,0,,All faculty and students are to leave school by six PM.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Mom,0,0,0,,Come on, let's go home.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Child,0,0,0,,Okay!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Child,0,0,0,,See you later!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Other child,0,0,0,,See ya!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Girl,0,0,0,,Hey, let's go in that place!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Other girl,0,0,0,,Yeah, I've been curious about it!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I guess I got a little too into it.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah, let's go home.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What the heck?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Who's there?!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}What the heck?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}What the heck /is/ that?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Gotta get away.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}If I don't, I'll die!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Hey.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Pitiful. This summoning was far too incomplete, far too sloppy.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Though the actors have gathered, their places and their stage are yet unarranged.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,This Holy Grail War is a far cry from the grand ritual we sought.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,But once it has begun, it cannot be stopped.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,If water fills a chalice, someone must drink it.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Fortunately, the supervisor from the Church is none other than that man.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,He will mediate this twisted Holy Grail War well.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,The Grail summons Heroic Spirits, and the Heroic Spirits require contractors.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,If one is swept up into this ritual, their fate is to kill or be killed.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,There need only be one left alive.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,The seventh Servant to be summoned was that Saber.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,And her Master is the son of Emiya.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Truly, fate must be at work.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,The Church is a neutral zone. I cannot move against him.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Now, will that man be a saint worthy of preaching the gospel, or will he not he not?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Coming, Emiya-kun?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I don't know why a third-rate magus like you got chosen as a Master,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,but the man you're about to meet will explain the Holy Grail War to you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Careful, he's a creep.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,You continue to reject my repeated summons,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,but I see you've brought quite the odd guest.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Is he the seventh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,My name is Kotomine Kirei. I have been entrusted with this church.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Emiya Shirou?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Am I correct in assuming that you are Saber's Master?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber did save me, yes.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,But if you have to be a real magus to be a Master,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,you should pick someone else.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Pick a new Master?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Interesting.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Then do you have no interest in the events of ten years ago?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,The Holy Grail holds omnipotent power in the world of magi.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,It is a vessel that can grant any wish at all.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,The chosen Masters fought and killed each other to obtain it.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,As a result, an unfortunate accident occurred.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,An accident large enough to be called a disaster.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Are you telling me that was...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Yes. It is an event any resident of this city would know.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Five hundred casualties, one hundred and thirty-four buildings burned to the ground.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,That raging inferno of cause yet unknown
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,is a scar caused by the Holy Grail War.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Kirei, I told you to explain the rules to him!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I never asked you to reopen his wounds!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Is this Holy Grail for real?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Last time, there was a man who obtained the Holy Grail, albeit temporarily.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What happened to him?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Nothing. That Holy Grail had not achieved completion.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,The Holy Grail will not avail itself to a man who avoids combat..
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You sound like you saw it yourself.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I did.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Last time, I participated as a Master and fought for the Holy Grail.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Wait, really?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I fought until partway through the war.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,However, I made a crucial mistake in judgment.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,As a result, I merely obtained an empty Grail.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,What do you me—
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Our conversation was only just beginning,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,but it seems we have a rather impatient guest.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Say, do you know of the Einzberns?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Now, young man, you are out of time.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Let me hear your answer.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,If the Holy Grail War really was the cause of the disaster ten years ago,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'll...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,fight.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'll fight as a Master!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Rejoice, young man.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Your wish will finally come true.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Every superhero needs a villain to defeat.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Well, I suppose a Servant would never remember.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Are you done talking?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Good evening, Onii-chan. I'm Illya.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Illyasviel von Einzbern.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Thanks for the introduction.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Okay, time to kill you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Get them, Berserker.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Saber!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Run.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Just run!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Of all the times to not have Archer!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,That's the spirit, Berserker!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,She regenerates, so lop off her head and have your way with her!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}I'm an idiot.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Hey!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,No way.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Why?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,This is boring.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Master!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,God, what is /wrong/ with you?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kiritsugu,0,0,0,,{\i1}When I was a kid, I wanted to be a superhero.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kiritsugu,0,0,0,,{\i1}But being a hero has a time limit. Once you're an adult, it gets harder to call yourself one.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Kiritsugu...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kiritsugu,0,0,0,,{\i1}And taking someone's side means not taking someone else's.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}What do I have to do to be a superhero?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm healed...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Master.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Are you all right?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You awake now?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Did you do this?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,No, you healed those wounds by your own power.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,No way. I can't do something as crazy as that.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Then maybe your contract with Saber is affecting something.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,First of all, let's hear your excuse for that stunt you pulled.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I didn't really do anything wrong.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It just didn't go as well as...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,We Servants live on the mana provided by our Masters.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,If that mana source disappears, we cannot remain here.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Oh, I didn't know.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Well, now you do.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Anyway, I'm gonna get going.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I need to start treating my own Servant.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Oh, and next time we meet, we're enemies.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,She's a good person.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What about your injuries, Saber? Are you okay?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Yes, though I'd hesitate to say I'm in perfect condition.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Um, do you want the Holy Grail, too?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Yes. It is the reason I'm here.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Berserker's Master called herself "Einzbern."
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Didn't think a little kid like her would be in this.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,There is someone employing magecraft nearby.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,I do not sense Berserker.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,This is someone completely different.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Master, your orders?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Let's go.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Be on your guard. A bounded field has been erected.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Where have I felt this before?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Mitsuzuri?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Mitsuzuri!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Now this is a surprise.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Who would've thought you'd be here, Emiya?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Why?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Oh, right.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,We had the president of the archery club help us out a little.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What's that, your Servant?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Allow me to introduce you. This is my Servant.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Let's have 'em fight, Emiya.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I've always wanted to see a fight between two Servants.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji, why are you a Master?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,The Matous are an old but noble lineage of magi.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,As far as they Holy Grail War ar goes, they're one of the three great families.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I wish I didn't have to tell a amateur like you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,As the first-born son of the family...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,don't you think it's only right that I join this Holy Grail War?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I see you're just as thick in the head as always!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,You've figured it out, haven't you?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,This is a game we're all playing for keeps!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Go, Rider!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Uh...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Hey.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Who told you you could lose, huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Stand up.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Stand up.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Stand up!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,You're making it look like I'm weaker than him, dammit!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What? Why?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Dammit!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Go out! Go out!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Go—
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,It seems the burden was too much for you to bear, Shinji.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,This is as far as the Matous go.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,What a shame, indeed.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You're...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Grandfather! Wait!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I'm a magus of the Matou family! I'll...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Once incompetent, always incompetent.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,The Matou bloodline has fallen from its former glory.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,There is absolutely nothing I expect out of you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Out of him?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Wait! Hold on!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You're not making Sakura do this stuff, are you?!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Why are you bringing up her name, huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I'm all we need.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,That piece of trash doesn't know the first thing about magecraft!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,The teachings of the Matous are mine, and mine alone!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Mitsuzuri!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,She is a victim of the Holy Grail War,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,so the proper course of action would be to leave her with the supervisor.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Honestly, never did I expect you to return in a matter of hours.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Gilgamesh,0,0,0,,Interesting.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Gilgamesh,0,0,0,,You seem to have caught the eye of something quite nasty.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I will be taking care of her now.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,So you stayed.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,How's Mitsuzuri?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I have finished treating her.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,You have nothing to worry about.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,In fact, you appear to be much worse off than she is.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm all healed up now.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,In the War ten years ago, there was a man who stood against me
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,despite suffering lethal wounds, like yourself.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He was the man who fought me at the end, as well as the man who would become the winner of the previous Holy Grail War.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,His name was Emiya Kiritsugu.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Mitsuzuri's gonna be okay,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,That is a relief.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You seemed to be having quite the long conversation.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,He asked me about Kiritsugu. My father.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Master,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,there is something I must tell you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,In a word, the man known as Emiya Kiritsugu was a hitman.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He made it his livelihood to exclusvely kill magi.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,All magi are unbound by the ethics of the world at large,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,but even among them, he was a wonder.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Last time, I was called to this time period and fought as the Einzberns' Servant.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,My Master's name at the time was Emiya Kiritsugu.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,But...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He truly never did shed blood or tears.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He would consider any method fair game to acheive his goals.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Even face-to-face with an opponent begging for his life, he eliminated him.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,In the midst of the war, Kiritsugu considered that priest his greatest enemy.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,A fittling descriptor for us.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,We had no other option but to kill each other.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,He and I fought in the Holy Grail War and survived to the end.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Emiya Kiritsugu betrayed the Holy Grail at the very end.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,He destroyed the Holy Grail.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Kill the one to save the ten.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He was an irredeemable saint.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I still don't think the Kiritsugu I know would abandon victims of the Holy Grail War.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I've always looked up to superheroes like that.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,So that's why I'm fighting.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I should've said this sooner, but Saber, I want us to fight together.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Regardless of my past, the Command Spells bind me to my Master.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,If you want, you can call me Shirou.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Then Shirou it is.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Yes, I do prefer this pronunciation.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Thanks.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Ready to head home?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Yes.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Wow, you knew Kiritsugu-san?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,It's too bad your luggage didn't get here...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Sorry you have to use Shirou's hand-me-downs, Saber-chan.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Oh, it's no trouble at all.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Kiritsugu-san's so mean.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,I know he traveled abroad a lot, but still.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Do you have any stories about him?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sorry I sprung this on you out of nowhere, Sakura.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I don't mind.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,So, um...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Did you see Shinji this morning?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Yes. Do you need something?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Nah, if nothing happened, it's all good.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, Senpail...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura, this bruise...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Was it Shinji?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You've got balls, coming to school without your Servant.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You think I'm not a threat?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Let's make a deal, Tohsaka! I need your help!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Uh, huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Let's see... Shinji's a Master, Ayako got attacked, and Rider disappeared...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,So what? That's not all, is it?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji has a sister. Her name is Sakura.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,What about her?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura might get caught up in this. I don't think Shinji's given up.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,At this rate...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Then you should probably keep her safe at your place.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,At least, if she's really that important to you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Sakura.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Breakfast this morning was sublime.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,And now you're even preparing lunch.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You have my thanks.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, it's nothing...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Also, if there's anything I can do to help, please say so.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Fight!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Well, in that case...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm home!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I figured we'd need a lot.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber, this is for you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Your, uh, luggage came in.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Oh, that's cute!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Man, I owe Tohsaka big-time.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I realize you need things for daily life,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,but this seems like quite a lot.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Oh, yeah.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Fuji-nee, I wanna have Sakura stay over here for a little while.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Where'd that come from, Shirou?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It's pretty dangerous around town nowadays.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Plus, Shinji's been too busy to go home.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,That's right!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I have to go get Saber-san's room ready.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Ow!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,I'll go, too.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Not gonna stop Saber-chan?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,You afraid Sakura-chan's gonna get the wrong idea?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What makes you think that?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Get a load of this.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,I hear Sakura-chan's an E cup!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What are you talking about?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou, Sakura collapsed!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I'm sorry.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Guess my idea's paying off already.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'll stay here a little longer.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'll keep an eye on you for another half an hour, so get some rest.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Yes.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Thank you for watching me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Hmm?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,About what you said earlier...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Why are you letting me stay here?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Are you worried about me?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah, I am.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,So I'd really like it if you stayed here.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, I'll take you up on that.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Assassin,0,0,0,,Narily did I expect such manner of serpent...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Is something the matter, Souichirou?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kuzuki,0,0,0,,Stay here with everyone.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Caster,0,0,0,,Assassin, come out.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Caster,0,0,0,,Assassin!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Caster,0,0,0,,Souichirou-sama...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,What is this man?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,First, I cut its neck.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,Arms, legs, all cut.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,I rent its stomach.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,But it moved.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Caster,0,0,0,,So you're the real Assassin, are you?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,You will release me, witch.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Caster,0,0,0,,Are you happy now?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,It's all right.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You have my consent.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You can have your way with me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, Senpai...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Come on, what am I thinking?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sa—
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Hello?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Oh, Fuji-nee.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You can't come today?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Okay.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I went to Ryuudou Temple last night.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,The mana from the coma incidents in Shinto was flowing back there.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Archer's all healed up, so I thought I'd investigate.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Long story short, Caster was making Ryuudou Temple her base.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,But by the time I got there, someone had already taken care of her.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,The residents of the temple had their mana stolen, and now they're comatose.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,And since Kuzuki-sensei was the only one who got killed,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,he was probably Caster's Master.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Now, here's the real problem.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,There was another coma incident in Shinto this morning.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Even though Caster's gone?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Sakura ended up staying with you, right?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh? Yeah.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,She's been at my place since yesterday.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Wanna team up, Emiya-kun?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Everything's turning out different this time from what my father told me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,So before anything else, I wanna figure out what's going on.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You want a temporary alliance?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Yep, that's it.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,Rin.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,I fail to see the meaning in joining up with a powerless Master.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What was that?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,Am I wrong?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Archer, you'd better do as your Master says.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Let's hit the ground running.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Can you go outside tonight?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You formed an alliance with Archer's Master?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sorry to spring it on you out of nowhere.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,It's fine.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Besides, the sooner we end the Holy Grail War,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,the sooner Sakura can go back to her normal life.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou, I believe Sakura is in rather poor health.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Oh, no, perhaps I'm overthinking it.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura, is someone here?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What is it, Emiya?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I'm Sakura's brother.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What's wrong with me coming to bring my adorable sister home?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What kind of brother hits his sister?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,After what you did to Mitsuzuri, I can't trust you to keep Sakura safe.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Oh, I get it now.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,If you're coming after me like this already, that must mean
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,you don't wanna let her go 'cause you haven't had enough of her yet, huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Screw you!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Nice face.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Come at me. Let's pick up where we left off.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Stop it, Nii-san!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I'll do whatever you say.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Just don't do this in front of Senpai!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Sakura, don't you dare forget what you just said.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, I'm sorry.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You have nothing to apologize for.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,No good. I can't focus.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai? Are you there?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Can we talk for a little bit?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sure...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, I'm sorry for how my brother acted.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I told you, it's not your fault.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It's pretty cold, huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Gimme a sec.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,It's so warm.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,You fixed it?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Took a lot out of me, though.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, do you remember?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,This happened a long time ago.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Back before I met you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,It was a bright red sunset.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,The schoolyard, the hallways, everything was red.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,It was pretty, but also lonely.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Around then, I saw someone doing running long jumps in the schoolyard.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Back then, I wasn't a very good person.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I watched him and kept hoping he'd mess up.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,But...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,No matter how many times he tried, he never made the jump,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,and eventually he realized he couldn't do it, so he cleaned up and went home.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Uh, Sakura...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Are you saying, uh...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Yes. He was the upperclassman sitting next to me right now.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,That's how long I knew about you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Oh. That's news to me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, Senpai.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Can I ask you a difficult question?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I heard this from Fujimura-sensei, but were you really adopted into this family?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah, I am.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Does that not bother you?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It took some time to get used to, but it's nothing worth losing sleep over.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,You must have been surrounded by kind people.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,In my case, the people older than me were all pretty unreliable.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Kiritsugu sucked at housework, and you know how Fuji-nee is.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I started doing the chores and just kinda fell into a groove.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I just wanted to be like Kiritsugu.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Like a superhero?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh? That's weird.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, I have another question.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,If I ever did something bad, would you forgive me?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,No. If you do something bad, I'll get mad at you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'll be first in line to yell at you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Thank you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,That would make me happy.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I'll go to sleep now.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Good night, Senpai.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Dispatcher,0,0,0,,Miyama HQ to Miyama ambulances.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Dispatcher,0,0,0,,Miyama HQ to Miyama ambulances.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Dispatcher,0,0,0,,This just in from the front.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Dispatcher,0,0,0,,Okay, screw it, this shit's too faint. We'll have to reference other subs.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Hey.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,That your handiwork?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Nah, maybe that's too hard for a filthy sand worm like you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,You're not going anywhere.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,To me!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,That's not gonna work.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,I was born this way. Projectiles don't work on me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,The blessing of stray arrows, I see.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,You paint your weapons black to hide them in the darkness.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Ridiculous.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,You have seen beneath my mask, Lancer!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,And I'm just getting started.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,This is where you lead me?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,What's a sand worm want from a watering hole, huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,If you do not move, you will be consumed.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,You know what this thing is?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,Noble Phantasm...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,Zabaniya!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Noble Phantasm!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,It's a bit early, but this ends here!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Gae...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Bolg!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,You have lost this battle!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,{\i1}Well, this couldn't have gone worse.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,We can talk on the way.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Also, we're being watched, so be careful.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Can I assume that was your doing,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,elder of the Matou family?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Impressive, daughter of Tohsaka.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,What an exemplary magus you are.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Zouken!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I thought the Matous were out of the game!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Not once did I say I myself had lost.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Archer!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You fiend...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You would make a mockery of a Heroic Spirit's corpse?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,How dare you?!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber! Don't let that sword—
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,Don't let that sword touch you!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,That sword destroys magecraft.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,It can sever a Master-Servant contract.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,She's bad news...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,I thought to settle this quickly...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Indeed, her magecraft would not work on Saber.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,But what if her Master were caught in the blast?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Impossible.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,It can't be!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,What? What is that?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka, look!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What in the world /is/ that?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,A complex number space?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Impossible.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Impossible. Impossible!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Caster vanished?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,He didn't touch the main body.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,It's more like he caught a fever.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Archer, do you know what that thing was?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,Nope.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,But that shadow is probably what's sucking mana out of the people of this city.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun, are you okay?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,Looks like we can't prioritize our personal vendettas anymore.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Sakura, I'm sorry. I should have prevented this.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Let me see him.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,All you're doing is hurting him.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,So you came.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Apologies for calling you out here.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I arrived early, so I took the liberty of ordering a meal.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It's fine.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Want some?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Hell no!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Why did you call me here?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Emiya Shirou, what did you see last night?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,You see, I have my own stake in this Holy Grail War.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Rin has reported to me about the incident at Ryuudou Temple.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,We got into a fight with Matou Zouken.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,He had Caster with him, but, uh...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It looked like he was puppeting her corpse.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,So that old man has made his move...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Emiya Shirou.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Even Rin does not know this, but the night Caster was killed at Ryuudou Temple,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,a single Servant left its bounded field.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Do you know which one?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,No.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,It was Assassin.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,How do you know that?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,My Servant, Lancer, saw it all.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I'm saying I was a Master, too.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Uh, crap... What's all this mean?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I had ordered Lancer to surveil Assassin.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He cornered him at Ryuudou Temple, but never returned.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Did Assassin kill him?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Assassins often rely on skills to erase their presence.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Their individual combat abilities are not high.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Lancer would never lose in conventional combat.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Emiya Shirou, you saw more last night than just Matou Zouken and Caster.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I wager that Assassin knew full well what he was doing when he lured Lancer.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,What lurks there has turned against not just Servants, but the people of this city, as well.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,If we liken Caster's absorption of mana to drawing blood,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,that thing's methods are the act of consuming a meal.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,If we let it roam free, this city will end up uninhabited.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Thirty people unconscious?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,It happened on South Fourth Street in Miyama.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,What exists there?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Ryuudou Temple...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,What is the matter? Will you not eat?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'd rather die than share a meal with you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Sakura?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,It's started snowing.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Hey, Sakura's at your place, right?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Y-Yeah.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Okay, that's a relief.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,That way, I won't run into her by accident.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I'm going after Zouken. I'll visit the Matou household.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,That's...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I have history with the Matous.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You can leave the old-fashioned magecraft battle to me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Hey, Emiya-kun.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,What are you gonna do?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Saber-san, I don't know what you and Senpai are doing.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I don't think you'd tell me if I asked.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,But Senpai came home injured last night.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I don't want Senpai to be in any danger.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm gonna go after that shadow.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,We can't let it roam free.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It's already victimized the townspeople.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Oh?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Then I guess our ceasefire's continuing for a little longer.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,We can't turn a blind eye to that shadow,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,but don't bite off more than you can chew.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Not until we know what it is.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Sakura scolded me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Last night, I wasn't capable enough to protect you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I just went and collapsed on my own.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,If there is a problem, it lies with me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,I cannot stop you from going to battle.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,But I will fight by your side and protect you.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,That is my duty.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,For Sakura's sake, too.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What the heck?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sa—
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou, it's Assassin!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You stay here!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,How very like you to come here.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Matou Zouken!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,I will be in danger if I take that wind head-on.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Wind...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Rampage!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,The blessing of wind protection.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,It is indispensable for any who would cross the desert.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,I care not if you refuse to approach,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,but my lord is currently entertaining yours.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Fiend!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,My job was only to draw your attention.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Assassin, you...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,No Servant can resist that shadow.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,One as pure as yourself will lose their mind from a single touch.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,But first,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,I will be taking your heart.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Trace on!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,What can you do with a single flimsy stick?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,Zabaniya.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,The strongest Servant, indeed.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,She chose confronting her own darkness over having her heart stolen.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,It appears things have been settled.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,If you are a Master, you should know.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Your Servant has been obliterated from this world.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Bastard!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,I leave this to you, Assassin.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Rider,0,0,0,,Are you unhurt?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Rider,0,0,0,,That is good.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What the hell are you?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Oh. I guess this means
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}I'm officially not a Master anymore.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,What is this?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,He calls this a training ground?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,This is... This /thing/ is...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Do you curse me?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Do you curse me for extending my rotting life with others' bodies?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,No.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,Your tenacity for survival is what makes you fit to be my lord.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,There's a mischievous cat among us.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sella,0,0,0,,A cat?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Leysritt,0,0,0,,Meow meow meow.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Sella, ready the car.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,I'm going into the city tomorrow.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,I don't know who you are,
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,but that belongs to the Einzberns.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,{\i1}Did I lose?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,{\i1}Is that...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Could it be?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Alteria,0,0,0,,Give it up.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,It's the Holy Grail!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,I must obtain it!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Alteria,0,0,0,,I told you to give it up.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Who are you? Why do you stand in my way?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Alteria,0,0,0,,Who am I?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Alteria,0,0,0,,You can tell at a glance, can you not?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Where have you been?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,You got hurt again...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,You need to take better care of yourself!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sorry.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm sorry.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,And...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm home, Sakura.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Yes.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Welcome back, Senpai.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Hey, Kiritsugu.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}I don't get it.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}What do I have to do to become a superhero?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}I can't let it end here.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}There's still someone I have to fight.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, I...
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,I thought maybe I could see you if I came here.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,The Tohsakas had two children with an aptitude for magecraft.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,This makes the second time I've received something from someone precious to me.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Gilganator,0,0,0,,Take this opportunity to die, girl.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I promise. I'll...
+Dialogue: 100,0:00:57.66,0:00:59.87,Default,Rando,0,0,0,,Shirou Emiya is pretty good.
+Dialogue: 100,0:00:59.87,0:01:01.62,Default,Fuji-nee,0,0,0,,Isn't he?
+Dialogue: 100,0:01:02.08,0:01:07.03,Default,Rando,0,0,0,,{\q2}And with Ayako Mitsuzuri and Shinji Matou, \Nwe've got the Rookie Competition in the bag.
+Dialogue: 100,0:01:07.57,0:01:08.96,Default,Fuji-nee,0,0,0,,Yup!
+Dialogue: 100,0:01:10.11,0:01:11.72,Default,Rando,0,0,0,,But Fujimura-sensei, well...
+Dialogue: 100,0:01:11.72,0:01:12.43,Default,Fuji-nee,0,0,0,,Hmm?
+Dialogue: 100,0:01:13.34,0:01:16.63,Default,Rando,0,0,0,,Even among the first-years, Emiya feels kinda...
+Dialogue: 100,0:01:16.63,0:01:21.99,Default,Rando,0,0,0,TM,{\q2}I dunno, different, I suppose? \NI have a hard time pinning it down. {## split?}
+Dialogue: 100,0:01:36.60,0:01:39.62,Default,Shinji,0,0,0,,You got hurt at work right before the tournament?
+Dialogue: 100,0:01:39.62,0:01:40.87,Default,Shinji,0,0,0,,The hell, man?
+Dialogue: 100,0:01:41.74,0:01:45.25,Default,Shinji,0,0,0,,{\q2}Swear to god. Everyone's gonna be \Noff their game now, You know that, right?
+Dialogue: 100,0:01:45.70,0:01:47.09,Default,Shirou,0,0,0,TM,I'm sorry.
+Dialogue: 100,0:01:47.09,0:01:51.34,Default,Shirou,0,0,0,TM,{\q2}But you and Mitsuzuri should be \Nable to handle it, no sweat.
+Dialogue: 100,0:01:57.82,0:01:58.95,Default,Shirou,0,0,0,,Sorry.
+Dialogue: 100,0:02:13.86,0:02:15.23,Default,Shirou,0,0,0,,I'm home.
+Dialogue: 100,0:02:54.40,0:02:56.30,Default,Shirou,0,0,0,,Commence tuning.
+Dialogue: 100,0:02:59.45,0:03:01.57,Default,Shirou,0,0,0,,Analyzing base framework.
+Dialogue: 100,0:03:02.53,0:03:05.08,Default,Shirou,0,0,0,,Analyzing component materials.
+Dialogue: 100,0:03:05.79,0:03:08.08,Default,Shirou,0,0,0,,Altering base framework.
+Dialogue: 100,0:03:09.21,0:03:11.54,Default,Shirou,0,0,0,,Reinforcing component materials.
+Dialogue: 100,0:03:37.44,0:03:38.57,Default,Shirou,0,0,0,,Is it raining?
+Dialogue: 100,0:04:09.10,0:04:11.60,Default,Shirou,0,0,0,,Aren't you Shinji's little sister?
+Dialogue: 100,0:04:13.29,0:04:18.75,Default,Best girl,0,0,0,,Yes. My name is Matou Sakura.
+Dialogue: 100,0:04:31.62,0:04:34.62,Default,Fuji-nee,0,0,0,,Shirou! I'm here to check on you!
+Dialogue: 100,0:04:35.96,0:04:37.79,Default,Fuji-nee,0,0,0,,How are you holding up?
+Dialogue: 100,0:04:40.55,0:04:42.50,Default,Shirou,0,0,0,,Uh, I can explain!
+Dialogue: 100,0:04:42.50,0:04:44.97,Default,Shirou,0,0,0,,Look, it's not what it looks like!
+Dialogue: 100,0:04:46.66,0:04:51.65,Default,Shirou,0,0,0,TM,{\q2}I mean, I've been able to get by \Non my own just fine, y'know?
+Dialogue: 100,0:04:51.65,0:04:56.31,Default,Shirou,0,0,0,TM,I can hardly put my friend's sister to work now, can I?
+Dialogue: 100,0:04:59.41,0:05:03.88,Default,Fuji-nee,0,0,0,,As Shirou's guardian, I also have my reservations...
+Dialogue: 100,0:05:03.88,0:05:08.52,Default,Fuji-nee,0,0,0,,{\q2}I help out with all the chores, \Nso it's okey-dokey here!
+Dialogue: 100,0:05:22.80,0:05:25.92,Default,Fuji-nee,0,0,0,,{\q2}Oh, y'know, we just happened to run into each other!
+Dialogue: 100,0:05:27.84,0:05:29.35,Default,Newscaster,0,0,0,,Now, on to today's headlines—
+Dialogue: 100,0:05:30.51,0:05:32.47,Default,Shirou,0,0,0,,The dishes go in the top cupboard.
+Dialogue: 100,0:05:32.47,0:05:35.85,Default,Shirou,0,0,0,,The bottom one is for the rice, the knives, and, uh...
+Dialogue: 100,0:05:37.23,0:05:38.94,Default,Shirou,0,0,0,,Whoa!
+Dialogue: 100,0:05:45.53,0:05:49.70,Default,Shirou,0,0,0,,So you fold the shoulder around to the back,
+Dialogue: 100,0:05:49.70,0:05:53.45,Default,Shirou,0,0,0,,line the sleeve up parallel to the crease,
+Dialogue: 100,0:05:53.45,0:05:57.79,Default,Shirou,0,0,0,,{\q2}and then you do the other side, \Nmaking sure it doesn't come unfolded...
+Dialogue: 100,0:06:00.78,0:06:04.11,Default,Shirou,0,0,0,,{\q2}Don't sweat it. Practice makes perfect. \NThis is good for now.
+Dialogue: 100,0:06:04.63,0:06:06.40,Default,Wife material,0,0,0,,Let me try again.
+Dialogue: 100,0:06:10.86,0:06:13.49,Default,Shirou,0,0,0,,All right, from the top.
+Dialogue: 100,0:06:16.05,0:06:18.42,Default,Sakura,0,0,0,,I'll be on my way.
+Dialogue: 100,0:06:18.42,0:06:21.06,Default,Fuji-nee,0,0,0,,See ya tomorrows, Sakura-chan!
+Dialogue: 100,0:06:21.98,0:06:22.78,Default,Fuji-nee,0,0,0,,Oops.
+Dialogue: 100,0:06:32.02,0:06:34.56,Default,Shirou,0,0,0,,{\i1}Yeah, I remember now.
+Dialogue: 100,0:06:35.39,0:06:42.61,Default,Shirou,0,0,0,,{\q2\i1}On that day a year and a half ago, \NI lost to a really stubborn younger girl.
+Dialogue: 100,0:06:49.91,0:06:51.89,Default,Shirou,0,0,0,,{\i1}The season came and went.
+Dialogue: 100,0:06:52.29,0:06:56.32,Default,Shirou,0,0,0,,{\q2\i1}But even after my shoulder healed, \Nmy lifestyle remained the same.
+Dialogue: 100,0:06:57.16,0:07:02.23,Default,Shirou,0,0,0,,{\i1}I don't remember if it was Sakura's idea or mine.
+Dialogue: 100,0:07:03.06,0:07:05.87,Default,Shirou,0,0,0,,{\i1}Whoever's it was, it was probably pretty trivial.
+Dialogue: 100,0:07:08.50,0:07:13.56,Default,Shirou,0,0,0,,{\q2\i1}If I had to name one thing that changed, \Nit'd be that I stopped going to club.
+Dialogue: 100,0:07:14.04,0:07:20.58,Default,Shirou,0,0,0,TM,{\q2\i1}As for why, I wanted more time at work. \NI was only ever in it to stay in shape anyway, {## split}
+Dialogue: 100,0:07:21.10,0:07:24.31,Default,Shirou,0,0,0,,{\i1}so it felt like a good enough opportunity to quit.
+Dialogue: 100,0:07:30.43,0:07:34.67,Default,Shirou,0,0,0,,{\q2\i1}And, and this may seem \Npretty minimal all things considered,
+Dialogue: 100,0:07:38.11,0:07:39.43,Default,Shirou,0,0,0,,I'm home.
+Dialogue: 100,0:07:40.72,0:07:43.40,Default,Sakura,0,0,0,,Welcome back, Senpai!
+Dialogue: 100,0:07:47.46,0:07:51.72,Default,Shirou,0,0,0,,{\q2\i1}but I found myself using \Nmy own key less and less often.
+Dialogue: 100,0:08:14.18,0:08:17.60,Default,Fuji-nee,0,0,0,TM,Ho-ho-ho! Merry Christmas!
+Dialogue: 100,0:08:18.77,0:08:20.60,Default,Fuji-nee,0,0,0,,Lemme tell ya...
+Dialogue: 100,0:08:23.65,0:08:28.51,Default,Fuji-nee,0,0,0,,Shirou was {\i1}always{\i0} trying to be just like Kiritsugu-san.
+Dialogue: 100,0:08:28.51,0:08:31.11,Default,Fuji-nee,0,0,0,,He'd keep shouting, "I'm gonna be a superhero!"
+Dialogue: 100,0:08:31.11,0:08:35.46,Default,Shirou,0,0,0,,What's this about now? I swear, drunk people.
+Dialogue: 100,0:08:35.46,0:08:40.45,Default,Sakura,0,0,0,,Kiritsugu-san was Senpai's father, yes?
+Dialogue: 100,0:08:42.78,0:08:46.71,Default,Fuji-nee,0,0,0,,Kiritsugu-san was like Shirou's hero.
+Dialogue: 100,0:08:46.99,0:08:50.40,Default,Fuji-nee,0,0,0,,No wonder he wanted to be just like him.
+Dialogue: 100,0:08:51.12,0:08:54.02,Default,Fuji-nee,0,0,0,,{\q2}Surely you must have a hero \Nyou look up to too, right?
+Dialogue: 100,0:08:59.27,0:09:02.12,Default,Sakura,0,0,0,,My hero...
+Dialogue: 100,0:09:26.07,0:09:27.27,Default,Sakura,0,0,0,,Senpai!
+Dialogue: 100,0:09:34.21,0:09:36.06,Default,Issei,0,0,0,,Hey, Emiya.
+Dialogue: 100,0:09:36.06,0:09:37.77,Default,Shirou,0,0,0,,Oh. 'Sup, Issei.
+Dialogue: 100,0:09:37.77,0:09:40.00,Default,Mitsuzuri,0,0,0,,Well, if it ain't Emiya!
+Dialogue: 100,0:09:40.00,0:09:42.49,Default,Mitsuzuri,0,0,0,,Help us scout new members, will ya?
+Dialogue: 100,0:09:42.49,0:09:44.46,Default,Mitsuzuri,0,0,0,,Hmm? Who's this?
+Dialogue: 100,0:09:44.94,0:09:47.56,Default,Shirou,0,0,0,,Oh, this is Shinji's sister.
+Dialogue: 100,0:09:47.56,0:09:49.47,Default,Mitsuzuri,0,0,0,,Ooh, for real?
+Dialogue: 100,0:09:49.47,0:09:52.30,Default,Mitsuzuri,0,0,0,,{\q2}Why, hello there! \NYou happen to be interested in archery?
+Dialogue: 100,0:09:52.30,0:09:54.95,Default,Mitsuzuri,0,0,0,,Your brother does it, \Nso there's gotta be {\i1}some{\i0} interest, ye?
+Dialogue: 100,0:09:54.95,0:09:56.27,Default,Mitsuzuri,0,0,0,,Oh, you are?
+Dialogue: 100,0:09:57.25,0:09:58.54,Default,Sakura,0,0,0,,Sakura...
+Dialogue: 100,0:09:58.54,0:10:00.58,Default,Mitsuzuri,0,0,0,,Sakura! Great!
+Dialogue: 100,0:10:00.58,0:10:02.70,Default,Mitsuzuri,0,0,0,,How's it sound? Wanna join the archery club?
+Dialogue: 100,0:10:02.70,0:10:04.80,Default,Mitsuzuri,0,0,0,,Or you got another club you wanna join?
+Dialogue: 100,0:10:04.80,0:10:05.88,Default,Sakura,0,0,0,,N-No...
+Dialogue: 100,0:10:05.88,0:10:07.36,Default,Mitsuzuri,0,0,0,,Perfecto! Come join us, then!
+Dialogue: 100,0:10:07.36,0:10:09.83,Default,Issei,0,0,0,,Geez. Pushy as ever.
+Dialogue: 100,0:10:16.10,0:10:17.59,Default,Issei,0,0,0,,What's wrong, Emiya?
+Dialogue: 100,0:10:18.05,0:10:19.18,Default,Shirou,0,0,0,,Nothing...
+Dialogue: 100,0:10:19.18,0:10:21.47,Default,Fuji-nee,0,0,0,,Hey, Shirou!
+Dialogue: 100,0:10:26.17,0:10:29.10,Default,Fuji-nee,0,0,0,,Thanks a bunch, Sensei.
+Dialogue: 100,0:10:29.10,0:10:31.14,Default,Shirou,0,0,0,,Aren't you a sensei, too?
+Dialogue: 100,0:10:43.04,0:10:44.51,Default,Sakura,0,0,0,,Senpai?
+Dialogue: 100,0:10:44.51,0:10:46.15,Default,Shirou,0,0,0,,Oh, it's nothing.
+Dialogue: 100,0:10:46.15,0:10:49.08,Default,Fuji-nee,0,0,0,,All right, smile, everyone!
+Dialogue: 100,0:11:29.20,0:11:30.86,Default,Shirou,0,0,0,,Trace on.
+Dialogue: 100,0:11:40.63,0:11:43.14,Default,Shirou,0,0,0,,Ugh, I have to take another one apart...
+Dialogue: 100,0:12:05.93,0:12:08.62,Default,Shirou,0,0,0,,{\i1}Oh. Again.
+Dialogue: 100,0:12:09.47,0:12:13.31,Default,Shirou,0,0,0,,{\i1}The flames lap away at my old memories,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}as if to forbid me from retaining them.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Whenever I dream, this is the endpoint I always reach.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}So I'm about to wake up.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Good morning.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Morning, Sakura.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You know, Sakura, you really don't have to come over every single day.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You have your own life to attend to.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,It's all right. Cooking and archery are my only hobbies.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,And one of my goals for the future is to cook better food than you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I think it's just about within reach.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You saying you've been learning my secrets?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Absolutely. I hope you're ready.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Also, I just can't find food delicious anymore unless I eat it at your house.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Come on, we'd better hurry if you want to make it to morning practice.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Emiya, are you going out with Matou's sister?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,You see, I saw you enjoying yourselves on your way to school together.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Come on, she's my friend's sister.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Get real.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Heck, if you saw me, you should've said something.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Unfortunately, I am still in training.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Such a daring move is far beyond me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Whatever.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Anyway, I'm done with this one.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Morning, Shinji.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Hey, Emiya.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Starting the day off by sticking your nose where it doesn't belong?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,You're a weird one, I'll give you that.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Well, I've got nothing better to do.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,If you ever need help with something, just say the word.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You've always had a hard time stringing and fixing bows, right?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Say, Emiya, you're through with the archery club, right?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Don't you think it'd be in your best interests to mind your own business?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,First off, pronunciation.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Even though the spelling's the same...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Emiya, wanna have lunch?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sorry. I'm going to the cafeteria today.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Oh, Sakura—
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Who was that?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Oh, she's a second-year. Her name is Tohsaka—
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka, right? Tohsaka Rin.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Do you know her, Senpai?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Well, you know, she's kinda famous.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,She always stands out.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Yes, you're right.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Tohsaka-senpai's so pretty, so gallant...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, are you ever going to come back to the archery club?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I dunno.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I don't think Shinji would like that.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I think my brother doesn't like you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,But he still likes you much more than anyone else.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,He's dishonest at heart, so if he hates you, that means he actually likes you.{Fuckin' Nasu.}
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,That's one heck of a personality.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Good night, Senpai.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Do I hear bugs?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,But it's winter right now.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Well.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,I hear you've done a great deal for my granddaughter.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Um, I'm sorry! My name's Emiya Shirou.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm in Shinji's class.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Emiya...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Is the daughter of the Einzberns in good health?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}This dream again.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Right after this, Kiritsugu saved me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Bloomers,0,0,0,,You'd better summon yours soon,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Bloomers,0,0,0,,or you'll die, Onii-chan.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,On to our next headline.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,Late last night, there was a large-scale gas leak in the office district of Shinto.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Done.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura, can you get me a plate?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Sure.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,What's the matter?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura, you sure you're okay? You didn't even have one bite.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,You can skip morning practice if you want.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Even the club advisor says it's okay.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,No, I'm fine.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, I have a favor to ask of you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Could you please try to come home from school as early as possible today?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,This just in.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,In the residential district of Fuyuki-shi, Miyama-cho,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,four individuals were discovered dead in their home.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,According to a press release from the Fuyuki police department,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Newscaster,0,0,0,,the victims were all killed by some sort of blade. The police are...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Mitsuzuri,0,0,0,,Emiya. Emiya.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Mitsuzuri,0,0,0,,Emiya!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Mitsuzuri,0,0,0,,Morning, Emiya.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Morning, Mitsuzuri.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Emiya, do you know about the murder incident that occurred last night in Miyama-cho?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Murder?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Have they caught the guy?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,No, not yet.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,I suppose we'll have to suspend after-school club activities.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kuzuki,0,0,0,,Excuse me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kuzuki,0,0,0,,Ryuudou, can I borrow you?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Oh, sure.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Sorry, Emiya. We can continue this conversation later.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Well, if it isn't Emiya.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,This is a first-year classroom.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What're you doing here?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I thought you didn't have club today.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Club or no club, I'm a busy man. I've got things to do.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Hey, why don't you—
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Try not to give Mitsuzuri too much trouble, okay?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What do you mean by that?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I don't want to hear it from an outsider.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,That reminds me, Emiya!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Mind doing me a solid?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sure. What is it?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Just some dumb cleaning up after the dumb archery club.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Isn't that supposed to be your job?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I've got things to do, remember?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,But you don't, right?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Help a guy out.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Emiya.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Okay. I don't mind.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,That a fact?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Have fun, Mister Goody Two-Shoes.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,PA,0,0,0,,After-school club activities have been suspended for today.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,PA,0,0,0,,All faculty and students are to leave school by six PM.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Mom,0,0,0,,Come on, let's go home.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Child,0,0,0,,Okay!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Child,0,0,0,,See you later!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Other child,0,0,0,,See ya!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Girl,0,0,0,,Hey, let's go in that place!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Other girl,0,0,0,,Yeah, I've been curious about it!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I guess I got a little too into it.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah, let's go home.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What the heck?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Who's there?!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}What the heck?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}What the heck /is/ that?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Gotta get away.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}If I don't, I'll die!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Hey.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Pitiful. This summoning was far too incomplete, far too sloppy.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Though the actors have gathered, their places and their stage are yet unarranged.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,This Holy Grail War is a far cry from the grand ritual we sought.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,But once it has begun, it cannot be stopped.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,If water fills a chalice, someone must drink it.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Fortunately, the supervisor from the Church is none other than that man.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,He will mediate this twisted Holy Grail War well.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,The Grail summons Heroic Spirits, and the Heroic Spirits require contractors.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,If one is swept up into this ritual, their fate is to kill or be killed.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,There need only be one left alive.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,The seventh Servant to be summoned was that Saber.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,And her Master is the son of Emiya.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Truly, fate must be at work.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,The Church is a neutral zone. I cannot move against him.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Now, will that man be a saint worthy of preaching the gospel, or will he not he not?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Coming, Emiya-kun?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I don't know why a third-rate magus like you got chosen as a Master,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,but the man you're about to meet will explain the Holy Grail War to you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Careful, he's a creep.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,You continue to reject my repeated summons,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,but I see you've brought quite the odd guest.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Is he the seventh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,My name is Kotomine Kirei. I have been entrusted with this church.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Emiya Shirou?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Am I correct in assuming that you are Saber's Master?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber did save me, yes.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,But if you have to be a real magus to be a Master,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,you should pick someone else.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Pick a new Master?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Interesting.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Then do you have no interest in the events of ten years ago?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,The Holy Grail holds omnipotent power in the world of magi.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,It is a vessel that can grant any wish at all.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,The chosen Masters fought and killed each other to obtain it.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,As a result, an unfortunate accident occurred.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,An accident large enough to be called a disaster.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Are you telling me that was...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Yes. It is an event any resident of this city would know.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Five hundred casualties, one hundred and thirty-four buildings burned to the ground.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,That raging inferno of cause yet unknown
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,is a scar caused by the Holy Grail War.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Kirei, I told you to explain the rules to him!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I never asked you to reopen his wounds!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Is this Holy Grail for real?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Last time, there was a man who obtained the Holy Grail, albeit temporarily.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What happened to him?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Nothing. That Holy Grail had not achieved completion.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,The Holy Grail will not avail itself to a man who avoids combat..
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You sound like you saw it yourself.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I did.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Last time, I participated as a Master and fought for the Holy Grail.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Wait, really?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I fought until partway through the war.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,However, I made a crucial mistake in judgment.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,As a result, I merely obtained an empty Grail.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,What do you me—
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Our conversation was only just beginning,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,but it seems we have a rather impatient guest.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Say, do you know of the Einzberns?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Now, young man, you are out of time.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Let me hear your answer.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,If the Holy Grail War really was the cause of the disaster ten years ago,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'll...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,fight.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'll fight as a Master!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Rejoice, young man.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Your wish will finally come true.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Every superhero needs a villain to defeat.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Well, I suppose a Servant would never remember.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Are you done talking?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Good evening, Onii-chan. I'm Illya.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Illyasviel von Einzbern.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Thanks for the introduction.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Okay, time to kill you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Get them, Berserker.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Saber!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Run.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Just run!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Of all the times to not have Archer!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,That's the spirit, Berserker!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,She regenerates, so lop off her head and have your way with her!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}I'm an idiot.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Hey!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,No way.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Why?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,This is boring.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Master!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,God, what is /wrong/ with you?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kiritsugu,0,0,0,,{\i1}When I was a kid, I wanted to be a superhero.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kiritsugu,0,0,0,,{\i1}But being a hero has a time limit. Once you're an adult, it gets harder to call yourself one.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Kiritsugu...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kiritsugu,0,0,0,,{\i1}And taking someone's side means not taking someone else's.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}What do I have to do to be a superhero?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm healed...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Master.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Are you all right?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You awake now?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Did you do this?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,No, you healed those wounds by your own power.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,No way. I can't do something as crazy as that.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Then maybe your contract with Saber is affecting something.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,First of all, let's hear your excuse for that stunt you pulled.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I didn't really do anything wrong.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It just didn't go as well as...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,We Servants live on the mana provided by our Masters.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,If that mana source disappears, we cannot remain here.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Oh, I didn't know.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Well, now you do.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Anyway, I'm gonna get going.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I need to start treating my own Servant.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Oh, and next time we meet, we're enemies.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,She's a good person.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What about your injuries, Saber? Are you okay?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Yes, though I'd hesitate to say I'm in perfect condition.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Um, do you want the Holy Grail, too?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Yes. It is the reason I'm here.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Berserker's Master called herself "Einzbern."
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Didn't think a little kid like her would be in this.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,There is someone employing magecraft nearby.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,I do not sense Berserker.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,This is someone completely different.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Master, your orders?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Let's go.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Be on your guard. A bounded field has been erected.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Where have I felt this before?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Mitsuzuri?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Mitsuzuri!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Now this is a surprise.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Who would've thought you'd be here, Emiya?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Why?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Oh, right.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,We had the president of the archery club help us out a little.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What's that, your Servant?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Allow me to introduce you. This is my Servant.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Let's have 'em fight, Emiya.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I've always wanted to see a fight between two Servants.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji, why are you a Master?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,The Matous are an old but noble lineage of magi.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,As far as they Holy Grail War ar goes, they're one of the three great families.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I wish I didn't have to tell a amateur like you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,As the first-born son of the family...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,don't you think it's only right that I join this Holy Grail War?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I see you're just as thick in the head as always!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,You've figured it out, haven't you?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,This is a game we're all playing for keeps!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Go, Rider!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Uh...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Hey.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Who told you you could lose, huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Stand up.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Stand up.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Stand up!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,You're making it look like I'm weaker than him, dammit!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What? Why?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Dammit!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Go out! Go out!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Go—
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,It seems the burden was too much for you to bear, Shinji.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,This is as far as the Matous go.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,What a shame, indeed.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You're...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Grandfather! Wait!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I'm a magus of the Matou family! I'll...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Once incompetent, always incompetent.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,The Matou bloodline has fallen from its former glory.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,There is absolutely nothing I expect out of you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Out of him?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Wait! Hold on!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You're not making Sakura do this stuff, are you?!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Why are you bringing up her name, huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I'm all we need.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,That piece of trash doesn't know the first thing about magecraft!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,The teachings of the Matous are mine, and mine alone!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Mitsuzuri!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,She is a victim of the Holy Grail War,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,so the proper course of action would be to leave her with the supervisor.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Honestly, never did I expect you to return in a matter of hours.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Gilgamesh,0,0,0,,Interesting.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Gilgamesh,0,0,0,,You seem to have caught the eye of something quite nasty.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I will be taking care of her now.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,So you stayed.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,How's Mitsuzuri?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I have finished treating her.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,You have nothing to worry about.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,In fact, you appear to be much worse off than she is.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm all healed up now.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,In the War ten years ago, there was a man who stood against me
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,despite suffering lethal wounds, like yourself.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He was the man who fought me at the end, as well as the man who would become the winner of the previous Holy Grail War.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,His name was Emiya Kiritsugu.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Mitsuzuri's gonna be okay,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,That is a relief.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You seemed to be having quite the long conversation.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,He asked me about Kiritsugu. My father.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Master,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,there is something I must tell you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,In a word, the man known as Emiya Kiritsugu was a hitman.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He made it his livelihood to exclusvely kill magi.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,All magi are unbound by the ethics of the world at large,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,but even among them, he was a wonder.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Last time, I was called to this time period and fought as the Einzberns' Servant.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,My Master's name at the time was Emiya Kiritsugu.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,But...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He truly never did shed blood or tears.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He would consider any method fair game to acheive his goals.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Even face-to-face with an opponent begging for his life, he eliminated him.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,In the midst of the war, Kiritsugu considered that priest his greatest enemy.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,A fittling descriptor for us.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,We had no other option but to kill each other.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,He and I fought in the Holy Grail War and survived to the end.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Emiya Kiritsugu betrayed the Holy Grail at the very end.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,He destroyed the Holy Grail.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Kill the one to save the ten.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He was an irredeemable saint.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I still don't think the Kiritsugu I know would abandon victims of the Holy Grail War.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I've always looked up to superheroes like that.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,So that's why I'm fighting.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I should've said this sooner, but Saber, I want us to fight together.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Regardless of my past, the Command Spells bind me to my Master.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,If you want, you can call me Shirou.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Then Shirou it is.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Yes, I do prefer this pronunciation.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Thanks.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Ready to head home?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Yes.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Wow, you knew Kiritsugu-san?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,It's too bad your luggage didn't get here...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Sorry you have to use Shirou's hand-me-downs, Saber-chan.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Oh, it's no trouble at all.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Kiritsugu-san's so mean.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,I know he traveled abroad a lot, but still.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Do you have any stories about him?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sorry I sprung this on you out of nowhere, Sakura.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I don't mind.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,So, um...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Did you see Shinji this morning?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Yes. Do you need something?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Nah, if nothing happened, it's all good.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, Senpail...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura, this bruise...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Was it Shinji?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You've got balls, coming to school without your Servant.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You think I'm not a threat?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Let's make a deal, Tohsaka! I need your help!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Uh, huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Let's see... Shinji's a Master, Ayako got attacked, and Rider disappeared...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,So what? That's not all, is it?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji has a sister. Her name is Sakura.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,What about her?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura might get caught up in this. I don't think Shinji's given up.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,At this rate...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Then you should probably keep her safe at your place.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,At least, if she's really that important to you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Sakura.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Breakfast this morning was sublime.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,And now you're even preparing lunch.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You have my thanks.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, it's nothing...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Also, if there's anything I can do to help, please say so.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Fight!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Well, in that case...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm home!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I figured we'd need a lot.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber, this is for you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Your, uh, luggage came in.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Oh, that's cute!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Man, I owe Tohsaka big-time.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I realize you need things for daily life,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,but this seems like quite a lot.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Oh, yeah.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Fuji-nee, I wanna have Sakura stay over here for a little while.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Where'd that come from, Shirou?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It's pretty dangerous around town nowadays.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Plus, Shinji's been too busy to go home.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,That's right!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I have to go get Saber-san's room ready.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Ow!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,I'll go, too.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Not gonna stop Saber-chan?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,You afraid Sakura-chan's gonna get the wrong idea?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What makes you think that?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,Get a load of this.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Fuji-nee,0,0,0,,I hear Sakura-chan's an E cup!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What are you talking about?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou, Sakura collapsed!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I'm sorry.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Guess my idea's paying off already.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'll stay here a little longer.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'll keep an eye on you for another half an hour, so get some rest.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Yes.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Thank you for watching me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Hmm?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,About what you said earlier...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Why are you letting me stay here?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Are you worried about me?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah, I am.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,So I'd really like it if you stayed here.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, I'll take you up on that.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Assassin,0,0,0,,Narily did I expect such manner of serpent...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Issei,0,0,0,,Is something the matter, Souichirou?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kuzuki,0,0,0,,Stay here with everyone.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Caster,0,0,0,,Assassin, come out.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Caster,0,0,0,,Assassin!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Caster,0,0,0,,Souichirou-sama...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,What is this man?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,First, I cut its neck.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,Arms, legs, all cut.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,I rent its stomach.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,But it moved.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Caster,0,0,0,,So you're the real Assassin, are you?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,You will release me, witch.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Caster,0,0,0,,Are you happy now?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,It's all right.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You have my consent.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You can have your way with me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, Senpai...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Come on, what am I thinking?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sa—
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Hello?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Oh, Fuji-nee.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You can't come today?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Okay.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I went to Ryuudou Temple last night.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,The mana from the coma incidents in Shinto was flowing back there.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Archer's all healed up, so I thought I'd investigate.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Long story short, Caster was making Ryuudou Temple her base.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,But by the time I got there, someone had already taken care of her.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,The residents of the temple had their mana stolen, and now they're comatose.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,And since Kuzuki-sensei was the only one who got killed,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,he was probably Caster's Master.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Now, here's the real problem.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,There was another coma incident in Shinto this morning.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Even though Caster's gone?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Sakura ended up staying with you, right?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh? Yeah.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,She's been at my place since yesterday.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Wanna team up, Emiya-kun?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Everything's turning out different this time from what my father told me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,So before anything else, I wanna figure out what's going on.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You want a temporary alliance?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Yep, that's it.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,Rin.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,I fail to see the meaning in joining up with a powerless Master.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What was that?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,Am I wrong?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Archer, you'd better do as your Master says.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Let's hit the ground running.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Can you go outside tonight?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You formed an alliance with Archer's Master?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sorry to spring it on you out of nowhere.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,It's fine.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Besides, the sooner we end the Holy Grail War,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,the sooner Sakura can go back to her normal life.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou, I believe Sakura is in rather poor health.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Oh, no, perhaps I'm overthinking it.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura, is someone here?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What is it, Emiya?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,I'm Sakura's brother.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,What's wrong with me coming to bring my adorable sister home?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What kind of brother hits his sister?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,After what you did to Mitsuzuri, I can't trust you to keep Sakura safe.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Oh, I get it now.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,If you're coming after me like this already, that must mean
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,you don't wanna let her go 'cause you haven't had enough of her yet, huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Screw you!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Shinji!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Nice face.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Come at me. Let's pick up where we left off.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Stop it, Nii-san!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I'll do whatever you say.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Just don't do this in front of Senpai!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shinji,0,0,0,,Sakura, don't you dare forget what you just said.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, I'm sorry.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,You have nothing to apologize for.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,No good. I can't focus.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai? Are you there?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Can we talk for a little bit?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sure...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, I'm sorry for how my brother acted.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I told you, it's not your fault.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It's pretty cold, huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Gimme a sec.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sakura.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,It's so warm.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,You fixed it?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Took a lot out of me, though.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, do you remember?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,This happened a long time ago.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Back before I met you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,It was a bright red sunset.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,The schoolyard, the hallways, everything was red.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,It was pretty, but also lonely.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Around then, I saw someone doing running long jumps in the schoolyard.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Back then, I wasn't a very good person.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I watched him and kept hoping he'd mess up.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,But...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,No matter how many times he tried, he never made the jump,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,and eventually he realized he couldn't do it, so he cleaned up and went home.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Uh, Sakura...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Are you saying, uh...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Yes. He was the upperclassman sitting next to me right now.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,That's how long I knew about you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Oh. That's news to me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Um, Senpai.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Can I ask you a difficult question?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I heard this from Fujimura-sensei, but were you really adopted into this family?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah, I am.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Does that not bother you?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It took some time to get used to, but it's nothing worth losing sleep over.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,You must have been surrounded by kind people.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,In my case, the people older than me were all pretty unreliable.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Kiritsugu sucked at housework, and you know how Fuji-nee is.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I started doing the chores and just kinda fell into a groove.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I just wanted to be like Kiritsugu.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Like a superhero?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh? That's weird.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, I have another question.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,If I ever did something bad, would you forgive me?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,No. If you do something bad, I'll get mad at you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'll be first in line to yell at you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Thank you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,That would make me happy.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I'll go to sleep now.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Good night, Senpai.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Dispatcher,0,0,0,,Miyama HQ to Miyama ambulances.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Dispatcher,0,0,0,,Miyama HQ to Miyama ambulances.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Dispatcher,0,0,0,,This just in from the front.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Dispatcher,0,0,0,,Okay, screw it, this shit's too faint. We'll have to reference other subs.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Hey.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,That your handiwork?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Nah, maybe that's too hard for a filthy sand worm like you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,You're not going anywhere.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,To me!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,That's not gonna work.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,I was born this way. Projectiles don't work on me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,The blessing of stray arrows, I see.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,You paint your weapons black to hide them in the darkness.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Ridiculous.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,You have seen beneath my mask, Lancer!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,And I'm just getting started.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,This is where you lead me?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,What's a sand worm want from a watering hole, huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,If you do not move, you will be consumed.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,You know what this thing is?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,Noble Phantasm...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,Zabaniya!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Noble Phantasm!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,It's a bit early, but this ends here!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Gae...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,Bolg!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,You have lost this battle!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Lancer,0,0,0,,{\i1}Well, this couldn't have gone worse.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,We can talk on the way.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Also, we're being watched, so be careful.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Can I assume that was your doing,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,elder of the Matou family?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Impressive, daughter of Tohsaka.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,What an exemplary magus you are.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Zouken!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I thought the Matous were out of the game!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Not once did I say I myself had lost.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Archer!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You fiend...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You would make a mockery of a Heroic Spirit's corpse?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,How dare you?!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber! Don't let that sword—
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,Don't let that sword touch you!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,That sword destroys magecraft.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,It can sever a Master-Servant contract.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,She's bad news...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,I thought to settle this quickly...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Indeed, her magecraft would not work on Saber.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,But what if her Master were caught in the blast?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Impossible.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,It can't be!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,What? What is that?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka, look!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What in the world /is/ that?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,A complex number space?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Impossible.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Impossible. Impossible!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Caster vanished?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,He didn't touch the main body.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,It's more like he caught a fever.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Archer, do you know what that thing was?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,Nope.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,But that shadow is probably what's sucking mana out of the people of this city.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Emiya-kun, are you okay?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Archer,0,0,0,,Looks like we can't prioritize our personal vendettas anymore.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Sakura, I'm sorry. I should have prevented this.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Let me see him.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,All you're doing is hurting him.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,So you came.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Apologies for calling you out here.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I arrived early, so I took the liberty of ordering a meal.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It's fine.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Want some?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Hell no!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Why did you call me here?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Emiya Shirou, what did you see last night?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,You see, I have my own stake in this Holy Grail War.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Rin has reported to me about the incident at Ryuudou Temple.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,We got into a fight with Matou Zouken.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,He had Caster with him, but, uh...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It looked like he was puppeting her corpse.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,So that old man has made his move...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Emiya Shirou.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Even Rin does not know this, but the night Caster was killed at Ryuudou Temple,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,a single Servant left its bounded field.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Do you know which one?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,No.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,It was Assassin.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,How do you know that?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,My Servant, Lancer, saw it all.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I'm saying I was a Master, too.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Uh, crap... What's all this mean?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I had ordered Lancer to surveil Assassin.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,He cornered him at Ryuudou Temple, but never returned.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Did Assassin kill him?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Assassins often rely on skills to erase their presence.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Their individual combat abilities are not high.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Lancer would never lose in conventional combat.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,Emiya Shirou, you saw more last night than just Matou Zouken and Caster.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,I wager that Assassin knew full well what he was doing when he lured Lancer.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,What lurks there has turned against not just Servants, but the people of this city, as well.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,If we liken Caster's absorption of mana to drawing blood,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,that thing's methods are the act of consuming a meal.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,If we let it roam free, this city will end up uninhabited.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Thirty people unconscious?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,It happened on South Fourth Street in Miyama.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,What exists there?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Ryuudou Temple...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Kotomine,0,0,0,,What is the matter? Will you not eat?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'd rather die than share a meal with you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Sakura?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,It's started snowing.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Hey, Sakura's at your place, right?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Huh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Y-Yeah.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Okay, that's a relief.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,That way, I won't run into her by accident.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I'm going after Zouken. I'll visit the Matou household.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,That's...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,I have history with the Matous.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,You can leave the old-fashioned magecraft battle to me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Hey, Emiya-kun.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,What are you gonna do?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Saber-san, I don't know what you and Senpai are doing.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I don't think you'd tell me if I asked.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,But Senpai came home injured last night.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,I don't want Senpai to be in any danger.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm gonna go after that shadow.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,We can't let it roam free.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,It's already victimized the townspeople.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Oh?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Then I guess our ceasefire's continuing for a little longer.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Tohsaka...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,We can't turn a blind eye to that shadow,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,but don't bite off more than you can chew.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,Not until we know what it is.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Yeah.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Sakura scolded me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Last night, I wasn't capable enough to protect you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I just went and collapsed on my own.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,If there is a problem, it lies with me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,I cannot stop you from going to battle.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,But I will fight by your side and protect you.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,That is my duty.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,For Sakura's sake, too.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What the heck?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sa—
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Shirou, it's Assassin!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,You stay here!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,How very like you to come here.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Matou Zouken!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,I will be in danger if I take that wind head-on.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Wind...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Rampage!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,The blessing of wind protection.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,It is indispensable for any who would cross the desert.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,I care not if you refuse to approach,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,but my lord is currently entertaining yours.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Fiend!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,My job was only to draw your attention.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Assassin, you...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,No Servant can resist that shadow.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,One as pure as yourself will lose their mind from a single touch.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,But first,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,I will be taking your heart.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Trace on!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,What can you do with a single flimsy stick?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,Zabaniya.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,The strongest Servant, indeed.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,She chose confronting her own darkness over having her heart stolen.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,It appears things have been settled.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,If you are a Master, you should know.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Your Servant has been obliterated from this world.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Bastard!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,I leave this to you, Assassin.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Rider,0,0,0,,Are you unhurt?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Rider,0,0,0,,That is good.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Saber!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What the hell are you?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Oh. I guess this means
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}I'm officially not a Master anymore.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,What is this?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,He calls this a training ground?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,This is... This /thing/ is...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Do you curse me?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Zouken,0,0,0,,Do you curse me for extending my rotting life with others' bodies?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,No.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,True Assassin,0,0,0,,Your tenacity for survival is what makes you fit to be my lord.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,There's a mischievous cat among us.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sella,0,0,0,,A cat?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Leysritt,0,0,0,,Meow meow meow.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,Sella, ready the car.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,I'm going into the city tomorrow.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,I don't know who you are,
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,but that belongs to the Einzberns.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,{\i1}Did I lose?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,{\i1}Is that...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Could it be?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Alteria,0,0,0,,Give it up.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,It's the Holy Grail!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,I must obtain it!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Alteria,0,0,0,,I told you to give it up.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Saber,0,0,0,,Who are you? Why do you stand in my way?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Alteria,0,0,0,,Who am I?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Alteria,0,0,0,,You can tell at a glance, can you not?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Where have you been?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,You got hurt again...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,You need to take better care of yourself!
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,Sorry.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm sorry.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,And...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I'm home, Sakura.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Yes.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Welcome back, Senpai.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}Hey, Kiritsugu.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}I don't get it.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}What do I have to do to become a superhero?
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}I can't let it end here.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,{\i1}There's still someone I have to fight.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,Senpai, I...
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Illya,0,0,0,,I thought maybe I could see you if I came here.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,The Tohsakas had two children with an aptitude for magecraft.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Sakura,0,0,0,,This makes the second time I've received something from someone precious to me.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Gilganator,0,0,0,,Take this opportunity to die, girl.
+Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,I promise. I'll...
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,0,0,0,0,,23 - 18 Months Ago - Summer
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,2,0,0,0,,37 - (Cut off at the top) Don't worry. Rest up and come back to club. -Taiga P.S. I'll come check on you later.
