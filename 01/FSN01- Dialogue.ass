@@ -431,7 +431,7 @@ Dialogue: 100,0:44:59.46,0:45:00.93,Default,Shinji,0,0,0,,Stand up!
 Dialogue: 100,0:45:01.97,0:45:06.12,Default,Shinji,0,0,0,,{\q2}You're making it look like \NI'm inferior to him, dammit!
 Dialogue: 100,0:45:10.60,0:45:13.67,Default,Shinji,0,0,0,,Wh-What the hell? Why?
 Dialogue: 100,0:45:13.67,0:45:14.69,Default,Shinji,0,0,0,,Dammit!
-Dialogue: 100,0:45:14.69,0:45:16.56,Default,Shinji,0,0,0,,Go out! Go out!
+Dialogue: 100,0:45:14.69,0:45:16.56,Default,Shinji,0,0,0,,Stop! Go out!
 Dialogue: 100,0:45:16.56,0:45:17.61,Default,Shinji,0,0,0,,Go—
 Dialogue: 100,0:45:27.26,0:45:28.38,Default,Shirou,0,0,0,,Shinji!
 Dialogue: 100,0:45:29.51,0:45:33.62,Default,Zouken,0,0,0,,{\q2}It seems the burden was too much \Nfor you to bear, Shinji.
@@ -446,7 +446,7 @@ Dialogue: 100,0:46:06.35,0:46:10.21,Default,Zouken,0,0,0,,I had no expectations 
 Dialogue: 100,0:46:13.39,0:46:15.13,Default,Shirou,0,0,0,,{\i1}"In particular"?
 Dialogue: 100,0:46:15.13,0:46:16.81,Default,Shirou,0,0,0,,Wait! Hold on!
 Dialogue: 100,0:46:16.81,0:46:19.71,Default,Shirou,0,0,0,,You're not making Sakura do this stuff, are you?!
-Dialogue: 100,0:46:21.75,0:46:26.03,Default,Shinji,0,0,0,,Why the hell would you bother bringing her up?
+Dialogue: 100,0:46:21.75,0:46:26.03,Default,Shinji,0,0,0,,Why the hell would you bring her up?
 Dialogue: 100,0:46:26.03,0:46:28.36,Default,Shinji,0,0,0,,I'm all we need.
 Dialogue: 100,0:46:28.36,0:46:32.31,Default,Shinji,0,0,0,,{\q2}That bitch knows {\i1}fuck-all{\i0} about magecraft!
 Dialogue: 100,0:46:32.31,0:46:36.10,Default,Shinji,0,0,0,,The teachings of the Matous are mine and mine alone!
@@ -474,20 +474,20 @@ Dialogue: 100,0:48:54.63,0:48:56.66,Default,Shirou,0,0,0,,Mitsuzuri's gonna pull
 Dialogue: 100,0:48:56.66,0:48:58.15,Default,Saber,0,0,0,,That is a relief.
 Dialogue: 100,0:48:58.15,0:49:00.79,Default,Saber,0,0,0,,{\q2}That took a considerable amount of time.
 Dialogue: 100,0:49:00.79,0:49:01.75,Default,Shirou,0,0,0,,Yeah...
-Dialogue: 100,0:49:03.71,0:49:08.63,Default,Shirou,0,0,0,TLC,He asked me about Kiritsugu. My father. {## Seems Kirei is doing the talking in the scene after this, though}
+Dialogue: 100,0:49:03.71,0:49:08.63,Default,Shirou,0,0,0,TLC,He asked me about Kiritsugu. My father. {## Seems Kirei is doing the talking in the scene after this scene, though}
 Dialogue: 100,0:49:14.09,0:49:15.14,Default,Saber,0,0,0,,Master,
 Dialogue: 100,0:49:18.08,0:49:21.59,Default,Saber,0,0,0,,there is something I must tell you.
 Dialogue: 100,0:49:22.73,0:49:28.32,Default,Kotomine,0,0,0,,{\q2}In a word, the man known as \NEmiya Kiritsugu was a hitman.
 Dialogue: 100,0:49:28.82,0:49:34.51,Default,Kotomine,0,0,0,,{\q2}He made it his livelihood \Nto exclusively assassinate magi.
-Dialogue: 100,0:49:34.51,0:49:38.24,Default,Kotomine,0,0,0,,All magi are unbound by the ethics of the world at large,
+Dialogue: 100,0:49:34.51,0:49:38.24,Default,Kotomine,0,0,0,,{\q2}All magi are unbound by \Nthe ethics of the world at large,
 Dialogue: 100,0:49:38.24,0:49:41.81,Default,Kotomine,0,0,0,,but even among them, he was atypical.
 Dialogue: 100,0:49:42.25,0:49:48.81,Default,Saber,0,0,0,,{\q2}Last time, I was called to this time period \Nand fought as the Einzberns' Servant.
 Dialogue: 100,0:49:49.71,0:49:53.21,Default,Saber,0,0,0,,My Master's name at the time was Emiya Kiritsugu.
 Dialogue: 100,0:49:54.25,0:49:55.09,Default,Saber,0,0,0,,But...
 Dialogue: 100,0:49:55.09,0:49:59.22,Default,Kotomine,0,0,0,,He truly never did shed blood or tears.
-Dialogue: 100,0:49:59.22,0:50:03.18,Default,Kotomine,0,0,0,,{\q2}He would employ any \Nnumber of tactics to secure his goal.
-Dialogue: 100,0:50:03.18,0:50:07.44,Default,Kotomine,0,0,0,,{\q2}Even face-to-face with a foe begging \Nfor their life, he would eliminated them.
-Dialogue: 100,0:50:08.01,0:50:13.10,Default,Saber,0,0,0,,{\q2}In the midst of the war, Kiritsugu considered \Nthat priest his greatest enemy.
+Dialogue: 100,0:49:59.22,0:50:03.18,Default,Kotomine,0,0,0,,{\q2}He would employ any number \Nof tactics to secure his goal.
+Dialogue: 100,0:50:03.18,0:50:07.44,Default,Kotomine,0,0,0,,{\q2}Even face-to-face with a foe begging \Nfor their life, he would show no mercy.
+Dialogue: 100,0:50:08.01,0:50:13.10,Default,Saber,0,0,0,,{\q2}During the war, Kiritsugu considered \Nthat priest his greatest foe.
 Dialogue: 100,0:50:14.30,0:50:17.47,Default,Kotomine,0,0,0,,A fitting descriptor for us.
 Dialogue: 100,0:50:17.99,0:50:22.48,Default,Kotomine,0,0,0,,We had little option but to kill each other.
 Dialogue: 100,0:50:23.11,0:50:28.57,Default,Saber,0,0,0,,{\q2}He and I fought in the Grail War \Nand were triumphant until the end.
@@ -700,94 +700,226 @@ Dialogue: 100,1:11:43.05,1:11:48.29,Default,Sakura,0,0,0,,Back before I met you.
 Dialogue: 100,1:11:50.58,1:11:52.88,Default,Sakura,0,0,0,,It was a bright red sunset.
 Dialogue: 100,1:11:53.83,1:11:56.97,Default,Sakura,0,0,0,,The schoolyard, the hallways, everything was red.
 Dialogue: 100,1:11:57.63,1:11:59.74,Default,Sakura,0,0,0,,It was pretty, but also lonely.
-Dialogue: 100,1:12:01.09,1:12:07.20,Default,Sakura,0,0,0,,Around then, I saw someone doing running long jumps in the schoolyard.
-Dialogue: 100,1:12:09.03,1:12:13.88,Default,Sakura,0,0,0,,Back then, I wasn't a very good person.
-Dialogue: 100,1:12:14.67,1:12:20.56,Default,Sakura,0,0,0,,I watched him and kept hoping he'd mess up.
+Dialogue: 100,1:12:01.09,1:12:07.20,Default,Sakura,0,0,0,,{\q2}That's when I saw someone doing \Nrunning long jumps in the schoolyard.
+Dialogue: 100,1:12:09.03,1:12:13.88,Default,Sakura,0,0,0,,Back then, I wasn't a very good girl.
+Dialogue: 100,1:12:14.67,1:12:20.56,Default,Sakura,0,0,0,,I watched him, hoping he'd mess up.
 Dialogue: 100,1:12:22.95,1:12:23.89,Default,Sakura,0,0,0,,But...
-Dialogue: 100,1:12:40.30,1:12:44.52,Default,Sakura,0,0,0,,No matter how many times he tried, he never made the jump,
-Dialogue: 100,1:12:44.52,1:12:50.78,Default,Sakura,0,0,0,,and eventually he realized he couldn't do it, so he cleaned up and went home.
+Dialogue: 100,1:12:40.30,1:12:44.52,Default,Sakura,0,0,0,,{\q2}No matter how many times he tried, \Nhe never made the jump,
+Dialogue: 100,1:12:44.52,1:12:50.78,Default,Sakura,0,0,0,,{\q2}and once he realized he couldn't do it, \Nhe cleaned up and went home.
 Dialogue: 100,1:12:51.77,1:12:54.10,Default,Shirou,0,0,0,,Uh, Sakura...
 Dialogue: 100,1:12:54.81,1:12:56.81,Default,Shirou,0,0,0,,Are you saying, uh...
-Dialogue: 100,1:12:57.55,1:13:02.13,Default,Sakura,0,0,0,,Yes. He was the upperclassman sitting next to me right now.
-Dialogue: 100,1:13:03.35,1:13:08.26,Default,Sakura,0,0,0,,That's how long I knew about you.
+Dialogue: 100,1:12:57.55,1:13:02.13,Default,Sakura,0,0,0,,{\q2}Yes. That was the upperclassman \Nsitting next to me right now.
+Dialogue: 100,1:13:03.35,1:13:08.26,Default,Sakura,0,0,0,,I've known about you since then.
 Dialogue: 100,1:13:09.81,1:13:13.52,Default,Shirou,0,0,0,,Oh. That's news to me.
 Dialogue: 100,1:13:17.82,1:13:19.87,Default,Sakura,0,0,0,,Uhm, Senpai.
 Dialogue: 100,1:13:20.90,1:13:24.66,Default,Sakura,0,0,0,,Can I ask you a difficult question?
-Dialogue: 100,1:13:27.60,1:13:35.42,Default,Sakura,0,0,0,,I heard this from Fujimura-sensei, but were you really adopted into this family?
-Dialogue: 100,1:13:36.41,1:13:38.52,Default,Shirou,0,0,0,,Yeah, I am.
-Dialogue: 100,1:13:39.26,1:13:43.09,Default,Sakura,0,0,0,,Does that not bother you?
-Dialogue: 100,1:13:44.04,1:13:49.00,Default,Shirou,0,0,0,,It took some time to get used to, but it's nothing worth losing sleep over.
+Dialogue: 100,1:13:27.60,1:13:35.42,Default,Sakura,0,0,0,,{\q2}I heard this from Fujimura-sensei. \NWere you really adopted into this family?
+Dialogue: 100,1:13:36.41,1:13:38.52,Default,Shirou,0,0,0,,Yup, sure was.
+Dialogue: 100,1:13:39.26,1:13:43.09,Default,Sakura,0,0,0,,And it doesn't bother you?
+Dialogue: 100,1:13:44.04,1:13:49.00,Default,Shirou,0,0,0,,{\q2}It took some getting used to, \Nbut it's nothing worth losing sleep over.
 Dialogue: 100,1:13:50.61,1:13:55.03,Default,Sakura,0,0,0,,You must have been surrounded by kind people.
-Dialogue: 100,1:13:55.91,1:14:00.28,Default,Shirou,0,0,0,,In my case, the people older than me were all pretty unreliable.
-Dialogue: 100,1:14:01.20,1:14:06.51,Default,Shirou,0,0,0,,Kiritsugu sucked at housework, and you know how Fuji-nee is.
-Dialogue: 100,1:14:07.09,1:14:12.09,Default,Shirou,0,0,0,,I started doing the chores and just kinda fell into a groove.
-Dialogue: 100,1:14:13.50,1:14:17.09,Default,Shirou,0,0,0,,I just wanted to be like Kiritsugu.
-Dialogue: 100,1:14:21.83,1:14:25.17,Default,Sakura,0,0,0,,Like a superhero?
-Dialogue: 100,1:14:35.35,1:14:37.92,Default,Shirou,0,0,0,,Huh? That's weird.
+Dialogue: 100,1:13:55.91,1:14:00.28,Default,Shirou,0,0,0,,{\q2}Rather, all the older folk \Nsurrounding me were a total mess.
+Dialogue: 100,1:14:01.20,1:14:06.51,Default,Shirou,0,0,0,,{\q2}Kiritsugu couldn't do housework to save his life, \Nand you know how Fuji-nee is.
+Dialogue: 100,1:14:07.09,1:14:12.09,Default,Shirou,0,0,0,,{\q2}I started doing the chores \Nand just kinda fell into a groove.
+Dialogue: 100,1:14:13.50,1:14:17.09,Default,Shirou,0,0,0,,I just really wanted to be like Kiritsugu.
+Dialogue: 100,1:14:21.83,1:14:25.17,Default,Sakura,0,0,0,,You mean like a superhero?
+Dialogue: 100,1:14:35.35,1:14:37.92,Default,Shirou,0,0,0,,Huh? That's odd.
 Dialogue: 100,1:14:42.39,1:14:46.19,Default,Sakura,0,0,0,,Senpai, I have another question.
 Dialogue: 100,1:14:48.38,1:14:54.15,Default,Sakura,0,0,0,,If I ever did something bad, would you forgive me?
 Dialogue: 100,1:14:57.89,1:15:01.93,Default,Shirou,0,0,0,,No. If you do something bad, I'll get mad at you.
 Dialogue: 100,1:15:01.93,1:15:03.89,Default,Shirou,0,0,0,,I'll be first in line to yell at you.
-Dialogue: 100,1:15:07.45,1:15:08.98,Default,Sakura,0,0,0,,Thank you.
+Dialogue: 100,1:15:07.45,1:15:08.98,Default,Sakura,0,0,0,,Thank goodness.
 Dialogue: 100,1:15:10.20,1:15:13.39,Default,Sakura,0,0,0,,That would make me happy.
-Dialogue: 100,1:15:17.90,1:15:19.56,Default,Sakura,0,0,0,,I'll go to sleep now.
+Dialogue: 100,1:15:17.90,1:15:19.56,Default,Sakura,0,0,0,,I'll go to bed now.
 Dialogue: 100,1:15:20.14,1:15:22.93,Default,Sakura,0,0,0,,Good night, Senpai.
 Dialogue: 100,1:15:45.10,1:15:47.85,Default,Dispatcher,0,0,0,,Miyama HQ to Miyama ambulances.
 Dialogue: 100,1:15:47.85,1:15:50.40,Default,Dispatcher,0,0,0,,Miyama HQ to Miyama ambulances.
 Dialogue: 100,1:15:50.40,1:15:51.94,Default,Dispatcher,0,0,0,,This just in from the front.
-Dialogue: 10,1:15:51.94,1:15:54.86,Default-Italics,,0,0,0,,Many people need rescue in the\Nbuilding across from New City Station.{From Kametsu}
-Dialogue: 10,1:15:54.86,1:15:59.70,Default-Italics,,0,0,0,,All available vehicles should\Npromptly head on-site. Over.{From Kametsu}
-Dialogue: 10,1:15:59.70,1:16:01.95,Default-Italics,,0,0,0,,Miyama Paramedic 2 to Miyama HQ.{From Kametsu}
-Comment: 100,1:16:01.95,1:16:03.95,Default,Dispatcher,0,0,0,,Okay, screw it, this shit's too faint. We'll have to reference other subs.{lmao}
-Dialogue: 100,1:16:22.64,1:16:23.56,Default,Lancer,0,0,0,,Hey.
-Dialogue: 100,1:16:24.76,1:16:26.68,Default,Lancer,0,0,0,,That your handiwork?
-Dialogue: 100,1:16:42.07,1:16:47.83,Default,Lancer,0,0,0,,Nah, maybe that's too hard for a filthy sand worm like you.
-Dialogue: 100,1:17:21.70,1:17:23.61,Default,Lancer,0,0,0,,You're not going anywhere.
-Dialogue: 100,1:19:32.45,1:19:33.28,Default,Lancer,0,0,0,,To me!
-Dialogue: 100,1:20:12.20,1:20:13.37,Default,Lancer,0,0,0,,That's not gonna work.
-Dialogue: 100,1:20:14.08,1:20:17.25,Default,Lancer,0,0,0,,I was born this way. Projectiles don't work on me.
-Dialogue: 100,1:20:19.37,1:20:22.25,Default,True Assassin,0,0,0,,The blessing of stray arrows, I see.
-Dialogue: 100,1:20:25.67,1:20:28.63,Default,Lancer,0,0,0,,You paint your weapons black to hide them in the darkness.
-Dialogue: 100,1:20:29.76,1:20:30.80,Default,Lancer,0,0,0,,Ridiculous.
+Dialogue: 10,1:15:51.94,1:15:54.86,Default,Dispatcher,0,0,0,,{\q2}Many people need rescue in the \Nbuilding across from New City Station.{From Kametsu}
+Dialogue: 10,1:15:54.86,1:15:59.70,Default,Dispatcher,0,0,0,,All available vehicles should \Npromptly head on-site. Over.{From Kametsu}
+Dialogue: 10,1:15:59.70,1:16:01.95,Default,Dispatcher,0,0,0,,Miyama Paramedic 2 to Miyama HQ.{From Kametsu}
+Dialogue: 100,1:16:22.64,1:16:23.56,Default,Lancer,0,0,0,,Yo.
+Dialogue: 100,1:16:24.76,1:16:26.68,Default,Lancer,0,0,0,,That your handiwork? {Dat yooehr handiwhrk? :lunahigh:}
+Dialogue: 100,1:16:42.07,1:16:47.83,Default,Lancer,0,0,0,TM,{\q2}Nah, that'd be a little 'ard \Nfor a filthy sandflea like you. {## You're respecting keyframes too much imo}
+Dialogue: 100,1:17:21.70,1:17:23.61,Default,Lancer,0,0,0,TM,You ain't going anyw'ere. {## here too}
+Dialogue: 100,1:19:32.45,1:19:33.28,Default,Lancer,0,0,0,,Come!
+Dialogue: 100,1:20:12.20,1:20:13.37,Default,Lancer,0,0,0,,Ain't worth tryin' that.
+Dialogue: 100,1:20:14.08,1:20:17.25,Default,Lancer,0,0,0,TM,{\q2}I was born this way. \NProjectiles just ain't gonna work on me. {## split?}
+Dialogue: 100,1:20:19.37,1:20:22.25,Default,True Assassin,0,0,0,,Protection from Arrows, I see. {## Name of the skill in FGO}
+Dialogue: 100,1:20:25.67,1:20:28.63,Default,Lancer,0,0,0,,Black-painted weapons to hide 'em in the darkness...
+Dialogue: 100,1:20:29.76,1:20:30.80,Default,Lancer,0,0,0,,Simply pathetic.
 Dialogue: 100,1:20:57.37,1:21:02.04,Default,True Assassin,0,0,0,,You have seen beneath my mask, Lancer!
-Dialogue: 100,1:21:02.04,1:21:04.21,Default,Lancer,0,0,0,,And I'm just getting started.
+Dialogue: 100,1:21:02.04,1:21:04.21,Default,Lancer,0,0,0,,I'll be seeing a whole lot more soon enough.
 Dialogue: 100,1:21:14.51,1:21:16.40,Default,Lancer,0,0,0,,This is where you lead me?
-Dialogue: 100,1:21:17.51,1:21:21.01,Default,Lancer,0,0,0,,What's a sand worm want from a watering hole, huh?
-Dialogue: 100,1:22:05.10,1:22:08.36,Default,True Assassin,0,0,0,,If you do not move, you will be consumed.
-Dialogue: 100,1:22:08.65,1:22:12.69,Default,Lancer,0,0,0,,You know what this thing is?
-Dialogue: 100,1:22:36.72,1:22:37.89,Default,True Assassin,0,0,0,,Noble Phantasm...
-Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,Zabaniya!
+Dialogue: 100,1:21:17.51,1:21:21.01,Default,Lancer,0,0,0,,What's a sandflea gonna pull in a watering hole?
+Dialogue: 100,1:22:05.10,1:22:08.36,Default,True Assassin,0,0,0,,It'll consume you if you don't move.
+Dialogue: 100,1:22:08.65,1:22:12.69,Default,Lancer,0,0,0,,Y'know what the hell this damn thing is?
+Dialogue: 100,1:22:13.37,1:22:14.62,Default,Lancer,0,0,0,,It's...
+Dialogue: 100,1:22:36.72,1:22:37.89,Default,True Assassin,0,0,0,,Noble Phantasm!
+Comment: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H252529&\1a&HFE&\3a&HFE&\4a&H00&\blur1}Delusional Heartbeat
+Comment: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H280A97&\1a&HFE&\3a&HFE&\4a&H00&\blur1}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H25242B&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,907,1134,908)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H25232D&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,908,1134,909)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H25232E&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,909,1134,910)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H252330&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,910,1134,911)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H252232&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,911,1134,912)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H252234&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,912,1134,913)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H252136&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,913,1134,914)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H252138&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,914,1134,915)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H25203B&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,915,1134,916)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H251F3D&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,916,1134,917)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H251F3F&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,917,1134,918)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H251E42&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,918,1134,919)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H251E44&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,919,1134,920)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H251D47&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,920,1134,921)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H251C4A&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,921,1134,922)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H251C4C&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,922,1134,923)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H261B4F&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,923,1134,924)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H261A52&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,924,1134,925)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H261A55&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,925,1134,926)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H261958&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,926,1134,927)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H26185B&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,927,1134,928)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H26175E&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,928,1134,929)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H261761&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,929,1134,930)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H261665&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,930,1134,931)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H261568&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,931,1134,932)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H26146B&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,932,1134,933)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H26136F&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,933,1134,934)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H271272&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,934,1134,935)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H271275&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,935,1134,936)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H271179&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,936,1134,937)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H27107D&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,937,1134,938)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H270F80&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,938,1134,939)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H270E84&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,939,1134,940)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H270D87&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,940,1134,941)}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H270C8B&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,941,1134,942)}Delusional Heartbeat
+Dialogue: 101,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0\blur0.65}Delusional Heartbeat
+Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,1024)}Zabaniya!
 Dialogue: 100,1:22:54.11,1:22:55.45,Default,Lancer,0,0,0,,Noble Phantasm!
-Dialogue: 100,1:22:55.45,1:22:58.03,Default,Lancer,0,0,0,,It's a bit early, but this ends here!
-Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,Gae...
-Dialogue: 100,1:23:08.33,1:23:09.17,Default,Lancer,0,0,0,,Bolg!
-Dialogue: 100,1:23:17.55,1:23:20.40,Default,True Assassin,0,0,0,,You have lost this battle!
-Dialogue: 100,1:24:18.99,1:24:23.88,Default,Lancer,0,0,0,,{\i1}Well, this couldn't have gone worse.{\i0}
+Dialogue: 100,1:22:55.45,1:22:58.03,Default,Lancer,0,0,0,,A bit early, but I'm finishin' this now!
+Comment: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4E24AF&\1a&HFE&\3a&HFE&\4a&H00&\blur1}Barbed Spear...
+Comment: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H280A97&\1a&HFE&\3a&HFE&\4a&H00&\blur1}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,904,1087,905)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4E24AF&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,905,1087,906)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4D23AE&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,906,1087,907)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4D23AE&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,907,1087,908)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4D23AE&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,908,1087,909)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4C23AE&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,909,1087,910)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4C22AD&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,910,1087,911)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4B22AD&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,911,1087,912)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4B22AD&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,912,1087,913)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4A21AC&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,913,1087,914)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4A21AC&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,914,1087,915)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4920AC&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,915,1087,916)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4820AB&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,916,1087,917)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4820AB&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,917,1087,918)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H471FAA&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,918,1087,919)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H461FAA&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,919,1087,920)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H461EAA&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,920,1087,921)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H451EA9&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,921,1087,922)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H441DA9&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,922,1087,923)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H431DA8&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,923,1087,924)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H421CA8&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,924,1087,925)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H421BA7&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,925,1087,926)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H411BA6&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,926,1087,927)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H401AA6&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,927,1087,928)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3F1AA5&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,928,1087,929)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3E19A5&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,929,1087,930)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3D18A4&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,930,1087,931)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3C18A4&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,931,1087,932)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3B17A3&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,932,1087,933)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3B17A3&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,933,1087,934)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3A16A2&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,934,1087,935)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3915A1&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,935,1087,936)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3815A1&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,936,1087,937)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3714A0&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,937,1087,938)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H36139F&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,938,1087,939)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H35129F&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,939,1087,940)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H34129E&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,940,1087,941)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H33119D&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,941,1087,942)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H31109D&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,942,1087,943)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H30109C&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,943,1087,944)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H2F0F9B&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,944,1087,945)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H2E0E9B&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,945,1087,946)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H2D0D9A&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,946,1087,947)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H2C0D99&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,947,1087,948)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H2B0C99&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,948,1087,949)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H2A0B98&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,949,1087,950)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H290A97&}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\clip(832,950,1087,951)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H280A97&}Barbed Spear...
+Dialogue: 101,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0\blur0.65}Barbed Spear...
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,Gáe...
+Comment: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4E24AF&\1a&HFE&\3a&HFE&\4a&H00&\blur1}...that Pierces with Death
+Comment: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H280A97&\1a&HFE&\3a&HFE&\4a&H00&\blur1}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,904,1168,905)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4E24AF&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,905,1168,906)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4D23AE&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,906,1168,907)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4D23AE&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,907,1168,908)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4C23AE&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,908,1168,909)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4C22AE&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,909,1168,910)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4B22AD&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,910,1168,911)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4B22AD&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,911,1168,912)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4A21AC&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,912,1168,913)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4A21AC&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,913,1168,914)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4920AC&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,914,1168,915)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H4820AB&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,915,1168,916)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H471FAB&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,916,1168,917)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H461FAA&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,917,1168,918)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H461EAA&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,918,1168,919)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H451EA9&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,919,1168,920)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H441DA8&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,920,1168,921)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H431CA8&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,921,1168,922)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H421CA7&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,922,1168,923)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H411BA7&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,923,1168,924)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H401AA6&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,924,1168,925)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3F1AA5&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,925,1168,926)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3E19A5&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,926,1168,927)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3D18A4&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,927,1168,928)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3C18A3&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,928,1168,929)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3B17A3&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,929,1168,930)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3A16A2&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,930,1168,931)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3915A1&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,931,1168,932)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3815A1&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,932,1168,933)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H3614A0&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,933,1168,934)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H35139F&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,934,1168,935)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H34129E&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,935,1168,936)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H33119E&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,936,1168,937)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H32109D&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,937,1168,938)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H30109C&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,938,1168,939)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H2F0F9B&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,939,1168,940)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H2E0E9B&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,940,1168,941)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H2D0D9A&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,941,1168,942)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H2B0C99&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,942,1168,943)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H2A0B98&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,943,1168,944)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H290A97&}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\clip(753,944,1168,945)\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\1a&HFE&\3a&HFE&\4a&H00&\blur1\4c&H280A97&}...that Pierces with Death
+Dialogue: 101,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0\blur0.65}...that Pierces with Death
+Dialogue: 100,1:23:08.33,1:23:09.34,Default,Lancer,0,0,0,,...Bolg!
+Dialogue: 100,1:23:17.55,1:23:21.14,Default,True Assassin,0,0,0,,You have lost this battle!
+Dialogue: 100,1:24:18.99,1:24:23.88,Default,Lancer,0,0,0,,{\i1}Well, this couldn't have gone worse.
 Dialogue: 100,1:25:01.36,1:25:02.86,Default,Sakura,0,0,0,,Senpai...
 Dialogue: 100,1:25:16.34,1:25:17.30,Default,Shirou,0,0,0,,Tohsaka.
-Dialogue: 100,1:25:17.88,1:25:19.71,Default,Tohsaka,0,0,0,,We can talk on the way.
-Dialogue: 100,1:25:20.34,1:25:23.43,Default,Tohsaka,0,0,0,,Also, we're being watched, so be careful.
-Dialogue: 100,1:25:33.44,1:25:37.86,Default,Tohsaka,0,0,0,,Can I assume that was your doing, elder of the Matou family?
+Dialogue: 100,1:25:17.88,1:25:19.71,Default,Tohsaka,0,0,0,,We can walk and talk.
+Dialogue: 100,1:25:20.34,1:25:23.43,Default,Tohsaka,0,0,0,,Be mindful that we're being watched.
+Dialogue: 100,1:25:33.44,1:25:37.86,Default,Tohsaka,0,0,0,,{\q2}Can I assume that was your doing, \Nelder of the Matou family?
 Dialogue: 100,1:25:48.28,1:25:51.06,Default,Zouken,0,0,0,,Impressive, daughter of Tohsaka.
-Dialogue: 100,1:25:52.21,1:25:54.62,Default,Zouken,0,0,0,,What an exemplary magus you are.
+Dialogue: 100,1:25:52.21,1:25:54.62,Default,Zouken,0,0,0,,I expected no less of you.
 Dialogue: 100,1:25:55.39,1:25:56.72,Default,Shirou,0,0,0,,Zouken!
 Dialogue: 100,1:25:57.34,1:25:59.63,Default,Shirou,0,0,0,,I thought the Matous were out of the game!
-Dialogue: 100,1:26:01.51,1:26:07.22,Default,Zouken,0,0,0,,Not once did I say I myself had lost.
+Dialogue: 100,1:26:01.51,1:26:07.22,Default,Zouken,0,0,0,,Not once did I indicate that I, myself, had lost.
 Dialogue: 100,1:26:10.22,1:26:11.18,Default,Tohsaka,0,0,0,,Archer!
-Dialogue: 100,1:26:24.79,1:26:25.96,Default,Saber,0,0,0,,You fiend...
-Dialogue: 100,1:26:26.95,1:26:29.28,Default,Saber,0,0,0,,You would make a mockery of a Heroic Spirit's corpse?
+Dialogue: 100,1:26:24.79,1:26:25.96,Default,Saber,0,0,0,,You swine...
+Dialogue: 100,1:26:26.95,1:26:29.28,Default,Saber,0,0,0,,{\q2}You dare make a mockery \Nof a Heroic Spirit's remains?
 Dialogue: 100,1:26:29.70,1:26:30.91,Default,Saber,0,0,0,,How dare you?!
-Dialogue: 100,1:26:43.17,1:26:45.84,Default,Shirou,0,0,0,,Saber! Don't let that sword--
+Dialogue: 100,1:26:43.17,1:26:45.84,Default,Shirou,0,0,0,,Saber! Stop! Don't let that sword—
 Dialogue: 100,1:26:50.79,1:26:52.43,Default,Archer,0,0,0,,Don't let that sword touch you!
-Dialogue: 100,1:27:04.86,1:27:06.99,Default,Archer,0,0,0,,That sword destroys magecraft.
+Dialogue: 100,1:27:04.86,1:27:06.99,Default,Archer,0,0,0,,That sword dispells magecraft.
 Dialogue: 100,1:27:08.36,1:27:10.68,Default,Archer,0,0,0,,It can sever a Master-Servant contract.
 Dialogue: 100,1:27:11.99,1:27:13.24,Default,Shirou,0,0,0,,She's bad news...
-Dialogue: 100,1:27:16.12,1:27:19.67,Default,Zouken,0,0,0,,I thought to settle this quickly...
-Dialogue: 100,1:27:39.77,1:27:44.36,Default,Zouken,0,0,0,,Indeed, her magecraft would not work on Saber.
-Dialogue: 100,1:27:44.36,1:27:48.36,Default,Zouken,0,0,0,,But what if her Master were caught in the blast?
+Dialogue: 100,1:27:16.12,1:27:19.67,Default,Zouken,0,0,0,,I had hoped to settle this quickly...
+Dialogue: 100,1:27:39.77,1:27:44.36,Default,Zouken,0,0,0,,Her magic would indeed be futile against Saber.
+Dialogue: 100,1:27:44.36,1:27:48.36,Default,Zouken,0,0,0,,But can the same be said about the Master?
 Dialogue: 100,1:27:59.54,1:28:01.25,Default,Zouken,0,0,0,,Impossible.
-Dialogue: 100,1:28:01.25,1:28:02.21,Default,Zouken,0,0,0,,It can't be!
-Dialogue: 100,1:28:02.69,1:28:05.41,Default,Tohsaka,0,0,0,,What? What is that?
+Dialogue: 100,1:28:01.25,1:28:02.21,Default,Zouken,0,0,0,,Preposterous!
+Dialogue: 100,1:28:02.69,1:28:05.41,Default,Tohsaka,0,0,0,,What is that thing?
 Dialogue: 100,1:28:05.41,1:28:07.63,Default,Shirou,0,0,0,,Tohsaka, look!
 Dialogue: 100,0:00:00.00,0:00:00.00,Default,Shirou,0,0,0,,What in the world /is/ that?
 Dialogue: 100,0:00:00.00,0:00:00.00,Default,Tohsaka,0,0,0,,A complex number space?
