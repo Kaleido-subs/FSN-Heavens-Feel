@@ -9,22 +9,17 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Video File: HF2 encode.mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 930
-Active Line: 71
-Video Position: 9199
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Arial,75,&H00FFFFFF,&H000000FF,&H40010106,&H40010106,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:08.58,0:03:10.54,Signs,,0,0,0,,Today's Headline\NPartial Cave-in on Enzou Mountain, Fuyuki-shi
+Dialogue: 0,0:03:08.58,0:03:10.54,Signs,,0,0,0,TODAY,{\b1\blur0.8\xshad1.5\yshad1\fnArial\fs18\pos(906,781)\c&HEEFCFF&\4c&H4E76A4&}Today's Topic
+Dialogue: 0,0:03:08.58,0:03:17.09,Signs,,0,0,0,CAVE-IN,{\b1\blur2.5\fnArial\fs29\bord0\pos(1131,839)\c&H3A649B&\1a&H40&}P{*\c&H39639B&}a{*\c&H38629B&}r{*\c&H37619B&}t{*\c&H35609B&}i{*\c&H345F9B&}a{*\c&H335E9B&}l {*\c&H315C9C&}C{*\c&H305B9C&}a{*\c&H2E5A9C&}v{*\c&H2D599C&}e{*\c&H2C589C&}-{*\c&H2B579C&}i{*\c&H2A569C&}n {*\c&H28549C&}o{*\c&H26539C&}n {*\c&H24519C&}E{*\c&H23509C&}n{*\c&H224F9C&}z{*\c&H214E9C&}o{*\c&H1F4E9D&}u {*\c&H1D4C9D&}M{*\c&H1C4B9D&}o{*\c&H1B4A9D&}u{*\c&H1A499D&}n{*\c&H18489D&}t{*\c&H17479D&}a{*\c&H16469D&}i{*\c&H15459D&}n{*\c&H14449D&}, {*\c&H12429D&}F{*\c&H10419D&}u{*\c&H0F409D&}y{*\c&H0E3F9E&}u{*\c&H0D3E9E&}k{*\c&H0C3D9E&}i{*\c&H0B3C9E&}-{*\c&H093B9E&}s{*\c&H083A9E&}h{*\c&H07399E&}i{\c&H06389E&}
+Dialogue: 1,0:03:08.58,0:03:17.09,Signs,,0,0,0,CAVE-IN,{\b1\blur2.5\fnArial\fs29\bord0\pos(1131,839)\c&H3A649B&}P{*\c&H39639B&}a{*\c&H38629B&}r{*\c&H37619B&}t{*\c&H35609B&}i{*\c&H345F9B&}a{*\c&H335E9B&}l {*\c&H315C9C&}C{*\c&H305B9C&}a{*\c&H2E5A9C&}v{*\c&H2D599C&}e{*\c&H2C589C&}-{*\c&H2B579C&}i{*\c&H2A569C&}n {*\c&H28549C&}o{*\c&H26539C&}n {*\c&H24519C&}E{*\c&H23509C&}n{*\c&H224F9C&}z{*\c&H214E9C&}o{*\c&H1F4E9D&}u {*\c&H1D4C9D&}M{*\c&H1C4B9D&}o{*\c&H1B4A9D&}u{*\c&H1A499D&}n{*\c&H18489D&}t{*\c&H17479D&}a{*\c&H16469D&}i{*\c&H15459D&}n{*\c&H14449D&}, {*\c&H12429D&}F{*\c&H10419D&}u{*\c&H0F409D&}y{*\c&H0E3F9E&}u{*\c&H0D3E9E&}k{*\c&H0C3D9E&}i{*\c&H0B3C9E&}-{*\c&H093B9E&}s{*\c&H083A9E&}h{*\c&H07399E&}i{\c&H06389E&}
+Dialogue: 2,0:03:08.58,0:03:17.09,Signs,,0,0,0,CAVE-IN,{\b1\blur0.7\fnArial\fs29\bord1.6\pos(1135,836)\3c&H778FB4&\c&H778FB4&}P{*\c&H768FB4&\3c&H768FB4&}a{*\c&H768EB4&\3c&H768EB4&}r{*\c&H758EB4&\3c&H758EB4&}t{*\c&H758DB4&\3c&H758DB4&}i{*\c&H748DB4&\3c&H748DB4&}a{*\c&H748DB3&\3c&H748DB3&}l {*\c&H728CB3&\3c&H728CB3&}Ca{*\c&H718BB3&\3c&H718BB3&}ve{*\c&H708AB3&\3c&H708AB3&}-{*\c&H6F8AB3&\3c&H6F8AB3&}in {*\c&H6E89B3&\3c&H6E89B3&}o{*\c&H6D89B2&\3c&H6D89B2&}n {*\c&H6C88B2&\3c&H6C88B2&}E{*\c&H6B87B2&\3c&H6B87B2&}nz{*\c&H6A87B2&\3c&H6A87B2&}o{*\c&H6A86B2&\3c&H6A86B2&}u {*\c&H6986B2&\3c&H6986B2&}M{*\c&H6885B2&\3c&H6885B2&}o{*\c&H6785B2&\3c&H6785B2&}u{*\c&H6784B2&\3c&H6784B2&}n{*\c&H6684B1&\3c&H6684B1&}ta{*\c&H6583B1&\3c&H6583B1&}in{*\c&H6483B1&\3c&H6483B1&}, {*\c&H6382B1&\3c&H6382B1&}F{*\c&H6281B1&\3c&H6281B1&}uy{*\c&H6181B1&\3c&H6181B1&}u{*\c&H6080B1&\3c&H6080B1&}k{*\c&H6080B0&\3c&H6080B0&}i{*\c&H5F80B0&\3c&H5F80B0&}-{*\c&H5F7FB0&\3c&H5F7FB0&}s{*\c&H5E7FB0&\3c&H5E7FB0&}h{*\c&H5E7EB0&\3c&H5E7EB0&}i{\c&H5D7EB0&\3c&H5D7EB0&}
+Dialogue: 3,0:03:08.58,0:03:17.09,Signs,,0,0,0,CAVE-IN,{\b1\blur0.7\fnArial\fs29\bord0\pos(1135,836)\c&HF1FDFF&}Partial Cave-in on Enzou Mountain, Fuyuki-shi
 Dialogue: 0,0:03:17.21,0:03:17.26,Signs,,0,0,0,FUYUKI,{\fnKozuka Gothic Pr6N M\fs42\an4\bord2\blur0.8\3c&HC2C9CB&\3a&H00&\c&HC2C9CB&\pos(737,608)\alpha&HC4&}F
 Dialogue: 1,0:03:17.21,0:03:17.26,Signs,,0,0,0,FUYUKI,{\fnKozuka Gothic Pr6N M\fs42\an4\bord0\blur0.8\3c&HC2C9CB&\3a&H00&\c&H262F33&\pos(737,608)\alpha&HC4&\1a&H00&}F
 Dialogue: 0,0:03:17.26,0:03:17.30,Signs,,0,0,0,FUYUKI,{\fnKozuka Gothic Pr6N M\fs42\an4\bord2\blur0.8\3c&HC2C9CB&\3a&H00&\c&HC2C9CB&\pos(737,608)\1a&HE6&\alpha&H80&}Fuy
@@ -959,8 +954,8 @@ Dialogue: 0,1:21:24.81,1:21:29.57,Signs,,0,0,0,WEATHER,{\clip(343,240,346,287)\p
 Dialogue: 0,1:21:24.81,1:21:29.57,Signs,,0,0,0,WEATHER,{\clip(346,240,349,287)\pos(0,37)\p1\an1\blur1\fs30\1a&H00&\c&HC19677&}m 67 244 l 345 244 345 280 67 280
 Dialogue: 0,1:21:24.81,1:21:29.57,Signs,,0,0,0,WEATHER,{\clip(349,240,352,287)\pos(0,37)\p1\an1\blur1\fs30\1a&H00&\c&HC19678&}m 67 244 l 345 244 345 280 67 280
 Dialogue: 1,1:21:24.81,1:21:29.57,Signs,,0,0,0,WEATHER,{\b1\blur0.9\fs27\1a&HA4&\c&H000000&\pos(209,263)}Today's Weather
-Dialogue: 3,1:21:24.81,1:21:29.57,Signs,,0,0,0,WEATHER,{\b1\blur0.9\fs27\pos(205,261)\c&HFFAD31&\1a&H80&}Today's Weather
-Dialogue: 2,1:21:24.81,1:21:29.57,Signs,,0,0,0,WEATHER,{\b1\blur0.9\fs27\pos(207,261)\c&H0055FF&\1a&H80&}Today's Weather
+Dialogue: 3,1:21:24.81,1:21:29.57,Signs,,0,0,0,WEATHER,{\b1\blur0.9\fs27\pos(205,261)\c&HFFBD00&\1a&H80&}Today's Weather
+Dialogue: 2,1:21:24.81,1:21:29.57,Signs,,0,0,0,WEATHER,{\b1\blur0.9\fs27\pos(207,261)\c&H0055FF&\1a&H5C&}Today's Weather
 Dialogue: 4,1:21:24.81,1:21:29.57,Signs,,0,0,0,WEATHER,{\b1\blur0.9\fs27\pos(206,261)\c&HFFFFFF&\1a&H20&}Today's Weather
 Dialogue: 2,1:28:45.18,1:28:49.18,Signs,,0,0,0,SHINTO STATION,{\fnArial\fs50\blur1.3\fsp3\fscx80\pos(859,243)\c&HFFAD31&\1a&H40&}SHINTO STATION
 Dialogue: 1,1:28:45.18,1:28:49.18,Signs,,0,0,0,SHINTO STATION,{\fnArial\fs50\blur1.3\fsp3\fscx80\pos(861,245)\c&H0080FF&\1a&H40&}SHINTO STATION
