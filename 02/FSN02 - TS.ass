@@ -9,13 +9,22 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Video File: HF2 encode.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 60
+Active Line: 76
+Video Position: 9409
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Signs,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:08.58,0:03:10.54,Signs,,0,0,0,TODAY,{\b1\blur0.8\xshad1.5\yshad1\fnArial\fs18\pos(906,781)\c&HEEFCFF&\4c&H4E76A4&}Today's Topic
+Dialogue: 0,0:03:08.58,0:03:17.09,Signs,,0,0,0,TODAY,{\b1\blur0.8\xshad1.5\yshad1\fnArial\fs18\pos(906,781)\c&HEEFCFF&\4c&H4E76A4&}Today's Topic
 Dialogue: 0,0:03:08.58,0:03:17.09,Signs,,0,0,0,CAVE-IN,{\b1\blur2.5\fnArial\fs29\bord0\pos(1131,839)\c&H3A649B&\1a&H40&}P{*\c&H39639B&}a{*\c&H38629B&}r{*\c&H37619B&}t{*\c&H35609B&}i{*\c&H345F9B&}a{*\c&H335E9B&}l {*\c&H315C9C&}C{*\c&H305B9C&}a{*\c&H2E5A9C&}v{*\c&H2D599C&}e{*\c&H2C589C&}-{*\c&H2B579C&}i{*\c&H2A569C&}n {*\c&H28549C&}o{*\c&H26539C&}n {*\c&H24519C&}E{*\c&H23509C&}n{*\c&H224F9C&}z{*\c&H214E9C&}o{*\c&H1F4E9D&}u {*\c&H1D4C9D&}M{*\c&H1C4B9D&}o{*\c&H1B4A9D&}u{*\c&H1A499D&}n{*\c&H18489D&}t{*\c&H17479D&}a{*\c&H16469D&}i{*\c&H15459D&}n{*\c&H14449D&}, {*\c&H12429D&}F{*\c&H10419D&}u{*\c&H0F409D&}y{*\c&H0E3F9E&}u{*\c&H0D3E9E&}k{*\c&H0C3D9E&}i{*\c&H0B3C9E&}-{*\c&H093B9E&}s{*\c&H083A9E&}h{*\c&H07399E&}i{\c&H06389E&}
 Dialogue: 1,0:03:08.58,0:03:17.09,Signs,,0,0,0,CAVE-IN,{\b1\blur2.5\fnArial\fs29\bord0\pos(1131,839)\c&H3A649B&}P{*\c&H39639B&}a{*\c&H38629B&}r{*\c&H37619B&}t{*\c&H35609B&}i{*\c&H345F9B&}a{*\c&H335E9B&}l {*\c&H315C9C&}C{*\c&H305B9C&}a{*\c&H2E5A9C&}v{*\c&H2D599C&}e{*\c&H2C589C&}-{*\c&H2B579C&}i{*\c&H2A569C&}n {*\c&H28549C&}o{*\c&H26539C&}n {*\c&H24519C&}E{*\c&H23509C&}n{*\c&H224F9C&}z{*\c&H214E9C&}o{*\c&H1F4E9D&}u {*\c&H1D4C9D&}M{*\c&H1C4B9D&}o{*\c&H1B4A9D&}u{*\c&H1A499D&}n{*\c&H18489D&}t{*\c&H17479D&}a{*\c&H16469D&}i{*\c&H15459D&}n{*\c&H14449D&}, {*\c&H12429D&}F{*\c&H10419D&}u{*\c&H0F409D&}y{*\c&H0E3F9E&}u{*\c&H0D3E9E&}k{*\c&H0C3D9E&}i{*\c&H0B3C9E&}-{*\c&H093B9E&}s{*\c&H083A9E&}h{*\c&H07399E&}i{\c&H06389E&}
 Dialogue: 2,0:03:08.58,0:03:17.09,Signs,,0,0,0,CAVE-IN,{\b1\blur0.7\fnArial\fs29\bord1.6\pos(1135,836)\3c&H778FB4&\c&H778FB4&}P{*\c&H768FB4&\3c&H768FB4&}a{*\c&H768EB4&\3c&H768EB4&}r{*\c&H758EB4&\3c&H758EB4&}t{*\c&H758DB4&\3c&H758DB4&}i{*\c&H748DB4&\3c&H748DB4&}a{*\c&H748DB3&\3c&H748DB3&}l {*\c&H728CB3&\3c&H728CB3&}Ca{*\c&H718BB3&\3c&H718BB3&}ve{*\c&H708AB3&\3c&H708AB3&}-{*\c&H6F8AB3&\3c&H6F8AB3&}in {*\c&H6E89B3&\3c&H6E89B3&}o{*\c&H6D89B2&\3c&H6D89B2&}n {*\c&H6C88B2&\3c&H6C88B2&}E{*\c&H6B87B2&\3c&H6B87B2&}nz{*\c&H6A87B2&\3c&H6A87B2&}o{*\c&H6A86B2&\3c&H6A86B2&}u {*\c&H6986B2&\3c&H6986B2&}M{*\c&H6885B2&\3c&H6885B2&}o{*\c&H6785B2&\3c&H6785B2&}u{*\c&H6784B2&\3c&H6784B2&}n{*\c&H6684B1&\3c&H6684B1&}ta{*\c&H6583B1&\3c&H6583B1&}in{*\c&H6483B1&\3c&H6483B1&}, {*\c&H6382B1&\3c&H6382B1&}F{*\c&H6281B1&\3c&H6281B1&}uy{*\c&H6181B1&\3c&H6181B1&}u{*\c&H6080B1&\3c&H6080B1&}k{*\c&H6080B0&\3c&H6080B0&}i{*\c&H5F80B0&\3c&H5F80B0&}-{*\c&H5F7FB0&\3c&H5F7FB0&}s{*\c&H5E7FB0&\3c&H5E7FB0&}h{*\c&H5E7EB0&\3c&H5E7EB0&}i{\c&H5D7EB0&\3c&H5D7EB0&}
@@ -90,8 +99,9 @@ Dialogue: 2,0:05:34.43,0:05:36.64,Signs,,0,0,0,,{\blur0.8\c&H2EA9FA&\fnDigital D
 Dialogue: 1,0:05:34.43,0:05:36.64,Signs,,0,0,0,,{\blur1.5\c&H2EA9FA&\fnDigital Dot Roadsign\fax0.35\pos(789.33,617.33)\frz335.1\alpha&H70&\3c&H2EA9FA&}L{\fax0.36}a{\fax0.37}n{\fax0.37}e{\fax0.38}s{\fax0.39} {\fax0.4}C{\fax0.4}l{\fax0.41}o{\fax0.42}s{\fax0.43}e{\fax0.43}d{\fax0.44} {\fax0.45}A{\fax0.46}h{\fax0.46}e{\fax0.47}a{\fax0.48}d
 Dialogue: 0,0:05:34.43,0:05:36.64,Signs,,0,0,0,,{\blur4\c&H24229D&\fnDigital Dot Roadsign\fax0.35\pos(789.33,617.33)\frz335.1\alpha&H70&\3c&H24229D&\bord3}L{\fax0.36}a{\fax0.37}n{\fax0.37}e{\fax0.38}s{\fax0.39} {\fax0.4}C{\fax0.4}l{\fax0.41}o{\fax0.42}s{\fax0.43}e{\fax0.43}d{\fax0.44} {\fax0.45}A{\fax0.46}h{\fax0.46}e{\fax0.47}a{\fax0.48}d
 Dialogue: 0,0:05:36.64,0:05:37.94,Signs,,0,0,0,,Fuyuki Entrance Lanes Now Open
-Dialogue: 0,0:06:23.66,0:06:32.41,Signs,,0,0,0,,Welcome to Fuyuki!
-Dialogue: 0,0:06:32.41,0:06:37.67,Signs,,0,0,0,,Welcome to Fuyuki!
+Dialogue: 0,0:06:23.65,0:06:32.41,Signs,,0,0,0,WELCOME,{\blur0.9\b1\fnArial\fs35\c&H4A3829&\pos(910,167)\3c&H4A3829&}Welcome to Fuyuki
+Dialogue: 0,0:06:32.41,0:06:37.67,Signs,,0,0,0,WELCOME,{\blur1.1\b1\fnArial\fs55\c&H3886AB&\3c&H4A3829&\fscx70\fay0.57\pos(53.8,-39.2)}uki
+Dialogue: 1,0:06:32.41,0:06:37.67,Signs,,0,0,0,WELCOME,{\blur1.1\b1\fnArial\fs55\c&H201411&\3c&H4A3829&\fscx70\fay0.57\pos(53.8,-39.2)}uki
 Dialogue: 0,1:21:24.81,1:21:29.57,Signs,,0,0,0,BODIES FOUND,{\clip(-3,803,2,972)\pos(0,0)\p1\an7\blur1.5\fnAdvert-Bold\fs50\b0\c&HE3C6B7&}m -50 808 l 1970 808 1970 967 -50 967
 Dialogue: 0,1:21:24.81,1:21:29.57,Signs,,0,0,0,BODIES FOUND,{\clip(2,803,7,972)\pos(0,0)\p1\an7\blur1.5\fnAdvert-Bold\fs50\b0\c&HE3C6B7&}m -50 808 l 1970 808 1970 967 -50 967
 Dialogue: 0,1:21:24.81,1:21:29.57,Signs,,0,0,0,BODIES FOUND,{\clip(7,803,12,972)\pos(0,0)\p1\an7\blur1.5\fnAdvert-Bold\fs50\b0\c&HE3C6B7&}m -50 808 l 1970 808 1970 967 -50 967
