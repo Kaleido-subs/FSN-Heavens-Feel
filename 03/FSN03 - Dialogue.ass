@@ -524,7 +524,7 @@ Dialogue: 100,0:35:18.85,0:35:22.96,Default,Shirou,0,0,0,,{\i1\q2}My body and co
 Dialogue: 100,0:35:25.33,0:35:27.63,Default,Shirou,0,0,0,,{\i1}Why am I here?
 Dialogue: 100,0:35:30.08,0:35:32.99,Default,Shirou,0,0,0,,{\i1}Why did it come to this?
 Dialogue: 100,0:35:34.55,0:35:36.97,Default,Shirou,0,0,0,,{\i1}Why do I fight?
-Dialogue: 100,0:35:58.88,0:36:00.35,Default,Archer,0,0,0,,Can you keep up with me?
+Dialogue: 100,0:35:58.88,0:36:00.35,Default,Archer,0,0,0,,Think you can keep up with me?
 Dialogue: 100,0:36:10.82,0:36:13.37,Default,Shirou,0,0,0,,Is that a serious question, pal?
 Dialogue: 100,0:36:13.37,0:36:14.69,Default,Shirou,0,0,0,,Don't get ahead of yourself!
 Dialogue: 100,0:36:15.37,0:36:18.11,Default,Shirou,0,0,0,,{\i1}You're{\i0} the one who's...
@@ -1509,7 +1509,7 @@ Dialogue: 100,1:18:02.57,1:18:04.86,Default,Saber Alter,0,0,0,,{\pos(960,1024)}.
 Dialogue: 100,1:18:20.26,1:18:21.64,Default,Rider,0,0,0,,{\pos(959,944)\fscx50.4\fscy53.2\frz0.5\fnArtois\fsp1\b0\bord4\shad0.01\4c&HE90AE2&\1a&HFE&\3a&HFE&\4a&HC8&\blur3}B{\fscy50.56}r{\fscy47.92}i{\fscy45.28}d{\fscy42.64}l{\fscy40}e {\fscy43.771\4c&HEE07D1&}o{\fscy45.657\4c&HF106C9&}f{\fscy47.543\4c&HF305C1&}.{\fscy49.429\4c&HF604B9&}.{\fscy51.314\4c&HF903B1&}.{\4c&HFC02A9&\fscy53.2}
 Dialogue: 100,1:18:20.26,1:18:21.64,Default,Rider,0,0,0,,{\pos(959,944)\fscx50.4\fscy53.2\frz359.5\fnArtois\fsp1\b0\bord4\shad0.01\4c&HFC02A9&\1a&HFE&\3a&HFE&\4a&HC8&\blur3}B{\fscy54.56}r{\fscy55.92}i{\fscy57.28}d{\fscy58.64}l{\fscy60}e {\fscy58.057\4c&HF604B9&}o{\fscy57.086\4c&HF305C1&}f{\fscy56.114\4c&HF106C9&}.{\fscy55.143\4c&HEE07D1&}.{\fscy54.171\4c&HEB08D9&}.{\4c&HE90AE2&\fscy53.2}
 Dialogue: 101,1:18:20.26,1:18:21.64,Default,Rider,0,0,0,,{\pos(959,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord4\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\4a&HC8&\blur1}Bridle of...
-Dialogue: 102,1:18:20.26,1:18:21.64,Default,Rider,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0\blur0.65}Bridle of... 
+Dialogue: 102,1:18:20.26,1:18:21.64,Default,Rider,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0\blur0.65}Bridle of...
 Dialogue: 100,1:18:20.25,1:18:21.62,Default,Rider,0,0,0,,{\pos(960,1024)}Bellero...
 Dialogue: 100,1:18:24.68,1:18:27.14,Default,Rider,0,0,0,,{\pos(959,944)\fscx50.4\fscy53.2\frz0.5\fnArtois\fsp1\b0\bord4\shad0.01\4c&HE90AE2&\1a&HFE&\3a&HFE&\4a&HC8&\blur3}.{\fscy51}.{\fscy48.8}.{\fscy46.6}C{\fscy44.4}h{\fscy42.2}i{\fscy40}v{\fscy42.64\4c&HEC08D6&}a{\fscy45.28\4c&HF006CB&}l{\fscy47.92\4c&HF405BF&}r{\fscy50.56\4c&HF803B4&}y{\4c&HFC02A9&\fscy53.2}
 Dialogue: 100,1:18:24.68,1:18:27.14,Default,Rider,0,0,0,,{\pos(959,944)\fscx50.4\fscy53.2\frz0.5\fnArtois\fsp1\b0\bord4\shad0.01\4c&HFC02A9&\1a&HFE&\3a&HFE&\4a&HC8&\blur3}.{\fscy54.333}.{\fscy55.467}.{\fscy56.6}C{\fscy57.733}h{\fscy58.867}i{\fscy60}v{\fscy58.64\4c&HF803B4&}a{\fscy57.28\4c&HF405BF&}l{\fscy55.92\4c&HF006CB&}r{\fscy54.56\4c&HEC08D6&}y{\4c&HE90AE2&\fscy53.2}
