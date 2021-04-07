@@ -525,13 +525,12 @@ Dialogue: 100,0:35:25.33,0:35:27.63,Default,Shirou,0,0,0,,{\i1}Why am I here?
 Dialogue: 100,0:35:30.08,0:35:32.99,Default,Shirou,0,0,0,,{\i1}Why did it come to this?
 Dialogue: 100,0:35:34.55,0:35:36.97,Default,Shirou,0,0,0,,{\i1}Why do I fight?
 Dialogue: 100,0:35:58.88,0:36:00.35,Default,Archer,0,0,0,,Think you can keep up with me?
-Dialogue: 100,0:36:10.82,0:36:13.37,Default,Shirou,0,0,0,,Is that a serious question, pal?
-Dialogue: 100,0:36:13.37,0:36:14.69,Default,Shirou,0,0,0,,Don't get ahead of yourself!
+Dialogue: 100,0:36:10.82,0:36:13.37,Default,Shirou,0,0,0,,That a serious question, pal?
+Dialogue: 100,0:36:13.37,0:36:14.69,Default,Shirou,0,0,0,,Get over yourself!
 Dialogue: 100,0:36:15.37,0:36:18.11,Default,Shirou,0,0,0,,{\i1}You're{\i0} the one who's...
 Dialogue: 100,0:36:27.01,0:36:29.54,Default,Shirou,0,0,0,,gotta keep up with {\i1}me{\i0}!
 Dialogue: 100,0:36:46.85,0:36:48.72,Default,Shirou,0,0,0,,Trace on!
 Dialogue: 100,0:37:09.86,0:37:12.65,Default,Shirou,0,0,0,,Trigger off.
-Dialogue: 100,0:37:09.86,0:37:53.54,Default,Shirou,0,0,0,,
 Dialogue: 104,0:37:26.91,0:37:26.99,Default,Shirou fx,0,0,0,,{\an7\pos(910,973)\fscx76\fscy76\frz337\bord6\1c&HFFFF39&\3c&HB7FF25&\4c&H59B602&\3a&H80&\blur12\fad(0,40)\p1}m 0 0 l 3 -5 5 0 11 -4 16 -5 18 -6 24 7 26 3 28 1 28 1 27 0 24 10 18 -6 12 -9 11 -4 5 0 4 0 0 0
 Dialogue: 104,0:37:26.92,0:37:27.00,Default,Shirou fx,0,0,0,,{\an7\pos(1035,965)\fscx81\fscy81\frz319\bord6\1c&HFFFF39&\3c&HB7FF25&\4c&H59B602&\3a&H80&\blur12\fad(0,40)\p1}m 0 0 l 4 4 7 9 14 1 17 0 20 3 24 16 27 18 32 21 37 23 39 19 44 23 44 23 41 21 37 23 32 21 32 21 24 16 20 3 22 -2 14 1 7 9 7 1 0 4
 Dialogue: 104,0:37:26.95,0:37:27.03,Default,Shirou fx,0,0,0,,{\an7\pos(1180,992)\fscx89\fscy89\frz355\bord6\1c&HFFFF39&\3c&HB7FF25&\4c&H59B602&\3a&H80&\blur12\fad(0,40)\p1}m 0 0 l 4 -4 7 -5 13 -4 18 -3 21 0 29 2 33 7 36 11 36 15 31 12 29 2 21 2 14 1 13 -4 7 -5 1 -1 0 1
