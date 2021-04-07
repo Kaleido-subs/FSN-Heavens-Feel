@@ -1179,7 +1179,7 @@ Dialogue: 100,0:49:12.81,0:49:17.58,Default,Illya,0,0,0,,{\q2}Whatever form A{\f
 Dialogue: 100,0:49:18.22,0:49:24.43,Default,Illya,0,0,0,,So Zouken made Sakura a Master to subjugate him.
 Dialogue: 100,0:49:27.09,0:49:29.64,Default,Shirou,0,0,0,,{\i1}Masters and Servants...
 Dialogue: 100,0:49:31.34,0:49:34.09,Default,Illya,0,0,0,,{\q2}It's uncertain whether we \Nhave even half a day to spare.
-Dialogue: 100,0:49:34.82,0:49:39.41,Default,Illya,0,0,0,,Once that thing is born, Sakura will change entirely.
+Dialogue: 100,0:49:34.82,0:49:39.41,Default,Illya,0,0,0,,{\q2}Once that thing is born, \NSakura will never be the same.
 Dialogue: 100,0:49:39.41,0:49:43.87,Default,Illya,0,0,0,,{\q2}Nobody will be able to save her, \Nand nobody will be safe from her.
 Dialogue: 100,0:49:48.94,0:49:54.42,Default,Tohsaka,0,0,0,,{\i1\q2}Before we storm the enemy base, \Nthere's something I'd like you to do, Shirou.
 Dialogue: 100,0:49:55.72,0:49:59.95,Default,Tohsaka,0,0,0,,{\i1\q2}Honestly, the fact that you managed \Nto get Illya back here helps a ton.
