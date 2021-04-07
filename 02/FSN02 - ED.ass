@@ -18,20 +18,77 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ED2,Ogg,86,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00B444B6,0,0,0,0,100,100,1.5,0,1,0,0,2,38,38,30,1
+Style: ED2,Ogg,86,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00B444B6,0,0,0,0,100,100,1.5,0,1,0,0,2,38,38,24,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,1:51:20.28,1:51:23.24,ED2,,0,0,0,code once,function pos_y() return orgline.actor:match('rom') and -952 or 0; end
 Comment: 2,1:51:20.28,1:51:23.24,ED2,,0,0,0,template line noblank,
 Comment: 1,1:51:20.28,1:51:23.24,ED2,,0,0,0,template line noblank,
-Comment: 0,1:51:20.28,1:51:23.24,ED2,,0,0,0,,
-Comment: 0,1:51:20.28,1:51:23.24,ED2,,0,0,0,mixin line actor rom,{\an8}
+Comment: 0,1:51:20.28,1:51:23.24,ED2,,0,0,0,mixin line,{!ln.tag.pos(5,5,0,pos_y())!}
 Comment: 0,1:51:20.28,1:51:23.24,ED2,,0,0,0,mixin line,{\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01}
 Comment: 0,1:51:20.28,1:51:23.24,ED2,,0,0,0,mixin line layer 2,{\4c!gc(1)!\bord0.5\blur0.7}
 Comment: 0,1:51:20.28,1:51:23.24,ED2,,0,0,0,mixin line layer 1,{\4c&HF62DFA&\bord0.5\blur8}
-Comment: 0,1:51:20.28,1:51:23.24,ED2,,0,0,0,,
-Dialogue: 0,1:51:15.73,1:55:46.00,ED2,,0,0,0,,{\an7\pos(0,-18)\bord0\1c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
-Dialogue: 0,1:51:15.73,1:55:46.00,ED2,,0,0,0,,{\an7\pos(0,18)\bord0\1c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:51:15.73,1:51:24.74,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:51:24.74,1:51:33.75,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:51:33.75,1:51:42.76,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:51:42.76,1:51:51.77,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:51:51.77,1:52:00.78,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:52:00.78,1:52:09.79,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:52:09.79,1:52:18.80,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:52:18.80,1:52:27.81,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:52:27.81,1:52:36.81,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:52:36.81,1:52:45.82,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:52:45.82,1:52:54.83,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:52:54.83,1:53:03.84,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:53:03.84,1:53:12.85,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:53:12.85,1:53:21.86,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:53:21.86,1:53:30.87,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:53:30.87,1:53:39.88,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:53:39.88,1:53:48.89,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:53:48.89,1:53:57.90,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:53:57.90,1:54:06.90,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:54:06.90,1:54:15.91,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:54:15.91,1:54:24.92,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:54:24.92,1:54:33.93,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:54:33.93,1:54:42.94,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:54:42.94,1:54:51.95,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:54:51.95,1:55:00.96,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:55:00.96,1:55:09.97,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:55:09.97,1:55:18.98,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:55:18.98,1:55:27.99,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:55:27.99,1:55:36.99,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:55:36.99,1:55:46.00,ED2,,0,0,0,,{\an7\pos(0,-40)\c&H000000&\blur5\p1}m 1932 -5 l -5 -5 -5 162 1932 162 1932 -5
+Dialogue: 0,1:51:15.73,1:51:24.74,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:51:24.74,1:51:33.75,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:51:33.75,1:51:42.76,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:51:42.76,1:51:51.77,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:51:51.77,1:52:00.78,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:52:00.78,1:52:09.79,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:52:09.79,1:52:18.80,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:52:18.80,1:52:27.81,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:52:27.81,1:52:36.81,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:52:36.81,1:52:45.82,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:52:45.82,1:52:54.83,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:52:54.83,1:53:03.84,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:53:03.84,1:53:12.85,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:53:12.85,1:53:21.86,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:53:21.86,1:53:30.87,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:53:30.87,1:53:39.88,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:53:39.88,1:53:48.89,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:53:48.89,1:53:57.90,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:53:57.90,1:54:06.90,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:54:06.90,1:54:15.91,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:54:15.91,1:54:24.92,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:54:24.92,1:54:33.93,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:54:33.93,1:54:42.94,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:54:42.94,1:54:51.95,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:54:51.95,1:55:00.96,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:55:00.96,1:55:09.97,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:55:09.97,1:55:18.98,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:55:18.98,1:55:27.99,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:55:27.99,1:55:36.99,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
+Dialogue: 0,1:55:36.99,1:55:46.00,ED2,,0,0,0,,{\an7\pos(0,32)\c&H000000&\blur5\p1}m 1932 918 l -5 918 -5 1085 1932 1085 1932 918
 Comment: 0,1:51:20.28,1:51:23.24,ED2,eng,0,0,0,kara,
 Comment: 0,1:51:23.41,1:51:27.66,ED2,eng,0,0,0,kara,
 Comment: 0,1:51:27.70,1:51:30.42,ED2,eng,0,0,0,kara,
@@ -141,119 +198,119 @@ Comment: 0,1:55:31.53,1:55:35.24,ED2,rom,0,0,0,kara,hanasanaide mienai wa
 Comment: 0,1:55:35.28,1:55:39.00,ED2,rom,0,0,0,kara,tada zutto soba ni ite
 Comment: 0,1:55:39.04,1:55:42.92,ED2,rom,0,0,0,kara,hanasanaide tada zutto
 Comment: 0,1:55:42.96,1:55:45.42,ED2,rom,0,0,0,kara,aishiteru
-Dialogue: 2,1:52:41.03,1:52:43.24,ED2,eng,0,0,0,fx,{\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie, lie—It's a lie
-Dialogue: 1,1:52:41.03,1:52:43.24,ED2,eng,0,0,0,fx,{\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie, lie—It's a lie
-Dialogue: 2,1:53:19.07,1:53:23.53,ED2,eng,0,0,0,fx,{\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie, la la la la la la la
-Dialogue: 1,1:53:19.07,1:53:23.53,ED2,eng,0,0,0,fx,{\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie, la la la la la la la
-Dialogue: 2,1:53:26.53,1:53:30.24,ED2,eng,0,0,0,fx,{\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}La la la la la la la
-Dialogue: 1,1:53:26.53,1:53:30.24,ED2,eng,0,0,0,fx,{\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}La la la la la la la
-Dialogue: 2,1:53:37.75,1:53:41.42,ED2,eng,0,0,0,fx,{\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}I know you're here to stay with me
-Dialogue: 1,1:53:37.75,1:53:41.42,ED2,eng,0,0,0,fx,{\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}I know you're here to stay with me
-Dialogue: 2,1:53:45.22,1:53:48.93,ED2,eng,0,0,0,fx,{\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie, lie, lie, you're to be with me
-Dialogue: 1,1:53:45.22,1:53:48.93,ED2,eng,0,0,0,fx,{\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie, lie, lie, you're to be with me
-Dialogue: 2,1:51:20.28,1:51:23.24,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}awaremi wo kudasai
-Dialogue: 1,1:51:20.28,1:51:23.24,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}awaremi wo kudasai
-Dialogue: 2,1:51:23.41,1:51:27.66,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}ochita kotori ni sotto fureru you na
-Dialogue: 1,1:51:23.41,1:51:27.66,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}ochita kotori ni sotto fureru you na
-Dialogue: 2,1:51:27.70,1:51:30.42,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kanashimi wo kudasai
-Dialogue: 1,1:51:27.70,1:51:30.42,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kanashimi wo kudasai
-Dialogue: 2,1:51:30.46,1:51:33.75,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}namidagunde mioroshite
-Dialogue: 1,1:51:30.46,1:51:33.75,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}namidagunde mioroshite
-Dialogue: 2,1:51:33.75,1:51:37.09,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kawaisou da to kuchi ni dashite
-Dialogue: 1,1:51:33.75,1:51:37.09,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kawaisou da to kuchi ni dashite
-Dialogue: 2,1:51:37.13,1:51:42.64,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kutsu no saki de korogashitemo kamawanai wa
-Dialogue: 1,1:51:37.13,1:51:42.64,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kutsu no saki de korogashitemo kamawanai wa
-Dialogue: 2,1:51:42.68,1:51:46.43,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}yogoretetemo ii kara to
-Dialogue: 1,1:51:42.68,1:51:46.43,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}yogoretetemo ii kara to
-Dialogue: 2,1:51:46.47,1:51:49.93,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}dorodarake no te wo totte
-Dialogue: 1,1:51:46.47,1:51:49.93,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}dorodarake no te wo totte
-Dialogue: 2,1:51:49.93,1:51:53.98,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}nee wa ni natte odorimashou
-Dialogue: 1,1:51:49.93,1:51:53.98,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}nee wa ni natte odorimashou
-Dialogue: 2,1:51:54.02,1:51:58.40,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}mezawari na uzou muzou wa subete
-Dialogue: 1,1:51:54.02,1:51:58.40,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}mezawari na uzou muzou wa subete
-Dialogue: 2,1:51:58.44,1:52:01.45,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}tabete shimaimashou
-Dialogue: 1,1:51:58.44,1:52:01.45,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}tabete shimaimashou
-Dialogue: 2,1:52:01.49,1:52:09.12,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}supaisu wa taegatai kurai ga ii wa
-Dialogue: 1,1:52:01.49,1:52:09.12,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}supaisu wa taegatai kurai ga ii wa
-Dialogue: 2,1:52:13.37,1:52:17.84,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie, la la la la la la la
-Dialogue: 1,1:52:13.37,1:52:17.84,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie, la la la la la la la
-Dialogue: 2,1:52:20.88,1:52:24.68,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}La la la la la la la
-Dialogue: 1,1:52:20.88,1:52:24.68,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}La la la la la la la
-Dialogue: 2,1:52:26.14,1:52:28.77,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}obieta kotori wa
-Dialogue: 1,1:52:26.14,1:52:28.77,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}obieta kotori wa
-Dialogue: 2,1:52:28.97,1:52:33.19,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}sayonara nante ienakute
-Dialogue: 1,1:52:28.97,1:52:33.19,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}sayonara nante ienakute
-Dialogue: 2,1:52:33.23,1:52:37.94,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}ai wo kou shigusa from damarikonde
-Dialogue: 1,1:52:33.23,1:52:37.94,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}ai wo kou shigusa from damarikonde
-Dialogue: 2,1:52:37.98,1:52:40.94,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}tsutsumashii tsumori from ita
-Dialogue: 1,1:52:37.98,1:52:40.94,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}tsutsumashii tsumori from ita
-Dialogue: 2,1:52:43.24,1:52:45.87,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}not a lie mou tsurai
-Dialogue: 1,1:52:43.24,1:52:45.87,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}not a lie mou tsurai
-Dialogue: 2,1:52:45.91,1:52:48.33,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}sanzan kizutsuite
-Dialogue: 1,1:52:45.91,1:52:48.33,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}sanzan kizutsuite
-Dialogue: 2,1:52:48.37,1:52:55.25,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}yasashii sekai ni dare datte yukitai wa
-Dialogue: 1,1:52:48.37,1:52:55.25,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}yasashii sekai ni dare datte yukitai wa
-Dialogue: 2,1:52:55.37,1:52:59.55,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hitotsu ni tokete shimaimashou
-Dialogue: 1,1:52:55.37,1:52:59.55,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hitotsu ni tokete shimaimashou
-Dialogue: 2,1:52:59.59,1:53:04.05,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}nikushimi mo aijou mo mushamusha to
-Dialogue: 1,1:52:59.59,1:53:04.05,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}nikushimi mo aijou mo mushamusha to
-Dialogue: 2,1:53:04.09,1:53:07.05,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hoobatte shimaimashou
-Dialogue: 1,1:53:04.09,1:53:07.05,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hoobatte shimaimashou
-Dialogue: 2,1:53:07.10,1:53:14.73,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}konton no amai amai tsubo no naka de
-Dialogue: 1,1:53:07.10,1:53:14.73,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}konton no amai amai tsubo no naka de
-Dialogue: 2,1:53:15.23,1:53:18.27,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie, lie, lie, la la la
-Dialogue: 1,1:53:15.23,1:53:18.27,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie, lie, lie, la la la
-Dialogue: 2,1:53:18.31,1:53:22.40,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}La lie, la lie
-Dialogue: 1,1:53:18.31,1:53:22.40,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}La lie, la lie
-Dialogue: 2,1:53:22.74,1:53:25.82,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie lie lie, la la la
-Dialogue: 1,1:53:22.74,1:53:25.82,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie lie lie, la la la
-Dialogue: 2,1:53:25.86,1:53:29.99,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}La la, la la
-Dialogue: 1,1:53:25.86,1:53:29.99,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}La la, la la
-Dialogue: 2,1:53:30.28,1:53:33.91,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}aimai ni warau kara
-Dialogue: 1,1:53:30.28,1:53:33.91,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}aimai ni warau kara
-Dialogue: 2,1:53:34.00,1:53:37.71,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}aitai to omou no yo
-Dialogue: 1,1:53:34.00,1:53:37.71,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}aitai to omou no yo
-Dialogue: 2,1:53:41.46,1:53:45.17,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}aisareteitai dake
-Dialogue: 1,1:53:41.46,1:53:45.17,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}aisareteitai dake
-Dialogue: 2,1:53:49.05,1:53:52.64,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}raimei no saku tokoro
-Dialogue: 1,1:53:49.05,1:53:52.64,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}raimei no saku tokoro
-Dialogue: 2,1:53:52.68,1:53:56.39,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}santantaru heavenly feeling
-Dialogue: 1,1:53:52.68,1:53:56.39,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}santantaru heavenly feeling
-Dialogue: 2,1:53:56.44,1:54:01.44,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}ai dake nokoreba ii
-Dialogue: 1,1:53:56.44,1:54:01.44,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}ai dake nokoreba ii
-Dialogue: 2,1:54:20.79,1:54:28.84,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}shinshin to kanashimi dake ga furitsumoru
-Dialogue: 1,1:54:20.79,1:54:28.84,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}shinshin to kanashimi dake ga furitsumoru
-Dialogue: 2,1:54:28.89,1:54:36.31,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}ganbou mo kaikon mo tada umetsukusu
-Dialogue: 1,1:54:28.89,1:54:36.31,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}ganbou mo kaikon mo tada umetsukusu
-Dialogue: 2,1:54:36.35,1:54:43.77,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kizuna musunda tooi haru no hi wo
-Dialogue: 1,1:54:36.35,1:54:43.77,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kizuna musunda tooi haru no hi wo
-Dialogue: 2,1:54:43.82,1:54:52.58,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kizuato sae mo kieteshimau no
-Dialogue: 1,1:54:43.82,1:54:52.58,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kizuato sae mo kieteshimau no
-Dialogue: 2,1:54:53.37,1:54:57.71,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}yagate kirakira yume no naka
-Dialogue: 1,1:54:53.37,1:54:57.71,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}yagate kirakira yume no naka
-Dialogue: 2,1:54:57.75,1:55:01.67,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kuchiteyuku hikari wa anata ni
-Dialogue: 1,1:54:57.75,1:55:01.67,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kuchiteyuku hikari wa anata ni
-Dialogue: 2,1:55:01.71,1:55:05.21,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}todoku hazudakara
-Dialogue: 1,1:55:01.71,1:55:05.21,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}todoku hazudakara
-Dialogue: 2,1:55:05.25,1:55:09.63,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}mabushikute namida ga tomaranai
-Dialogue: 1,1:55:05.25,1:55:09.63,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}mabushikute namida ga tomaranai
-Dialogue: 2,1:55:09.68,1:55:12.72,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}nee douka soba ni ite
-Dialogue: 1,1:55:09.68,1:55:12.72,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}nee douka soba ni ite
-Dialogue: 2,1:55:12.76,1:55:16.39,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}dorodarake you wo not totte
-Dialogue: 1,1:55:12.76,1:55:16.39,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}dorodarake you wo not totte
-Dialogue: 2,1:55:16.43,1:55:20.06,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hanasanaide
-Dialogue: 1,1:55:16.43,1:55:20.06,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hanasanaide
-Dialogue: 2,1:55:20.19,1:55:23.94,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}douka zutto soba ni ite
-Dialogue: 1,1:55:20.19,1:55:23.94,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}douka zutto soba ni ite
-Dialogue: 2,1:55:23.98,1:55:27.49,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hanasanaide
-Dialogue: 1,1:55:23.98,1:55:27.49,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hanasanaide
-Dialogue: 2,1:55:27.69,1:55:31.49,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kuraku naru no soba ni ite
-Dialogue: 1,1:55:27.69,1:55:31.49,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kuraku naru no soba ni ite
-Dialogue: 2,1:55:31.53,1:55:35.24,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hanasanaide mienai wa
-Dialogue: 1,1:55:31.53,1:55:35.24,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hanasanaide mienai wa
-Dialogue: 2,1:55:35.28,1:55:39.00,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}tada zutto soba ni ite
-Dialogue: 1,1:55:35.28,1:55:39.00,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}tada zutto soba ni ite
-Dialogue: 2,1:55:39.04,1:55:42.92,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hanasanaide tada zutto
-Dialogue: 1,1:55:39.04,1:55:42.92,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hanasanaide tada zutto
-Dialogue: 2,1:55:42.96,1:55:45.42,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}aishiteru
-Dialogue: 1,1:55:42.96,1:55:45.42,ED2,rom,0,0,0,fx,{\an8\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}aishiteru
+Dialogue: 2,1:52:41.03,1:52:43.24,ED2,eng,0,0,0,fx,{\an5\pos(960.00,1013.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie, lie—It's a lie
+Dialogue: 1,1:52:41.03,1:52:43.24,ED2,eng,0,0,0,fx,{\an5\pos(960.00,1013.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie, lie—It's a lie
+Dialogue: 2,1:53:19.07,1:53:23.53,ED2,eng,0,0,0,fx,{\an5\pos(960.00,1013.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie, la la la la la la la
+Dialogue: 1,1:53:19.07,1:53:23.53,ED2,eng,0,0,0,fx,{\an5\pos(960.00,1013.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie, la la la la la la la
+Dialogue: 2,1:53:26.53,1:53:30.24,ED2,eng,0,0,0,fx,{\an5\pos(960.00,1013.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}La la la la la la la
+Dialogue: 1,1:53:26.53,1:53:30.24,ED2,eng,0,0,0,fx,{\an5\pos(960.00,1013.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}La la la la la la la
+Dialogue: 2,1:53:37.75,1:53:41.42,ED2,eng,0,0,0,fx,{\an5\pos(960.00,1013.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}I know you're here to stay with me
+Dialogue: 1,1:53:37.75,1:53:41.42,ED2,eng,0,0,0,fx,{\an5\pos(960.00,1013.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}I know you're here to stay with me
+Dialogue: 2,1:53:45.22,1:53:48.93,ED2,eng,0,0,0,fx,{\an5\pos(960.00,1013.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie, lie, lie, you're to be with me
+Dialogue: 1,1:53:45.22,1:53:48.93,ED2,eng,0,0,0,fx,{\an5\pos(960.00,1013.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie, lie, lie, you're to be with me
+Dialogue: 2,1:51:20.28,1:51:23.24,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}awaremi wo kudasai
+Dialogue: 1,1:51:20.28,1:51:23.24,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}awaremi wo kudasai
+Dialogue: 2,1:51:23.41,1:51:27.66,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}ochita kotori ni sotto fureru you na
+Dialogue: 1,1:51:23.41,1:51:27.66,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}ochita kotori ni sotto fureru you na
+Dialogue: 2,1:51:27.70,1:51:30.42,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kanashimi wo kudasai
+Dialogue: 1,1:51:27.70,1:51:30.42,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kanashimi wo kudasai
+Dialogue: 2,1:51:30.46,1:51:33.75,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}namidagunde mioroshite
+Dialogue: 1,1:51:30.46,1:51:33.75,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}namidagunde mioroshite
+Dialogue: 2,1:51:33.75,1:51:37.09,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kawaisou da to kuchi ni dashite
+Dialogue: 1,1:51:33.75,1:51:37.09,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kawaisou da to kuchi ni dashite
+Dialogue: 2,1:51:37.13,1:51:42.64,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kutsu no saki de korogashitemo kamawanai wa
+Dialogue: 1,1:51:37.13,1:51:42.64,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kutsu no saki de korogashitemo kamawanai wa
+Dialogue: 2,1:51:42.68,1:51:46.43,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}yogoretetemo ii kara to
+Dialogue: 1,1:51:42.68,1:51:46.43,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}yogoretetemo ii kara to
+Dialogue: 2,1:51:46.47,1:51:49.93,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}dorodarake no te wo totte
+Dialogue: 1,1:51:46.47,1:51:49.93,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}dorodarake no te wo totte
+Dialogue: 2,1:51:49.93,1:51:53.98,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}nee wa ni natte odorimashou
+Dialogue: 1,1:51:49.93,1:51:53.98,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}nee wa ni natte odorimashou
+Dialogue: 2,1:51:54.02,1:51:58.40,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}mezawari na uzou muzou wa subete
+Dialogue: 1,1:51:54.02,1:51:58.40,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}mezawari na uzou muzou wa subete
+Dialogue: 2,1:51:58.44,1:52:01.45,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}tabete shimaimashou
+Dialogue: 1,1:51:58.44,1:52:01.45,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}tabete shimaimashou
+Dialogue: 2,1:52:01.49,1:52:09.12,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}supaisu wa taegatai kurai ga ii wa
+Dialogue: 1,1:52:01.49,1:52:09.12,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}supaisu wa taegatai kurai ga ii wa
+Dialogue: 2,1:52:13.37,1:52:17.84,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie, la la la la la la la
+Dialogue: 1,1:52:13.37,1:52:17.84,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie, la la la la la la la
+Dialogue: 2,1:52:20.88,1:52:24.68,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}La la la la la la la
+Dialogue: 1,1:52:20.88,1:52:24.68,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}La la la la la la la
+Dialogue: 2,1:52:26.14,1:52:28.77,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}obieta kotori wa
+Dialogue: 1,1:52:26.14,1:52:28.77,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}obieta kotori wa
+Dialogue: 2,1:52:28.97,1:52:33.19,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}sayonara nante ienakute
+Dialogue: 1,1:52:28.97,1:52:33.19,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}sayonara nante ienakute
+Dialogue: 2,1:52:33.23,1:52:37.94,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}ai wo kou shigusa from damarikonde
+Dialogue: 1,1:52:33.23,1:52:37.94,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}ai wo kou shigusa from damarikonde
+Dialogue: 2,1:52:37.98,1:52:40.94,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}tsutsumashii tsumori from ita
+Dialogue: 1,1:52:37.98,1:52:40.94,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}tsutsumashii tsumori from ita
+Dialogue: 2,1:52:43.24,1:52:45.87,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}not a lie mou tsurai
+Dialogue: 1,1:52:43.24,1:52:45.87,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}not a lie mou tsurai
+Dialogue: 2,1:52:45.91,1:52:48.33,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}sanzan kizutsuite
+Dialogue: 1,1:52:45.91,1:52:48.33,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}sanzan kizutsuite
+Dialogue: 2,1:52:48.37,1:52:55.25,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}yasashii sekai ni dare datte yukitai wa
+Dialogue: 1,1:52:48.37,1:52:55.25,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}yasashii sekai ni dare datte yukitai wa
+Dialogue: 2,1:52:55.37,1:52:59.55,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hitotsu ni tokete shimaimashou
+Dialogue: 1,1:52:55.37,1:52:59.55,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hitotsu ni tokete shimaimashou
+Dialogue: 2,1:52:59.59,1:53:04.05,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}nikushimi mo aijou mo mushamusha to
+Dialogue: 1,1:52:59.59,1:53:04.05,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}nikushimi mo aijou mo mushamusha to
+Dialogue: 2,1:53:04.09,1:53:07.05,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hoobatte shimaimashou
+Dialogue: 1,1:53:04.09,1:53:07.05,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hoobatte shimaimashou
+Dialogue: 2,1:53:07.10,1:53:14.73,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}konton no amai amai tsubo no naka de
+Dialogue: 1,1:53:07.10,1:53:14.73,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}konton no amai amai tsubo no naka de
+Dialogue: 2,1:53:15.23,1:53:18.27,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie, lie, lie, la la la
+Dialogue: 1,1:53:15.23,1:53:18.27,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie, lie, lie, la la la
+Dialogue: 2,1:53:18.31,1:53:22.40,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}La lie, la lie
+Dialogue: 1,1:53:18.31,1:53:22.40,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}La lie, la lie
+Dialogue: 2,1:53:22.74,1:53:25.82,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}Lie lie lie, la la la
+Dialogue: 1,1:53:22.74,1:53:25.82,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}Lie lie lie, la la la
+Dialogue: 2,1:53:25.86,1:53:29.99,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}La la, la la
+Dialogue: 1,1:53:25.86,1:53:29.99,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}La la, la la
+Dialogue: 2,1:53:30.28,1:53:33.91,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}aimai ni warau kara
+Dialogue: 1,1:53:30.28,1:53:33.91,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}aimai ni warau kara
+Dialogue: 2,1:53:34.00,1:53:37.71,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}aitai to omou no yo
+Dialogue: 1,1:53:34.00,1:53:37.71,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}aitai to omou no yo
+Dialogue: 2,1:53:41.46,1:53:45.17,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}aisareteitai dake
+Dialogue: 1,1:53:41.46,1:53:45.17,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}aisareteitai dake
+Dialogue: 2,1:53:49.05,1:53:52.64,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}raimei no saku tokoro
+Dialogue: 1,1:53:49.05,1:53:52.64,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}raimei no saku tokoro
+Dialogue: 2,1:53:52.68,1:53:56.39,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}santantaru heavenly feeling
+Dialogue: 1,1:53:52.68,1:53:56.39,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}santantaru heavenly feeling
+Dialogue: 2,1:53:56.44,1:54:01.44,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}ai dake nokoreba ii
+Dialogue: 1,1:53:56.44,1:54:01.44,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}ai dake nokoreba ii
+Dialogue: 2,1:54:20.79,1:54:28.84,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}shinshin to kanashimi dake ga furitsumoru
+Dialogue: 1,1:54:20.79,1:54:28.84,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}shinshin to kanashimi dake ga furitsumoru
+Dialogue: 2,1:54:28.89,1:54:36.31,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}ganbou mo kaikon mo tada umetsukusu
+Dialogue: 1,1:54:28.89,1:54:36.31,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}ganbou mo kaikon mo tada umetsukusu
+Dialogue: 2,1:54:36.35,1:54:43.77,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kizuna musunda tooi haru no hi wo
+Dialogue: 1,1:54:36.35,1:54:43.77,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kizuna musunda tooi haru no hi wo
+Dialogue: 2,1:54:43.82,1:54:52.58,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kizuato sae mo kieteshimau no
+Dialogue: 1,1:54:43.82,1:54:52.58,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kizuato sae mo kieteshimau no
+Dialogue: 2,1:54:53.37,1:54:57.71,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}yagate kirakira yume no naka
+Dialogue: 1,1:54:53.37,1:54:57.71,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}yagate kirakira yume no naka
+Dialogue: 2,1:54:57.75,1:55:01.67,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kuchiteyuku hikari wa anata ni
+Dialogue: 1,1:54:57.75,1:55:01.67,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kuchiteyuku hikari wa anata ni
+Dialogue: 2,1:55:01.71,1:55:05.21,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}todoku hazudakara
+Dialogue: 1,1:55:01.71,1:55:05.21,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}todoku hazudakara
+Dialogue: 2,1:55:05.25,1:55:09.63,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}mabushikute namida ga tomaranai
+Dialogue: 1,1:55:05.25,1:55:09.63,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}mabushikute namida ga tomaranai
+Dialogue: 2,1:55:09.68,1:55:12.72,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}nee douka soba ni ite
+Dialogue: 1,1:55:09.68,1:55:12.72,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}nee douka soba ni ite
+Dialogue: 2,1:55:12.76,1:55:16.39,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}dorodarake you wo not totte
+Dialogue: 1,1:55:12.76,1:55:16.39,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}dorodarake you wo not totte
+Dialogue: 2,1:55:16.43,1:55:20.06,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hanasanaide
+Dialogue: 1,1:55:16.43,1:55:20.06,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hanasanaide
+Dialogue: 2,1:55:20.19,1:55:23.94,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}douka zutto soba ni ite
+Dialogue: 1,1:55:20.19,1:55:23.94,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}douka zutto soba ni ite
+Dialogue: 2,1:55:23.98,1:55:27.49,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hanasanaide
+Dialogue: 1,1:55:23.98,1:55:27.49,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hanasanaide
+Dialogue: 2,1:55:27.69,1:55:31.49,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}kuraku naru no soba ni ite
+Dialogue: 1,1:55:27.69,1:55:31.49,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}kuraku naru no soba ni ite
+Dialogue: 2,1:55:31.53,1:55:35.24,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hanasanaide mienai wa
+Dialogue: 1,1:55:31.53,1:55:35.24,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hanasanaide mienai wa
+Dialogue: 2,1:55:35.28,1:55:39.00,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}tada zutto soba ni ite
+Dialogue: 1,1:55:35.28,1:55:39.00,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}tada zutto soba ni ite
+Dialogue: 2,1:55:39.04,1:55:42.92,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}hanasanaide tada zutto
+Dialogue: 1,1:55:39.04,1:55:42.92,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}hanasanaide tada zutto
+Dialogue: 2,1:55:42.96,1:55:45.42,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HFFFFFF&\bord0.5\blur0.7}aishiteru
+Dialogue: 1,1:55:42.96,1:55:45.42,ED2,rom,0,0,0,fx,{\an5\pos(960.00,61.01)\fad(200,200)\1a&HFE&\3a&HFE&\xshad0.01\4c&HF62DFA&\bord0.5\blur8}aishiteru
