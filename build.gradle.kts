@@ -45,7 +45,7 @@ subs {
             from(get("IS"))
         }
 
-        from(getList("TS"))
+        from(get("TS"))
 
         out(get("mergedname_full"))
     }
@@ -66,7 +66,7 @@ subs {
             from(get("IS"))
         }
 
-        from(getList("TS"))
+        from(get("TS"))
 
         out(get("mergedname_ss"))
     }
@@ -136,12 +136,6 @@ subs {
 
         attach(get("fonts")) {
             includeExtensions("ttf", "otf")
-        }
-
-        if (propertyExists("ED")) {
-            attach(get("edfonts")) {
-                includeExtensions("ttf", "otf")
-            }
         }
 
         out(get("muxout"))
