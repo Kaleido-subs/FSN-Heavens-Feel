@@ -5,7 +5,7 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
@@ -126,7 +126,7 @@ Dialogue: 100,0:11:39.06,0:11:43.14,Default,Shirou,0,0,0,,Ugh, I've gotta take a
 Dialogue: 100,0:12:05.93,0:12:08.62,Default,Shirou,0,0,0,,{\i1}Oh. Here it comes again.
 Dialogue: 100,0:12:09.47,0:12:13.31,Default,Shirou,0,0,0,,{\i1}The flames lap away at my old memories,
 Dialogue: 100,0:12:14.35,0:12:18.59,Default,Shirou,0,0,0,,{\i1}as if to forbid me from retaining them.
-Dialogue: 100,0:12:19.31,0:12:24.09,Default,Shirou,0,0,0,,{\q2\i1}Whenever I dream, \Nthis is always my final destination.
+Dialogue: 100,0:12:19.31,0:12:24.09,Default,Shirou,0,0,0,,{\i1\q2}Whenever I dream, \Nthis is always my final destination.
 Dialogue: 100,0:12:25.21,0:12:28.79,Default,Shirou,0,0,0,,{\i1}Meaning I'm gonna wake up soon.
 Dialogue: 100,0:12:35.35,0:12:36.61,Default,Sakura,0,0,0,,Senpai.
 Dialogue: 100,0:12:39.90,0:12:41.41,Default,Sakura,0,0,0,,Good morning.
@@ -161,8 +161,9 @@ Dialogue: 100,0:14:38.90,0:14:41.50,Default,Shirou,0,0,0,,{\q2}If you ever need 
 Dialogue: 100,0:14:41.50,0:14:45.48,Default,Shirou,0,0,0,,{\q2}You've always had a rough time \Nstringing and fixing bows, right?
 Dialogue: 100,0:14:45.48,0:14:51.12,Default,Shinji,0,0,0,,{\q2}Say, Emiya, you're through \Nwith the archery club, right?
 Dialogue: 100,0:14:52.41,0:14:57.06,Default,Shinji,0,0,0,,{\q2}Don't you think it'd be in your best interests \Nto mind your own business?
-Dialogue: 100,0:15:01.92,0:15:03.86,Default,Fuji-nee,0,0,0,,First off, pronunciation.
-Dialogue: 100,0:15:03.86,0:15:07.23,Default,Fuji-nee,0,0,0,TL/TM,Even though the spelling's the same... {## Missing bit after}
+Dialogue: 100,0:15:01.92,0:15:03.86,Default,Fuji-nee,0,0,0,,{\an8}First off, pronunciation.
+Dialogue: 10,0:15:03.92,0:15:07.38,Default,Fuji-nee,0,0,0,,{\an8\q2}Even if it's spelled the same way, \Nthe pronunciation will differ.
+Dialogue: 10,0:15:07.38,0:15:09.89,Default,Fuji-nee,0,0,0,,{\an8\q2}It's super easy to get it wrong, \Nso keep your eyes peeped!
 Dialogue: 100,0:15:14.29,0:15:16.62,Default,Issei,0,0,0,,Emiya, wanna have lunch?
 Dialogue: 100,0:15:17.10,0:15:19.77,Default,Shirou,0,0,0,,Sorry. I'm going to the cafeteria today.
 Dialogue: 100,0:15:29.93,0:15:31.29,Default,Shirou,0,0,0,,Oh, Sakura—
@@ -372,7 +373,7 @@ Dialogue: 100,0:38:52.81,0:38:54.39,Default,Saber,0,0,0,,Are you all right?
 Dialogue: 100,0:38:57.05,0:38:58.52,Default,Tohsaka,0,0,0,,Bright-eyed and bushy-tailed now?
 Dialogue: 100,0:39:00.13,0:39:01.28,Default,Shirou,0,0,0,,Tohsaka...
 Dialogue: 100,0:39:02.19,0:39:04.44,Default,Shirou,0,0,0,,Did you fix me up?
-Dialogue: 100,0:39:04.44,0:39:08.56,Default,Saber,0,0,0,Edit,No, you healed those wounds by your own power. {## yay or nay? "no" or "nay"?}
+Dialogue: 100,0:39:04.44,0:39:08.56,Default,Saber,0,0,0,,No, you healed those wounds by your own power. {## yay or nay? "no" or "nay"?}
 Dialogue: 100,0:39:08.56,0:39:12.60,Default,Shirou,0,0,0,,Yeah, right. I can't do anything crazy like that.
 Dialogue: 100,0:39:12.60,0:39:16.87,Default,Tohsaka,0,0,0,,{\q2}Then perhaps your contract with Saber \Nis affecting your body one way or another.
 Dialogue: 100,0:39:19.19,0:39:24.28,Default,Tohsaka,0,0,0,,{\q2}First things first, let's hear your excuse \Nfor that stunt you pulled.
@@ -398,7 +399,7 @@ Dialogue: 100,0:40:56.87,0:40:58.68,Default,Saber,0,0,0,,I do not sense Berserke
 Dialogue: 100,0:40:59.53,0:41:01.52,Default,Saber,0,0,0,,This is a different party entirely.
 Dialogue: 100,0:41:01.52,0:41:03.52,Default,Saber,0,0,0,,Master, your orders?
 Dialogue: 100,0:41:09.65,0:41:10.78,Default,Shirou,0,0,0,,Let's go.
-Dialogue: 100,0:41:21.86,0:41:24.99,Default,Saber,0,0,0,TM/Edit,Keep your guard up. \NA bounded field has been erected. {## split?}{I think it is better as combined}
+Dialogue: 100,0:41:21.86,0:41:24.99,Default,Saber,0,0,0,,Keep your guard up. \NA bounded field has been erected.
 Dialogue: 100,0:41:26.77,0:41:29.85,Default,Shirou,0,0,0,,Where have I felt this before?
 Dialogue: 100,0:41:52.51,0:41:53.79,Default,Shirou,0,0,0,,Mitsuzuri?
 Dialogue: 100,0:42:09.59,0:42:10.87,Default,Shirou,0,0,0,,Mitsuzuri!
@@ -444,8 +445,8 @@ Dialogue: 100,0:45:49.73,0:45:52.33,Default,Shinji,0,0,0,,Grandfather! Wait!
 Dialogue: 100,0:45:52.33,0:45:56.12,Default,Shinji,0,0,0,,I'm a magus of the Matou family! I'll...
 Dialogue: 100,0:45:58.39,0:46:02.07,Default,Zouken,0,0,0,,Once incompetent, always incompetent.
 Dialogue: 100,0:46:02.66,0:46:05.75,Default,Zouken,0,0,0,,The Matou bloodline has fallen from grace.
-Dialogue: 100,0:46:06.35,0:46:10.21,Default,Zouken,0,0,0,,I had no expectations of you in particular. {## taken from daraku: adding in particular makes it sound more natural than having shirou's next line just be "for you" imo}
-Dialogue: 100,0:46:13.39,0:46:15.13,Default,Shirou,0,0,0,,{\i1}"In particular"?
+Dialogue: 100,0:46:06.35,0:46:10.21,Default,Zouken,0,0,0,,I had no expectations of you in particular. {## "taken from daraku: adding in particular makes it sound more natural than having shirou's next line just be 'for you' imo", and I agree with them.}
+Dialogue: 100,0:46:13.39,0:46:15.13,Default,Shirou,0,0,0,,{\i1}"You in particular"?
 Dialogue: 100,0:46:15.13,0:46:16.81,Default,Shirou,0,0,0,,Wait! Hold on!
 Dialogue: 100,0:46:16.81,0:46:19.71,Default,Shirou,0,0,0,,You're not making Sakura do this stuff, are you?!
 Dialogue: 100,0:46:21.75,0:46:26.03,Default,Shinji,0,0,0,,Why the hell would you bring her up?
@@ -747,7 +748,7 @@ Dialogue: 100,1:19:32.45,1:19:33.28,Default,Lancer,0,0,0,,Come!
 Dialogue: 100,1:20:12.20,1:20:13.50,Default,Lancer,0,0,0,,Ain't worth tryin' those tricks.
 Dialogue: 100,1:20:14.08,1:20:15.32,Default,Lancer,0,0,0,,{\q2}I was born this way.
 Dialogue: 100,1:20:15.32,1:20:17.25,Default,Lancer,0,0,0,,{\q2}Projectiles ain't gonna work on me.
-Dialogue: 100,1:20:19.37,1:20:22.25,Default,True Assassin,0,0,0,,Protection from Arrows, I see. {## Name of the skill in FGO}
+Dialogue: 100,1:20:19.37,1:20:22.25,Default,True Assassin,0,0,0,,I see, Protection from Arrows. {from FGO}
 Dialogue: 100,1:20:25.67,1:20:28.63,Default,Lancer,0,0,0,,Black-painted weapons to hide 'em in the darkness...
 Dialogue: 100,1:20:29.76,1:20:30.80,Default,Lancer,0,0,0,,Pathetic.
 Dialogue: 100,1:20:57.37,1:21:02.04,Default,True Assassin,0,0,0,,You have seen beneath my mask, Lancer!
@@ -798,7 +799,7 @@ Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\
 Dialogue: 101,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0\blur0.65}Delusional Heartbeat
 Dialogue: 100,1:22:38.51,1:22:42.39,Default,True Assassin,0,0,0,,{\pos(960,1024)}Zabaniya!
 Dialogue: 100,1:22:54.11,1:22:55.45,Default,Lancer,0,0,0,,Noble Phantasm!
-Dialogue: 100,1:22:55.45,1:22:58.03,Default,Lancer,0,0,0,,A bit early, but I'm finishin' this now!
+Dialogue: 100,1:22:55.45,1:22:58.03,Default,Lancer,0,0,0,,'Tis a bit early, but I'm finishin' this now!
 Comment: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4E24AF&\1a&HFE&\3a&HFE&\4a&H00&\blur1}Barbed Spear...
 Comment: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H280A97&\1a&HFE&\3a&HFE&\4a&H00&\blur1}Barbed Spear...
 Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4D23AE&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(832,907,1087,908)}Barbed Spear...
@@ -900,7 +901,7 @@ Dialogue: 100,1:26:24.79,1:26:25.96,Default,Saber,0,0,0,,You swine...
 Dialogue: 100,1:26:26.95,1:26:29.28,Default,Saber,0,0,0,,{\q2}You dare make a mockery \Nof a Heroic Spirit's remains?!
 Dialogue: 100,1:26:29.70,1:26:30.91,Default,Saber,0,0,0,,How ludicrous!
 Dialogue: 100,1:26:43.17,1:26:44.67,Default,Shirou,0,0,0,,Saber! Watch out!
-Dialogue: 100,1:26:44.67,1:26:45.84,Default,Shirou,0,0,0,,Don't let that sword—{## split?} {Done}
+Dialogue: 100,1:26:44.67,1:26:45.68,Default,Shirou,0,0,0,,Don't let that sword—
 Dialogue: 100,1:26:50.79,1:26:52.43,Default,Archer,0,0,0,,Don't let that sword touch you!
 Dialogue: 100,1:27:04.86,1:27:06.99,Default,Archer,0,0,0,,That sword dispells magecraft.
 Dialogue: 100,1:27:08.36,1:27:10.68,Default,Archer,0,0,0,,It can sever even a Master-Servant contract.
@@ -962,7 +963,7 @@ Dialogue: 100,1:33:14.02,1:33:15.78,Default,Shirou,0,0,0,,I can't keep up with t
 Dialogue: 100,1:33:16.50,1:33:21.44,Default,Kotomine,0,0,0,,I had ordered Lancer to surveil Assassin.
 Dialogue: 100,1:33:21.44,1:33:24.78,Default,Kotomine,0,0,0,,{\q2}He cornered him at Ryuudou Temple, \Nbut never returned.
 Dialogue: 100,1:33:25.48,1:33:27.50,Default,Shirou,0,0,0,,Did Assassin kill him?
-Dialogue: 100,1:33:29.72,1:33:34.50,Default,Kotomine,0,0,0,,Assassins often rely on a skill to erase their presence. {## Specifically the skill "Presence Concealment", here}
+Dialogue: 100,1:33:29.72,1:33:34.50,Default,Kotomine,0,0,0,,Assassins often rely on a skill to erase their presence. {Presence Concealment}
 Dialogue: 100,1:33:34.50,1:33:37.57,Default,Kotomine,0,0,0,,Their individual combat abilities are not high.
 Dialogue: 100,1:33:38.16,1:33:43.01,Default,Kotomine,0,0,0,,{\q2}It is inconceivable that Lancer \Nwould lose in conventional combat.
 Dialogue: 100,1:33:47.84,1:33:49.66,Default,Kotomine,0,0,0,,Emiya Shirou,
@@ -1024,7 +1025,7 @@ Dialogue: 10,1:39:54.82,1:39:56.04,Default,True Assassin,0,0,0,,That wind...
 Dialogue: 100,1:39:56.04,1:39:58.59,Default,True Assassin,0,0,0,,{\q2}It would prove fatal \Nwere I to take the brunt of it.
 Dialogue: 100,1:39:59.24,1:40:00.39,Default,Saber,0,0,0,,O Wind...
 Dialogue: 100,1:40:02.47,1:40:03.71,Default,Saber,0,0,0,,Run amok!
-Dialogue: 100,1:40:18.42,1:40:20.01,Default,True Assassin,0,0,0,,The blessing of wind protection. {## "Protection from Wind" in FGO}
+Dialogue: 100,1:40:18.42,1:40:20.01,Default,True Assassin,0,0,0,,The blessing of wind protection. {Protection from Wind}
 Dialogue: 100,1:40:20.60,1:40:23.21,Default,True Assassin,0,0,0,,Indispensable for any who would cross the desert.
 Dialogue: 100,1:40:27.40,1:40:29.92,Default,True Assassin,0,0,0,,I care not if you refuse to approach,
 Dialogue: 100,1:40:29.92,1:40:33.92,Default,True Assassin,0,0,0,,but my lord is currently entertaining yours.
@@ -1098,8 +1099,8 @@ Dialogue: 100,1:49:22.76,1:49:24.63,Default,Zouken,0,0,0,,Do you curse me,
 Dialogue: 100,1:49:25.25,1:49:29.66,Default,Zouken,0,0,0,,{\q2}he who extends his rotting life \Nwith the bodies of others?
 Dialogue: 100,1:49:32.32,1:49:33.18,Default,True Assassin,0,0,0,,No.
 Dialogue: 100,1:49:34.19,1:49:40.17,Default,True Assassin,0,0,0,,{\q2}Your tenacity for survival \Nis what makes you fit to be my lord.
-Dialogue: 100,1:49:47.24,1:49:48.80,Default,Illya,0,0,0,,There's a mischievous kitten among us.
-Dialogue: 100,1:49:49.40,1:49:52.02,Default,Sella,0,0,0,,A kitten, you say?
+Dialogue: 100,1:49:47.24,1:49:48.80,Default,Illya,0,0,0,,There's a mischievous kitty among us.
+Dialogue: 100,1:49:49.40,1:49:52.02,Default,Sella,0,0,0,,A kitty, you say?
 Dialogue: 100,1:49:52.02,1:49:54.36,Default,Leysritt,0,0,0,,Meow, meow, meow.
 Dialogue: 100,1:49:55.40,1:49:58.60,Default,Illya,0,0,0,,Sella, ready the car.
 Dialogue: 100,1:49:59.38,1:50:02.40,Default,Illya,0,0,0,,I'm heading into the city tomorrow.
@@ -1136,22 +1137,3 @@ Dialogue: 100,1:59:41.38,1:59:46.33,Default,Tohsaka,0,0,0,,{\q2}The Tohsakas had
 Dialogue: 100,1:59:47.30,1:59:53.44,Default,Sakura,0,0,0,,{\q2}This makes the second time I've received \Nsomething important from someone special.
 Dialogue: 100,1:59:53.87,1:59:57.37,Default,Gilganator,0,0,0,,Die at once, girl.
 Dialogue: 100,2:00:11.62,2:00:14.35,Default,Shirou,0,0,0,,I promise. I'll...
-Comment: 100,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,0,0,0,0,,23 - 18 Months Ago - Summer
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,2,0,0,0,,37 - (Cut off at the top) Don't worry. Rest up and come back to club. -Taiga P.S. I'll come check on you later.
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,5,0,0,0,,28 - Today's Headline - Fireworks Display Over the Ocean
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,6,0,0,0,,48 - 15 Months Ago - Fall
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,7,0,0,0,,57 - 14 Months Ago - Winter
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,9,0,0,0,,20 - 10 Months Ago - Spring
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,10,0,0,0,,51 - 3 Months Ago - Fall
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,19,0,0,0,,47 - Suspect Flees From Car
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,19,0,0,0,,Gas Leak in Shinto Office District
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,19,0,0,0,,53 - The Present Day...
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,20,0,0,0,,53 - Murder in Miyama-cho
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,21,0,0,0,,30 - Student Council Room
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,1,0,0,0,,03:51 - Another Gas Leak in Shinto Office District
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,1,0,0,0,,04:25 - Ryuudou Issei-sama
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,1,0,0,0,,Suzuki Tarou-sama
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,1,0,0,0,,Takada Naoki-sama
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,1,0,0,0,,59:22 - Preview
-Dialogue: 100,0:00:00.00,0:00:00.00,Default,2,0,0,0,,00:20 - In theaters 2018
