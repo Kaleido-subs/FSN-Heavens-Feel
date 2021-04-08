@@ -23,6 +23,8 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{###}
+Comment: 0,1:53:39.29,1:53:39.29,Default,chapter,0,0,0,,{ED}
 Dialogue: 100,0:00:57.66,0:00:59.87,Default,Rando,0,0,0,,Shirou Emiya is pretty good.
 Dialogue: 100,0:00:59.87,0:01:01.62,Default,Fuji-nee,0,0,0,,Isn't he?
 Dialogue: 100,0:01:02.08,0:01:07.03,Default,Rando,0,0,0,,{\q2}And with Ayako Mitsuzuri and Shinji Matou, \Nwe've got the Rookie Competition in the bag.
@@ -122,10 +124,10 @@ Dialogue: 100,0:10:46.15,0:10:49.08,Default,Fuji-nee,0,0,0,,Okay, everyone. Say 
 Dialogue: 100,0:11:29.20,0:11:30.86,Default,Shirou,0,0,0,,Trace on.
 Dialogue: 100,0:11:39.06,0:11:43.14,Default,Shirou,0,0,0,,Ugh, I've gotta take apart another one...
 Dialogue: 100,0:12:05.93,0:12:08.62,Default,Shirou,0,0,0,,{\i1}Oh. Here it comes again.
-Dialogue: 100,0:12:09.47,0:12:13.31,Default,Shirou,0,0,0,Edit,{\i1}The flames lap away at my old memories, {## I've gotta really figure out how to handle Shirouisms well}
-Dialogue: 100,0:12:14.35,0:12:18.59,Default,Shirou,0,0,0,Edit,{\i1}as if to forbid me from retaining them.
-Dialogue: 100,0:12:19.31,0:12:24.09,Default,Shirou,0,0,0,Edit,{\i1}Whenever I dream, this is the endpoint I always reach.
-Dialogue: 100,0:12:25.21,0:12:28.79,Default,Shirou,0,0,0,Edit,{\i1}Meaning I'm gonna wake up soon.
+Dialogue: 100,0:12:09.47,0:12:13.31,Default,Shirou,0,0,0,,{\i1}The flames lap away at my old memories,
+Dialogue: 100,0:12:14.35,0:12:18.59,Default,Shirou,0,0,0,,{\i1}as if to forbid me from retaining them.
+Dialogue: 100,0:12:19.31,0:12:24.09,Default,Shirou,0,0,0,,{\q2\i1}Whenever I dream, \Nthis is always my final destination.
+Dialogue: 100,0:12:25.21,0:12:28.79,Default,Shirou,0,0,0,,{\i1}Meaning I'm gonna wake up soon.
 Dialogue: 100,0:12:35.35,0:12:36.61,Default,Sakura,0,0,0,,Senpai.
 Dialogue: 100,0:12:39.90,0:12:41.41,Default,Sakura,0,0,0,,Good morning.
 Dialogue: 100,0:12:46.77,0:12:48.65,Default,Shirou,0,0,0,,Morning, Sakura.
