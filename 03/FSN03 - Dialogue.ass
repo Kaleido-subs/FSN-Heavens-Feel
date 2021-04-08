@@ -1382,7 +1382,7 @@ Dialogue: 100,1:13:48.02,1:13:49.72,Default,Saber Alter,0,0,0,,A Mystic Eyes' cu
 Dialogue: 100,1:14:02.22,1:14:05.54,Default,Shirou,0,0,0,,Rider, I have a question for you.
 Dialogue: 100,1:14:05.54,1:14:07.20,Default,Shirou,0,0,0,,About Saber...
 Dialogue: 100,1:14:07.20,1:14:10.56,Default,Shirou,0,0,0,,Do you really {\i1}have{\i0} to be a Servant to injure her?
-Dialogue: 100,1:14:11.42,1:14:16.02,Default,Rider,0,0,0,,No. Servants captured by Sakura have reincarnated.
+Dialogue: 100,1:14:11.42,1:14:16.02,Default,Rider,0,0,0,,No. Servants captured by Sakura have incarnated.
 Dialogue: 100,1:14:16.66,1:14:19.21,Default,Rider,0,0,0,,With a powerful Mystic Code, I suspect...
 Dialogue: 100,1:14:21.81,1:14:25.32,Default,Shirou,0,0,0,,One more question. About our strategy...
 Dialogue: 100,1:14:33.31,1:14:36.06,Default,Rider,0,0,0,,Yes, we would be able to break through that way.
@@ -1395,7 +1395,7 @@ Dialogue: 100,1:15:09.52,1:15:10.89,Default,Shirou,0,0,0,,I trust you!
 Dialogue: 100,1:15:28.54,1:15:30.50,Default,Rider,0,0,0,,Worried about Shirou?
 Dialogue: 100,1:15:31.04,1:15:32.52,Default,Rider,0,0,0,,He isn't moving.
 Dialogue: 100,1:15:33.98,1:15:36.89,Default,Rider,0,0,0,,He trusts me.
-Dialogue: 100,1:15:38.16,1:15:40.76,Default,Rider,0,0,0,,Oh, but you're...
+Dialogue: 100,1:15:38.16,1:15:40.76,Default,Rider,0,0,0,,Oh, just like he used to trust...
 Dialogue: 100,1:15:42.43,1:15:43.71,Default,Saber Alter,0,0,0,,Cease your drivel!
 Dialogue: 100,1:17:09.31,1:17:11.64,Default,Saber Alter,0,0,0,,This isn't enough to stop me!
 Dialogue: 100,1:17:16.77,1:17:17.86,Default,Rider,0,0,0,,Noble Phantasm.
@@ -1517,20 +1517,21 @@ Dialogue: 101,1:18:24.68,1:18:27.14,Default,Rider,0,0,0,,{\pos(959,944)\fscx50.4
 Dialogue: 102,1:18:24.68,1:18:27.14,Default,Rider,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0\blur0.65}...Chivalry
 Dialogue: 100,1:18:24.67,1:18:27.13,Default,Rider,0,0,0,,{\pos(960,1024)}...phon!
 Dialogue: 100,1:19:16.10,1:19:17.39,Default,Saber Alter,0,0,0,,Shirou?
-Dialogue: 100,1:19:30.57,1:19:35.89,Default,Shirou,0,0,0,,{\q2}Thank you. You've saved me \Nmore times than I can count.
+Dialogue: 100,1:19:30.57,1:19:31.96,Default,Shirou,0,0,0,,{\q2}Thank you.
+Dialogue: 100,1:19:32.33,1:19:35.89,Default,Shirou,0,0,0,,You've saved me more times than I can count.
 Dialogue: 100,1:19:58.31,1:20:01.80,Default,Shirou,0,0,0,,I'm going ahead. Once you can run, come after me.
 Dialogue: 100,1:20:07.12,1:20:11.07,Default,Rider,0,0,0,,You work people harder than I expected.
 Dialogue: 100,1:20:57.44,1:20:58.12,Default,Sakura,0,0,0,,Why, you...
 Dialogue: 100,1:21:29.04,1:21:29.96,Default,Sakura,0,0,0,,No...
-Dialogue: 100,1:21:34.85,1:21:36.09,Default,Sakura,0,0,0,,Why?
+Dialogue: 100,1:21:34.85,1:21:36.09,Default,Sakura,0,0,0,,How?
 Dialogue: 100,1:21:37.10,1:21:38.85,Default,Tohsaka,0,0,0,,You have to ask?
-Dialogue: 100,1:21:39.68,1:21:42.41,Default,Tohsaka,0,0,0,,We're just having a test of strength.
+Dialogue: 100,1:21:39.68,1:21:42.41,Default,Tohsaka,0,0,0,,I'm simply comparing our strength.
 Dialogue: 100,1:21:44.13,1:21:47.04,Default,Sakura,0,0,0,,That... There's something about that sword!
 Dialogue: 100,1:21:47.73,1:21:50.05,Default,Tohsaka,0,0,0,,You can't tell, Sakura?
-Dialogue: 100,1:21:50.53,1:21:54.55,Default,Tohsaka,0,0,0,,{\q2}This is the gem sword Zelretch, \Npassed down through the Tohsaka family.
-Dialogue: 100,1:21:55.03,1:22:00.72,Default,Tohsaka,0,0,0,,{\q2}It links paths to infinite parallel worlds \Nand channels mana through them.
+Dialogue: 100,1:21:50.53,1:21:54.55,Default,Tohsaka,0,0,0,,{\q2}This is the Jeweled Sword Zelretch, \Npassed down through the Tohsaka family.
+Dialogue: 100,1:21:55.03,1:22:00.72,Default,Tohsaka,0,0,0,,{\q2}It connects paths to infinite parallel worlds, \Nand channels mana through them.
 Dialogue: 100,1:22:01.39,1:22:02.31,Default,Sakura,0,0,0,,Huh?
-Dialogue: 100,1:22:03.72,1:22:06.18,Default,Sakura,0,0,0,,Zel... retch?
+Dialogue: 100,1:22:03.72,1:22:06.18,Default,Sakura,0,0,0,,Zelretch?
 Dialogue: 100,1:22:08.34,1:22:12.32,Default,Tohsaka,0,0,0,,{\q2}You've gotta be kidding me. \NYou don't know who Zelretch is?
 Dialogue: 100,1:22:13.48,1:22:14.65,Default,Sakura,0,0,0,,Don't make fun of me!
 Dialogue: 100,1:22:19.08,1:22:21.67,Default,Tohsaka,0,0,0,,{\q2}It doesn't matter how many of those \Nyou've got stored up.
