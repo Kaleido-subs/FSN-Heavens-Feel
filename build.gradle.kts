@@ -113,6 +113,9 @@ subs {
 				default(false)
                 forced(false)
 			}
+            subtitles {
+                include(false)
+            }
             includeChapters(false)
 			attachments { include(false) }
 		}
