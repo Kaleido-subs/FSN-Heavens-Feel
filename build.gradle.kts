@@ -22,6 +22,15 @@ subs {
     readProperties("sub.properties")
     episodes(getList("episodes"))
 
+    val dialogue_ktemplate by task<Automation> {
+        from(get("dialogue"))
+
+        video(get("premux"))
+		script("0x.KaraTemplater.moon")
+		macro("0x539's Templater")
+		loglevel(Automation.LogLevel.WARNING)
+	}
+
     val ed_ktemplate by task<Automation> {
         if (file(get("ED")).exists()) {
             from(get("ED"))
@@ -35,7 +44,7 @@ subs {
 
 
     merge {
-        from(get("dialogue"))
+        from(dialogue_ktemplate.item())
 
         if (file(get("ED")).exists()) {
             from(ed_ktemplate.item())
