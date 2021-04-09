@@ -11,10 +11,6 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [VCB-Studio] Fate   stay night Heaven's Feel III - spring song [Ma10p_1080p][x265_flac].mkv
-Video File: [VCB-Studio] Fate   stay night Heaven's Feel III - spring song [Ma10p_1080p][x265_flac].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,13 +19,13 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 100,0:35:18.85,0:35:18.85,Default,static,0,0,0,code once,function xoff() local t = (loopctx.state.frame - 1)/fdur; local offset = (loopctx.state.static % rnd(-36, 36)) * math.abs(math.sin(loopctx.state.static)); return offset * t; end
+Comment: 100,0:35:18.85,0:35:18.85,Default,static,0,0,0,code line,fdur = aegisub.frame_from_ms(orgline.end_time) - aegisub.frame_from_ms(orgline.start_time)
+Comment: 100,0:00:00.00,0:00:00.73,Default,static,0,0,0,code line,_, newlines = orgline.text:gsub("\\N","")
+Comment: 100,0:00:00.00,0:00:00.73,Default,static,0,0,0,template line actor static loop static 50 loop frame 1,!maxloop('static', (1+newlines) * line.height+10)!!maxloop('frame', fdur)!!retime('preline',($loop_frame-1) * 1001/24, ($loop_frame) * 1001/24)!
+Comment: 100,0:35:18.85,0:35:18.85,Default,static,0,0,0,mixin line actor static,{\i1\clip(0,!line.bottom-$loop_static+5!,!meta.res_x!,!line.bottom-$loop_static+6!)}
+Comment: 100,0:35:18.85,0:35:18.85,Default,static,0,0,0,mixin line actor static,{!ln.tag.pos(nil,nil, xoff())!}
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
-Comment: 100,0:35:18.85,0:35:18.85,Default,,0,0,0,code once,function xoff() local t = (loopctx.state.frame - 1)/fdur; local offset = (loopctx.state.clip % rnd(-36, 36)) * math.abs(math.sin(loopctx.state.clip)); return offset * t; end
-Comment: 100,0:35:18.85,0:35:18.85,Default,,0,0,0,code line,fdur = aegisub.frame_from_ms(orgline.end_time) - aegisub.frame_from_ms(orgline.start_time)
-Comment: 100,0:00:00.00,0:00:00.73,Default,,0,0,0,code line,_, newlines = orgline.text:gsub("\\N","")
-Comment: 100,0:00:00.00,0:00:00.73,Default,,0,0,0,template line loop clip 50 loop frame 1,!maxloop('clip', (1+newlines) * line.height+10)!!maxloop('frame', fdur)!!retime('preline',($loop_frame-1) * 1001/24, ($loop_frame) * 1001/24)!
-Comment: 100,0:35:18.85,0:35:18.85,Default,,0,0,0,mixin line,{\i1\clip(0,!line.bottom-$loop_clip+5!,!meta.res_x!,!line.bottom-$loop_clip+6!)}
-Comment: 100,0:35:18.85,0:35:18.85,Default,,0,0,0,mixin line,{!ln.tag.pos(nil,nil, xoff())!}
 Dialogue: 100,0:00:47.65,0:00:50.24,Default,Zouken,0,0,0,,Surely you're aware
 Dialogue: 100,0:00:51.28,0:00:54.70,Default,Zouken,0,0,0,,of who killed Shinji.
 Dialogue: 100,0:00:59.96,0:01:04.46,Default,Zouken,0,0,0,,{\q2}Well, well... It appears you've stopped \Naverting your eyes from the truth.
@@ -311,21 +307,21 @@ Dialogue: 100,0:29:41.68,0:29:43.43,Default,Zouken,0,0,0,,And so it ends.
 Dialogue: 100,0:29:51.06,0:29:52.73,Default,True Assassin,0,0,0,,You cur! You've—
 Dialogue: 100,0:30:10.71,0:30:11.79,Default,Zouken,0,0,0,,Hmm?
 Dialogue: 100,0:30:12.08,0:30:13.21,Default,Kotomine,0,0,0,,Heed me.
-Dialogue: 100,0:30:15.38,0:30:18.30,Default,Kotomine,0,0,0,,I will kill. I will spare.
-Dialogue: 100,0:30:18.30,0:30:21.67,Default,Kotomine,0,0,0,,I will harm, and I will heal.
-Dialogue: 100,0:30:21.67,0:30:25.14,Default,Kotomine,0,0,0,,No man can escape my reach.
-Dialogue: 100,0:30:25.14,0:30:28.14,Default,Kotomine,0,0,0,,No man can escape my sight.
+Dialogue: 100,0:30:15.13,0:30:18.30,Default,Kotomine,0,0,0,,I shall work damnation, I shall work salvation.
+Dialogue: 100,0:30:18.30,0:30:21.67,Default,Kotomine,0,0,0,,To inure to agony, to reprieve to hospitality.
+Dialogue: 100,0:30:21.67,0:30:25.14,Default,Kotomine,0,0,0,,Withheld from my grasp none shall be.
+Dialogue: 100,0:30:25.14,0:30:28.14,Default,Kotomine,0,0,0,,Withheld from my sight none shall be.
 Dialogue: 100,0:30:26.72,0:30:29.31,Alt,Zouken,0,0,0,,Curse you! Y-You fiend!
 Dialogue: 100,0:30:29.31,0:30:31.35,Default,Kotomine,0,0,0,,Crumble before me.
-Dialogue: 100,0:30:31.35,0:30:35.06,Default,Kotomine,0,0,0,,I shall welcome the defeated and the elderly.
-Dialogue: 100,0:30:35.06,0:30:39.69,Default,Kotomine,0,0,0,,Yield to me, learn from me, serve me, and find rest.
+Dialogue: 100,0:30:31.35,0:30:35.06,Default,Kotomine,0,0,0,,The agèd{for the memes} and the broken shall I welcome.
+Dialogue: 100,0:30:35.06,0:30:39.69,Default,Kotomine,0,0,0,,{\q2}Yield before me, to be taught, \Nto be subjugated, and to be laid low.
 Dialogue: 100,0:30:39.69,0:30:45.41,Default,Kotomine,0,0,0,,{\q2}Forget not your hymns, forget not your prayers, \Nand forget not my visage.
-Dialogue: 100,0:30:45.41,0:30:49.58,Default,Kotomine,0,0,0,,I am light, and I shall relieve you of your burdens.
+Dialogue: 100,0:30:45.41,0:30:49.58,Default,Kotomine,0,0,0,,I am light, courier of your ultimate{change if too cheesy} emancipation.
 Dialogue: 100,0:30:49.83,0:30:52.41,Default,Zouken,0,0,0,,Ah, so you mean to kill me!
-Dialogue: 100,0:30:52.41,0:30:54.92,Default,Kotomine,0,0,0,,I hold respite in my hand.
-Dialogue: 100,0:30:54.92,0:30:58.84,Default,Kotomine,0,0,0,,I shall inflame your sins and inscribe my symbol.
-Dialogue: 100,0:30:59.13,0:31:04.22,Default,Kotomine,0,0,0,,Eternal life can be granted only in death.
-Dialogue: 100,0:31:05.01,0:31:08.97,Default,Kotomine,0,0,0,,{\q2}Forgiveness is here. \NI swear this upon my flesh and blood—
+Dialogue: 100,0:30:52.41,0:30:54.92,Default,Kotomine,0,0,0,,Within my palm lies final respite.
+Dialogue: 100,0:30:54.92,0:30:58.84,Default,Kotomine,0,0,0,,The inferno of your sins shall incise{carve?} my sigil.
+Dialogue: 100,0:30:59.13,0:31:04.22,Default,Kotomine,0,0,0,,The grant of life eternal is bestowed only by death.
+Dialogue: 100,0:31:05.01,0:31:08.97,Default,Kotomine,0,0,0,,{\q2}Absolution is at hand. \NSworn upon my blood and my bone—{Is this interuption? I can't really tell}{## Even if it isn't, an em dash works nicely here anyway}
 Dialogue: 100,0:31:09.56,0:31:11.22,Default,Zouken,0,0,0,,What will this accomplish?
 Dialogue: 100,0:31:11.22,0:31:13.56,Default,Zouken,0,0,0,,There is no salvation for you.
 Dialogue: 100,0:31:14.52,0:31:16.35,Default,Kotomine,0,0,0,,{\pos(960,1024)}Kýrie, eléison.
@@ -722,7 +718,7 @@ Dialogue: 100,1:17:47.77,1:17:50.77,Default,Shirou,0,0,0,,I am the bone of my sw
 Dialogue: 100,1:17:53.61,1:17:54.69,Default,Shirou,0,0,0,,{\pos(960,1024)}Rho...
 Dialogue: 100,1:17:55.03,1:17:56.53,Default,Saber Alter,0,0,0,,{\pos(960,1024)}Ex...
 Dialogue: 100,1:17:59.40,1:18:00.86,Default,Shirou,0,0,0,,{\pos(960,1024)}...Aias!
-Dialogue: 100,1:18:02.57,1:18:04.87,Default,Saber Alter,0,0,0,,{\pos(960,1024)}...calibur!
+Dialogue: 100,1:18:02.57,1:18:04.66,Default,Saber Alter,0,0,0,,{\pos(960,1024)}...calibur!
 Dialogue: 100,1:18:20.26,1:18:21.64,Default,Rider,0,0,0,,{\pos(960,1024)}Bellero...
 Dialogue: 100,1:18:24.68,1:18:27.14,Default,Rider,0,0,0,,{\pos(960,1024)}...phon!
 Dialogue: 100,1:19:16.11,1:19:17.40,Default,Saber Alter,0,0,0,,Shirou?
