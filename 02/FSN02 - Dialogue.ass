@@ -10,6 +10,7 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
 Audio File: [SCY] Fate Stay Night Heaven's Feel II. - Lost Butterfly v0 (BD 1080p Hi10 FLAC) [06B8011A].mkv
 Video File: [SCY] Fate Stay Night Heaven's Feel II. - Lost Butterfly v0 (BD 1080p Hi10 FLAC) [06B8011A].mkv
@@ -44,7 +45,7 @@ Dialogue: 100,0:03:19.22,0:03:24.81,Default,Sakura,0,0,0,,{\q2}Well, Saber-san r
 Dialogue: 100,0:03:25.31,0:03:26.14,Default,Sakura,0,0,0,,Yeah.
 Dialogue: 100,0:03:35.19,0:03:41.91,Default,Sakura,0,0,0,,{\q2}But now you don't have to \Ngo out at night anymore, right?
 Dialogue: 100,0:03:43.04,0:03:47.87,Default,Sakura,0,0,0,,{\q2}You don't have to put yourself \Nin harm's way anymore, right?
-Dialogue: 100,0:03:53.80,0:03:54.55,Default,Shirou,0,0,0,,Well, actually,
+Dialogue: 100,0:03:53.80,0:03:54.55,Default,Shirou,0,0,0,,Well,
 Dialogue: 100,0:03:55.59,0:03:57.18,Default,Shirou,0,0,0,,you misunderstand, Sakura.
 Dialogue: 100,0:03:58.22,0:04:00.60,Default,Shirou,0,0,0,,I wasn't tagging along with Saber's errands.
 Dialogue: 100,0:04:01.14,0:04:03.60,Default,Shirou,0,0,0,,She was tagging along with mine.
@@ -192,7 +193,7 @@ Dialogue: 100,0:19:31.90,0:19:35.24,Default,Tohsaka,0,0,0,,You were never a Mast
 Dialogue: 100,0:19:42.66,0:19:44.00,Default,Shirou,0,0,0,,Shinji...
 Dialogue: 100,0:19:48.79,0:19:51.63,Default,Shinji,0,0,0,,Yeah, I knew.
 Dialogue: 100,0:19:52.25,0:19:55.80,Default,Shinji,0,0,0,,I knew! I damn well knew, okay?!
-Dialogue: 100,0:19:56.13,0:20:00.01,Default,Shinji,0,0,0,,I knew I was never cut out for it!
+Dialogue: 100,0:19:56.13,0:20:00.01,Default,Shinji,0,0,0,,I knew I wasn't cut out for it!
 Dialogue: 100,0:20:03.81,0:20:07.31,Default,Shinji,0,0,0,,So you have to do it.
 Dialogue: 100,0:20:08.19,0:20:12.44,Default,Shinji,0,0,0,,You have to kill them in my stead, Sakura.
 Dialogue: 100,0:20:15.65,0:20:18.07,Default,Sakura,0,0,0,,No, Nii-san.
@@ -319,7 +320,7 @@ Dialogue: 100,0:33:20.60,0:33:23.36,Default,Shirou,0,0,0,,I'm not hurt one bit.
 Dialogue: 100,0:33:23.36,0:33:24.61,Default,Shirou,0,0,0,,I'm perfectly fine.
 Dialogue: 100,0:33:26.69,0:33:30.95,Default,Sakura,0,0,0,,I'm a magus of the Matou family—I hid that from you.
 Dialogue: 100,0:33:31.70,0:33:36.37,Default,Shirou,0,0,0,,I never told you I was a Master, either.
-Dialogue: 100,0:33:36.37,0:33:41.54,Default,Sakura,0,0,0,,{\q2}I only started going to your house \Nbecause I was scared of my grandfather!
+Dialogue: 100,0:33:36.37,0:33:41.54,Default,Sakura,0,0,0,,{\q2}I only started going to your house \Nbecause I feared my grandfather!
 Dialogue: 100,0:33:41.54,0:33:45.67,Default,Sakura,0,0,0,,{\q2}I lied to you the whole time, \Nonly pretending I wanted to help you!
 Dialogue: 100,0:33:50.13,0:33:53.76,Default,Sakura,0,0,0,,I always, always thought
 Dialogue: 100,0:33:54.39,0:33:57.60,Default,Sakura,0,0,0,,that I didn't deserve to be by your side.
@@ -344,7 +345,7 @@ Dialogue: 100,0:35:38.03,0:35:40.03,Default,Shirou,0,0,0,,{\i1}Even if no one el
 Dialogue: 100,0:35:47.92,0:35:53.42,Default,Shirou,0,0,0,,I'll forgive you in your place.
 Dialogue: 100,0:35:55.42,0:35:56.88,Default,Shirou,0,0,0,,Come on, don't cry.
 Dialogue: 100,0:35:57.93,0:36:01.76,Default,Shirou,0,0,0,,I know full well what a bad person you are.
-Dialogue: 100,0:36:05.10,0:36:09.94,Default,Sakura,0,0,0,,I have no idea when I'll lose my mind like I did earlier.
+Dialogue: 100,0:36:05.10,0:36:09.94,Default,Sakura,0,0,0,,I don't know when I'll lose my mind like I did earlier.
 Dialogue: 100,0:36:10.48,0:36:13.69,Default,Sakura,0,0,0,,I'm sure I'll do something I'll truly regret.
 Dialogue: 100,0:36:14.32,0:36:18.11,Default,Sakura,0,0,0,,{\q2}What kind of home could there be for someone like me?
 Dialogue: 100,0:36:25.50,0:36:28.04,Default,Shirou,0,0,0,,This is your home.
@@ -507,7 +508,7 @@ Dialogue: 100,1:00:45.79,1:00:46.83,Default,Tohsaka,0,0,0,,Archer!
 Dialogue: 100,1:00:48.58,1:00:49.54,Default,Archer,0,0,0,,Hurry!
 Dialogue: 100,1:00:50.25,1:00:52.50,Default,Archer,0,0,0,,If that thing catches up to you, you're done for.
 Dialogue: 100,1:01:01.85,1:01:04.52,Default,Archer,0,0,0,,We can talk later. Run, boy!
-Dialogue: 100,1:01:05.39,1:01:09.65,Default,Archer,0,0,0,,{\q2}Now that you've taken Illya's hand, \Nyou'd better hold onto it 'til the end!
+Dialogue: 100,1:01:05.39,1:01:09.65,Default,Archer,0,0,0,,{\q2}Now that you've taken Illya's hand, \Nyou'd better hold on to it 'til the end!
 Dialogue: 100,1:01:17.61,1:01:18.40,Default,Shirou,0,0,0,,Let's go!
 Dialogue: 100,1:01:40.13,1:01:41.18,Default,True Assassin,0,0,0,,How?
 Dialogue: 100,1:01:42.35,1:01:44.18,Default,True Assassin,0,0,0,,How can you still move?
@@ -632,7 +633,7 @@ Dialogue: 100,1:15:18.58,1:15:20.37,Default,Kotomine,0,0,0,,It is time for the b
 Dialogue: 100,1:15:21.54,1:15:23.04,Default,Gilgington,0,0,0,,Blessing?
 Dialogue: 100,1:15:25.88,1:15:27.09,Default,Gilgington,0,0,0,,For what?
 Dialogue: 100,1:15:28.30,1:15:31.67,Default,Kotomine,0,0,0,,For the other Holy Grail in the process of being born.
-Dialogue: 100,1:15:31.67,1:15:37.85,Default,Kotomine,0,0,0,,{\q2}It was birthed by humans as \N"all the evils of the world",
+Dialogue: 100,1:15:31.67,1:15:37.85,Default,Kotomine,0,0,0,,Humans birthed it as "all the evils of the world",
 Dialogue: 100,1:15:37.85,1:15:41.89,Default,Kotomine,0,0,0,,{\q2}but now it carries something \Nhumans never wished for in its womb.
 Dialogue: 100,1:15:42.81,1:15:45.19,Default,Kotomine,0,0,0,,The distinction between good and evil.
 Dialogue: 100,1:15:45.19,1:15:51.86,Default,Kotomine,0,0,0,,{\q2}Rather than try to answer that question, \Nwhat if one were to give birth to something that could?
@@ -769,7 +770,7 @@ Dialogue: 100,1:32:22.93,1:32:26.90,Default,Sakura,0,0,0,,But I'm sorry.
 Dialogue: 100,1:32:28.11,1:32:32.61,Default,Sakura,0,0,0,,It's my fault his dreams were destroyed.
 Dialogue: 100,1:32:35.28,1:32:36.49,Default,Fuji-nee,0,0,0,,Why?
 Dialogue: 100,1:32:37.99,1:32:43.83,Default,Sakura,0,0,0,,Because I'm a bad person.
-Dialogue: 100,1:32:45.08,1:32:49.84,Default,Fuji-nee,0,0,0,,{\q2}Shirou's the kind of guy who'll \Nget mad at you for doing bad things.
+Dialogue: 100,1:32:45.08,1:32:49.84,Default,Fuji-nee,0,0,0,,{\q2}Shirou's the kinda guy who'll \Nget mad at you for doing bad things.
 Dialogue: 100,1:32:51.13,1:32:55.88,Default,Fuji-nee,0,0,0,,You want to fix that part of you, don't you?
 Dialogue: 100,1:32:56.63,1:32:57.51,Default,Sakura,0,0,0,,Yes.
 Dialogue: 100,1:32:59.01,1:33:00.93,Default,Fuji-nee,0,0,0,,Then you have nothing to worry about.
@@ -879,7 +880,7 @@ Dialogue: 100,1:44:12.31,1:44:15.60,Default,Shirou,0,0,0,,Yeah. I will.
 Dialogue: 100,1:44:47.64,1:44:50.56,Default,Sakura,0,0,0,,{\i1}Thank you, Senpai.
 Dialogue: 100,1:44:51.10,1:44:53.35,Default,Sakura,0,0,0,,{\i1}You've given me so much.
 Dialogue: 100,1:44:55.10,1:44:57.19,Default,Sakura,0,0,0,,{\i1}Thank you, Nee-san.
-Dialogue: 100,1:44:58.15,1:45:01.57,Default,Sakura,0,0,0,,{\i1}I'm happy I was able to call you that{ again}.
+Dialogue: 100,1:44:58.15,1:45:01.57,Default,Sakura,0,0,0,,{\i1}I'm happy I could call you that again.
 Dialogue: 100,1:45:02.61,1:45:06.57,Default,Sakura,0,0,0,,{\i1}Fujimura-sensei, thank you for everything.
 Dialogue: 100,1:45:09.57,1:45:13.33,Default,Sakura,0,0,0,,{\i1}I'm sorry I couldn't keep my promise.
 Dialogue: 100,1:45:19.33,1:45:24.59,Default,Sakura,0,0,0,,Rider, thank you for not killing Senpai.
@@ -887,7 +888,7 @@ Dialogue: 100,1:45:28.76,1:45:29.80,Default,Rider,0,0,0,,Sakura...
 Dialogue: 100,1:45:35.10,1:45:36.98,Default,Sakura,0,0,0,,This is my last Command Spell.
 Dialogue: 100,1:45:39.15,1:45:41.36,Default,Sakura,0,0,0,,Please, Rider...
 Dialogue: 100,1:45:48.74,1:45:51.78,Default,Sakura,0,0,0,,{\i1}I'll be the one to stop Grandfather.
-Dialogue: 100,1:45:52.70,1:45:54.58,Default,Sakura,0,0,0,,{\i1}It's may be too late for me,
+Dialogue: 100,1:45:52.70,1:45:54.58,Default,Sakura,0,0,0,,{\i1}It may have taken me a long time,
 Dialogue: 100,1:45:55.50,1:45:58.62,Default,Sakura,0,0,0,,{\i1\q2}but I can't cause any more \Ntrouble than I already have.
 Dialogue: 100,1:46:02.21,1:46:04.30,Default,Shirou,0,0,0,,Morning, Sakura.
 Dialogue: 100,1:46:04.88,1:46:07.17,Default,Shirou,0,0,0,,Wait, what?
