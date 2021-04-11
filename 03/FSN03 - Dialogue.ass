@@ -277,7 +277,7 @@ Dialogue: 100,0:24:50.89,0:24:53.43,Default,Shirou,0,0,0,,{\i1}But at this pace.
 Dialogue: 100,0:24:59.73,0:25:00.98,Default,Illya,0,0,0,,Berserker...
 Dialogue: 100,0:25:47.32,0:25:50.70,Default,Kotomine,0,0,0,,I suppose you aren't just a puppet.
 Dialogue: 100,0:25:56.03,0:25:57.33,Default,Kotomine,0,0,0,,Take her.
-Dialogue: 100,0:26:01.04,0:26:05.46,Default,Kotomine,0,0,0,,Emiya, if you save a lady, you must not kill.
+Dialogue: 100,0:26:01.04,0:26:05.46,Default,Kotomine,0,0,0,TLC,Emiya, if you save a lady, you must not kill. {## EPTT: "did something get lost in TL?"}{## Sounds fine to me, although iirc the VN TL changes the subjects ("you must not kill" to "you must not be killed"), but this line as-is makes more sense to me in-context.}
 Dialogue: 100,0:26:06.42,0:26:11.55,Default,Kotomine,0,0,0,,Seeing death up close wears on the soul.
 Dialogue: 100,0:26:17.26,0:26:18.77,Default,Shirou,0,0,0,,Let's go, Illya!
 Dialogue: 100,0:26:28.94,0:26:31.53,Default,True Assassin,0,0,0,,The white Holy Grail will not escape.
@@ -329,7 +329,7 @@ Dialogue: 100,0:31:05.01,0:31:08.97,Default,Kotomine,0,0,0,,{\q2}Absolution is a
 Dialogue: 100,0:31:09.56,0:31:11.22,Default,Zouken,0,0,0,,What will this accomplish?
 Dialogue: 100,0:31:11.22,0:31:13.56,Default,Zouken,0,0,0,,There is no salvation for you.
 Dialogue: 100,0:31:14.52,0:31:16.35,Default,Kotomine,0,0,0,,{\pos(960,1024)}Kýrie, eléison.
-Dialogue: 100,0:31:33.29,0:31:37.67,Default,True Assassin,0,0,0,,{\q2}So you used the holy word of the Bible \Nto attack his spirit directly.
+Dialogue: 100,0:31:33.29,0:31:37.67,Default,True Assassin,0,0,0,TLC,{\q2}So you used the holy word of the Bible \Nto attack his spirit directly. {## Was "Word" originally capitalised for a reason?}
 Dialogue: 100,0:31:40.67,0:31:44.88,Default,True Assassin,0,0,0,,You were pure poison to my magus.
 Dialogue: 100,0:31:46.43,0:31:47.93,Default,True Assassin,0,0,0,,And you...
 Dialogue: 100,0:31:49.97,0:31:52.22,Default,True Assassin,0,0,0,,have already been blackened, have you not? {###}
@@ -541,7 +541,7 @@ Dialogue: 100,0:54:49.27,0:54:50.39,Default,Illya,0,0,0,,Shirou!
 Dialogue: 100,0:55:25.26,0:55:29.01,Default,Rider,0,0,0,,You're in bad shape, Emiya Shirou.
 Dialogue: 100,0:55:31.35,0:55:32.56,Default,Shirou,0,0,0,,Rider...
 Dialogue: 100,0:55:33.60,0:55:35.90,Default,Rider,0,0,0,,I have been keeping watch over you.
-Dialogue: 100,0:55:38.98,0:55:42.61,Default,Rider,0,0,0,,{\q2}I've been tasked with the \Nprotection of one Emiya Shirou.
+Dialogue: 100,0:55:38.98,0:55:42.61,Default,Rider,0,0,0,ED,{\q2}I've been tasked with the \Nprotection of one Emiya Shirou. {###}
 Dialogue: 100,0:55:43.15,0:55:46.61,Default,Rider,0,0,0,,But you've created a weapon to use against Sakura.
 Dialogue: 100,0:55:49.12,0:55:55.08,Default,Rider,0,0,0,,{\q2}So long as you seek to harm Sakura, \NI cannot protect you.
 Dialogue: 100,0:55:59.42,0:56:02.55,Default,Shirou,0,0,0,,Are you here to kill me?
