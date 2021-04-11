@@ -74,7 +74,7 @@ Dialogue: 100,0:06:16.06,0:06:18.40,Default,Sakura,0,0,0,,I'll be on my way.
 Dialogue: 100,0:06:18.40,0:06:21.07,Default,Fuji-nee,0,0,0,,See ya tomorrows, Sakura-chan!
 Dialogue: 100,0:06:21.99,0:06:22.78,Default,Fuji-nee,0,0,0,,Oops.
 Dialogue: 100,0:06:32.04,0:06:34.54,Default,Shirou,0,0,0,,{\i1}Yeah, I remember now.
-Dialogue: 100,0:06:35.37,0:06:42.59,Default,Shirou,0,0,0,,{\i1\q2}On that faithful day one and a half years ago, \NI lost to a really stubborn younger girl.
+Dialogue: 100,0:06:35.37,0:06:42.59,Default,Shirou,0,0,0,,{\i1\q2}On that fateful day one and a half years ago, \NI lost to a really stubborn younger girl.
 Dialogue: 100,0:06:49.93,0:06:51.89,Default,Shirou,0,0,0,,{\i1}The season came and went.
 Dialogue: 100,0:06:52.31,0:06:56.31,Default,Shirou,0,0,0,,{\i1\q2}My shoulder finally healed, \Nbut our new lifestyles stuck.
 Dialogue: 100,0:06:57.15,0:07:02.23,Default,Shirou,0,0,0,,{\i1}I can't remember which of us suggested it anymore.
@@ -746,7 +746,7 @@ Dialogue: 10,1:15:59.70,1:16:01.95,Default,Dispatcher,0,0,0,,Miyama Paramedic 2 
 Dialogue: 100,1:16:22.64,1:16:23.56,Default,Lancer,0,0,0,,Yo.
 Dialogue: 100,1:16:24.77,1:16:26.69,Default,Lancer,0,0,0,,That your handiwork? {Dat yooehr handiwhrk? :lunahigh:}
 Dialogue: 100,1:16:42.08,1:16:47.92,Default,Lancer,0,0,0,,{\q2}Nah, that'd be a little hard \Nfor a filthy sandflea like you.
-Dialogue: 100,1:17:21.70,1:17:23.66,Default,Lancer,0,0,0,,You ain't going anywhere.
+Dialogue: 100,1:17:21.70,1:17:23.66,Default,Lancer,0,0,0,,You ain't goin' anywhere.
 Dialogue: 100,1:19:32.46,1:19:33.29,Default,Lancer,0,0,0,,Come!
 Dialogue: 100,1:20:12.20,1:20:13.50,Default,Lancer,0,0,0,,Ain't worth tryin' those tricks.
 Dialogue: 100,1:20:14.08,1:20:15.33,Default,Lancer,0,0,0,,{\q2}I was born with this skill.
