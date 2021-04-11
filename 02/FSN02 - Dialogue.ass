@@ -24,7 +24,7 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,{temp line to get the merge script running. My be replaced with a proper ktemplate for the ruby text in this movie later, will see}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template line,{temp line to get the merge script running. My be replaced with a proper ktemplate for the ruby text in this movie later, will see}
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 100,0:00:42.94,0:00:44.44,Default,Shirou,0,0,0,,Saber!
 Dialogue: 100,0:00:46.40,0:00:48.03,Default,Shirou,0,0,0,,Saber!
