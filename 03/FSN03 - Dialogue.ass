@@ -325,7 +325,7 @@ Dialogue: 100,0:30:49.83,0:30:52.41,Default,Zouken,0,0,0,,Ah, so you mean to kil
 Dialogue: 100,0:30:52.41,0:30:54.92,Default,Kotomine,0,0,0,,Within my palm lies final respite.
 Dialogue: 100,0:30:54.92,0:30:58.84,Default,Kotomine,0,0,0,,The inferno of your sins shall incise{carve?} my sigil.
 Dialogue: 100,0:30:59.13,0:31:04.22,Default,Kotomine,0,0,0,,The grant of life eternal is bestowed only by death.
-Dialogue: 100,0:31:05.01,0:31:08.97,Default,Kotomine,0,0,0,,{\q2}Absolution is at hand. \NSworn upon my blood and my bone—{Is this interuption? I can't really tell}{## Even if it isn't, an em dash works nicely here anyway}
+Dialogue: 100,0:31:05.01,0:31:08.97,Default,Kotomine,0,0,0,,{\q2}Absolution is at hand. \NSworn upon my blood and my bone—
 Dialogue: 100,0:31:09.56,0:31:11.22,Default,Zouken,0,0,0,,What will this accomplish?
 Dialogue: 100,0:31:11.22,0:31:13.56,Default,Zouken,0,0,0,,There is no salvation for you.
 Dialogue: 100,0:31:14.52,0:31:16.35,Default,Kotomine,0,0,0,,{\pos(960,1024)}Kýrie, eléison.
@@ -346,7 +346,7 @@ Dialogue: 100,0:33:09.97,0:33:11.18,Default,Illya,0,0,0,,Shirou!
 Dialogue: 100,0:33:17.68,0:33:20.14,Default,Shirou,0,0,0,,A good brother saves his little sister.
 Dialogue: 100,0:33:21.44,0:33:22.48,Default,Illya,0,0,0,,But I'm...
 Dialogue: 100,0:33:23.69,0:33:25.02,Default,Shirou,0,0,0,,It's okay.
-Dialogue: 100,0:33:25.02,0:33:28.69,Default,Shirou,0,0,0,,{\q2}You're like a little sister to me now, \Nso I'll make sure to protect you. {## best I can do here. OH WELL}
+Dialogue: 100,0:33:25.02,0:33:28.69,Default,Shirou,0,0,0,,{\q2}You're like a little sister to me now, \Nso I'll make sure to protect you.
 Dialogue: 100,0:33:30.11,0:33:33.12,Default,Shirou,0,0,0,,Even if we aren't connected by blood.
 Dialogue: 100,0:33:42.83,0:33:47.80,Default,Illya,0,0,0,,{\q2}Shirou, once you use Archer's arm, \Nthere's no turning back.
 Dialogue: 100,0:33:48.30,0:33:49.05,Default,Shirou,0,0,0,,Yeah.
@@ -482,7 +482,7 @@ Dialogue: 100,0:48:18.58,0:48:22.92,Default,Illya,0,0,0,,He was born out of the 
 Dialogue: 100,0:48:23.92,0:48:28.05,Default,Illya,0,0,0,,{\bord6\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur4\q2}Once he found himself within the Holy Grail, \Nthat wish finally came true.
 Dialogue: 101,0:48:23.92,0:48:28.05,Default,Illya,0,0,0,,{\q2}Once he found himself within the Holy Grail, \Nthat wish finally came true.
 Dialogue: 100,0:48:29.51,0:48:32.43,Default,Illya,0,0,0,,He embodied all the evils of the world,
-Dialogue: 100,0:48:32.43,0:48:36.69,Default,Illya,0,0,0,,{\q2}and was capable of cursing \Nall six billion humans in the world. {## Should we change this to "seven" to match current-world affairs, or keep it? I prefer keeping it, but it might strike some folk as odd now}
+Dialogue: 100,0:48:32.43,0:48:36.69,Default,Illya,0,0,0,,{\q2}and was capable of cursing \Nall six billion humans in the world.
 Dialogue: 100,0:48:37.64,0:48:41.65,Default,Illya,0,0,0,,That is the true form of the shadow.
 Dialogue: 100,0:48:44.99,0:48:49.11,Default,Illya,0,0,0,,Kiritsugu destroyed the Holy Grail last time.
 Dialogue: 100,0:48:51.03,0:48:55.08,Default,Illya,0,0,0,,{\q2}Because of that decision, \NA{\fnGandhi Sans Extra Glyphs}ŋ{\r}ra Mainiiu failed to be born
@@ -501,7 +501,7 @@ Dialogue: 100,0:49:55.72,0:49:59.94,Default,Tohsaka,0,0,0,,{\q2}Honestly, the fa
 Dialogue: 100,0:50:00.81,0:50:08.11,Default,Tohsaka,0,0,0,,{\q2}I want you two to read the memories of the Einzberns \Nand the leyline running through this land
 Dialogue: 100,0:50:09.03,0:50:13.11,Default,Tohsaka,0,0,0,,and use them to project a gem sword.
 Dialogue: 100,0:50:14.91,0:50:16.12,Default,Shirou,0,0,0,,A gem sword?
-Dialogue: 100,0:50:16.74,0:50:19.79,Default,Tohsaka,0,0,0,,{\q2}A treasure unlike any other \Npassed down through the Tohsaka line. {###}
+Dialogue: 100,0:50:16.74,0:50:19.79,Default,Tohsaka,0,0,0,,{\q2}A treasure unlike any other \Npassed down through the Tohsaka line.
 Dialogue: 100,0:50:21.25,0:50:26.59,Default,Tohsaka,0,0,0,,And our weapon to fight against Sakura.
 Dialogue: 100,0:50:29.42,0:50:30.38,Default,Shirou,0,0,0,,Okay.
 Dialogue: 100,0:50:36.97,0:50:39.47,Default,Tohsaka,0,0,0,,{\q2}This is an Azoth dagger \Nthat looks like the gem sword.
@@ -582,7 +582,7 @@ Dialogue: 100,0:59:00.10,0:59:01.39,Default,Tohsaka,0,0,0,,Have you noticed?
 Dialogue: 100,0:59:02.77,0:59:06.27,Default,Tohsaka,0,0,0,,{\q2}For a while now, everything you've said \Nand done has been all over the place.
 Dialogue: 100,0:59:06.65,0:59:09.15,Default,Tohsaka,0,0,0,,{\q2}One second, you say you want to \Ntake him down with you,
 Dialogue: 100,0:59:09.15,0:59:11.49,Default,Tohsaka,0,0,0,,and the next, you say you don't want to let go of him.
-Dialogue: 100,0:59:17.37,0:59:20.75,Default,Tohsaka,0,0,0,,{\q2}Don't get your panties in a bunch. \NWe're coming to see you soon. {## lmao I love this}
+Dialogue: 100,0:59:17.37,0:59:20.75,Default,Tohsaka,0,0,0,,{\q2}Don't get your panties in a bunch. \NWe're coming to see you soon.
 Dialogue: 100,0:59:22.37,0:59:26.21,Default,Tohsaka,0,0,0,,I'll find you, and I'll kill you.
 Dialogue: 100,0:59:28.04,0:59:32.63,Default,Sakura,0,0,0,,Yes. I'll be waiting, Nee-san.
 Dialogue: 100,0:59:37.93,0:59:39.47,Default,Sakura,0,0,0,,Nee-san...
