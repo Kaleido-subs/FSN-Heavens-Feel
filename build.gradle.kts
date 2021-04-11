@@ -103,16 +103,24 @@ subs {
 				lang("jpn")
 				default(true)
 			}
-			audio(0) {
-				lang("eng")
-				default(true)
-                forced(true)
-			}
-			audio(1) {
-				lang("jpn")
-				default(false)
-                forced(false)
-			}
+            if (tracks.count { it.track.type == TrackType.AUDIO } == 1) {
+                audio(0) {
+                    lang("jpn")
+                    default(true)
+                    forced(true)
+                }
+            } else {
+                audio(0) {
+                    lang("eng")
+                    default(true)
+                    forced(true)
+                }
+                audio(1) {
+                    lang("jpn")
+                    default(false)
+                    forced(false)
+                }
+            }
             subtitles {
                 include(false)
             }
