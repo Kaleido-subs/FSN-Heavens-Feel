@@ -329,7 +329,7 @@ Dialogue: 100,0:31:05.01,0:31:08.97,Default,Kotomine,0,0,0,,{\q2}Absolution is a
 Dialogue: 100,0:31:09.56,0:31:11.22,Default,Zouken,0,0,0,,What will this accomplish?
 Dialogue: 100,0:31:11.22,0:31:13.56,Default,Zouken,0,0,0,,There is no salvation for you.
 Dialogue: 100,0:31:14.52,0:31:16.35,Default,Kotomine,0,0,0,,{\pos(960,1024)}Kýrie, eléison.
-Dialogue: 100,0:31:33.29,0:31:37.67,Default,True Assassin,0,0,0,,{\q2}So you used the holy Word of the Bible \Nto attack his spirit directly.
+Dialogue: 100,0:31:33.29,0:31:37.67,Default,True Assassin,0,0,0,,{\q2}So you used the holy word of the Bible \Nto attack his spirit directly.
 Dialogue: 100,0:31:40.67,0:31:44.88,Default,True Assassin,0,0,0,,You were pure poison to my magus.
 Dialogue: 100,0:31:46.43,0:31:47.93,Default,True Assassin,0,0,0,,And you...
 Dialogue: 100,0:31:49.97,0:31:52.22,Default,True Assassin,0,0,0,,have already been blackened, have you not? {###}
@@ -382,7 +382,7 @@ Dialogue: 100,0:38:36.09,0:38:37.96,Default,Berserker,0,0,0,,You must protect he
 Dialogue: 100,0:38:58.69,0:38:59.94,Default,Illya,0,0,0,,Shirou.
 Dialogue: 100,0:39:09.74,0:39:10.91,Default,Shirou,0,0,0,,Saber...
 Dialogue: 100,0:39:23.51,0:39:25.05,Default,Sakura,0,0,0,,How does it feel?
-Dialogue: 100,0:39:25.51,0:39:28.93,Default,Sakura,0,0,0,,I've claimed your heart as my own—Literally.
+Dialogue: 100,0:39:25.51,0:39:28.93,Default,Sakura,0,0,0,,I've claimed your heart as my own—literally.
 Dialogue: 100,0:39:34.31,0:39:38.23,Default,Sakura,0,0,0,,Father Kotomine, you died ten years ago.
 Dialogue: 100,0:39:38.90,0:39:43.53,Default,Sakura,0,0,0,,And yet you live to tell the tale because, uhh...
 Dialogue: 100,0:39:43.53,0:39:45.36,Default,Sakura,0,0,0,,I ate the reason a little while ago...
@@ -439,7 +439,7 @@ Dialogue: 100,0:44:56.59,0:45:00.18,Default,Illya,0,0,0,,I'm going to tell you a
 Dialogue: 100,0:45:00.89,0:45:05.02,Default,Illya,0,0,0,,But it's nothing you two need to shoulder.
 Dialogue: 100,0:45:07.31,0:45:11.65,Default,Illya,0,0,0,,{\q2}The Holy Grail War is a battle to the death \Nover the ownership of the Holy Grail,
 Dialogue: 100,0:45:11.65,0:45:14.82,Default,Illya,0,0,0,,using seven summoned Heroic Spirits.
-Dialogue: 100,0:45:15.90,0:45:19.70,Default,Illya,0,0,0,,But that is just a surface-level rule.
+Dialogue: 100,0:45:15.90,0:45:19.70,Default,Illya,0,0,0,,But that is just a superficial rule.
 Dialogue: 100,0:45:21.45,0:45:22.28,Default,Illya,0,0,0,,Yes.
 Dialogue: 100,0:45:22.95,0:45:26.91,Default,Illya,0,0,0,,{\q2}It's just an excuse for Masters \Nto summon Servants to this world.
 Dialogue: 100,0:45:27.87,0:45:32.25,Default,Illya,0,0,0,,{\q2}All the Holy Grail needs \Nto be complete are Heroic Spirits.
@@ -496,13 +496,13 @@ Dialogue: 100,0:49:27.11,0:49:29.65,Default,Shirou,0,0,0,,{\i1}Masters and Serva
 Dialogue: 100,0:49:31.32,0:49:34.08,Default,Illya,0,0,0,,{\q2}It's uncertain whether we \Nhave even half a day to spare.
 Dialogue: 100,0:49:34.83,0:49:39.41,Default,Illya,0,0,0,,{\q2}Once that thing is born, \NSakura will never be the same.
 Dialogue: 100,0:49:39.41,0:49:43.88,Default,Illya,0,0,0,,{\q2}Nobody will be able to save her, \Nand nobody will be safe from her.
-Dialogue: 100,0:49:48.92,0:49:54.43,Default,Tohsaka,0,0,0,,{\i1\q2}Before we storm the enemy base, \Nthere's something I'd like you to do, Shirou.
-Dialogue: 100,0:49:55.72,0:49:59.94,Default,Tohsaka,0,0,0,,{\i1\q2}Honestly, the fact that you managed \Nto get Illya back here helps a ton.
-Dialogue: 100,0:50:00.81,0:50:08.11,Default,Tohsaka,0,0,0,,{\i1\q2}I want you to work with Illya to read the memories of \Nthe Einzberns and the leyline running through this land
+Dialogue: 100,0:49:48.92,0:49:54.43,Default,Tohsaka,0,0,0,,{\q2}Before we storm the enemy base, \Nthere's something I'd like you to do, Shirou.
+Dialogue: 100,0:49:55.72,0:49:59.94,Default,Tohsaka,0,0,0,,{\q2}Honestly, the fact that you managed \Nto get Illya back here helps a ton.
+Dialogue: 100,0:50:00.81,0:50:08.11,Default,Tohsaka,0,0,0,,{\q2}I want you two to read the memories of the Einzberns \Nand the leyline running through this land
 Dialogue: 100,0:50:09.03,0:50:13.11,Default,Tohsaka,0,0,0,,and use them to project a gem sword.
-Dialogue: 100,0:50:14.91,0:50:16.12,Default,Shirou,0,0,0,,{\i1}A gem sword?
-Dialogue: 100,0:50:16.74,0:50:19.79,Default,Tohsaka,0,0,0,,{\i1\q2}A treasure beyond compare \Npassed down through the Tohsaka line. {###}
-Dialogue: 100,0:50:21.25,0:50:26.59,Default,Tohsaka,0,0,0,,{\i1}And a weapon to fight Sakura.
+Dialogue: 100,0:50:14.91,0:50:16.12,Default,Shirou,0,0,0,,A gem sword?
+Dialogue: 100,0:50:16.74,0:50:19.79,Default,Tohsaka,0,0,0,,{\q2}A treasure unlike any other \Npassed down through the Tohsaka line. {###}
+Dialogue: 100,0:50:21.25,0:50:26.59,Default,Tohsaka,0,0,0,,And our weapon to fight against Sakura.
 Dialogue: 100,0:50:29.42,0:50:30.38,Default,Shirou,0,0,0,,Okay.
 Dialogue: 100,0:50:36.97,0:50:39.47,Default,Tohsaka,0,0,0,,{\q2}This is an Azoth dagger \Nthat looks like the gem sword.
 Dialogue: 100,0:50:39.98,0:50:42.77,Default,Tohsaka,0,0,0,,I've poured ten years' worth of mana into it.
@@ -542,7 +542,7 @@ Dialogue: 100,0:55:25.26,0:55:29.01,Default,Rider,0,0,0,,You're in bad shape, Em
 Dialogue: 100,0:55:31.35,0:55:32.56,Default,Shirou,0,0,0,,Rider...
 Dialogue: 100,0:55:33.60,0:55:35.90,Default,Rider,0,0,0,,I have been keeping watch over you.
 Dialogue: 100,0:55:38.98,0:55:42.61,Default,Rider,0,0,0,,{\q2}I've been tasked with the \Nprotection of one Emiya Shirou.
-Dialogue: 100,0:55:43.15,0:55:46.61,Default,Rider,0,0,0,,You've created a weapon to use against Sakura.
+Dialogue: 100,0:55:43.15,0:55:46.61,Default,Rider,0,0,0,,But you've created a weapon to use against Sakura.
 Dialogue: 100,0:55:49.12,0:55:55.08,Default,Rider,0,0,0,,{\q2}So long as you seek to harm Sakura, \NI cannot protect you.
 Dialogue: 100,0:55:59.42,0:56:02.55,Default,Shirou,0,0,0,,Are you here to kill me?
 Dialogue: 100,0:56:04.13,0:56:05.05,Default,Rider,0,0,0,,Shirou.
@@ -873,7 +873,7 @@ Dialogue: 100,1:38:39.31,1:38:44.98,Default,Kotomine,0,0,0,,{\q2}Yes. It would a
 Dialogue: 100,1:38:45.90,1:38:48.28,Default,Kotomine,0,0,0,,Emiya Shirou.
 Dialogue: 100,1:38:52.82,1:38:57.37,Default,Shirou,0,0,0,,{\q2}Even if you let this thing out, \Nyour wish won't come true.
 Dialogue: 100,1:38:58.16,1:38:59.58,Default,Kotomine,0,0,0,,Quite the contrary.
-Dialogue: 100,1:39:00.33,1:39:07.25,Default,Kotomine,0,0,0,,I have but one goal—To see the birth of this curse.
+Dialogue: 100,1:39:00.33,1:39:07.25,Default,Kotomine,0,0,0,,I have but one goal—to see the birth of this curse.
 Dialogue: 100,1:39:07.75,1:39:11.30,Default,Shirou,0,0,0,,Why? Why are you so desperate to protect it?
 Dialogue: 100,1:39:11.76,1:39:14.51,Default,Shirou,0,0,0,,It's the very definition of evil.
 Dialogue: 100,1:39:14.97,1:39:16.81,Default,Kotomine,0,0,0,,It is not evil yet.
@@ -933,7 +933,7 @@ Dialogue: 100,1:45:14.58,1:45:20.38,Default,Zolken,0,0,0,,If paradise cannot be 
 Dialogue: 100,1:45:21.84,1:45:27.18,Default,Justeaze,0,0,0,,{\q2}We need strive for that which transcends humans—\Na new form for humanity.
 Dialogue: 100,1:45:28.39,1:45:32.89,Default,Three,0,0,0,,Yes, to purge all evils from this world,
 Dialogue: 100,1:45:33.81,1:45:38.90,Default,Three,0,0,0,,we shall stake our lives on this one wish.
-Dialogue: 100,1:45:43.28,1:45:49.78,Default,Zouken,0,0,0,,{\i1\q2}Over five hundred years. \NOur desire lasted but the blink of an eye.
+Dialogue: 100,1:45:43.28,1:45:49.78,Default,Zouken,0,0,0,,{\i1\q2}Over five hundred years, \Nour desire lasted but the blink of an eye.
 Dialogue: 100,1:45:53.49,1:45:55.08,Default,Zouken,0,0,0,,{\i1}Shame...
 Dialogue: 100,1:45:55.62,1:45:58.75,Default,Zouken,0,0,0,,{\i1}I was just one step away.
 Dialogue: 100,1:46:14.31,1:46:18.89,Default,Kotomine,0,0,0,,To think it came down to a simple matter of timing...
@@ -1171,39 +1171,39 @@ Dialogue: 101,0:29:34.09,0:29:34.13,Default,True Assassin,0,0,0,reg,{\pos(1879,1
 Dialogue: 100,0:31:14.52,0:31:16.35,Default,Kotomine,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord4\shad0.01\4c&HC0C0C0&\1a&HFE&\3a&HFE&\4a&H80&\blur4}May the Lord Have Mercy on This Soul
 Dialogue: 101,0:31:14.52,0:31:16.35,Default,Kotomine,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2\shad0.01\4c&H202020&\1a&HFE&\3a&HFE&\4a&H28&\blur4}May the Lord Have Mercy on This Soul
 Dialogue: 102,0:31:14.52,0:31:16.35,Default,Kotomine,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0.1}May the Lord Have Mercy on This{/your} Soul
-Dialogue: 100,0:35:18.85,0:35:19.26,Default,Shirou,0,0,0,reg,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
-Dialogue: 100,0:35:19.26,0:35:19.81,Default,Shirou,0,0,0,kara,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
-Dialogue: 100,0:35:19.81,0:35:21.10,Default,Shirou,0,0,0,reg,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
-Dialogue: 100,0:35:21.10,0:35:21.27,Default,Shirou,0,0,0,kara,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
-Dialogue: 100,0:35:21.27,0:35:21.60,Default,Shirou,0,0,0,kara,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
-Dialogue: 100,0:35:21.60,0:35:21.85,Default,Shirou,0,0,0,reg,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
-Dialogue: 100,0:35:21.85,0:35:22.22,Default,Shirou,0,0,0,kara,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
-Dialogue: 100,0:35:22.22,0:35:22.98,Default,Shirou,0,0,0,reg,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
-Dialogue: 100,0:35:25.31,0:35:25.60,Default,Shirou,0,0,0,reg,{\i1}Why am I here?
-Dialogue: 100,0:35:25.60,0:35:25.90,Default,Shirou,0,0,0,kara,{\i1}Why am I here?
-Dialogue: 100,0:35:25.90,0:35:25.98,Default,Shirou,0,0,0,reg,{\i1}Why am I here?
-Dialogue: 100,0:35:25.98,0:35:26.31,Default,Shirou,0,0,0,kara,{\i1}Why am I here?
-Dialogue: 100,0:35:26.31,0:35:26.65,Default,Shirou,0,0,0,reg,{\i1}Why am I here?
-Dialogue: 100,0:35:26.65,0:35:26.90,Default,Shirou,0,0,0,kara,{\i1}Why am I here?
-Dialogue: 100,0:35:26.90,0:35:27.65,Default,Shirou,0,0,0,reg,{\i1}Why am I here?
-Dialogue: 100,0:35:30.07,0:35:30.19,Default,Shirou,0,0,0,reg,{\i1}Why did it come to this?
-Dialogue: 100,0:35:30.19,0:35:30.48,Default,Shirou,0,0,0,kara,{\i1}Why did it come to this?
-Dialogue: 100,0:35:30.48,0:35:30.69,Default,Shirou,0,0,0,reg,{\i1}Why did it come to this?
-Dialogue: 100,0:35:30.69,0:35:30.98,Default,Shirou,0,0,0,kara,{\i1}Why did it come to this?
-Dialogue: 100,0:35:30.98,0:35:31.78,Default,Shirou,0,0,0,reg,{\i1}Why did it come to this?
-Dialogue: 100,0:35:31.78,0:35:32.03,Default,Shirou,0,0,0,kara,{\i1}Why did it come to this?
-Dialogue: 100,0:35:32.03,0:35:32.28,Default,Shirou,0,0,0,reg,{\i1}Why did it come to this?
-Dialogue: 100,0:35:32.28,0:35:32.61,Default,Shirou,0,0,0,kara,{\i1}Why did it come to this?
-Dialogue: 100,0:35:32.61,0:35:32.99,Default,Shirou,0,0,0,reg,{\i1}Why did it come to this?
-Dialogue: 100,0:35:34.57,0:35:34.70,Default,Shirou,0,0,0,reg,{\i1}Why do I fight?
-Dialogue: 100,0:35:34.70,0:35:34.99,Default,Shirou,0,0,0,kara,{\i1}Why do I fight?
-Dialogue: 100,0:35:34.99,0:35:35.24,Default,Shirou,0,0,0,reg,{\i1}Why do I fight?
-Dialogue: 100,0:35:35.24,0:35:35.49,Default,Shirou,0,0,0,kara,{\i1}Why do I fight?
-Dialogue: 100,0:35:35.49,0:35:35.86,Default,Shirou,0,0,0,reg,{\i1}Why do I fight?
-Dialogue: 100,0:35:35.86,0:35:35.99,Default,Shirou,0,0,0,kara,{\i1}Why do I fight?
-Dialogue: 100,0:35:35.99,0:35:36.16,Default,Shirou,0,0,0,kara,{\i1}Why do I fight?
-Dialogue: 100,0:35:36.16,0:35:36.45,Default,Shirou,0,0,0,kara,{\i1}Why do I fight?
-Dialogue: 100,0:35:36.45,0:35:36.99,Default,Shirou,0,0,0,reg,{\i1}Why do I fight?
+Dialogue: 100,0:35:18.85,0:35:19.26,Default,Shirou static,0,0,0,reg,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
+Comment: 100,0:35:19.26,0:35:19.81,Default,Shirou static,0,0,0,kara,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
+Dialogue: 100,0:35:19.81,0:35:21.10,Default,Shirou static,0,0,0,reg,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
+Comment: 100,0:35:21.10,0:35:21.27,Default,Shirou static,0,0,0,kara,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
+Comment: 100,0:35:21.27,0:35:21.60,Default,Shirou static,0,0,0,kara,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
+Dialogue: 100,0:35:21.60,0:35:21.85,Default,Shirou static,0,0,0,reg,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
+Comment: 100,0:35:21.85,0:35:22.22,Default,Shirou static,0,0,0,kara,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
+Dialogue: 100,0:35:22.22,0:35:22.98,Default,Shirou static,0,0,0,reg,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
+Dialogue: 100,0:35:25.31,0:35:25.60,Default,Shirou static,0,0,0,reg,{\i1}Why am I here?
+Comment: 100,0:35:25.60,0:35:25.90,Default,Shirou static,0,0,0,kara,{\i1}Why am I here?
+Dialogue: 100,0:35:25.90,0:35:25.98,Default,Shirou static,0,0,0,reg,{\i1}Why am I here?
+Comment: 100,0:35:25.98,0:35:26.31,Default,Shirou static,0,0,0,kara,{\i1}Why am I here?
+Dialogue: 100,0:35:26.31,0:35:26.65,Default,Shirou static,0,0,0,reg,{\i1}Why am I here?
+Comment: 100,0:35:26.65,0:35:26.90,Default,Shirou static,0,0,0,kara,{\i1}Why am I here?
+Dialogue: 100,0:35:26.90,0:35:27.65,Default,Shirou static,0,0,0,reg,{\i1}Why am I here?
+Dialogue: 100,0:35:30.07,0:35:30.19,Default,Shirou static,0,0,0,reg,{\i1}Why did it come to this?
+Comment: 100,0:35:30.19,0:35:30.48,Default,Shirou static,0,0,0,kara,{\i1}Why did it come to this?
+Dialogue: 100,0:35:30.48,0:35:30.69,Default,Shirou static,0,0,0,reg,{\i1}Why did it come to this?
+Comment: 100,0:35:30.69,0:35:30.98,Default,Shirou static,0,0,0,kara,{\i1}Why did it come to this?
+Dialogue: 100,0:35:30.98,0:35:31.78,Default,Shirou static,0,0,0,reg,{\i1}Why did it come to this?
+Comment: 100,0:35:31.78,0:35:32.03,Default,Shirou static,0,0,0,kara,{\i1}Why did it come to this?
+Dialogue: 100,0:35:32.03,0:35:32.28,Default,Shirou static,0,0,0,reg,{\i1}Why did it come to this?
+Comment: 100,0:35:32.28,0:35:32.61,Default,Shirou static,0,0,0,kara,{\i1}Why did it come to this?
+Dialogue: 100,0:35:32.61,0:35:32.99,Default,Shirou static,0,0,0,reg,{\i1}Why did it come to this?
+Dialogue: 100,0:35:34.57,0:35:34.70,Default,Shirou static,0,0,0,reg,{\i1}Why do I fight?
+Comment: 100,0:35:34.70,0:35:34.99,Default,Shirou static,0,0,0,kara,{\i1}Why do I fight?
+Dialogue: 100,0:35:34.99,0:35:35.24,Default,Shirou static,0,0,0,reg,{\i1}Why do I fight?
+Comment: 100,0:35:35.24,0:35:35.49,Default,Shirou static,0,0,0,kara,{\i1}Why do I fight?
+Dialogue: 100,0:35:35.49,0:35:35.86,Default,Shirou static,0,0,0,reg,{\i1}Why do I fight?
+Comment: 100,0:35:35.86,0:35:35.99,Default,Shirou static,0,0,0,kara,{\i1}Why do I fight?
+Comment: 100,0:35:35.99,0:35:36.16,Default,Shirou static,0,0,0,kara,{\i1}Why do I fight?
+Comment: 100,0:35:36.16,0:35:36.45,Default,Shirou static,0,0,0,kara,{\i1}Why do I fight?
+Dialogue: 100,0:35:36.45,0:35:36.99,Default,Shirou static,0,0,0,reg,{\i1}Why do I fight?
 Dialogue: 104,0:37:26.89,0:37:26.97,Default,Shirou,0,0,0,sparks,{\an7\pos(910,973)\fscx76\fscy76\frz337\bord6\1c&HFFFF39&\3c&HB7FF25&\4c&H59B602&\3a&H80&\blur12\fad(0,40)\p1}m 0 0 l 3 -5 5 0 11 -4 16 -5 18 -6 24 7 26 3 28 1 28 1 27 0 24 10 18 -6 12 -9 11 -4 5 0 4 0 0 0
 Dialogue: 104,0:37:26.93,0:37:27.02,Default,Shirou,0,0,0,sparks,{\an7\pos(1035,965)\fscx81\fscy81\frz319\bord6\1c&HFFFF39&\3c&HB7FF25&\4c&H59B602&\3a&H80&\blur12\fad(0,40)\p1}m 0 0 l 4 4 7 9 14 1 17 0 20 3 24 16 27 18 32 21 37 23 39 19 44 23 44 23 41 21 37 23 32 21 32 21 24 16 20 3 22 -2 14 1 7 9 7 1 0 4
 Dialogue: 104,0:37:26.93,0:37:27.02,Default,Shirou,0,0,0,sparks,{\an7\pos(1180,992)\fscx89\fscy89\frz355\bord6\1c&HFFFF39&\3c&HB7FF25&\4c&H59B602&\3a&H80&\blur12\fad(0,40)\p1}m 0 0 l 4 -4 7 -5 13 -4 18 -3 21 0 29 2 33 7 36 11 36 15 31 12 29 2 21 2 14 1 13 -4 7 -5 1 -1 0 1
