@@ -341,14 +341,14 @@ Dialogue: 100,0:35:11.26,0:35:13.01,Default,Shirou,0,0,0,,{\i1}It's all I want t
 Dialogue: 100,0:35:13.72,0:35:15.72,Default,Shirou,0,0,0,,{\i1}It's what's precious to me.
 Dialogue: 100,0:35:18.26,0:35:21.18,Default,Shirou,0,0,0,,{\i1}If I want her to stop shedding tears,
 Dialogue: 100,0:35:23.35,0:35:29.27,Default,Shirou,0,0,0,,{\i1\q2}if nobody else will blame Sakura, \Nif she has to do it herself,
-Dialogue: 100,0:35:30.98,0:35:36.07,Default,Shirou,0,0,0,,{\i1}I'll take her by the hand and \Ndrag her into the sunlight.
+Dialogue: 100,0:35:30.98,0:35:36.07,Default,Shirou,0,0,0,,{\i1\q2}I'll take her by the hand and \Ndrag her into the sunlight.
 Dialogue: 100,0:35:38.03,0:35:40.03,Default,Shirou,0,0,0,,{\i1}Even if no one else forgives her...
 Dialogue: 100,0:35:47.92,0:35:53.42,Default,Shirou,0,0,0,,I'll forgive you in your place.
 Dialogue: 100,0:35:55.42,0:35:56.88,Default,Shirou,0,0,0,,Come on, don't cry.
 Dialogue: 100,0:35:57.93,0:36:01.76,Default,Shirou,0,0,0,,I know full well what a bad person you are.
 Dialogue: 100,0:36:05.10,0:36:09.94,Default,Sakura,0,0,0,,I don't know when I'll lose my mind like I did earlier.
 Dialogue: 100,0:36:10.48,0:36:13.69,Default,Sakura,0,0,0,,I'm sure I'll do something I'll truly regret.
-Dialogue: 100,0:36:14.32,0:36:18.11,Default,Sakura,0,0,0,,{\q2}What kind of home could there be for someone like me?
+Dialogue: 100,0:36:14.32,0:36:18.11,Default,Sakura,0,0,0,,{\q2}What kind of home could there be \Nfor someone like me?
 Dialogue: 100,0:36:25.50,0:36:28.04,Default,Shirou,0,0,0,,This is your home.
 Dialogue: 100,0:36:36.55,0:36:39.76,Default,Sakura,0,0,0,,I... I...
 Dialogue: 100,0:36:41.01,0:36:43.51,Default,Sakura,0,0,0,,I'm not a virgin.
@@ -368,7 +368,7 @@ Dialogue: 100,0:38:16.82,0:38:17.98,Default,Tohsaka,0,0,0,,Sakura.
 Dialogue: 100,0:38:20.57,0:38:21.74,Default,Sakura,0,0,0,,Nee-san...
 Dialogue: 100,0:38:24.28,0:38:26.08,Default,Sakura,0,0,0,,Tohsaka-senpai...
 Dialogue: 100,0:38:49.93,0:38:51.18,Default,Archer,0,0,0,,Emiya Shirou.
-Dialogue: 100,0:38:52.98,0:38:56.90,Default,Archer,0,0,0,,If you plan to uphold your prior convictions, then so be it. {## this line makes no sense within this context anymore lol. In the VN, he says this before Shirou finds Sakura, before he's decided to give up on his ideals and save just her. Here in the anime it's just nonsensical because Archer knows he's already given up his past ideals why is anime so cursed aaaaaaaaaaaaaaah}
+Dialogue: 100,0:38:52.98,0:38:56.90,Default,Archer,0,0,0,,{\q2}If you plan to uphold your \Nprior convictions, then so be it. {## this line makes no sense within this context anymore lol. In the VN, he says this before Shirou finds Sakura, before he's decided to give up on his ideals and save just her. Here in the anime it's just nonsensical because Archer knows he's already given up his past ideals why is anime so cursed aaaaaaaaaaaaaaah}
 Dialogue: 100,0:38:57.48,0:38:59.23,Default,Archer,0,0,0,,I know where that leads.
 Dialogue: 100,0:39:00.36,0:39:06.66,Default,Archer,0,0,0,,{\q2}But if you choose a different path, \NEmiya Shirou will have no future.
 Dialogue: 100,0:39:07.99,0:39:11.33,Default,Archer,0,0,0,,You will lose absolutely everything.
@@ -905,7 +905,7 @@ Dialogue: 100,1:47:28.30,1:47:30.97,Default,Sakura,0,0,0,,Nii-san...
 Dialogue: 100,1:47:40.93,1:47:42.85,Default,Shinji,0,0,0,,Get off your high horse.
 Dialogue: 100,1:47:44.15,1:47:46.52,Default,Shinji,0,0,0,,You're nothing but my doll.
 Dialogue: 100,1:47:50.99,1:47:53.24,Default,Sakura,0,0,0,,{\i1}I've made another mistake.
-Dialogue: 100,1:47:54.66,1:47:57.03,Default,Sakura,0,0,0,,{\i1}That's why something horrible's going to happen to me.
+Dialogue: 100,1:47:54.66,1:47:57.03,Default,Sakura,0,0,0,,{\i1\q2}That's why something horrible \Nis going to happen to me.
 Dialogue: 100,1:47:58.83,1:48:04.67,Default,Sakura,0,0,0,,{\i1\q2}It's okay. I just have to put up \Nwith it for a while, just like always.
 Dialogue: 100,1:48:05.92,1:48:10.88,Default,Sakura,0,0,0,,{\i1\q2}Put up with it, put up with it, \Nput up with it, put up with it...
 Dialogue: 100,1:48:11.26,1:48:12.51,Default,Shirou,0,0,0,,Sakura.
