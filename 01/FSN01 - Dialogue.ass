@@ -65,18 +65,18 @@ Dialogue: 100,0:05:30.52,0:05:32.48,Default,Shirou,0,0,0,,The dishes go in the t
 Dialogue: 100,0:05:32.48,0:05:35.86,Default,Shirou,0,0,0,,The bottom one is for the rice, knives, and, uh...
 Dialogue: 100,0:05:37.23,0:05:38.94,Default,Shirou,0,0,0,,Wh—Stop!
 Dialogue: 100,0:05:45.53,0:05:49.70,Default,Shirou,0,0,0,,You fold the shoulder around the back,
-Dialogue: 100,0:05:49.70,0:05:53.46,Default,Shirou,0,0,0,,line the sleeve up parallel to the crease.
-Dialogue: 100,0:05:53.46,0:05:57.80,Default,Shirou,0,0,0,,{\q2}Then you do the other side, \Nand make sure it doesn't come unfolded...
-Dialogue: 100,0:06:00.80,0:06:04.09,Default,Shirou,0,0,0,,{\q2}Don't sweat it. Practice makes perfect. \NThis is good for now.
+Dialogue: 100,0:05:49.70,0:05:53.46,Default,Shirou,0,0,0,,then line the sleeve up parallel to the crease.
+Dialogue: 100,0:05:53.46,0:05:57.80,Default,Shirou,0,0,0,,{\q2}Finally, you do the other side, \Nand make sure it doesn't come unfolded...
+Dialogue: 100,0:06:00.80,0:06:04.09,Default,Shirou,0,0,0,,Don't sweat it. Practice makes perfect.
 Dialogue: 100,0:06:04.64,0:06:06.39,Default,Wife material,0,0,0,,Let me try again.
 Dialogue: 100,0:06:10.85,0:06:13.48,Default,Shirou,0,0,0,,All right, from the top.
 Dialogue: 100,0:06:16.06,0:06:18.40,Default,Sakura,0,0,0,,I'll be on my way.
 Dialogue: 100,0:06:18.40,0:06:21.07,Default,Fuji-nee,0,0,0,,See ya tomorrows, Sakura-chan!
 Dialogue: 100,0:06:21.99,0:06:22.78,Default,Fuji-nee,0,0,0,,Oops.
 Dialogue: 100,0:06:32.04,0:06:34.54,Default,Shirou,0,0,0,,{\i1}Yeah, I remember now.
-Dialogue: 100,0:06:35.37,0:06:42.59,Default,Shirou,0,0,0,,{\i1\q2}On that fateful day one and a half years ago, \NI lost to a really stubborn younger girl.
+Dialogue: 100,0:06:35.37,0:06:42.59,Default,Shirou,0,0,0,,{\i1\q2}On that fateful day a year and a half ago, \NI lost to a really stubborn younger girl. {###}
 Dialogue: 100,0:06:49.93,0:06:51.89,Default,Shirou,0,0,0,,{\i1}The season came and went.
-Dialogue: 100,0:06:52.31,0:06:56.31,Default,Shirou,0,0,0,,{\i1\q2}My shoulder finally healed, \Nbut our new lifestyles stuck.
+Dialogue: 100,0:06:52.31,0:06:56.31,Default,Shirou,0,0,0,,{\i1\q2}My shoulder had finally healed, \Nbut our new lifestyles stuck.
 Dialogue: 100,0:06:57.15,0:07:02.23,Default,Shirou,0,0,0,,{\i1}I can't remember which of us suggested it anymore.
 Dialogue: 100,0:07:03.07,0:07:05.86,Default,Shirou,0,0,0,,{\i1}Regardless, it was probably a trivial matter.
 Dialogue: 100,0:07:08.49,0:07:13.58,Default,Shirou,0,0,0,,{\i1\q2}If there's one thing that changed, \Nit'd be that I stopped going to club.
@@ -86,7 +86,7 @@ Dialogue: 100,0:07:21.09,0:07:24.30,Default,Shirou,0,0,0,,{\i1}so it felt like a
 Dialogue: 100,0:07:30.43,0:07:34.68,Default,Shirou,0,0,0,,{\i1\q2}And finally, and this may seem \Npretty minimal all things considered,
 Dialogue: 100,0:07:38.10,0:07:39.44,Default,Shirou,0,0,0,,I'm home.
 Dialogue: 100,0:07:40.73,0:07:43.40,Default,Sakura,0,0,0,,Welcome home, Senpai!
-Dialogue: 100,0:07:47.45,0:07:51.70,Default,Shirou,0,0,0,,{\i1}but I found myself rarely using my own key anymore.
+Dialogue: 100,0:07:47.45,0:07:51.70,Default,Shirou,0,0,0,,{\i1}I found myself rarely using my own key anymore.
 Dialogue: 100,0:08:14.10,0:08:17.60,Default,Fuji-nee,0,0,0,,Ho-ho-ho! Merry Christmas!
 Dialogue: 100,0:08:18.77,0:08:20.60,Default,Fuji-nee,0,0,0,,Lemme tell ya...
 Dialogue: 100,0:08:23.65,0:08:28.53,Default,Fuji-nee,0,0,0,,Shirou was {\i1}always{\i0} copying Kiritsugu-san.
@@ -156,23 +156,23 @@ Dialogue: 100,0:14:13.08,0:14:14.46,Default,Shirou,0,0,0,,Whatever.
 Dialogue: 100,0:14:15.08,0:14:18.00,Default,Shirou,0,0,0,,Anyway, I'm done with this one.
 Dialogue: 100,0:14:27.18,0:14:28.89,Default,Shirou,0,0,0,,Morning, Shinji.
 Dialogue: 100,0:14:29.47,0:14:31.06,Default,Shinji,0,0,0,,Hey, Emiya.
-Dialogue: 100,0:14:31.06,0:14:34.14,Default,Shinji,0,0,0,,{\q2}Starting the day strong by sticking \Nyour nose where it doesn't belong?
+Dialogue: 100,0:14:31.06,0:14:34.14,Default,Shinji,0,0,0,,{\q2}Starting the day strong by \Nsticking your nose where it doesn't belong?
 Dialogue: 100,0:14:34.14,0:14:36.61,Default,Shinji,0,0,0,,You've got some weird hobbies.
 Dialogue: 100,0:14:37.19,0:14:38.90,Default,Shirou,0,0,0,,Well, I've got nothing better to do.
 Dialogue: 100,0:14:38.90,0:14:41.49,Default,Shirou,0,0,0,,{\q2}If you ever need help with something, \Njust say the word.
 Dialogue: 100,0:14:41.49,0:14:45.49,Default,Shirou,0,0,0,,{\q2}You've always had a rough time \Nstringing and fixing bows, right?
 Dialogue: 100,0:14:45.49,0:14:51.12,Default,Shinji,0,0,0,,Emiya, you're through with the archery club, right?
 Dialogue: 100,0:14:52.41,0:14:57.04,Default,Shinji,0,0,0,,{\q2}Don't you think it'd be in your best interests \Nto mind your own business?
-Dialogue: 100,0:15:01.92,0:15:03.84,Default,Fuji-nee,0,0,0,,{\an8}First off, pronunciation.
+Dialogue: 100,0:15:01.92,0:15:03.92,Default,Fuji-nee,0,0,0,,{\an8}First off, pronunciation.
 Dialogue: 10,0:15:03.92,0:15:07.39,Default,Fuji-nee,0,0,0,,{\an8\q2}Even if it's spelled the same way, \Nthe pronunciation will differ.
-Dialogue: 10,0:15:07.39,0:15:09.89,Default,Fuji-nee,0,0,0,,{\an8\q2}It's super easy to get it wrong, \Nso keep your eyes peeped!
+Dialogue: 10,0:15:07.39,0:15:09.89,Default,Fuji-nee,0,0,0,,{\an8\q2}It's super easy to get it wrong, \Nso keep your eyes peeled!
 Dialogue: 100,0:15:14.31,0:15:16.60,Default,Issei,0,0,0,,Emiya, wanna have lunch?
 Dialogue: 100,0:15:17.10,0:15:19.77,Default,Shirou,0,0,0,,Sorry. I'm going to the cafeteria today.
 Dialogue: 100,0:15:29.95,0:15:31.29,Default,Shirou,0,0,0,,Oh, Sakura—
 Dialogue: 100,0:15:43.34,0:15:44.34,Default,Shirou,0,0,0,,Sakura.
 Dialogue: 100,0:15:46.84,0:15:48.39,Default,Sakura,0,0,0,,Hello, Senpai!
 Dialogue: 100,0:15:48.39,0:15:50.68,Default,Shirou,0,0,0,,Who was that? {### Bit odd that he's asking who it was when he knows her already}
-Dialogue: 100,0:15:50.68,0:15:54.27,Default,Sakura,0,0,0,,Oh, she's a second-year. Her name is Tohsaka—
+Dialogue: 100,0:15:50.68,0:15:54.27,Default,Sakura,0,0,0,,Oh, she's a second-year. Her name is Tohsa—
 Dialogue: 100,0:15:53.60,0:15:56.52,Alt,Shirou,0,0,0,,Tohsaka, right? Tohsaka Rin.
 Dialogue: 100,0:15:57.94,0:16:01.27,Default,Sakura,0,0,0,,Do you know her?
 Dialogue: 100,0:16:01.27,0:16:04.32,Default,Shirou,0,0,0,,Well, you know, she's kinda famous here.
@@ -214,10 +214,10 @@ Dialogue: 100,0:20:26.04,0:20:27.96,Default,Shirou,0,0,0,,Even the club advisor 
 Dialogue: 100,0:20:29.17,0:20:31.67,Default,Sakura,0,0,0,,No, I'm fine.
 Dialogue: 100,0:20:37.17,0:20:41.55,Default,Sakura,0,0,0,,Senpai, I have a favor to ask of you.
 Dialogue: 100,0:20:44.22,0:20:49.56,Default,Sakura,0,0,0,,{\q2}Could you please try to come home \Nfrom school as soon as possible today?
-Dialogue: 100,0:20:50.77,0:20:51.69,Default,Newscaster,0,0,0,,This just in.
-Dialogue: 100,0:20:52.40,0:20:57.65,Default,Newscaster,0,0,0,,{\q2}In the residential district of Fuyuki-shi, Miyama-cho, \Nfour victims were discovered dead in their home.
-Dialogue: 100,0:20:58.11,0:21:03.12,Default,Newscaster,0,0,0,,{\q2}According to a press release from the Fuyuki police \Ndepartment, the victims were all found stabbed to death.
-Dialogue: 100,0:21:03.12,0:21:03.91,Default,Newscaster,0,0,0,,The police are cur—
+Dialogue: 100,0:20:50.77,0:20:51.69,Default,Newscaster,0,0,0,,This just in:
+Dialogue: 100,0:20:52.40,0:20:57.65,Default,Newscaster,0,0,0,,{\q2}In the residential district of Fuyuki-shi, Miyama-cho, \Nfour victims were discovered dead in their homes.
+Dialogue: 100,0:20:58.11,0:21:03.12,Default,Newscaster,0,0,0,,{\q2}According to a press release from the Fuyuki police \Ndepartment, they were all found with stab wounds.
+Dialogue: 100,0:21:03.12,0:21:03.91,Default,Newscaster,0,0,0,,The police are currently...
 Dialogue: 100,0:21:18.42,0:21:20.88,Default,Mitsuzuri,0,0,0,,Emiya. Emiya.
 Dialogue: 100,0:21:21.43,0:21:22.43,Default,Mitsuzuri,0,0,0,,Emiya!
 Dialogue: 100,0:21:23.93,0:21:26.01,Default,Mitsuzuri,0,0,0,,Mornin', Emiya.
@@ -226,7 +226,7 @@ Dialogue: 100,0:21:29.94,0:21:34.27,Default,Issei,0,0,0,,{\q2}Emiya, have you he
 Dialogue: 100,0:21:35.65,0:21:37.53,Default,Shirou,0,0,0,,Murders?
 Dialogue: 100,0:21:37.53,0:21:39.53,Default,Shirou,0,0,0,,Did they catch the perp?
 Dialogue: 100,0:21:39.53,0:21:41.74,Default,Issei,0,0,0,,No, not yet.
-Dialogue: 100,0:21:43.91,0:21:47.20,Default,Issei,0,0,0,,{\q2}It'd be best if we suspend all \Nthe after-school activities for a while.
+Dialogue: 100,0:21:43.91,0:21:47.20,Default,Issei,0,0,0,,{\q2}It'd be best if we suspend all \Nafter-school activities for a while.
 Dialogue: 100,0:21:49.00,0:21:49.87,Default,Kuzuki,0,0,0,,Excuse me.
 Dialogue: 100,0:21:50.33,0:21:52.62,Default,Kuzuki,0,0,0,,Ryuudou, can I borrow you?
 Dialogue: 100,0:21:52.62,0:21:54.42,Default,Issei,0,0,0,,Of course.
@@ -239,7 +239,7 @@ Dialogue: 100,0:22:32.33,0:22:34.71,Default,Shirou,0,0,0,,I thought club was can
 Dialogue: 100,0:22:36.46,0:22:40.67,Default,Shinji,0,0,0,,{\q2}Club or no club, I'm a busy man. \NI've got things to do.
 Dialogue: 100,0:22:40.67,0:22:43.01,Default,Shinji,0,0,0,,Hey, why don't you—
 Dialogue: 100,0:22:43.01,0:22:44.93,Default,Shirou,0,0,0,,Try not to give Mitsuzuri too much trouble, okay?
-Dialogue: 100,0:22:47.14,0:22:48.76,Default,Shinji,0,0,0,,What's that supposed to mean?
+Dialogue: 100,0:22:47.14,0:22:48.76,Default,Shinji,0,0,0,,Where'd that come from?
 Dialogue: 100,0:22:48.76,0:22:51.68,Default,Shinji,0,0,0,,An outsider has no business butting in like that.
 Dialogue: 100,0:22:55.19,0:22:57.73,Default,Shinji,0,0,0,,That reminds me, Emiya!
 Dialogue: 100,0:22:57.73,0:23:01.03,Default,Shinji,0,0,0,,Mind doing me a solid?
@@ -247,14 +247,14 @@ Dialogue: 100,0:23:01.03,0:23:02.94,Default,Shirou,0,0,0,,Sure. What is it?
 Dialogue: 100,0:23:02.94,0:23:07.03,Default,Shinji,0,0,0,,{\q2}Just some dumb clean-up \Nafter that dumb archery club.
 Dialogue: 100,0:23:09.78,0:23:12.91,Default,Shirou,0,0,0,,Isn't that supposed to be your job?
 Dialogue: 100,0:23:13.62,0:23:17.54,Default,Shinji,0,0,0,,I'm a busy man, remember?
-Dialogue: 100,0:23:17.54,0:23:18.75,Default,Shinji,0,0,0,,But you're not, right?
+Dialogue: 100,0:23:17.54,0:23:18.75,Default,Shinji,0,0,0,,But you should be free, right?
 Dialogue: 100,0:23:19.71,0:23:21.59,Default,Shinji,0,0,0,,So help a fella out,
 Dialogue: 100,0:23:23.09,0:23:24.42,Default,Shinji,0,0,0,,Emiya.
 Dialogue: 100,0:23:28.68,0:23:31.26,Default,Shirou,0,0,0,,Sure. Consider it done.
 Dialogue: 100,0:23:36.06,0:23:37.60,Default,Shinji,0,0,0,,That a fact?
-Dialogue: 100,0:23:38.19,0:23:41.23,Default,Shinji,0,0,0,,Have fun, Mister Goody Two-Shoes.
+Dialogue: 100,0:23:38.19,0:23:41.23,Default,Shinji,0,0,0,,Have fun then, Mister Goody Two-Shoes.
 Dialogue: 100,0:23:45.65,0:23:50.37,Default,PA,0,0,0,,{\q2}After-school club activities \Nhave been suspended for today.
-Dialogue: 100,0:23:50.37,0:23:55.83,Default,PA,0,0,0,,{\q2}All faculty and students \Nare to leave school by six PM.
+Dialogue: 100,0:23:50.37,0:23:55.83,Default,PA,0,0,0,,{\q2}All faculty and students are to leave \Nthe school grounds by six PM.
 Dialogue: 100,0:23:57.08,0:23:58.83,Default,Mom,0,0,0,,Come on, let's go home.
 Dialogue: 100,0:23:59.17,0:24:00.29,Default,Child,0,0,0,,Okay!
 Dialogue: 100,0:24:01.34,0:24:02.63,Default,Child,0,0,0,,See you tomorrow!
@@ -267,7 +267,7 @@ Dialogue: 100,0:25:01.19,0:25:02.52,Default,Shirou,0,0,0,,Yeah, let's go home.
 Dialogue: 100,0:25:11.87,0:25:12.99,Default,Shirou,0,0,0,,What the...
 Dialogue: 100,0:25:45.86,0:25:46.78,Default,Rancah,0,0,0,,Who's there?!
 Dialogue: 100,0:25:52.82,0:25:55.66,Default,Shirou,0,0,0,,{\i1}What the hell? What the hell {\i0}was{\i1} that?
-Dialogue: 100,0:25:56.45,0:25:57.66,Default,Shirou,0,0,0,,{\i1}I've gotta run...
+Dialogue: 100,0:25:56.45,0:25:57.66,Default,Shirou,0,0,0,,{\i1}I've gotta get out of here...
 Dialogue: 100,0:25:58.58,0:25:59.83,Default,Shirou,0,0,0,,{\i1}If I don't,
 Dialogue: 100,0:26:00.46,0:26:01.33,Default,Shirou,0,0,0,,{\i1}I'm dead!
 Dialogue: 100,0:26:30.36,0:26:31.40,Default,Rancah,0,0,0,,Yo.
@@ -308,7 +308,7 @@ Dialogue: 100,0:31:51.51,0:31:57.77,Default,Kotomine,0,0,0,,{\q2}The chosen Mast
 Dialogue: 100,0:31:58.23,0:32:02.40,Default,Kotomine,0,0,0,,As a result, an unfortunate accident occurred.
 Dialogue: 100,0:32:02.40,0:32:05.11,Default,Kotomine,0,0,0,,An accident large enough to be deemed a disaster.
 Dialogue: 100,0:32:07.95,0:32:10.49,Default,Shirou,0,0,0,,Are you telling me that was...
-Dialogue: 100,0:32:11.49,0:32:17.37,Default,Kotomine,0,0,0,,{\q2}Yes. It's an event any resident \Nof this city would know to heart.
+Dialogue: 100,0:32:11.49,0:32:17.37,Default,Kotomine,0,0,0,,{\q2}Yes. A ghost of the past haunting\Nany resident of this city. {###}
 Dialogue: 100,0:32:17.37,0:32:23.42,Default,Kotomine,0,0,0,,{\q2}Five hundred casualties, one hundred and \Nthirty-four buildings burned to the ground.
 Dialogue: 100,0:32:23.42,0:32:28.18,Default,Kotomine,0,0,0,,That raging inferno of cause yet unknown
 Dialogue: 100,0:32:28.18,0:32:31.35,Default,Kotomine,0,0,0,,was a scar left behind by the Holy Grail War.
@@ -388,7 +388,7 @@ Dialogue: 100,0:39:40.36,0:39:42.94,Default,Shirou,0,0,0,,Oh, I didn't know.
 Dialogue: 100,0:39:42.94,0:39:44.45,Default,Tohsaka,0,0,0,,Well, now you do.
 Dialogue: 100,0:39:45.07,0:39:47.45,Default,Tohsaka,0,0,0,,Anyway, I'm gonna get going.
 Dialogue: 100,0:39:47.45,0:39:50.95,Default,Tohsaka,0,0,0,,I need to go treat my own Servant.
-Dialogue: 100,0:39:54.46,0:39:58.00,Default,Tohsaka,0,0,0,,{\q2}Oh, and just so we're clear: \NThe next time we meet, it'll be as enemies.
+Dialogue: 100,0:39:54.46,0:39:58.00,Default,Tohsaka,0,0,0,,{\q2}Oh, and just so we're clear: \NNext time we meet, it'll be as enemies.
 Dialogue: 100,0:40:04.59,0:40:07.68,Default,Shirou,0,0,0,,She has a good heart.
 Dialogue: 100,0:40:12.22,0:40:14.98,Default,Shirou,0,0,0,,What about your injuries, Saber? Are you okay?
 Dialogue: 100,0:40:15.60,0:40:18.73,Default,Saber,0,0,0,,Yes, though I'd hesitate to say I'm in perfect condition.
@@ -409,17 +409,18 @@ Dialogue: 100,0:42:09.59,0:42:10.88,Default,Shirou,0,0,0,,Mitsuzuri!
 Dialogue: 100,0:42:14.64,0:42:16.60,Default,Shinji,0,0,0,,Now this is a surprise.
 Dialogue: 100,0:42:16.60,0:42:20.18,Default,Shinji,0,0,0,,Who would've thought I'd run into you here, Emiya?
 Dialogue: 100,0:42:22.60,0:42:23.69,Default,Shirou,0,0,0,,Why?
-Dialogue: 100,0:42:24.44,0:42:26.94,Default,Shinji,0,0,0,,Oh, right.
-Dialogue: 100,0:42:26.94,0:42:32.61,Default,Shinji,0,0,0,,{\q2}We had the president of the archery club \Nlend us a hand, you can say.
+Dialogue: 100,0:42:24.44,0:42:26.94,Default,Shinji,0,0,0,,Ah, this?
+Dialogue: 100,0:42:26.94,0:42:32.61,Default,Shinji,0,0,0,,{\q2}We had the president of the archery club \Nhelp us out a little, you could say.
 Dialogue: 100,0:42:35.03,0:42:36.45,Default,Shirou,0,0,0,,Shinji?
-Dialogue: 100,0:42:38.24,0:42:41.29,Default,Shinji,0,0,0,,What's that, your Servant?
-Dialogue: 100,0:42:47.13,0:42:51.47,Default,Shinji,0,0,0,,Allow me to introduce you. This is my Servant.
+Dialogue: 100,0:42:38.24,0:42:41.29,Default,Shinji,0,0,0,,What's that supposed to be, your Servant?
+Dialogue: 100,0:42:47.13,0:42:49.05,Default,Shinji,0,0,0,,Allow me to introduce you.
+Dialogue: 100,0:42:49.05,0:42:51.47,Default,Shinji,0,0,0,,Say hello to {\i1}my{\i0} Servant.
 Dialogue: 100,0:42:51.97,0:42:55.05,Default,Shinji,0,0,0,,Let's have 'em fight, Emiya.
 Dialogue: 100,0:42:55.05,0:42:58.85,Default,Shinji,0,0,0,,{\q2}I've always wanted to see what it's like \Nto pit two Servants against each other!
 Dialogue: 100,0:43:00.39,0:43:04.31,Default,Shirou,0,0,0,,Shinji, why are you a Master?
 Dialogue: 100,0:43:04.65,0:43:09.44,Default,Shinji,0,0,0,,The Matous are an old but noble lineage of magi.
-Dialogue: 100,0:43:09.44,0:43:13.82,Default,Shinji,0,0,0,,{\q2}As far as the Holy Grail War is concerned, \Nwe're one of the three great families.
-Dialogue: 100,0:43:13.82,0:43:19.08,Default,Shinji,0,0,0,,{\q2}I wish I didn't have to let an amateur \Nlike you in on this, though.
+Dialogue: 100,0:43:09.44,0:43:13.82,Default,Shinji,0,0,0,,{\q2}Heck, when it comes to the Grail War, \Nwe're one of the three great families.
+Dialogue: 100,0:43:13.82,0:43:19.08,Default,Shinji,0,0,0,,{\q2}Although it pains me that I have to let \Nan amateur like you in on that little secret.
 Dialogue: 100,0:43:19.99,0:43:22.58,Default,Shinji,0,0,0,,{\q2}It's obvious that I, the eldest son,
 Dialogue: 100,0:43:24.62,0:43:28.75,Default,Shinji,0,0,0,,would participate in this Holy Grail War, is it not?
 Dialogue: 100,0:43:28.75,0:43:29.92,Default,Shirou,0,0,0,,Shinji!
@@ -448,7 +449,7 @@ Dialogue: 100,0:45:49.73,0:45:52.31,Default,Shinji,0,0,0,,Grandfather! Wait!
 Dialogue: 100,0:45:52.31,0:45:56.11,Default,Shinji,0,0,0,,I'm a magus of the Matou family! I'll...
 Dialogue: 100,0:45:58.40,0:46:02.07,Default,Zouken,0,0,0,,Once incompetent, always incompetent.
 Dialogue: 100,0:46:02.66,0:46:05.74,Default,Zouken,0,0,0,,The Matou bloodline has fallen from grace.
-Dialogue: 100,0:46:06.37,0:46:10.21,Default,Zouken,0,0,0,,I had no expectations of you in particular. {## "taken from daraku: adding in particular makes it sound more natural than having shirou's next line just be 'for you' imo", and I agree with them.}
+Dialogue: 100,0:46:06.37,0:46:10.21,Default,Zouken,0,0,0,,I never had any expectations for you in particular. {## "taken from daraku: adding in particular makes it sound more natural than having shirou's next line just be 'for you' imo", and I agree with them.}
 Dialogue: 100,0:46:13.38,0:46:15.13,Default,Shirou,0,0,0,,{\i1}"You in particular"?
 Dialogue: 100,0:46:15.13,0:46:16.80,Default,Shirou,0,0,0,,Wait! Hold on!
 Dialogue: 100,0:46:16.80,0:46:19.72,Default,Shirou,0,0,0,,You're not making Sakura do this stuff, are you?!
@@ -479,7 +480,7 @@ Dialogue: 100,0:48:54.62,0:48:56.66,Default,Shirou,0,0,0,,Mitsuzuri's gonna pull
 Dialogue: 100,0:48:56.66,0:48:58.17,Default,Saber,0,0,0,,That is a relief.
 Dialogue: 100,0:48:58.17,0:49:00.79,Default,Saber,0,0,0,,{\q2}That took a considerable amount of time.
 Dialogue: 100,0:49:00.79,0:49:01.75,Default,Shirou,0,0,0,,Yeah...
-Dialogue: 100,0:49:03.71,0:49:08.63,Default,Shirou,0,0,0,TLC,He asked me about Kiritsugu. My father. {## Seems Kirei is doing the talking in the scene after this scene, though}
+Dialogue: 100,0:49:03.71,0:49:08.63,Default,Shirou,0,0,0,TLC,He told me about Kiritsugu. My father. {###}
 Dialogue: 100,0:49:14.10,0:49:15.14,Default,Saber,0,0,0,,Master,
 Dialogue: 100,0:49:18.06,0:49:21.61,Default,Saber,0,0,0,,there is something I must tell you.
 Dialogue: 100,0:49:22.73,0:49:28.32,Default,Kotomine,0,0,0,,{\q2}In a word, the man known as \NEmiya Kiritsugu was a hitman.
@@ -490,7 +491,7 @@ Dialogue: 100,0:49:42.25,0:49:48.80,Default,Saber,0,0,0,,{\q2}Last time, I was c
 Dialogue: 100,0:49:49.72,0:49:53.22,Default,Saber,0,0,0,,My Master's name at the time was Emiya Kiritsugu.
 Dialogue: 100,0:49:54.26,0:49:55.10,Default,Saber,0,0,0,,But...
 Dialogue: 100,0:49:55.10,0:49:59.23,Default,Kotomine,0,0,0,,He truly never did shed blood or tears.
-Dialogue: 100,0:49:59.23,0:50:03.19,Default,Kotomine,0,0,0,,{\q2}He would employ any number \Nof tactics to secure his goal.
+Dialogue: 100,0:49:59.23,0:50:03.19,Default,Kotomine,0,0,0,TLC,{\q2}He would stop at nothing to secure his goal. {###}
 Dialogue: 100,0:50:03.19,0:50:07.44,Default,Kotomine,0,0,0,,{\q2}Even face-to-face with a foe begging \Nfor their life, he would show no mercy.
 Dialogue: 100,0:50:08.03,0:50:13.11,Default,Saber,0,0,0,,{\q2}During the war, Kiritsugu considered \Nthat priest his greatest foe.
 Dialogue: 100,0:50:14.28,0:50:17.45,Default,Kotomine,0,0,0,,A fitting descriptor for us.
@@ -504,28 +505,29 @@ Dialogue: 100,0:50:52.57,0:50:56.70,Default,Kotomine,0,0,0,,He was truly an unsa
 Dialogue: 100,0:51:17.18,0:51:25.52,Default,Shirou,0,0,0,,{\q2}Even so, the Kiritsugu I knew would never \Nabandon the victims of the Holy Grail War.
 Dialogue: 100,0:51:26.65,0:51:30.48,Default,Shirou,0,0,0,,I've always looked up to superheroes like him.
 Dialogue: 100,0:51:32.15,0:51:34.15,Default,Shirou,0,0,0,,That's why I'll fight.
-Dialogue: 100,0:51:35.57,0:51:40.91,Default,Shirou,0,0,0,,{\q2}I should've said this sooner, but Saber, \NI want you to fight with me.
+Dialogue: 100,0:51:35.57,0:51:40.91,Default,Shirou,0,0,0,,{\q2}I should've said this sooner, but Saber, \NI want you to fight by my side.
 Dialogue: 100,0:51:43.83,0:51:50.42,Default,Saber,0,0,0,,{\q2}Regardless of my past, the Command Spells \Nbind me to my current Master.
+Dialogue: 100,0:51:52.13,0:51:53.13,Default,Shirou,0,0,0,,Yeah.
 Dialogue: 100,0:51:53.63,0:51:56.97,Default,Shirou,0,0,0,,If you're cool with it, you can call me Shirou.
 Dialogue: 100,0:51:58.64,0:52:00.56,Default,Saber,0,0,0,,Then Shirou it is.
 Dialogue: 100,0:52:02.27,0:52:06.19,Default,Saber,0,0,0,,Yes, I do prefer this pronunciation.
 Dialogue: 100,0:52:08.19,0:52:09.23,Default,Shirou,0,0,0,,Thanks.
 Dialogue: 100,0:52:13.15,0:52:14.86,Default,Shirou,0,0,0,,Ready to head home?
-Dialogue: 100,0:52:15.36,0:52:16.07,Default,Saber,0,0,0,,Yes.
+Dialogue: 100,0:52:15.36,0:52:16.15,Default,Saber,0,0,0,,Yes.
 Dialogue: 100,0:52:21.37,0:52:25.62,Default,Fuji-nee,0,0,0,,Wow, you knew Kiritsugu-san?
 Dialogue: 100,0:52:26.50,0:52:29.67,Default,Fuji-nee,0,0,0,,{\q2}What a tragedy though, \Nwhat with your luggage arriving late...
 Dialogue: 100,0:52:30.88,0:52:33.67,Default,Fuji-nee,0,0,0,,{\q2}Sorry you have to use Shirou's hand-me-downs.
 Dialogue: 100,0:52:34.17,0:52:36.51,Default,Saber,0,0,0,,Oh, it's no trouble at all.
 Dialogue: 100,0:52:36.51,0:52:39.55,Default,Fuji-nee,0,0,0,,Kiritsugu-san's such a lady-killer.
 Dialogue: 100,0:52:39.55,0:52:42.47,Default,Fuji-nee,0,0,0,,He traveled abroad a lot, and now I get why.
-Dialogue: 100,0:52:42.47,0:52:46.27,Default,Fuji-nee,0,0,0,,{\q2}Ooh! You have any fun memories \Nyou'd like to share with us?
+Dialogue: 100,0:52:42.47,0:52:46.27,Default,Fuji-nee,0,0,0,,{\q2}Ooh! You have any fun memories \Nyou'd like to share with the class?
 Dialogue: 100,0:52:47.56,0:52:50.02,Default,Saber,0,0,0,,{\an8}Uhm... Well...
-Dialogue: 100,0:52:50.02,0:52:53.07,Default,Shirou,0,0,0,,Sorry I sprung this on you out of nowhere, Sakura.
+Dialogue: 100,0:52:50.02,0:52:53.07,Default,Shirou,0,0,0,,Sorry that this came kinda outta nowhere, Sakura.
 Dialogue: 100,0:52:53.07,0:52:54.61,Default,Sakura,0,0,0,,I don't mind.
 Dialogue: 100,0:52:54.61,0:52:57.07,Default,Shirou,0,0,0,,So, uhm...
 Dialogue: 100,0:52:57.65,0:52:59.86,Default,Shirou,0,0,0,,Did you see Shinji this morning?
 Dialogue: 100,0:53:02.16,0:53:05.37,Default,Sakura,0,0,0,,Yes. Why are you asking?
-Dialogue: 100,0:53:05.37,0:53:08.29,Default,Shirou,0,0,0,,No real reason. Just making sure everything is okay.
+Dialogue: 100,0:53:05.37,0:53:08.29,Default,Shirou,0,0,0,,No real reason. Just making sure everything's okay.
 Dialogue: 100,0:53:13.25,0:53:14.46,Default,Shirou,0,0,0,,Sakura.
 Dialogue: 100,0:53:14.46,0:53:16.84,Default,Sakura,0,0,0,,Uhm, Senpai...
 Dialogue: 100,0:53:21.22,0:53:23.60,Default,Shirou,0,0,0,,Sakura, that bruise...
@@ -542,13 +544,13 @@ Dialogue: 100,0:54:32.25,0:54:35.04,Default,Shirou,0,0,0,,Shinji has a sister.
 Dialogue: 100,0:54:35.04,0:54:36.50,Default,Shirou,0,0,0,,Her name is Sakura.
 Dialogue: 100,0:54:40.26,0:54:42.01,Default,Tohsaka,0,0,0,,What about her?
 Dialogue: 100,0:54:42.51,0:54:46.76,Default,Shirou,0,0,0,,There's a good chance she'll get roped into this.
-Dialogue: 100,0:54:46.76,0:54:50.81,Default,Shirou,0,0,0,,I doubt Shinji's giving up so easily.
+Dialogue: 100,0:54:46.76,0:54:50.81,Default,Shirou,0,0,0,,I doubt Shinji's given up so easily.
 Dialogue: 100,0:54:51.73,0:54:53.14,Default,Shirou,0,0,0,,If we don't do something, he'll...
 Dialogue: 100,0:54:54.52,0:54:58.78,Default,Tohsaka,0,0,0,,{\q2}Then you should probably \Nkeep her safe at your place.
 Dialogue: 100,0:55:03.74,0:55:08.70,Default,Tohsaka,0,0,0,,At least, if she's really that important to you.
 Dialogue: 100,0:55:25.34,0:55:26.26,Default,Saber,0,0,0,,Sakura.
 Dialogue: 100,0:55:28.10,0:55:31.06,Default,Saber,0,0,0,,Breakfast this morning was sublime.
-Dialogue: 100,0:55:31.81,0:55:34.52,Default,Saber,0,0,0,,And now you're even preparing our lunch.
+Dialogue: 100,0:55:31.81,0:55:34.52,Default,Saber,0,0,0,TLC,And now you're even preparing our lunch. {###}
 Dialogue: 100,0:55:35.56,0:55:37.11,Default,Saber,0,0,0,,You have my thanks. {## and soon, her sword}
 Dialogue: 100,0:55:37.11,0:55:38.23,Default,Sakura,0,0,0,,Huh?
 Dialogue: 100,0:55:38.23,0:55:40.15,Default,Sakura,0,0,0,,Oh, it's nothing...
@@ -608,7 +610,7 @@ Dialogue: 100,1:00:43.49,1:00:46.71,Default,Caster,0,0,0,,Master Souichirou...
 Dialogue: 100,1:00:53.50,1:00:56.55,Default,True Assassin,0,0,0,,What is this man?
 Dialogue: 100,1:00:57.88,1:01:00.72,Default,True Assassin,0,0,0,,First, I cut its neck.
 Dialogue: 100,1:01:00.72,1:01:04.10,Default,True Assassin,0,0,0,,Arms, legs, all cut.
-Dialogue: 100,1:01:05.02,1:01:07.39,Default,True Assassin,0,0,0,,Sliced his gut open, too.
+Dialogue: 100,1:01:05.02,1:01:07.39,Default,True Assassin,0,0,0,,Sliced its gut open, too.
 Dialogue: 100,1:01:08.02,1:01:10.94,Default,True Assassin,0,0,0,,But it moved.
 Dialogue: 100,1:01:10.94,1:01:13.57,Default,Caster,0,0,0,,So you're the true Assassin, are you?
 Dialogue: 100,1:01:20.57,1:01:24.91,Default,True Assassin,0,0,0,,Unleash me of your shackles, witch.
@@ -620,28 +622,27 @@ Dialogue: 100,1:03:03.47,1:03:08.76,Default,Tohsaka,0,0,0,,You can have your way
 Dialogue: 100,1:03:18.69,1:03:20.53,Default,Shirou,0,0,0,,Tohsaka...
 Dialogue: 100,1:03:35.58,1:03:38.84,Default,Sakura,0,0,0,,Uhm, Senpai...
 Dialogue: 100,1:03:47.64,1:03:49.85,Default,Shirou,0,0,0,,Come on, what am I thinking?
-Dialogue: 100,1:03:51.02,1:03:53.85,Default,Newscaster,0,0,0,,{\an8\i1\q2}Following the gas leak incident with \Nunknown causes the other day,{Kametsu script}
-Dialogue: 100,1:03:53.85,1:03:58.02,Default,Newscaster,0,0,0,,{\an8\i1\q2}another gas leak occurred in a building \Nin the New City district of Fuyuki.{Kametsu script}
-Dialogue: 100,1:03:58.02,1:04:02.32,Default,Newscaster,0,0,0,,{\an8\i1\q2}The building that had the gas leak last night \Nis located on the east side of the New City Station.{Kametsu script}
-Dialogue: 100,1:04:02.32,1:04:05.95,Default,Newscaster,0,0,0,,{\an8\i1\q2}The security guard and several office workers \Nwho were present within the building{Kametsu script}
-Dialogue: 100,1:04:05.95,1:04:07.66,Default,Newscaster,0,0,0,,{\an8\i1}were seriously ill and found comatose.{Kametsu script}
-Dialogue: 100,1:04:07.66,1:04:10.83,Default,Newscaster,0,0,0,,{\an8\i1\q2}Damage, as in the previous gas leak, \Nhas been reported where several dozen people{Kametsu script}
-Dialogue: 100,1:04:10.83,1:04:13.58,Default,Newscaster,0,0,0,,{\an8\i1\q2}close to the building or nearby restaurants \Nhave reported feeling ill...{Kametsu script}
+Dialogue: 100,1:03:51.02,1:03:53.85,Default,Newscaster,0,0,0,,{\an8\i1\q2}Next, a follow-up on the gas leak incident \Nfrom the previous night.
+Dialogue: 100,1:03:53.85,1:03:58.02,Default,Newscaster,0,0,0,,{\an8\i1\q2}Another gas leak of unknown cause occurred \Nwithin the Shinto district of Fuyuki.
+Dialogue: 100,1:03:58.02,1:04:02.32,Default,Newscaster,0,0,0,,{\an8\i1\q2}The affected building was located \Non the east side of Shinto Station.
+Dialogue: 100,1:04:02.32,1:04:07.66,Default,Newscaster,0,0,0,,{\an8\i1\q2}Security personnel and several office workers \Npresent within the building were found comatose.
+Dialogue: 100,1:04:07.66,1:04:10.83,Default,Newscaster,0,0,0,,{\an8\i1\q2}Several people located close to \Nthe accident have reported feeling ill,
+Dialogue: 100,1:04:10.83,1:04:13.58,Default,Newscaster,0,0,0,,{\an8\i1\q2}and the authorities are currently \Ninvestigating any potential links.
 Dialogue: 100,1:04:09.91,1:04:10.58,Default,Shirou,0,0,0,,Sak—
 Dialogue: 100,1:04:13.66,1:04:14.50,Default,Shirou,0,0,0,,Hello?
 Dialogue: 100,1:04:15.08,1:04:16.87,Default,Shirou,0,0,0,,Oh, Fuji-nee.
-Dialogue: 100,1:04:19.09,1:04:20.67,Default,Shirou,0,0,0,,Why can't you come over today?
+Dialogue: 100,1:04:19.09,1:04:21.17,Default,Shirou,0,0,0,,Why can't you come over today?
 Dialogue: 100,1:04:21.17,1:04:22.09,Default,Shirou,0,0,0,,Gotcha.
-Dialogue: 100,1:04:48.03,1:04:50.45,Default,Tohsaka,0,0,0,,I visited Ryuudou Temple last night.
+Dialogue: 100,1:04:48.03,1:04:50.45,Default,Tohsaka,0,0,0,,I checked out Ryuudou Temple last night.
 Dialogue: 100,1:04:52.83,1:04:57.96,Default,Tohsaka,0,0,0,,{\q2}The mana from the coma incidents \Nin Shinto seemed to flow back there.
 Dialogue: 100,1:04:58.67,1:05:02.17,Default,Tohsaka,0,0,0,,Archer's all healed up, so I figured I'd investigate.
 Dialogue: 100,1:05:03.88,1:05:08.93,Default,Tohsaka,0,0,0,,{\q2}Long story short, Caster was making \NRyuudou Temple her base.
 Dialogue: 100,1:05:10.97,1:05:17.14,Default,Tohsaka,0,0,0,,{\q2}But by the time I got there, \Nsomeone had already dealt with her.
-Dialogue: 100,1:05:17.98,1:05:21.52,Default,Tohsaka,0,0,0,,{\q2}The residents of the temple were robbed of \Ntheir mana and are comatose right now.
+Dialogue: 100,1:05:17.98,1:05:21.98,Default,Tohsaka,0,0,0,,{\q2}The residents were robbed of \Ntheir mana and are comatose right now.
 Dialogue: 100,1:05:21.98,1:05:29.41,Default,Tohsaka,0,0,0,,{\q2}And since Kuzuki-sensei was the only one \Nwho got killed, he was probably Caster's Master.
 Dialogue: 100,1:05:37.12,1:05:39.79,Default,Tohsaka,0,0,0,,Now, here's the real problem.
 Dialogue: 100,1:05:40.12,1:05:43.67,Default,Tohsaka,0,0,0,,{\q2}There was another coma incident \Nin Shinto this morning.
-Dialogue: 100,1:05:44.84,1:05:47.72,Default,Shirou,0,0,0,,Even though Caster's gone?
+Dialogue: 100,1:05:44.84,1:05:47.72,Default,Shirou,0,0,0,,Even though Caster's out of the picture?
 Dialogue: 100,1:05:56.97,1:06:00.56,Default,Tohsaka,0,0,0,,Sakura ended up staying with you, right?
 Dialogue: 100,1:06:00.56,1:06:02.94,Default,Shirou,0,0,0,,Huh? Yeah.
 Dialogue: 100,1:06:02.94,1:06:05.07,Default,Shirou,0,0,0,,She's been at my place since yesterday.
@@ -651,7 +652,7 @@ Dialogue: 100,1:06:17.54,1:06:21.42,Default,Tohsaka,0,0,0,,{\q2}So I'd like to p
 Dialogue: 100,1:06:22.79,1:06:26.05,Default,Shirou,0,0,0,,So you want to form a temporary alliance?
 Dialogue: 100,1:06:26.05,1:06:28.30,Default,Tohsaka,0,0,0,,Yup, exactly.
 Dialogue: 100,1:06:38.06,1:06:39.10,Default,Archer,0,0,0,,Rin.
-Dialogue: 100,1:06:40.14,1:06:44.77,Default,Archer,0,0,0,,{\q2}I fail to see the meaning in joining up \Nwith a powerless Master.
+Dialogue: 100,1:06:40.14,1:06:44.77,Default,Archer,0,0,0,,{\q2}I see no purpose behind teaming up \Nwith that sorry excuse of a Master.
 Dialogue: 100,1:06:45.19,1:06:46.57,Default,Shirou,0,0,0,,What was that?
 Dialogue: 100,1:06:46.57,1:06:48.61,Default,Archer,0,0,0,,Am I wrong?
 Dialogue: 100,1:06:50.07,1:06:53.74,Default,Tohsaka,0,0,0,,Archer, you'd better do as your Master says.
@@ -668,7 +669,7 @@ Dialogue: 100,1:07:27.19,1:07:31.78,Default,Saber,0,0,0,,Oh, no. Perhaps I'm ove
 Dialogue: 100,1:07:38.83,1:07:41.87,Default,Shirou,0,0,0,,Sakura, who was at the door?
 Dialogue: 100,1:07:55.55,1:07:57.64,Default,Shinji,0,0,0,,What is it, Emiya?
 Dialogue: 100,1:07:57.64,1:07:59.93,Default,Shinji,0,0,0,,I'm Sakura's brother.
-Dialogue: 100,1:07:59.93,1:08:03.56,Default,Shinji,0,0,0,,{\q2}You got a problem with me taking \Nmy adorable little sister back home?
+Dialogue: 100,1:07:59.93,1:08:03.56,Default,Shinji,0,0,0,,{\q2}There a problem with me taking \Nmy adorable little sister back home?
 Dialogue: 100,1:08:08.69,1:08:11.19,Default,Shirou,0,0,0,,What kind of brother hits his sister?
 Dialogue: 100,1:08:12.57,1:08:16.91,Default,Shirou,0,0,0,,{\q2}There's no way I trust you to keep Sakura safe \Nafter what you did to Mitsuzuri.
 Dialogue: 100,1:08:17.99,1:08:20.03,Default,Shinji,0,0,0,,Oh, gotcha.
@@ -677,9 +678,9 @@ Dialogue: 100,1:08:22.66,1:08:25.66,Default,Shinji,0,0,0,,{\q2}...you don't wann
 Dialogue: 100,1:08:25.66,1:08:27.12,Default,Shirou,0,0,0,,Screw you!
 Dialogue: 100,1:08:29.54,1:08:30.79,Default,Sakura,0,0,0,,Senpai!
 Dialogue: 100,1:08:36.93,1:08:38.64,Default,Shirou,0,0,0,,Shinji!
-Dialogue: 100,1:08:39.43,1:08:41.81,Default,Shinji,0,0,0,,Ooh, that's a nice face.
-Dialogue: 100,1:08:42.64,1:08:45.43,Default,Shinji,0,0,0,,C'mon, punk. Let's pick up where we left off.
-Dialogue: 100,1:08:46.31,1:08:47.85,Default,Sakura,0,0,0,,Stop it, Nii-san!
+Dialogue: 100,1:08:39.43,1:08:41.81,Default,Shinji,0,0,0,,Ooh, I love that look in your eyes.
+Dialogue: 100,1:08:42.64,1:08:45.43,Default,Shinji,0,0,0,,Come at me, punk. Let's continue where we left off.
+Dialogue: 100,1:08:46.31,1:08:47.85,Default,Sakura,0,0,0,,Stop, Nii-san!
 Dialogue: 100,1:08:50.86,1:08:52.07,Default,Shirou,0,0,0,,Sakura...
 Dialogue: 100,1:08:52.90,1:08:55.07,Default,Sakura,0,0,0,,I'll do whatever you say.
 Dialogue: 100,1:08:55.65,1:08:58.49,Default,Sakura,0,0,0,,Just please don't do it in front of Senpai!
@@ -692,7 +693,7 @@ Dialogue: 100,1:10:14.31,1:10:15.48,Default,Shirou,0,0,0,,Sakura?
 Dialogue: 100,1:10:24.95,1:10:25.87,Default,Sakura,0,0,0,,Uhm...
 Dialogue: 100,1:10:27.12,1:10:31.04,Default,Sakura,0,0,0,,Can we talk for a bit?
 Dialogue: 100,1:10:34.08,1:10:35.00,Default,Shirou,0,0,0,,Sure...
-Dialogue: 100,1:10:47.22,1:10:50.85,Default,Sakura,0,0,0,,Uhm, I'm sorry for the way my brother acted.
+Dialogue: 100,1:10:47.22,1:10:50.85,Default,Sakura,0,0,0,,I'm sorry for the way my brother acted.
 Dialogue: 100,1:10:51.94,1:10:53.98,Default,Shirou,0,0,0,,I told you, you have nothing to apologize for.
 Dialogue: 100,1:11:01.28,1:11:04.36,Default,Shirou,0,0,0,,It's freezing, huh? Gimme a sec.
 Dialogue: 100,1:11:09.87,1:11:10.95,Default,Shirou,0,0,0,,Sakura.
@@ -700,11 +701,11 @@ Dialogue: 100,1:11:21.26,1:11:22.59,Default,Sakura,0,0,0,,It's so warm.
 Dialogue: 100,1:11:23.26,1:11:25.59,Default,Sakura,0,0,0,,You fixed it?
 Dialogue: 100,1:11:26.14,1:11:27.05,Default,Shirou,0,0,0,,Yeah.
 Dialogue: 100,1:11:27.68,1:11:30.10,Default,Shirou,0,0,0,,Took a lot out of me, though.
-Dialogue: 100,1:11:35.02,1:11:38.07,Default,Sakura,0,0,0,,Senpai, do you remember?
-Dialogue: 100,1:11:40.36,1:11:42.49,Default,Sakura,0,0,0,,This happened a long time ago.
-Dialogue: 100,1:11:43.07,1:11:48.28,Default,Sakura,0,0,0,,Back before I met you.
+Dialogue: 100,1:11:35.02,1:11:38.07,Default,Sakura,0,0,0,,Senpai, did I ever tell you this? {og: Senpai, do you remember?}
+Dialogue: 100,1:11:40.36,1:11:42.49,Default,Sakura,0,0,0,TLC,The story of my most cherished memory. {og: This happened a long time ago.}{### Too liberal?}
+Dialogue: 100,1:11:43.07,1:11:48.28,Default,Sakura,0,0,0,,It took place back before we knew each other. {og: Back before I met you}
 Dialogue: 100,1:11:50.58,1:11:52.87,Default,Sakura,0,0,0,,It was a bright red sunset.
-Dialogue: 100,1:11:53.83,1:11:56.96,Default,Sakura,0,0,0,,The schoolyard, the hallways, everything was red.
+Dialogue: 100,1:11:53.83,1:11:57.08,Default,Sakura,0,0,0,,The schoolyard, the hallways, everything was red.
 Dialogue: 100,1:11:57.63,1:11:59.75,Default,Sakura,0,0,0,,It was pretty, but also lonely.
 Dialogue: 100,1:12:01.09,1:12:07.22,Default,Sakura,0,0,0,,{\q2}That's when I saw someone doing \Nrunning long jumps in the schoolyard.
 Dialogue: 100,1:12:09.01,1:12:13.89,Default,Sakura,0,0,0,,Back then, I wasn't a very good girl.
@@ -713,8 +714,8 @@ Dialogue: 100,1:12:22.94,1:12:23.90,Default,Sakura,0,0,0,,But...
 Dialogue: 100,1:12:40.29,1:12:44.51,Default,Sakura,0,0,0,,{\q2}No matter how many times he tried, \Nhe never made the jump,
 Dialogue: 100,1:12:44.51,1:12:50.76,Default,Sakura,0,0,0,,{\q2}and once he realized he couldn't do it, \Nhe cleaned up and went home.
 Dialogue: 100,1:12:51.76,1:12:54.10,Default,Shirou,0,0,0,,Uh, Sakura...
-Dialogue: 100,1:12:54.81,1:12:56.81,Default,Shirou,0,0,0,,Are you saying, uh...
-Dialogue: 100,1:12:57.56,1:13:02.15,Default,Sakura,0,0,0,,{\q2}Yes. That was the upperclassman \Nsitting next to me right now.
+Dialogue: 100,1:12:54.81,1:12:56.81,Default,Shirou,0,0,0,,Would that person happen to be, uhh...
+Dialogue: 100,1:12:57.56,1:13:02.15,Default,Sakura,0,0,0,,{\q2}Yes. He was the upperclassman \Nsitting next to me right now.
 Dialogue: 100,1:13:03.36,1:13:08.28,Default,Sakura,0,0,0,,I've known about you since then.
 Dialogue: 100,1:13:09.82,1:13:13.54,Default,Shirou,0,0,0,,Oh. That's news to me.
 Dialogue: 100,1:13:17.83,1:13:19.88,Default,Sakura,0,0,0,,Uhm, Senpai.
@@ -739,34 +740,34 @@ Dialogue: 100,1:15:10.19,1:15:13.41,Default,Sakura,0,0,0,,That would make me hap
 Dialogue: 100,1:15:17.91,1:15:19.58,Default,Sakura,0,0,0,,I'll go to bed now.
 Dialogue: 100,1:15:20.12,1:15:22.91,Default,Sakura,0,0,0,,Good night, Senpai.
 Dialogue: 100,1:15:45.10,1:15:50.40,Default,Dispatcher,0,0,0,,Miyama HQ to Miyama ambulances.
-Dialogue: 100,1:15:50.40,1:15:51.94,Default,Dispatcher,0,0,0,,This just in from the front.
-Dialogue: 10,1:15:51.94,1:15:54.86,Default,Dispatcher,0,0,0,,{\q2}Many people need rescue in the \Nbuilding across from New City Station.
+Dialogue: 100,1:15:50.40,1:15:51.94,Default,Dispatcher,0,0,0,,This just in from the front. {###}
+Dialogue: 10,1:15:51.94,1:15:54.86,Default,Dispatcher,0,0,0,,{\q2}Many people in need of rescue \Nin the building across Shinto Station.
 Dialogue: 10,1:15:54.86,1:15:59.70,Default,Dispatcher,0,0,0,,{\q2}All available vehicles should \Npromptly head on-site. Over.
-Dialogue: 10,1:15:59.70,1:16:01.95,Default,Dispatcher,0,0,0,,Miyama Paramedic 2 to Miyama HQ.
+Dialogue: 10,1:15:59.70,1:16:01.95,Default,Dispatcher,0,0,0,,Miyama Paramedic Two to Miyama HQ.
 Dialogue: 100,1:16:22.64,1:16:23.56,Default,Lancer,0,0,0,,Yo.
 Dialogue: 100,1:16:24.77,1:16:26.69,Default,Lancer,0,0,0,,That your handiwork? {Dat yooehr handiwhrk? :lunahigh:}
 Dialogue: 100,1:16:42.08,1:16:47.92,Default,Lancer,0,0,0,,{\q2}Nah, that'd be a little hard \Nfor a filthy sandflea like you.
 Dialogue: 100,1:17:21.70,1:17:23.66,Default,Lancer,0,0,0,,You ain't goin' anywhere.
 Dialogue: 100,1:19:32.46,1:19:33.29,Default,Lancer,0,0,0,,Come!
-Dialogue: 100,1:20:12.20,1:20:13.50,Default,Lancer,0,0,0,,Ain't worth tryin' those tricks.
+Dialogue: 100,1:20:12.20,1:20:13.50,Default,Lancer,0,0,0,,Give up on those tricks.
 Dialogue: 100,1:20:14.08,1:20:15.33,Default,Lancer,0,0,0,,{\q2}I was born with this skill.
 Dialogue: 100,1:20:15.33,1:20:17.25,Default,Lancer,0,0,0,,{\q2}Projectiles ain't gonna work on me.
-Dialogue: 100,1:20:19.38,1:20:22.26,Default,True Assassin,0,0,0,,I see, Protection from Arrows. {from FGO}
+Dialogue: 100,1:20:19.38,1:20:22.26,Default,True Assassin,0,0,0,,A skill to protect one against projectiles, I see.
 Dialogue: 100,1:20:25.68,1:20:28.64,Default,Lancer,0,0,0,,Black-painted weapons to hide 'em in the darkness...
 Dialogue: 100,1:20:29.76,1:20:30.81,Default,Lancer,0,0,0,,Pathetic.
 Dialogue: 100,1:20:57.37,1:21:02.05,Default,True Assassin,0,0,0,,You have seen beneath my mask, Lancer!
-Dialogue: 100,1:21:02.05,1:21:04.21,Default,Lancer,0,0,0,,I'll be seeing a whole lot more soon enough.
+Dialogue: 100,1:21:02.05,1:21:04.21,Default,Lancer,0,0,0,,I'll be seeing plenty more soon enough.
 Dialogue: 100,1:21:14.52,1:21:16.39,Default,Lancer,0,0,0,,{\i1}This{\i0} is where you lead me?
 Dialogue: 100,1:21:17.52,1:21:21.02,Default,Lancer,0,0,0,,What's a sandflea gonna pull in a watering hole?
 Dialogue: 100,1:22:05.11,1:22:08.36,Default,True Assassin,0,0,0,,It'll consume you if you don't move.
-Dialogue: 100,1:22:08.65,1:22:12.70,Default,Lancer,0,0,0,,Y'know what the hell this damn thing is?
+Dialogue: 100,1:22:08.65,1:22:12.70,Default,Lancer,0,0,0,,You got any idea what the hell this damn thing is?
 Dialogue: 100,1:22:13.37,1:22:14.62,Default,Lancer,0,0,0,,It's...
 Dialogue: 100,1:22:36.72,1:22:37.89,Default,True Assassin,0,0,0,,Noble Phantasm!
 Dialogue: 100,1:22:38.52,1:22:42.40,Default,True Assassin,0,0,0,,{\pos(960,1024)}Zabaniya!
 Dialogue: 100,1:22:54.12,1:22:55.45,Default,Lancer,0,0,0,,Noble Phantasm!
 Dialogue: 100,1:22:55.45,1:22:58.04,Default,Lancer,0,0,0,,'Tis a bit early, but I'm finishin' this now!
 Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,Gáe...
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,,...Bolg!
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,,...Bolg!
 Dialogue: 100,1:23:17.56,1:23:21.14,Default,True Assassin,0,0,0,,You have lost this battle!
 Dialogue: 100,1:24:18.99,1:24:23.87,Default,Lancer,0,0,0,,{\i1}Well, this couldn't have gone worse.
 Dialogue: 100,1:25:01.37,1:25:02.87,Default,Sakura,0,0,0,,Senpai...
@@ -1064,44 +1065,44 @@ Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fsc
 Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H2C0D99&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(832,946,1087,947)}Barbed Spear...
 Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H2B0C99&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(832,947,1087,948)}Barbed Spear...
 Dialogue: 101,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0\blur0.65}Barbed Spear...
-Comment: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4E24AF&\1a&HFE&\3a&HFE&\4a&H00&\blur1}...that Pierces with Death
-Comment: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H280A97&\1a&HFE&\3a&HFE&\4a&H00&\blur1}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4C23AE&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,907,1168,908)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4C22AE&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,908,1168,909)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4B22AD&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,909,1168,910)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4B22AD&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,910,1168,911)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4A21AC&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,911,1168,912)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4A21AC&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,912,1168,913)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4920AC&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,913,1168,914)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4820AB&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,914,1168,915)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H471FAB&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,915,1168,916)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H461FAA&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,916,1168,917)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H461EAA&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,917,1168,918)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H451EA9&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,918,1168,919)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H441DA8&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,919,1168,920)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H431CA8&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,920,1168,921)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H421CA7&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,921,1168,922)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H411BA7&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,922,1168,923)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H401AA6&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,923,1168,924)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3F1AA5&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,924,1168,925)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3E19A5&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,925,1168,926)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3D18A4&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,926,1168,927)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3C18A3&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,927,1168,928)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3B17A3&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,928,1168,929)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3A16A2&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,929,1168,930)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3915A1&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,930,1168,931)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3815A1&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,931,1168,932)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3614A0&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,932,1168,933)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H35139F&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,933,1168,934)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H34129E&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,934,1168,935)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H33119E&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,935,1168,936)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H32109D&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,936,1168,937)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H30109C&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,937,1168,938)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H2F0F9B&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,938,1168,939)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H2E0E9B&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,939,1168,940)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H2D0D9A&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,940,1168,941)}...that Pierces with Death
-Dialogue: 100,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H2B0C99&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,941,1168,942)}...that Pierces with Death
-Dialogue: 101,1:23:08.34,1:23:09.34,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0\blur0.65}...that Pierces with Death
+Comment: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4E24AF&\1a&HFE&\3a&HFE&\4a&H00&\blur1}...that Pierces with Death
+Comment: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H280A97&\1a&HFE&\3a&HFE&\4a&H00&\blur1}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4C23AE&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,907,1168,908)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4C22AE&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,908,1168,909)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4B22AD&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,909,1168,910)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4B22AD&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,910,1168,911)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4A21AC&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,911,1168,912)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4A21AC&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,912,1168,913)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4920AC&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,913,1168,914)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H4820AB&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,914,1168,915)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H471FAB&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,915,1168,916)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H461FAA&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,916,1168,917)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H461EAA&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,917,1168,918)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H451EA9&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,918,1168,919)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H441DA8&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,919,1168,920)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H431CA8&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,920,1168,921)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H421CA7&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,921,1168,922)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H411BA7&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,922,1168,923)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H401AA6&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,923,1168,924)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3F1AA5&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,924,1168,925)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3E19A5&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,925,1168,926)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3D18A4&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,926,1168,927)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3C18A3&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,927,1168,928)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3B17A3&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,928,1168,929)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3A16A2&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,929,1168,930)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3915A1&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,930,1168,931)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3815A1&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,931,1168,932)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H3614A0&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,932,1168,933)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H35139F&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,933,1168,934)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H34129E&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,934,1168,935)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H33119E&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,935,1168,936)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H32109D&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,936,1168,937)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H30109C&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,937,1168,938)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H2F0F9B&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,938,1168,939)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H2E0E9B&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,939,1168,940)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H2D0D9A&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,940,1168,941)}...that Pierces with Death
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H2B0C99&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(753,941,1168,942)}...that Pierces with Death
+Dialogue: 101,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0\blur0.65}...that Pierces with Death
 Comment: 100,1:41:50.46,1:41:52.04,Default,True Assassin,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H252529&\1a&HFE&\3a&HFE&\4a&H00&\blur1}Delusional Heartbeat
 Comment: 100,1:41:50.46,1:41:52.04,Default,True Assassin,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H280A97&\1a&HFE&\3a&HFE&\4a&H00&\blur1}Delusional Heartbeat
 Dialogue: 100,1:41:50.46,1:41:52.04,Default,True Assassin,0,0,0,ruby,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H25242B&\1a&HFE&\3a&HFE&\4a&H00&\blur1\clip(787,907,1134,908)}Delusional Heartbeat
