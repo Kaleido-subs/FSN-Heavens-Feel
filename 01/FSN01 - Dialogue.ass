@@ -183,8 +183,8 @@ Dialogue: 100,0:16:33.51,0:16:34.31,Default,Shirou,0,0,0,,Sakura?
 Dialogue: 100,0:16:39.02,0:16:44.36,Default,Sakura,0,0,0,,{\q2}Senpai, are you ever going to \Ncome back to the archery club?
 Dialogue: 100,0:16:45.78,0:16:47.28,Default,Shirou,0,0,0,,I dunno.
 Dialogue: 100,0:16:48.78,0:16:51.32,Default,Shirou,0,0,0,,I don't think Shinji would be all too pleased.
-Dialogue: 100,0:16:55.33,0:16:59.50,Default,Sakura,0,0,0,,I think he has a hard time meshing well with you.
-Dialogue: 100,0:16:59.50,0:17:03.09,Default,Sakura,0,0,0,,But he still likes you more than others regardless.
+Dialogue: 100,0:16:55.33,0:16:59.50,Default,Sakura,0,0,0,,I think you just rub him the wrong way.
+Dialogue: 100,0:16:59.50,0:17:03.09,Default,Sakura,0,0,0,,But still, he likes you much more than anyone else.
 Dialogue: 100,0:17:03.63,0:17:09.05,Default,Sakura,0,0,0,,{\q2}He can be hard to understand. \NHis favorite people are those he hates the most.
 Dialogue: 100,0:17:11.13,0:17:13.93,Default,Shirou,0,0,0,,That's one heck of a personality.
 Dialogue: 100,0:17:15.93,0:17:17.68,Default,Sakura,0,0,0,,Good night, Senpai.
@@ -409,8 +409,8 @@ Dialogue: 100,0:42:09.59,0:42:10.88,Default,Shirou,0,0,0,,Mitsuzuri!
 Dialogue: 100,0:42:14.64,0:42:16.60,Default,Shinji,0,0,0,,Now this is a surprise.
 Dialogue: 100,0:42:16.60,0:42:20.18,Default,Shinji,0,0,0,,Wasn't expecting to see you here, Emiya.
 Dialogue: 100,0:42:22.60,0:42:23.69,Default,Shirou,0,0,0,,What are you...
-Dialogue: 100,0:42:24.44,0:42:26.94,Default,Shinji,0,0,0,,Oh, you talking about this?
-Dialogue: 100,0:42:26.94,0:42:32.61,Default,Shinji,0,0,0,,{\q2}I guess you could say we had \Nour dear president help us out a little.
+Dialogue: 100,0:42:24.44,0:42:26.94,Default,Shinji,0,0,0,,Oh, you wondering about this?
+Dialogue: 100,0:42:26.94,0:42:32.61,Default,Shinji,0,0,0,,{\q2}I guess you could say we had \Nour dear president do us a little favor.
 Dialogue: 100,0:42:35.03,0:42:36.45,Default,Shirou,0,0,0,,Shinji?
 Dialogue: 100,0:42:38.24,0:42:41.29,Default,Shinji,0,0,0,,Is that thing your Servant?
 Dialogue: 100,0:42:47.13,0:42:49.05,Default,Shinji,0,0,0,,Let me do the honors!
@@ -428,7 +428,7 @@ Dialogue: 100,0:43:29.92,0:43:32.55,Default,Shinji,0,0,0,,Man, you really gotta 
 Dialogue: 100,0:43:32.88,0:43:35.26,Default,Shinji,0,0,0,,Need me to spell it out for you?
 Dialogue: 100,0:43:35.26,0:43:41.14,Default,Shinji,0,0,0,,This is a game we're all playing for keeps!
 Dialogue: 100,0:43:53.28,0:43:55.28,Default,Shinji,0,0,0,,Fuck 'em up, Rider!
-Dialogue: 100,0:44:16.55,0:44:17.38,Default,Shinji,0,0,0,,Huh?
+Dialogue: 100,0:44:16.55,0:44:17.76,Default,Shinji,0,0,0,,Huh?
 Dialogue: 100,0:44:24.31,0:44:25.52,Default,Shirou,0,0,0,,Uhm...
 Dialogue: 100,0:44:47.29,0:44:48.04,Default,Shinji,0,0,0,,Hey.
 Dialogue: 100,0:44:48.92,0:44:51.29,Default,Shinji,0,0,0,,Who told you you could lose, huh?
