@@ -11,8 +11,8 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [temp2] [VCB-Studio] Fate stay night Heaven's Feel III - spring song [Ma10p_1080p][x265_flac].mkv
-Video File: [temp2] [VCB-Studio] Fate stay night Heaven's Feel III - spring song [Ma10p_1080p][x265_flac].mkv
+Audio File: FSNHF_BD_03 (Premux).mkv
+Video File: FSNHF_BD_03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -214,7 +214,7 @@ Dialogue: 100,0:18:30.84,0:18:34.01,Default,Kotomine,0,0,0,,She has killed a gre
 Dialogue: 100,0:18:35.05,0:18:38.85,Default,Kotomine,0,0,0,,I cannot imagine she would approve of that.
 Dialogue: 100,0:18:38.85,0:18:43.81,Default,Kotomine,0,0,0,,Then would she not be happier to be killed?
 Dialogue: 100,0:18:44.27,0:18:47.94,Default,Kotomine,0,0,0,,{\q2}It would also serve as atonement \Nfor the lives she reaped.
-Dialogue: 100,0:18:50.28,0:18:54.20,Default,Shirou,0,0,0,,But it wouldn't make up for anything. {## "But doing so won't bring those lives back"?}
+Dialogue: 100,0:18:50.28,0:18:54.20,Default,Shirou,0,0,0,,But it wouldn't make up for anything.
 Dialogue: 100,0:18:55.49,0:18:56.95,Default,Kotomine,0,0,0,,I see.
 Dialogue: 100,0:18:58.08,0:19:02.79,Default,Kotomine,0,0,0,,Then you refuse to inherit Emiya Kiritsugu's ideals.
 Dialogue: 100,0:19:35.40,0:19:36.78,Default,Shirou,0,0,0,,I'll check the place out.
@@ -277,12 +277,12 @@ Dialogue: 100,0:24:50.89,0:24:53.43,Default,Shirou,0,0,0,,{\i1}But at this pace.
 Dialogue: 100,0:24:59.73,0:25:00.98,Default,Illya,0,0,0,,Berserker...
 Dialogue: 100,0:25:47.32,0:25:50.70,Default,Kotomine,0,0,0,,I suppose you aren't just a puppet.
 Dialogue: 100,0:25:56.03,0:25:57.33,Default,Kotomine,0,0,0,,Take her.
-Dialogue: 100,0:26:01.04,0:26:05.46,Default,Kotomine,0,0,0,TLC,Emiya, if you save a lady, you must not kill. {## EPTT: "did something get lost in TL?"}{## Sounds fine to me, although iirc the VN TL changes the subjects ("you must not kill" to "you must not be killed"), but this line as-is makes more sense to me in-context.}
+Dialogue: 100,0:26:01.04,0:26:05.46,Default,Kotomine,0,0,0,,Emiya, if you save a lady, you must not kill.
 Dialogue: 100,0:26:06.42,0:26:11.55,Default,Kotomine,0,0,0,,Seeing death up close wears on the soul.
 Dialogue: 100,0:26:17.26,0:26:18.77,Default,Shirou,0,0,0,,Let's go, Illya!
 Dialogue: 100,0:26:28.94,0:26:31.53,Default,True Assassin,0,0,0,,The white Holy Grail will not escape.
 Dialogue: 100,0:26:31.90,0:26:35.78,Default,True Assassin,0,0,0,,I, too, have a wish to see granted.
-Dialogue: 100,0:26:47.63,0:26:49.34,Default,Illya,0,0,0,TLC,Is he looking for me? {## "for" or "at"?}
+Dialogue: 100,0:26:47.63,0:26:49.34,Default,Illya,0,0,0,,Is he looking at me?
 Dialogue: 100,0:27:00.85,0:27:04.23,Default,Illya,0,0,0,,Shirou, leave me behind and run.
 Dialogue: 100,0:27:05.14,0:27:06.31,Default,Shirou,0,0,0,,Come on, I can't—
 Dialogue: 100,0:27:20.74,0:27:21.62,Default,Kotomine,0,0,0,,Hmm?
@@ -329,7 +329,7 @@ Dialogue: 100,0:31:05.01,0:31:08.97,Default,Kotomine,0,0,0,,{\q2}Absolution is a
 Dialogue: 100,0:31:09.56,0:31:11.22,Default,Zouken,0,0,0,,What will this accomplish?
 Dialogue: 100,0:31:11.22,0:31:13.56,Default,Zouken,0,0,0,,There is no salvation for you.
 Dialogue: 100,0:31:14.52,0:31:16.35,Default,Kotomine,0,0,0,,{\pos(960,1024)}Kýrie, eléison.
-Dialogue: 100,0:31:33.29,0:31:37.67,Default,True Assassin,0,0,0,TLC,{\q2}So you used the holy word of the Bible \Nto attack his spirit directly. {## Was "Word" originally capitalised for a reason?}
+Dialogue: 100,0:31:33.29,0:31:37.67,Default,True Assassin,0,0,0,,{\q2}So you used the holy Word of the Bible \Nto attack his spirit directly.
 Dialogue: 100,0:31:40.67,0:31:44.88,Default,True Assassin,0,0,0,,You were pure poison to my magus.
 Dialogue: 100,0:31:46.43,0:31:47.93,Default,True Assassin,0,0,0,,And you...
 Dialogue: 100,0:31:49.97,0:31:52.22,Default,True Assassin,0,0,0,,have already been blackened, have you not? {###}
