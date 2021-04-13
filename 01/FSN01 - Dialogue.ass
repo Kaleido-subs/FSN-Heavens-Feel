@@ -171,7 +171,7 @@ Dialogue: 100,0:15:17.10,0:15:19.77,Default,Shirou,0,0,0,,Sorry. I'm going to th
 Dialogue: 100,0:15:29.95,0:15:31.29,Default,Shirou,0,0,0,,Oh, Sakura—
 Dialogue: 100,0:15:43.34,0:15:44.34,Default,Shirou,0,0,0,,Sakura.
 Dialogue: 100,0:15:46.84,0:15:48.39,Default,Sakura,0,0,0,,Hello, Senpai!
-Dialogue: 100,0:15:48.39,0:15:50.68,Default,Shirou,0,0,0,,Who was that? {### Bit odd that he's asking who it was when he knows her already}
+Dialogue: 100,0:15:48.39,0:15:50.68,Default,Shirou,0,0,0,,That girl you were talking to...
 Dialogue: 100,0:15:50.68,0:15:54.27,Default,Sakura,0,0,0,,Oh, she's a second-year. Her name is Tohsa—
 Dialogue: 100,0:15:53.60,0:15:56.52,Alt,Shirou,0,0,0,,Tohsaka, right? Tohsaka Rin.
 Dialogue: 100,0:15:57.94,0:16:01.27,Default,Sakura,0,0,0,,Do you know her?
@@ -308,15 +308,15 @@ Dialogue: 100,0:31:51.51,0:31:57.77,Default,Kotomine,0,0,0,,{\q2}The chosen Mast
 Dialogue: 100,0:31:58.23,0:32:02.40,Default,Kotomine,0,0,0,,As a result, an unfortunate accident occurred.
 Dialogue: 100,0:32:02.40,0:32:05.11,Default,Kotomine,0,0,0,,An accident large enough to be deemed a disaster.
 Dialogue: 100,0:32:07.95,0:32:10.49,Default,Shirou,0,0,0,,Are you telling me that was...
-Dialogue: 100,0:32:11.49,0:32:17.37,Default,Kotomine,0,0,0,,{\q2}Yes. A ghost of the past haunting \Nany resident of this city. {###}
-Dialogue: 100,0:32:17.37,0:32:23.42,Default,Kotomine,0,0,0,,{\q2}Five hundred casualties, one hundred and \Nthirty-four buildings burned to the ground.
-Dialogue: 100,0:32:23.42,0:32:28.18,Default,Kotomine,0,0,0,,That raging inferno of cause yet unknown
+Dialogue: 100,0:32:11.49,0:32:17.37,Default,Kotomine,0,0,0,,{\q2}Yes. A great happening that \Nweighs upon the hearts of all in this city. {###}
+Dialogue: 100,0:32:17.37,0:32:23.42,Default,Kotomine,0,0,0,,{\q2}Five hundred casualties. One hundred and \Nthirty-four buildings burned to the ground.
+Dialogue: 100,0:32:23.42,0:32:28.18,Default,Kotomine,0,0,0,,{\q2}That raging inferno \Nwhose cause is yet deemed unknown
 Dialogue: 100,0:32:28.18,0:32:31.35,Default,Kotomine,0,0,0,,was a scar left behind by the Holy Grail War.
 Dialogue: 100,0:32:33.31,0:32:34.47,Default,Tohsaka,0,0,0,,Emiya-kun!
 Dialogue: 100,0:32:35.85,0:32:39.35,Default,Tohsaka,0,0,0,,Kirei, I told you to explain the rules!
 Dialogue: 100,0:32:39.35,0:32:41.27,Default,Tohsaka,0,0,0,,Not open up old scars!
-Dialogue: 100,0:32:47.45,0:32:51.16,Default,Shirou,0,0,0,,Is this Holy Grail for real?
-Dialogue: 100,0:32:51.74,0:32:56.75,Default,Kotomine,0,0,0,,{\q2}Last time, there was a man who \Nobtained the Holy Grail, albeit temporarily.
+Dialogue: 100,0:32:47.45,0:32:51.16,Default,Shirou,0,0,0,,Is this Holy Grail thing the real deal?
+Dialogue: 100,0:32:51.74,0:32:56.75,Default,Kotomine,0,0,0,,{\q2}In the last war, there was a man who \Nobtained the Holy Grail, albeit temporarily.
 Dialogue: 100,0:32:57.46,0:32:59.46,Default,Shirou,0,0,0,,What happened to him?
 Dialogue: 100,0:32:59.83,0:33:05.50,Default,Kotomine,0,0,0,,{\q2}Absolutely nothing. \NThat Holy Grail had not achieved completion.
 Dialogue: 100,0:33:05.92,0:33:11.59,Default,Kotomine,0,0,0,,{\q2}The Holy Grail will not avail itself \Nto a man who avoids battle.
