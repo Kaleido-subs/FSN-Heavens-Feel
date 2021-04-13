@@ -277,7 +277,7 @@ Dialogue: 100,0:28:25.06,0:28:31.90,Default,Zouken,0,0,0,,{\q2}This Holy Grail W
 Dialogue: 100,0:28:34.19,0:28:40.28,Default,Zouken,0,0,0,,However, once it has begun, it cannot be stopped.
 Dialogue: 100,0:28:41.87,0:28:47.37,Default,Zouken,0,0,0,,If water fills the chalice, someone must drink it.
 Dialogue: 100,0:28:51.96,0:28:56.34,Default,Zouken,0,0,0,,{\q2}But as fortune would have it, the supervisor \Nfrom the Church is none other than {\i1}that{\i0} priest.
-Dialogue: 100,0:28:57.22,0:29:02.01,Default,Zouken,0,0,0,,He will mediate this twisted Holy Grail War well.
+Dialogue: 100,0:28:57.22,0:29:02.01,Default,Zouken,0,0,0,,He will mediate this twisted Grail War well.
 Dialogue: 100,0:29:04.26,0:29:09.69,Default,Zouken,0,0,0,,{\q2}The Grail calls forth Heroic Spirits, \Nand the very same Heroic Spirits require contractors.
 Dialogue: 100,0:29:10.44,0:29:17.99,Default,Zouken,0,0,0,,{\q2}If one is swept up into this ritual, \Ntheir fate is to kill or be killed.
 Dialogue: 100,0:29:19.07,0:29:23.78,Default,Zouken,0,0,0,,There need only be one survivor.
@@ -288,8 +288,8 @@ Dialogue: 100,0:29:42.76,0:29:46.60,Default,Zouken,0,0,0,,{\q2}The Church is a n
 Dialogue: 100,0:29:47.02,0:29:55.82,Default,Zouken,0,0,0,,{\q2}Now, will that man be a saint worthy of \Npreaching the gospel, or will he prove otherwise?
 Dialogue: 100,0:30:15.29,0:30:17.13,Default,Tohsaka,0,0,0,,You coming, Emiya-kun?
 Dialogue: 100,0:30:23.22,0:30:28.64,Default,Tohsaka,0,0,0,,{\q2}I haven't the slightest why a failure of a magus \Nlike you was chosen to be a Master,
-Dialogue: 100,0:30:30.18,0:30:34.10,Default,Tohsaka,0,0,0,,{\q2}but the man we're about to meet will explain \Nhow the Holy Grail War functions to you.
-Dialogue: 100,0:30:34.60,0:30:37.57,Default,Tohsaka,0,0,0,,{\q2}Keep your eyes peeled, though. \NHe's kind of a creep.
+Dialogue: 100,0:30:30.18,0:30:34.10,Default,Tohsaka,0,0,0,,{\q2}but the man we're about to meet will explain \Nhow the Grail War functions to you.
+Dialogue: 100,0:30:34.60,0:30:37.57,Default,Tohsaka,0,0,0,,{\q2}You've gotta be careful around him, though. \NHe's a bit of a creep.
 Dialogue: 100,0:30:45.45,0:30:48.83,Default,Kotomine,0,0,0,,{\q2}And here I thought you would never \Nrespond to my repeated summons. {## Taking some of these lines (almost) wholesale from daraku}
 Dialogue: 100,0:30:49.74,0:30:52.33,Default,Kotomine,0,0,0,,{\q2}Yet here you come, \Nwith a rather peculiar guest in tow.
 Dialogue: 100,0:30:56.46,0:30:59.55,Default,Kotomine,0,0,0,,Am I right to presume he is the seventh?
@@ -334,7 +334,7 @@ Dialogue: 100,0:33:56.51,0:34:00.39,Default,Illya,0,0,0,,Hey, have you heard of 
 Dialogue: 100,0:34:03.27,0:34:06.73,Default,Kotomine,0,0,0,,And thus, young man, the time is nigh.
 Dialogue: 100,0:34:07.23,0:34:09.07,Default,Kotomine,0,0,0,,What shall your decision be?
 Dialogue: 100,0:34:09.07,0:34:10.24,Default,Tohsaka,0,0,0,,Emiya-kun!
-Dialogue: 100,0:34:14.20,0:34:19.16,Default,Shirou,0,0,0,,{\q2}If the Holy Grail War really was \Nthe cause of that disaster ten years ago,
+Dialogue: 100,0:34:14.20,0:34:19.16,Default,Shirou,0,0,0,,{\q2}If the Grail War really was \Nthe cause of that disaster ten years ago,
 Dialogue: 100,0:34:20.16,0:34:21.29,Default,Shirou,0,0,0,,then I'll...
 Dialogue: 100,0:34:29.13,0:34:30.34,Default,Shirou,0,0,0,,I'll fight.
 Dialogue: 100,0:34:31.05,0:34:33.13,Default,Shirou,0,0,0,,I'll fight as a Master!
@@ -422,7 +422,7 @@ Dialogue: 100,0:43:04.65,0:43:09.44,Default,Shinji,0,0,0,,The Matous are an old 
 Dialogue: 100,0:43:09.44,0:43:13.82,Default,Shinji,0,0,0,,{\q2}Heck, when it comes to the Grail War, \Nwe're one of the three great families.
 Dialogue: 100,0:43:13.82,0:43:19.08,Default,Shinji,0,0,0,,{\q2}Although it pains me that I have to let \Nan amateur like you in on that little secret.
 Dialogue: 100,0:43:19.99,0:43:22.58,Default,Shinji,0,0,0,,{\q2}It's obvious that I, the eldest son,
-Dialogue: 100,0:43:24.62,0:43:28.75,Default,Shinji,0,0,0,,would participate in this Holy Grail War, is it not?
+Dialogue: 100,0:43:24.62,0:43:28.75,Default,Shinji,0,0,0,,would participate in this Grail War, is it not?
 Dialogue: 100,0:43:28.75,0:43:29.92,Default,Shirou,0,0,0,,Shinji!
 Dialogue: 100,0:43:29.92,0:43:32.42,Default,Shinji,0,0,0,,Your daftness never fails to disappoint!
 Dialogue: 100,0:43:32.88,0:43:35.26,Default,Shinji,0,0,0,,Need me to spell it out for you?
@@ -458,7 +458,7 @@ Dialogue: 100,0:46:26.01,0:46:28.35,Default,Shinji,0,0,0,,I'm all we need.
 Dialogue: 100,0:46:28.35,0:46:32.31,Default,Shinji,0,0,0,,That bitch knows {\i1}fuck-all{\i0} about magecraft!
 Dialogue: 100,0:46:32.31,0:46:36.11,Default,Shinji,0,0,0,,The teachings of the Matous are mine and mine alone!
 Dialogue: 100,0:46:55.25,0:46:56.29,Default,Shirou,0,0,0,,Mitsuzuri!
-Dialogue: 100,0:47:00.01,0:47:05.22,Default,Saber,0,0,0,,{\q2}She is a victim of the Grail War, so the proper course \Nof action would be to leave her with the supervisor.
+Dialogue: 100,0:47:00.01,0:47:05.22,Default,Saber,0,0,0,,{\q2}She is a victim of the Holy Grail War, so the proper course \Nof action would be to leave her with the supervisor.
 Dialogue: 100,0:47:20.98,0:47:25.36,Default,Kotomine,0,0,0,,Oh, dear. I did not expect you to return so soon.
 Dialogue: 100,0:47:32.33,0:47:33.91,Default,Gilgamesh,0,0,0,,Fascinating.
 Dialogue: 100,0:47:33.91,0:47:37.04,Default,Gilgamesh,0,0,0,,{\q2}You appear to be entranced \Nby an affliction most vile.
@@ -496,13 +496,13 @@ Dialogue: 100,0:50:03.19,0:50:07.44,Default,Kotomine,0,0,0,,{\q2}Even face-to-fa
 Dialogue: 100,0:50:08.03,0:50:13.11,Default,Saber,0,0,0,,{\q2}During the war, Kiritsugu considered \Nthat priest his greatest foe.
 Dialogue: 100,0:50:14.28,0:50:17.45,Default,Kotomine,0,0,0,,A fitting descriptor for us.
 Dialogue: 100,0:50:17.99,0:50:22.50,Default,Kotomine,0,0,0,,We had little option but to kill each other.
-Dialogue: 100,0:50:23.12,0:50:28.59,Default,Saber,0,0,0,,{\q2}He and I fought in the Grail War \Nand were triumphant in the end.
+Dialogue: 100,0:50:23.12,0:50:28.59,Default,Saber,0,0,0,,{\q2}He and I fought in the Holy Grail War \Nand were triumphant in the end.
 Dialogue: 100,0:50:29.92,0:50:31.17,Default,Saber,0,0,0,,But then he...
 Dialogue: 100,0:50:31.47,0:50:37.18,Default,Kotomine,0,0,0,,{\q2}Emiya Kiritsugu betrayed \Nthe Holy Grail at the very end.
 Dialogue: 100,0:50:37.64,0:50:41.60,Default,Saber,0,0,0,,He destroyed the Holy Grail.
 Dialogue: 100,0:50:49.28,0:50:52.57,Default,Kotomine,0,0,0,,Kill the one to save the ten.
 Dialogue: 100,0:50:52.57,0:50:56.70,Default,Kotomine,0,0,0,,He was truly an unsalvageable saint.
-Dialogue: 100,0:51:17.18,0:51:25.52,Default,Shirou,0,0,0,,{\q2}Even so, the Kiritsugu I knew would never \Nabandon the victims of the Holy Grail War.
+Dialogue: 100,0:51:17.18,0:51:25.52,Default,Shirou,0,0,0,,{\q2}Even so, the Kiritsugu I knew would never \Nabandon the victims of the Grail War.
 Dialogue: 100,0:51:26.65,0:51:30.48,Default,Shirou,0,0,0,,I've always looked up to superheroes like him.
 Dialogue: 100,0:51:32.15,0:51:34.15,Default,Shirou,0,0,0,,That's why I'll fight.
 Dialogue: 100,0:51:35.57,0:51:40.91,Default,Shirou,0,0,0,,{\q2}I should've said this sooner, but Saber, \NI want you to fight by my side.
@@ -662,7 +662,7 @@ Dialogue: 100,1:07:04.96,1:07:07.42,Default,Saber,0,0,0,,You formed an alliance 
 Dialogue: 100,1:07:08.67,1:07:09.67,Default,Shirou,0,0,0,,Yeah.
 Dialogue: 100,1:07:09.67,1:07:11.92,Default,Shirou,0,0,0,,Sorry for the suddenness.
 Dialogue: 100,1:07:11.92,1:07:13.05,Default,Saber,0,0,0,,It's fine.
-Dialogue: 100,1:07:13.05,1:07:16.80,Default,Shirou,0,0,0,,Besides, the faster we end this Holy Grail War,
+Dialogue: 100,1:07:13.05,1:07:16.80,Default,Shirou,0,0,0,,Besides, the faster we end this war,
 Dialogue: 100,1:07:16.80,1:07:19.97,Default,Shirou,0,0,0,,the sooner Sakura can lead a normal life again.
 Dialogue: 100,1:07:21.85,1:07:26.02,Default,Saber,0,0,0,,Shirou, I believe Sakura is in rather poor health.
 Dialogue: 100,1:07:27.19,1:07:31.78,Default,Saber,0,0,0,,Oh, no. Perhaps I'm overthinking it. {## First part missed}{Fixed}
