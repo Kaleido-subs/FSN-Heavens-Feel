@@ -407,27 +407,27 @@ Dialogue: 100,0:41:26.76,0:41:29.84,Default,Shirou,0,0,0,,Where have I felt this
 Dialogue: 100,0:41:51.32,0:41:53.78,Default,Shirou,0,0,0,,M-Mitsuzuri?
 Dialogue: 100,0:42:09.59,0:42:10.88,Default,Shirou,0,0,0,,Mitsuzuri!
 Dialogue: 100,0:42:14.64,0:42:16.60,Default,Shinji,0,0,0,,Now this is a surprise.
-Dialogue: 100,0:42:16.60,0:42:20.18,Default,Shinji,0,0,0,,Who would've thought I'd run into you here, Emiya?
-Dialogue: 100,0:42:22.60,0:42:23.69,Default,Shirou,0,0,0,,Why?
-Dialogue: 100,0:42:24.44,0:42:26.94,Default,Shinji,0,0,0,,Ah, this?
-Dialogue: 100,0:42:26.94,0:42:32.61,Default,Shinji,0,0,0,,{\q2}We had the president of the archery club \Nhelp us out a little, you could say.
+Dialogue: 100,0:42:16.60,0:42:20.18,Default,Shinji,0,0,0,,Wasn't expecting to see you here, Emiya.
+Dialogue: 100,0:42:22.60,0:42:23.69,Default,Shirou,0,0,0,,What are you...
+Dialogue: 100,0:42:24.44,0:42:26.94,Default,Shinji,0,0,0,,Oh, you talking about this?
+Dialogue: 100,0:42:26.94,0:42:32.61,Default,Shinji,0,0,0,,{\q2}I guess you could say we had \Nour dear president help us out a little.
 Dialogue: 100,0:42:35.03,0:42:36.45,Default,Shirou,0,0,0,,Shinji?
-Dialogue: 100,0:42:38.24,0:42:41.29,Default,Shinji,0,0,0,,What's that supposed to be, your Servant?
-Dialogue: 100,0:42:47.13,0:42:49.05,Default,Shinji,0,0,0,,Allow me to introduce you.
-Dialogue: 100,0:42:49.05,0:42:51.47,Default,Shinji,0,0,0,,Say hello to {\i1}my{\i0} Servant.
+Dialogue: 100,0:42:38.24,0:42:41.29,Default,Shinji,0,0,0,,Is that thing your Servant?
+Dialogue: 100,0:42:47.13,0:42:49.05,Default,Shinji,0,0,0,,Let me do the honors!
+Dialogue: 100,0:42:49.05,0:42:51.47,Default,Shinji,0,0,0,,Say hello to my Servant.
 Dialogue: 100,0:42:51.97,0:42:55.05,Default,Shinji,0,0,0,,Let's have 'em fight, Emiya.
-Dialogue: 100,0:42:55.05,0:42:58.85,Default,Shinji,0,0,0,,{\q2}I've always wanted to see what it's like \Nto pit two Servants against each other!
-Dialogue: 100,0:43:00.39,0:43:04.31,Default,Shirou,0,0,0,,Shinji, why are you a Master?
+Dialogue: 100,0:42:55.05,0:42:58.85,Default,Shinji,0,0,0,,I've always wanted to see two Servants duke it out!
+Dialogue: 100,0:43:00.39,0:43:04.31,Default,Shirou,0,0,0,,What? You're a Master, Shinji?
 Dialogue: 100,0:43:04.65,0:43:09.44,Default,Shinji,0,0,0,,The Matous are an old but noble lineage of magi.
-Dialogue: 100,0:43:09.44,0:43:13.82,Default,Shinji,0,0,0,,{\q2}Heck, when it comes to the Grail War, \Nwe're one of the three great families.
-Dialogue: 100,0:43:13.82,0:43:19.08,Default,Shinji,0,0,0,,{\q2}Although it pains me that I have to let \Nan amateur like you in on that little secret.
-Dialogue: 100,0:43:19.99,0:43:22.58,Default,Shinji,0,0,0,,{\q2}It's obvious that I, the eldest son,
-Dialogue: 100,0:43:24.62,0:43:28.75,Default,Shinji,0,0,0,,would participate in this Grail War, is it not?
+Dialogue: 100,0:43:09.44,0:43:13.82,Default,Shinji,0,0,0,,{\q2}Heck, in the grand scheme of the Holy Grail War, \Nwe're one of the three great families.
+Dialogue: 100,0:43:13.82,0:43:19.08,Default,Shinji,0,0,0,,{\q2}It kills me to let a bumbling idiot \Nlike you in on that, though.
+Dialogue: 100,0:43:19.99,0:43:22.58,Default,Shinji,0,0,0,,It's obvious that I, the eldest son,
+Dialogue: 100,0:43:24.62,0:43:28.75,Default,Shinji,0,0,0,,would be a player in this war, is it not?
 Dialogue: 100,0:43:28.75,0:43:29.92,Default,Shirou,0,0,0,,Shinji!
-Dialogue: 100,0:43:29.92,0:43:32.42,Default,Shinji,0,0,0,,Your daftness never fails to disappoint!
+Dialogue: 100,0:43:29.92,0:43:32.55,Default,Shinji,0,0,0,,Man, you really gotta learn to take a hint!
 Dialogue: 100,0:43:32.88,0:43:35.26,Default,Shinji,0,0,0,,Need me to spell it out for you?
 Dialogue: 100,0:43:35.26,0:43:41.14,Default,Shinji,0,0,0,,This is a game we're all playing for keeps!
-Dialogue: 100,0:43:53.28,0:43:55.28,Default,Shinji,0,0,0,,Hit 'em where it hurts, Rider!
+Dialogue: 100,0:43:53.28,0:43:55.28,Default,Shinji,0,0,0,,Fuck 'em up, Rider!
 Dialogue: 100,0:44:16.55,0:44:17.38,Default,Shinji,0,0,0,,Huh?
 Dialogue: 100,0:44:24.31,0:44:25.52,Default,Shirou,0,0,0,,Uhm...
 Dialogue: 100,0:44:47.29,0:44:48.04,Default,Shinji,0,0,0,,Hey.
@@ -435,7 +435,7 @@ Dialogue: 100,0:44:48.92,0:44:51.29,Default,Shinji,0,0,0,,Who told you you could
 Dialogue: 100,0:44:52.67,0:44:53.46,Default,Shinji,0,0,0,,Stand up.
 Dialogue: 100,0:44:57.72,0:44:58.51,Default,Shinji,0,0,0,,C'mon.
 Dialogue: 100,0:44:59.47,0:45:00.93,Default,Shinji,0,0,0,,Get up already!
-Dialogue: 100,0:45:01.97,0:45:06.10,Default,Shinji,0,0,0,,You're making me look inferior to him, dammit!
+Dialogue: 100,0:45:01.97,0:45:06.10,Default,Shinji,0,0,0,,You're making me look inferior, jackass!
 Dialogue: 100,0:45:10.60,0:45:13.69,Default,Shinji,0,0,0,,Wh-What the hell? Why?
 Dialogue: 100,0:45:13.69,0:45:14.69,Default,Shinji,0,0,0,,Dammit!
 Dialogue: 100,0:45:14.69,0:45:16.57,Default,Shinji,0,0,0,,Stop! Go out!
