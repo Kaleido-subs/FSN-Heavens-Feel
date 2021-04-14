@@ -601,7 +601,7 @@ Dialogue: 100,0:58:50.34,0:58:53.72,Default,Shirou,0,0,0,,Yeah, spot on.
 Dialogue: 100,0:58:54.43,0:58:57.93,Default,Shirou,0,0,0,,{\q2}It'd be a load off my shoulders \Nif you stayed here for a while.
 Dialogue: 100,0:59:01.06,0:59:04.44,Default,Sakura,0,0,0,,Uhm, I'll take you up on that.
 Dialogue: 100,0:59:05.52,0:59:06.44,Default,Shirou,0,0,0,,All right.
-Dialogue: 100,0:59:24.33,0:59:29.05,Default,Assassin,0,0,0,,Narily did I expect such manner of serpent...
+Dialogue: 100,0:59:24.33,0:59:29.05,Default,Assassin,0,0,0,,Nary did I expect such manner of serpent...
 Dialogue: 100,1:00:02.41,1:00:05.12,Default,Issei,0,0,0,,Is something the matter, Souichirou?
 Dialogue: 100,1:00:08.29,1:00:09.96,Default,Kuzuki,0,0,0,,Stay here with the others.
 Dialogue: 100,1:00:12.84,1:00:15.59,Default,Caster,0,0,0,,Assassin, come out.
@@ -766,8 +766,8 @@ Dialogue: 100,1:22:36.72,1:22:37.89,Default,True Assassin,0,0,0,,Noble Phantasm!
 Dialogue: 100,1:22:38.52,1:22:42.40,Default,True Assassin,0,0,0,,{\pos(960,1024)}Zabaniya!
 Dialogue: 100,1:22:54.12,1:22:55.45,Default,Lancer,0,0,0,,Noble Phantasm!
 Dialogue: 100,1:22:55.45,1:22:58.04,Default,Lancer,0,0,0,,'Tis a bit early, but I'm finishin' this now!
-Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,Gáe...
-Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,,...Bolg!
+Dialogue: 100,1:23:03.08,1:23:04.00,Default,Lancer,0,0,0,,{\pos(960,1024)}Gáe...
+Dialogue: 100,1:23:08.34,1:23:09.42,Default,Lancer,0,0,0,,{\pos(960,1024)}...Bolg!
 Dialogue: 100,1:23:17.56,1:23:21.14,Default,True Assassin,0,0,0,,You have lost this battle!
 Dialogue: 100,1:24:18.99,1:24:23.87,Default,Lancer,0,0,0,,{\i1}Well, this couldn't have gone worse.
 Dialogue: 100,1:25:01.37,1:25:02.87,Default,Sakura,0,0,0,,Senpai...
