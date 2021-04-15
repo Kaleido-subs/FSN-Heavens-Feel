@@ -46,9 +46,7 @@ subs {
     merge {
         from(dialogue_ktemplate.item())
 
-        if (file(get("ED")).exists()) {
-            from(ed_ktemplate.item())
-        }
+        from(ed_ktemplate.item())
 
         if (file(get("IS")).exists()) {
             from(get("IS"))
@@ -66,10 +64,8 @@ subs {
 	    }
 	}
 
-    val ss_merge by task<ASS> {
-        if (file(get("ED")).exists()) {
-            from(ed_ktemplate.item())
-        }
+    val merge_ss by task<Merge> {
+        from(ed_ktemplate.item())
 
         if (file(get("IS")).exists()) {
             from(get("IS"))
@@ -81,7 +77,7 @@ subs {
     }
 
 	val cleanmerge_ss by task<ASS> {
-		from(ss_merge.item())
+		from(merge_ss.item())
     	ass {
 			events.lines.removeIf { it.isKaraTemplate() }
 	    }
