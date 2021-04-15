@@ -636,7 +636,7 @@ Dialogue: 100,1:04:52.08,1:04:52.79,Default,Illya,0,0,0,,Rin.
 Dialogue: 100,1:04:53.62,1:04:54.58,Default,Illya,0,0,0,,Rider.
 Dialogue: 100,1:04:55.50,1:04:56.46,Default,Illya,0,0,0,,Shirou.
 Dialogue: 100,1:05:01.46,1:05:02.50,Default,Shirou,0,0,0,,Illya.
-Dialogue: 100,1:05:03.42,1:05:07.93,Default,Shirou,0,0,0,,{\q2}If you don't have anywhere to go \Nonce this battle over,
+Dialogue: 100,1:05:03.42,1:05:07.93,Default,Shirou,0,0,0,,{\q2}If you don't have anywhere to go \Nonce this battle is over,
 Dialogue: 100,1:05:08.68,1:05:11.18,Default,Shirou,0,0,0,,would you like to live here with me?
 Dialogue: 100,1:05:12.47,1:05:14.47,Default,Illya,0,0,0,,Taking Kiritsugu's place?
 Dialogue: 100,1:05:15.27,1:05:19.40,Default,Shirou,0,0,0,,No, Kiritsugu and I are two different people.
@@ -981,7 +981,7 @@ Dialogue: 100,1:52:41.94,1:52:42.69,Default,Fuji-nee,0,0,0,,Yeah.
 Dialogue: 100,1:52:48.32,1:52:51.24,Default,Fuji-nee,0,0,0,,When will he come home?
 Dialogue: 100,1:53:08.43,1:53:11.56,Default,Tohsaka,0,0,0,,{\i1}The Holy Grail War in this land has concluded.
 Dialogue: 100,1:53:13.22,1:53:17.44,Default,Tohsaka,0,0,0,,{\i1}The Greater Grail collapsed, ending it all for good.
-Dialogue: 100,1:53:19.23,1:53:23.69,Default,Tohsaka,0,0,0,,{\i1\q2}In the aftermath, I ran myself ragged \Ndealing with the Mages Association
+Dialogue: 100,1:53:19.23,1:53:23.69,Default,Tohsaka,0,0,0,,{\i1\q2}In the aftermath, I ran myself ragged \Ndealing with the Mages' Association
 Dialogue: 100,1:53:23.69,1:53:25.74,Default,Tohsaka,0,0,0,,{\i1}while I waited for Sakura to recover.
 Dialogue: 100,1:53:28.49,1:53:36.91,Default,Tohsaka,0,0,0,,{\i1}I want to take back the eleven years we spent apart,
 Dialogue: 100,1:53:37.75,1:53:41.42,Default,Tohsaka,0,0,0,,{\i1}so I walk with her now that our time has resumed.
