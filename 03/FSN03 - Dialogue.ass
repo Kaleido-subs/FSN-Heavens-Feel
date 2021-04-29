@@ -320,7 +320,7 @@ Dialogue: 100,0:30:29.31,0:30:31.35,Default,Kotomine,0,0,0,,Crumble before me.
 Dialogue: 100,0:30:31.35,0:30:35.06,Default,Kotomine,0,0,0,,The agèd{for the memes} and the broken shall I welcome.
 Dialogue: 100,0:30:35.06,0:30:39.69,Default,Kotomine,0,0,0,,{\q2}Yield before me, to be taught, \Nto be subjugated, and to be laid low.
 Dialogue: 100,0:30:39.69,0:30:45.41,Default,Kotomine,0,0,0,,{\q2}Forget not your hymns, forget not your prayers, \Nand forget not my visage.
-Dialogue: 100,0:30:45.41,0:30:49.58,Default,Kotomine,0,0,0,,I am light, courier of your ultimate{change if too cheesy} emancipation.
+Dialogue: 100,0:30:45.41,0:30:49.58,Default,Kotomine,0,0,0,,I am light{arrowsexe}, courier of your ultimate{change if too cheesy} emancipation.
 Dialogue: 100,0:30:49.83,0:30:52.41,Default,Zouken,0,0,0,,Ah, so you mean to kill me!
 Dialogue: 100,0:30:52.41,0:30:54.92,Default,Kotomine,0,0,0,,Within my palm lies final respite.
 Dialogue: 100,0:30:54.92,0:30:58.84,Default,Kotomine,0,0,0,,The inferno of your sins shall incise{carve?} my sigil.
@@ -332,7 +332,7 @@ Dialogue: 100,0:31:14.52,0:31:16.35,Default,Kotomine,0,0,0,,{\pos(960,1024)}Kýr
 Dialogue: 100,0:31:33.29,0:31:37.67,Default,True Assassin,0,0,0,,{\q2}So you used the holy Word of the Bible \Nto attack his spirit directly.
 Dialogue: 100,0:31:40.67,0:31:44.88,Default,True Assassin,0,0,0,,You were pure poison to my magus.
 Dialogue: 100,0:31:46.43,0:31:47.93,Default,True Assassin,0,0,0,,And you...
-Dialogue: 100,0:31:49.97,0:31:52.22,Default,True Assassin,0,0,0,,have already been blackened, have you not? {###}
+Dialogue: 100,0:31:49.97,0:31:52.22,Default,True Assassin,0,0,0,,have already been tainted, have you not? {###}
 Dialogue: 100,0:31:55.06,0:31:58.40,Default,True Assassin,0,0,0,,Hmph. I made a grave error.
 Dialogue: 100,0:32:10.91,0:32:15.16,Default,Claudia,0,0,0,,{\i1}See? You're crying.
 Dialogue: 100,0:32:17.42,0:32:19.46,Default,Kotomine,0,0,0,,{\i1}That was a misunderstanding.
@@ -636,7 +636,7 @@ Dialogue: 100,1:04:52.08,1:04:52.79,Default,Illya,0,0,0,,Rin.
 Dialogue: 100,1:04:53.62,1:04:54.58,Default,Illya,0,0,0,,Rider.
 Dialogue: 100,1:04:55.50,1:04:56.46,Default,Illya,0,0,0,,Shirou.
 Dialogue: 100,1:05:01.46,1:05:02.50,Default,Shirou,0,0,0,,Illya.
-Dialogue: 100,1:05:03.42,1:05:07.93,Default,Shirou,0,0,0,,{\q2}If you don't have anywhere to go \Nonce this battle over,
+Dialogue: 100,1:05:03.42,1:05:07.93,Default,Shirou,0,0,0,,{\q2}If you don't have anywhere to go \Nonce this battle is over,
 Dialogue: 100,1:05:08.68,1:05:11.18,Default,Shirou,0,0,0,,would you like to live here with me?
 Dialogue: 100,1:05:12.47,1:05:14.47,Default,Illya,0,0,0,,Taking Kiritsugu's place?
 Dialogue: 100,1:05:15.27,1:05:19.40,Default,Shirou,0,0,0,,No, Kiritsugu and I are two different people.
@@ -981,7 +981,7 @@ Dialogue: 100,1:52:41.94,1:52:42.69,Default,Fuji-nee,0,0,0,,Yeah.
 Dialogue: 100,1:52:48.32,1:52:51.24,Default,Fuji-nee,0,0,0,,When will he come home?
 Dialogue: 100,1:53:08.43,1:53:11.56,Default,Tohsaka,0,0,0,,{\i1}The Holy Grail War in this land has concluded.
 Dialogue: 100,1:53:13.22,1:53:17.44,Default,Tohsaka,0,0,0,,{\i1}The Greater Grail collapsed, ending it all for good.
-Dialogue: 100,1:53:19.23,1:53:23.69,Default,Tohsaka,0,0,0,,{\i1\q2}In the aftermath, I ran myself ragged \Ndealing with the Mages Association
+Dialogue: 100,1:53:19.23,1:53:23.69,Default,Tohsaka,0,0,0,,{\i1\q2}In the aftermath, I ran myself ragged \Ndealing with the Mages' Association
 Dialogue: 100,1:53:23.69,1:53:25.74,Default,Tohsaka,0,0,0,,{\i1}while I waited for Sakura to recover.
 Dialogue: 100,1:53:28.49,1:53:36.91,Default,Tohsaka,0,0,0,,{\i1}I want to take back the eleven years we spent apart,
 Dialogue: 100,1:53:37.75,1:53:41.42,Default,Tohsaka,0,0,0,,{\i1}so I walk with her now that our time has resumed.
