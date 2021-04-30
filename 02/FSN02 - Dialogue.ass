@@ -51,7 +51,7 @@ Dialogue: 100,0:03:55.59,0:03:57.18,Default,Shirou,0,0,0,,you misunderstand, Sak
 Dialogue: 100,0:03:58.22,0:04:00.60,Default,Shirou,0,0,0,,I wasn't tagging along with Saber's errands.
 Dialogue: 100,0:04:01.14,0:04:03.60,Default,Shirou,0,0,0,,She was tagging along with mine.
 Dialogue: 100,0:04:04.68,0:04:08.52,Default,Shirou,0,0,0,,I may be out of the house even more now.
-Dialogue: 100,0:04:09.40,0:04:15.74,Default,Shirou,0,0,0,,{\q2}Could you stop waiting for me \Nat the door when I'm running late?
+Dialogue: 100,0:04:09.40,0:04:15.74,Default,Shirou,0,0,0,,{\q2}Could you stop waiting for me \Nby the door when I'm running late?
 Dialogue: 100,0:04:21.74,0:04:24.16,Default,Shirou,0,0,0,,{\i1}This is still far from over.
 Dialogue: 100,0:04:27.04,0:04:29.37,Default,Shirou,0,0,0,,{\i1}There's still someone in this town {The pause, this is gonna be awkward-gsk}
 Dialogue: 100,0:04:32.63,0:04:35.05,Default,Shirou,0,0,0,,{\i1}I have to settle the score with.
@@ -129,7 +129,7 @@ Dialogue: 100,0:12:28.89,0:12:30.44,Default,Shinji,0,0,0,,Go get him, Rider.
 Dialogue: 100,0:12:32.90,0:12:36.11,Default,Rider,0,0,0,,If you seriously intended to fight,
 Dialogue: 100,0:12:37.61,0:12:40.07,Default,Rider,0,0,0,,you shouldn't have come alone.
 Dialogue: 100,0:13:20.53,0:13:22.28,Default,Shinji,0,0,0,,What's up, Emiya?
-Dialogue: 100,0:13:22.28,0:13:25.74,Default,Shinji,0,0,0,,Don't be boring and go down {\i1}that{\i0} easily, now!
+Dialogue: 100,0:13:22.28,0:13:25.74,Default,Shinji,0,0,0,,Don't be lame and go down {\i1}that{\i0} easily, now!
 Dialogue: 100,0:13:33.33,0:13:35.96,Default,Rider,0,0,0,,Your endurance has won you this battle.
 Dialogue: 100,0:13:41.26,0:13:44.43,Default,Shinji,0,0,0,,Looking good. No need to hold back anymore.
 Dialogue: 100,0:13:46.31,0:13:49.68,Default,Shinji,0,0,0,,It's time to get lethal, Rider!
@@ -153,7 +153,7 @@ Dialogue: 100,0:16:20.71,0:16:22.79,Default,Shinji,0,0,0,,It's always Sakura, Sa
 Dialogue: 100,0:16:23.30,0:16:26.09,Default,Shinji,0,0,0,,Who gives a shit about her?
 Dialogue: 100,0:16:26.09,0:16:28.47,Default,Shinji,0,0,0,,{\i1}I{\i0} was chosen as a Master, not her!
 Dialogue: 100,0:16:33.47,0:16:35.47,Default,Shinji,0,0,0,,Get up, Rider!
-Dialogue: 100,0:16:36.98,0:16:38.64,Default,Shinji,0,0,0,,You useless...
+Dialogue: 100,0:16:36.98,0:16:38.64,Default,Shinji,0,0,0,,You piece of...
 Dialogue: 100,0:16:40.65,0:16:41.52,Default,Sakura,0,0,0,,No...
 Dialogue: 100,0:16:45.19,0:16:47.99,Default,Sakura,0,0,0,,Rider, no...
 Dialogue: 100,0:16:48.45,0:16:49.82,Default,Sakura,0,0,0,,Make it stop!
@@ -250,9 +250,9 @@ Dialogue: 100,0:25:07.82,0:25:10.91,Default,Kotomine,0,0,0,,Think of them as liv
 Dialogue: 100,0:25:11.61,0:25:14.20,Default,Kotomine,0,0,0,,Once a Crest Worm sinks its teeth into you,
 Dialogue: 100,0:25:15.03,0:25:21.08,Default,Kotomine,0,0,0,,it penetrates the entire body, eating your life away.
 Dialogue: 100,0:25:21.50,0:25:25.38,Default,Kotomine,0,0,0,,It pierces and dampens the skin with its mucus,
-Dialogue: 100,0:25:25.38,0:25:31.55,Default,Kotomine,0,0,0,,{\q2}sating its hunger by elevating and \Ndestroying the pleasure centers.
+Dialogue: 100,0:25:25.38,0:25:31.55,Default,Kotomine,0,0,0,,{\q2}sating its hunger by elevating \Nand destroying the pleasure centers.
 Dialogue: 100,0:25:32.39,0:25:39.10,Default,Kotomine,0,0,0,,As a result, any woman preyed upon by these insects
-Dialogue: 100,0:25:39.56,0:25:44.11,Default,Kotomine,0,0,0,,will be entirely violated in both mind and body.
+Dialogue: 100,0:25:39.56,0:25:44.11,Default,Kotomine,0,0,0,,will be entirely violated in both body and mind.
 Dialogue: 100,0:25:45.19,0:25:47.69,Default,Kotomine,0,0,0,,Matou Sakura is no excep—
 Dialogue: 100,0:25:47.69,0:25:48.86,Default,Shirou,0,0,0,,That's enough!
 Dialogue: 100,0:25:50.53,0:25:54.20,Default,Kotomine,0,0,0,,I thought you required an explanation.
@@ -270,10 +270,10 @@ Dialogue: 100,0:26:56.76,0:27:01.47,Default,Tohsaka,0,0,0,,{\q2}Yes. A magus who
 Dialogue: 100,0:27:02.64,0:27:05.73,Default,Tohsaka,0,0,0,,She's nothing but an insane Master now.
 Dialogue: 100,0:27:06.86,0:27:11.82,Default,Kotomine,0,0,0,,{\q2}Will you go through with that, \Neven if she is your sister by blood?
 Dialogue: 100,0:27:15.86,0:27:17.95,Default,Shirou,0,0,0,,Sister?
-Dialogue: 100,0:27:24.21,0:27:27.83,Default,Tohsaka,0,0,0,,The Tohsakas actually had two children.
+Dialogue: 100,0:27:24.21,0:27:27.83,Default,Tohsaka,0,0,0,,The Tohsakas actually bore two children.
 Dialogue: 100,0:27:28.33,0:27:30.80,Default,Tohsaka,0,0,0,,But magecraft can only be passed down to one.
 Dialogue: 100,0:27:32.01,0:27:34.51,Default,Tohsaka,0,0,0,,I inherited the magecraft of the Tohsakas.
-Dialogue: 100,0:27:35.72,0:27:43.93,Default,Tohsaka,0,0,0,,{\q2}Sakura was adopted by the dying Matou family \Nas the heir to the Makiris.
+Dialogue: 100,0:27:35.72,0:27:43.93,Default,Tohsaka,0,0,0,,{\q2}Sakura was adopted by the dying \NMatou family as heir to the Makiri line.
 Dialogue: 100,0:27:44.35,0:27:45.60,Default,Shirou,0,0,0,,Then—
 Dialogue: 100,0:27:46.31,0:27:48.90,Default,Tohsaka,0,0,0,,Sakura and I are blood-related sisters.
 Dialogue: 100,0:27:50.57,0:27:53.86,Default,Tohsaka,0,0,0,,Not that we've ever treated each other as such.
@@ -294,7 +294,7 @@ Dialogue: 100,0:30:33.44,0:30:36.61,Default,Illya,0,0,0,,You're not a Master any
 Dialogue: 100,0:30:37.86,0:30:40.40,Default,Illya,0,0,0,,I already know everything that happened.
 Dialogue: 100,0:30:40.40,0:30:44.36,Default,Illya,0,0,0,,{\q2}Rider's Master collapsed, \Nand now there's only two left.
 Dialogue: 100,0:30:44.91,0:30:49.79,Default,Illya,0,0,0,,{\q2}You want to save Rider's Master, \Nbut can't find her, right?
-Dialogue: 100,0:30:49.79,0:30:51.08,Default,Shirou,0,0,0,,Shut up!
+Dialogue: 100,0:30:49.79,0:30:51.08,Default,Shirou,0,0,0,,I know!
 Dialogue: 100,0:31:04.72,0:31:06.72,Default,Illya,0,0,0,,You look like you're on the verge of tears.
 Dialogue: 100,0:31:07.76,0:31:10.60,Default,Shirou,0,0,0,,Illya, aren't you angry at me?
 Dialogue: 100,0:31:11.18,0:31:12.81,Default,Illya,0,0,0,,No, I'm not.
@@ -417,7 +417,7 @@ Dialogue: 100,0:43:04.90,0:43:06.69,Default,Shirou,0,0,0,,So, about our plans mo
 Dialogue: 100,0:43:07.19,0:43:11.40,Default,Shirou,0,0,0,,I want Sakura to win and use the Holy Grail.
 Dialogue: 100,0:43:12.44,0:43:16.11,Default,Shirou,0,0,0,,But I think she should stay holed up inside.
 Dialogue: 100,0:43:16.53,0:43:19.41,Default,Shirou,0,0,0,,{\q2}It's too dangerous to have her \Nsee Zouken face-to-face.
-Dialogue: 100,0:43:20.74,0:43:22.96,Default,Rider,0,0,0,,Your opinion is correct.
+Dialogue: 100,0:43:20.74,0:43:22.96,Default,Rider,0,0,0,,Your assessment is correct.
 Dialogue: 100,0:43:22.96,0:43:27.67,Default,Rider,0,0,0,,But how do you plan to defeat that magus?
 Dialogue: 100,0:43:30.55,0:43:33.47,Default,Shirou,0,0,0,,I propose we work with other Masters.
 Dialogue: 100,0:43:34.63,0:43:37.97,Default,Sakura,0,0,0,,Who else is left?
@@ -500,7 +500,7 @@ Dialogue: 100,0:59:37.22,0:59:39.43,Default,True Assassin,0,0,0,,Now I can make 
 Dialogue: 100,0:59:44.02,0:59:45.65,Default,Shirou,0,0,0,,Saber!
 Dialogue: 100,1:00:05.62,1:00:06.50,Default,Shirou,0,0,0,,Illya!
 Dialogue: 100,1:00:21.47,1:00:22.77,Default,True Assassin,0,0,0,,That's as far as you go.
-Dialogue: 100,1:00:23.14,1:00:25.60,Default,True Assassin,0,0,0,,You have outlived your usefulness. {### Still wanna see if I can come up with something better}
+Dialogue: 100,1:00:23.14,1:00:25.60,Default,True Assassin,0,0,0,,This is the end. {###}
 Dialogue: 100,1:00:33.28,1:00:36.49,Default,Archer,0,0,0,,{\q2}Can't even kill one little boy without \None of your fancy surprise attacks?
 Dialogue: 100,1:00:36.49,1:00:37.86,Default,Archer,0,0,0,,Pathetic.
 Dialogue: 100,1:00:40.58,1:00:43.91,Default,True Assassin,0,0,0,,How did you manage to get here?
