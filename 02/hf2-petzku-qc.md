@@ -1,3 +1,43 @@
+# Final (yeah right) QC pass
+
+(stuff resolved while viewing not included this time)
+
+## Dialogue
+
+> 00:03:10
+
+TV announcer has no subs
+
+> 00:04:28: {\i1}There's still someone in this town {The pause, this is gonna be awkward-gsk}
+> 00:04:34: {\i1}I have to settle the score with.
+
+I dislike these lines but idk waht do do
+
+> 00:28:12: {\q2}Except it'll be random passersby \Nwho'll pay the price this time.
+
+"who'll pay" -> "paying" ?
+
+> 00:29:53: TS
+
+maybe TS sign? skippable
+
+> 0:35:18: {\i1}If I want her to stop shedding tears...
+> 0:35:23: {\i1\q2}If nobody else will blame Sakura, \Nif she has to do it herself...
+> 0:35:30: {\i1\q2}I'll take her by the hand \Nand drag her into the sunlight.
+
+These lines especially are really awkward (but >shirou, so idk)
+
+> 0:38:52: {\q2}If you plan to uphold your \Nprior convictions, then so be it. {## this line makes no sense within this context anymore lol. In the VN, he says this before Shirou finds Sakura, before he's decided to give up on his ideals and save just her. Here in the anime it's just nonsensical because Archer knows he's already given up his past ideals why is anime so cursed aaaaaaaaaaaaaaah}
+> 0:38:57: I know where that leads.
+> 0:39:00: {\q2}But if you choose a different path, \NEmiya Shirou will have no future.
+> 0:39:07: You will lose absolutely everything.
+
+third line "a different path" -> "this path" or something, and adjust rest to match
+
+> 00:39:44: It's... not a cold...
+
+missing stutter
+
 # Pre-TLC/touchup rough QC pass
 
 ## Unaddressed
