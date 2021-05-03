@@ -38,6 +38,81 @@ third line "a different path" -> "this path" or something, and adjust rest to ma
 
 missing stutter
 
+> 1:07:29: {\q2}I'm glad I became a Master. \NElse I would've never gotten to know you.
+> 1:07:38: That's where you're wrong.
+> 1:07:41: {\q2}I don't know about you, but I've been \Nwell aware of you for quite a while now.
+
+rin's third line probably needs changing
+
+> 01:10:40: Shirou, are you on Sakura's side?
+> 01:10:45: No matter what may come?
+
+Possible tense disagreement
+
+> 1:15:28.30: For the other Holy Grail in the process of being born.
+> 1:15:31.67: Humans birthed it as "all the evils of the world",
+> 1:15:37.85: {\q2}but now it carries something \Nhumans never wished for in its womb.
+> 1:15:42.81: The distinction between good and evil.
+> 1:15:45.19: {\q2}Rather than ponder that dilemma, what if one were to \Ngive birth to something that held the answer?
+
+All of this is dumb, both lines 2-3 and 4-5.
+Suggestions:
+
+```txt
+"It has given life to that deemed "all the evils of the world."
+Those unwittingly brought forth by mankind.
+
+It bears within it all the evils of the world,
+unwittingly brought forth by Man.
+```
+
+The rest, idk lol
+
+> 01:17:36: The knowledge of the Einzberns is in Archer's arm.
+
+"The knowledge" implies it's everything (it's not)
+pls2gib TLC
+
+> 01:19:04: {\q2}All they do is steal. \NThey have no teachings for accepting others.
+
+something?
+
+> 01:20:42: TS
+
+books, lol
+Franz Kafka – Metamorphosis (no ts required)
+Izumi Kyouka (collective works or something)
+Lafcadio Hearn – Kwaidan
+
+> 01:21:06: TS
+
+Calendar
+light wants a sepia picture of illya here, and who am I to deny him
+
+> 01:21:43: {\q2}I don't know. I don't think \Nhe'd leave so much evidence behind.
+
+split line, TM check
+
+> 01:22:59: {\i1}She went for a lovely walk.
+
+whole sequence: make this like 10x more nursery rhyme-y
+
+> 01:24:58: {\q2}Had you only the sense to die as I told you, \Nit would've saved us both the trouble.
+
+Fairly fast line, maybe trim down a bit
+
+> 01:29:31: {\i1}Don't think they look alike.
+
+`They're nothing alike.` maybe?
+
+> 01:35:01: {\i1}If you will betray him,
+
+I think this should be "would" (light disagrees, but he's dum)
+
+> 01:40:25: TS
+
+skipped sign
+
 # Pre-TLC/touchup rough QC pass
 
 ## Unaddressed
