@@ -29,7 +29,7 @@ Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,code once,color = require '0x.color'
 Comment: 99,0:00:00.00,0:00:00.00,NP,,0,0,0,template line actor gaebulg,
 Comment: 100,0:00:00.00,0:00:00.00,NP,,0,0,0,template line actor grad loop grad 50,!maxloop('grad', line.height)!
 Comment: 101,0:00:00.00,0:00:00.00,NP,,0,0,0,template line actor grad,
-Comment: 101,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line,{!ln.tag.pos(5,5,0,0)!}
+Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line,{!ln.tag.pos(5,5,0,0)!}
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor grad layer 99 layer 100,{\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01}
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor zabaniya layer 100,{\bord3.6\blur1}
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor gaebulg layer 100,{\bord2.4\blur2}
