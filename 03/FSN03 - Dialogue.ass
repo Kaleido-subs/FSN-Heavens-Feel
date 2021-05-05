@@ -64,8 +64,8 @@ Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor rho_aias layer 100,{
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor zabaniya layer 100,{\bord3.6\blur1}
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor zabaniya layer 100,{\4c!color.interp_lab($loop_grad / line.height, "&H252529&", "&H280A97&")!}
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
-Dialogue: 100,0:00:47.65,0:00:50.24,Default,Zouken,0,0,0,,Surely you're aware
-Dialogue: 100,0:00:51.28,0:00:54.70,Default,Zouken,0,0,0,,of who killed Shinji.
+Dialogue: 100,0:00:47.65,0:00:50.24,Default,Zouken,0,0,0,,Surely you're acutely aware
+Dialogue: 100,0:00:51.28,0:00:54.70,Default,Zouken,0,0,0,,who slayed Shinji.
 Dialogue: 100,0:00:59.96,0:01:04.46,Default,Zouken,0,0,0,,{\q2}Well, well... It appears you've stopped \Naverting your eyes from the truth.
 Dialogue: 100,0:01:06.17,0:01:12.89,Default,Zouken,0,0,0,,{\q2}But I'm afraid it will be no easy task to destroy it \Nafter it's been in my care for many a year{s}.
 Dialogue: 100,0:01:12.89,0:01:18.52,Default,Zouken,0,0,0,,{\q2}If I had my druthers, you would have \Nbeen the one to betray Sakura,
@@ -575,21 +575,21 @@ Dialogue: 100,0:54:49.27,0:54:50.39,Default,Illya,0,0,0,,Shirou!
 Dialogue: 100,0:55:25.26,0:55:29.01,Default,Rider,0,0,0,,You're in bad shape, Emiya Shirou.
 Dialogue: 100,0:55:31.35,0:55:32.56,Default,Shirou,0,0,0,,Rider...
 Dialogue: 100,0:55:33.60,0:55:35.90,Default,Rider,0,0,0,,I have been keeping watch over you.
-Dialogue: 100,0:55:38.98,0:55:42.61,Default,Rider,0,0,0,ED,{\q2}I've been tasked with the \Nprotection of one Emiya Shirou. {###}
+Dialogue: 100,0:55:38.98,0:55:42.61,Default,Rider,0,0,0,,{\q2}I've been tasked with \Nthe protection of Emiya Shirou.
 Dialogue: 100,0:55:43.15,0:55:46.61,Default,Rider,0,0,0,,But you've created a weapon to use against Sakura.
 Dialogue: 100,0:55:49.12,0:55:55.08,Default,Rider,0,0,0,,{\q2}So long as you seek to harm Sakura, \NI cannot protect you.
-Dialogue: 100,0:55:59.42,0:56:02.55,Default,Shirou,0,0,0,,Are you here to kill me?
+Dialogue: 100,0:55:59.42,0:56:02.55,Default,Shirou,0,0,0,,So you've come to kill me?
 Dialogue: 100,0:56:04.13,0:56:05.05,Default,Rider,0,0,0,,Shirou.
 Dialogue: 100,0:56:05.76,0:56:10.39,Default,Rider,0,0,0,,Sakura summoned me without a catalyst.
-Dialogue: 100,0:56:12.39,0:56:14.06,Default,Rider,0,0,0,,In such situations,
+Dialogue: 100,0:56:12.39,0:56:14.06,Default,Rider,0,0,0,,Under such circumstances,
 Dialogue: 100,0:56:14.06,0:56:18.27,Default,Rider,0,0,0,,the Servant most similar to the Master is chosen.
-Dialogue: 100,0:56:19.98,0:56:24.57,Default,Rider,0,0,0,,I didn't want Sakura to turn into a monster.
+Dialogue: 100,0:56:19.98,0:56:24.57,Default,Rider,0,0,0,,I didn't want Sakura to end up becoming a monster.
 Dialogue: 100,0:56:26.95,0:56:28.78,Default,Rider,0,0,0,,But it's too...
 Dialogue: 100,0:56:31.53,0:56:35.75,Default,Rider,0,0,0,,Shirou, if your aim is to make Sakura suffer...
 Dialogue: 100,0:56:35.75,0:56:37.29,Default,Shirou,0,0,0,,I'm not trying to kill her.
 Dialogue: 100,0:56:38.54,0:56:40.46,Default,Shirou,0,0,0,,I'm trying to save her.
 Dialogue: 100,0:56:41.75,0:56:44.59,Default,Shirou,0,0,0,,I'll protect Sakura to the very end.
-Dialogue: 100,0:56:48.13,0:56:51.43,Default,Shirou,0,0,0,,No matter what happens, I'll choose Sakura.
+Dialogue: 100,0:56:48.13,0:56:51.43,Default,Shirou,0,0,0,,No matter what happens, I choose Sakura.
 Dialogue: 100,0:56:52.56,0:56:53.64,Default,Rider,0,0,0,,Is that...
 Dialogue: 100,0:56:54.85,0:56:59.44,Default,Rider,0,0,0,,the answer to the question I once asked you?
 Dialogue: 100,0:57:00.73,0:57:04.48,Default,Shirou,0,0,0,,{\q2}There's someone I have to defeat \Nto accomplish my goal.
@@ -599,7 +599,7 @@ Dialogue: 100,0:57:15.04,0:57:15.87,Default,Shirou,0,0,0,,Yeah.
 Dialogue: 100,0:57:18.50,0:57:19.87,Default,Rider,0,0,0,,Very well.
 Dialogue: 100,0:57:26.26,0:57:30.43,Default,Rider,0,0,0,,I, the Servant Rider, albeit temporarily,
 Dialogue: 100,0:57:30.89,0:57:36.35,Default,Rider,0,0,0,,{\q2}swear to become your wings \Nand take you to the ends of the earth.
-Dialogue: 100,0:57:53.91,0:57:56.91,Default,Tohsaka,0,0,0,,And here I thought you were coming back.
+Dialogue: 100,0:57:53.91,0:57:56.91,Default,Tohsaka,0,0,0,,And here I thought you came back.
 Dialogue: 100,0:57:58.37,0:58:03.54,Default,Tohsaka,0,0,0,,{\q2}But you sent your shadow out to run your \Nerrands instead. Oh, how you've grown, Sakura.
 Dialogue: 100,0:58:04.54,0:58:08.88,Default,Sakura,0,0,0,,Nee-san, take Senpai and run.
 Dialogue: 100,0:58:10.05,0:58:15.64,Default,Sakura,0,0,0,,If you do, I can take the child down with me.
@@ -607,7 +607,7 @@ Dialogue: 100,0:58:17.77,0:58:21.44,Default,Tohsaka,0,0,0,,Sakura, let me ask yo
 Dialogue: 100,0:58:22.06,0:58:24.77,Default,Tohsaka,0,0,0,,{\q2}Do you have any plans to \Nsever your ties with A{\fnGandhi Sans Extra Glyphs}ŋ{\r}ra Mainiiu?
 Dialogue: 100,0:58:29.69,0:58:30.86,Default,Sakura,0,0,0,,No.
 Dialogue: 100,0:58:31.65,0:58:34.16,Default,Sakura,0,0,0,,I've got my hands on so much power.
-Dialogue: 100,0:58:34.70,0:58:38.16,Default,Sakura,0,0,0,,I don't want to let go of it, and I can't, anyway.
+Dialogue: 100,0:58:34.70,0:58:38.16,Default,Sakura,0,0,0,,{\q2}I don't want to let go of it, \Nand I couldn't if I wanted, anyway.
 Dialogue: 100,0:58:39.41,0:58:46.71,Default,Tohsaka,0,0,0,,{\q2}Are you saying that if I take Shirou and run, \Nyou can self-destruct and take A{\fnGandhi Sans Extra Glyphs}ŋ{\r}ra Mainiiu with you?
 Dialogue: 100,0:58:48.63,0:58:49.80,Default,Sakura,0,0,0,,Yes.
 Dialogue: 100,0:58:50.17,0:58:51.34,Default,Sakura,0,0,0,,So...
@@ -856,7 +856,7 @@ Dialogue: 100,1:31:24.92,1:31:27.96,Default,Sakura,0,0,0,,No, Senpai, I...
 Dialogue: 100,1:31:27.96,1:31:29.17,Default,Shirou,0,0,0,,I know.
 Dialogue: 100,1:31:29.63,1:31:32.38,Default,Shirou,0,0,0,,That little brat's throwing a temper tantrum!
 Dialogue: 100,1:31:48.48,1:31:51.61,Default,Sakura,0,0,0,,Senpai! Take Nee-san and run!
-Dialogue: 100,1:32:12.17,1:32:15.47,Default,Sakura,0,0,0,TM,No... I can't keep it in.
+Dialogue: 100,1:32:12.21,1:32:15.47,Default,Sakura,0,0,0,,No... I can't keep it in.
 Dialogue: 100,1:32:16.05,1:32:18.05,Default,Sakura,0,0,0,,Run, Senpai!
 Dialogue: 100,1:32:23.39,1:32:24.94,Default,Sakura,0,0,0,,Stop this.
 Dialogue: 100,1:32:25.56,1:32:28.44,Default,Sakura,0,0,0,,I just have to die.
