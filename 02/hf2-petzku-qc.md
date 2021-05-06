@@ -1,6 +1,7 @@
 # Final (yeah right) QC pass
 
 (stuff resolved while viewing not included this time)
+>>(yes, some were :bocchipout:)
 
 ## Dialogue
 
@@ -8,24 +9,44 @@
 
 TV announcer has no subs
 
-> 00:04:28: {\i1}There's still someone in this town {The pause, this is gonna be awkward-gsk}
-> 00:04:34: {\i1}I have to settle the score with.
+> 01:17:36: The knowledge of the Einzberns is in Archer's arm.
 
-I dislike these lines but idk waht do do
+"The knowledge" implies it's everything (it's not)
+pls2gib TLC
 
-> 00:28:12: {\q2}Except it'll be random passersby \Nwho'll pay the price this time.
+> 01:22:59: {\i1}She went for a lovely walk.
 
-"who'll pay" -> "paying" ?
+whole sequence: make this like 10x more nursery rhyme-y
+
+> 00:06:20: {\i1}Nah, he's just using it.
+
+why is shirou so sure?
+
+> 01:23:12: {\i1}Go, go.
+
+TL: Is this 囂々? either way, I don't exactly like this
+>> Should be rewritten alongside the nursery rhyme bit
+
+
+## Addressed but subject to change once I look at them again later (Light)
 
 > 00:29:53: TS
 
 maybe TS sign? skippable
+>> Probably skippable, but they do put heavy emphasis on it by shoving it right in your face, so maybe worth doing?
 
 > 0:35:18: {\i1}If I want her to stop shedding tears...
 > 0:35:23: {\i1\q2}If nobody else will blame Sakura, \Nif she has to do it herself...
 > 0:35:30: {\i1\q2}I'll take her by the hand \Nand drag her into the sunlight.
 
 These lines especially are really awkward (but >shirou, so idk)
+>> I can't think of much better, either. If we want to touch this, it'll have to be a complete rewrite.
+
+> 00:04:28: {\i1}There's still someone in this town {The pause, this is gonna be awkward-gsk}
+> 00:04:34: {\i1}I have to settle the score with.
+
+I dislike these lines but idk waht do do
+>> unlikely to change unless a significantly better line is proposed
 
 > 0:38:52: {\q2}If you plan to uphold your \Nprior convictions, then so be it. {## this line makes no sense within this context anymore lol. In the VN, he says this before Shirou finds Sakura, before he's decided to give up on his ideals and save just her. Here in the anime it's just nonsensical because Archer knows he's already given up his past ideals why is anime so cursed aaaaaaaaaaaaaaah}
 > 0:38:57: I know where that leads.
@@ -33,21 +54,87 @@ These lines especially are really awkward (but >shirou, so idk)
 > 0:39:07: You will lose absolutely everything.
 
 third line "a different path" -> "this path" or something, and adjust rest to match
+>> I think it's probably fine if we put emphasis on that he's no longer following his usual path
+>> "But if you choose to follow this path, ..."?
 
-> 00:39:44: It's... not a cold...
+## Addressed
 
-missing stutter
+> 01:40:25: TS
 
-> 1:07:29: {\q2}I'm glad I became a Master. \NElse I would've never gotten to know you.
-> 1:07:38: That's where you're wrong.
-> 1:07:41: {\q2}I don't know about you, but I've been \Nwell aware of you for quite a while now.
-
-rin's third line probably needs changing
+skipped sign
+>> Skippable, and scy has mentioned before that he doesn't want to do it.
+>> I may at some point write a list of all the skipped signs I spot, and we can determine if we wanna do them after all later
 
 > 01:10:40: Shirou, are you on Sakura's side?
 > 01:10:45: No matter what may come?
 
 Possible tense disagreement
+
+> 01:20:42: TS
+
+books, lol
+Franz Kafka – Metamorphosis (no ts required)
+Izumi Kyouka (collective works or something)
+Lafcadio Hearn – Kwaidan
+>> Unlikely to get TS'd, but we can always hope.
+
+> 01:30:09: She's definitely died at least once.
+
+This feels... weird, idk, kinda like "people die when they are killed"
+"It's as if she'd died and been put back together?" or something?
+
+> 01:17:53: but the treasure box of a magician sounds pretty.
+
+I think I prefer 'sorcerer' for 魔法使い (mahoutsukai), feels more "mythical" than 'magician'.
+Would need consultation with Light's Fate Translator Friend
+>> I think "magician" sounds plenty fine here, and sorcerer has other connotations in Fate.
+
+> 00:22:28: I can't obey that order.
+
+works, but maybe (uhh, fuck I had a suggestion here)
+
+
+> 00:53:15: I'm the one you'll be fighting here.
+
+maybe "You'll have to go through me" or similar?
+
+> 01:05:33: If I sit idly by, two will disappear.
+
+not sure about 'disappear' here
+>> I have no complaints about this line
+
+> 01:29:39: There is currently estimated to be over sixty victims.
+
+'is' or 'are'?
+
+> 01:35:01: {\i1}If you will betray him,
+
+I think this should be "would" (light disagrees, but he's dum)
+>>no u
+>>serious answer though, this question is asked again later on, and 100% in present tense then. He's still fighting against himself at this point, so I see zero reason to use past tense "would".
+
+> 01:29:31: {\i1}Don't think they look alike.
+
+`They're nothing alike.` maybe?
+
+> 01:24:58: {\q2}Had you only the sense to die as I told you, \Nit would've saved us both the trouble.
+
+Fairly fast line, maybe trim down a bit
+
+> 01:21:43: {\q2}I don't know. I don't think \Nhe'd leave so much evidence behind.
+
+split line, TM check
+
+> 01:21:06: TS
+
+Calendar
+light wants a sepia picture of illya here, and who am I to deny him
+>> The deed has been done :illyagun:
+
+> 01:19:04: {\q2}All they do is steal. \NThey have no teachings for accepting others.
+
+something?
+>> Changed for -> about, but kept the rest for now.
 
 > 1:15:28.30: For the other Holy Grail in the process of being born.
 > 1:15:31.67: Humans birthed it as "all the evils of the world",
@@ -67,91 +154,22 @@ unwittingly brought forth by Man.
 ```
 
 The rest, idk lol
+>> Just went with the second set of suggested lines here. I actually like the 4th and 5th line, so I plane on keeping that for the time being.
 
-> 01:17:36: The knowledge of the Einzberns is in Archer's arm.
 
-"The knowledge" implies it's everything (it's not)
-pls2gib TLC
+> 1:07:29: {\q2}I'm glad I became a Master. \NElse I would've never gotten to know you.
+> 1:07:38: That's where you're wrong.
+> 1:07:41: {\q2}I don't know about you, but I've been \Nwell aware of you for quite a while now.
 
-> 01:19:04: {\q2}All they do is steal. \NThey have no teachings for accepting others.
+rin's third line probably needs changing
 
-something?
+> 00:39:44: It's... not a cold...
 
-> 01:20:42: TS
+missing stutter
 
-books, lol
-Franz Kafka – Metamorphosis (no ts required)
-Izumi Kyouka (collective works or something)
-Lafcadio Hearn – Kwaidan
+> 00:28:12: {\q2}Except it'll be random passersby \Nwho'll pay the price this time.
 
-> 01:21:06: TS
-
-Calendar
-light wants a sepia picture of illya here, and who am I to deny him
-
-> 01:21:43: {\q2}I don't know. I don't think \Nhe'd leave so much evidence behind.
-
-split line, TM check
-
-> 01:22:59: {\i1}She went for a lovely walk.
-
-whole sequence: make this like 10x more nursery rhyme-y
-
-> 01:24:58: {\q2}Had you only the sense to die as I told you, \Nit would've saved us both the trouble.
-
-Fairly fast line, maybe trim down a bit
-
-> 01:29:31: {\i1}Don't think they look alike.
-
-`They're nothing alike.` maybe?
-
-> 01:35:01: {\i1}If you will betray him,
-
-I think this should be "would" (light disagrees, but he's dum)
-
-> 01:40:25: TS
-
-skipped sign
-
-# Pre-TLC/touchup rough QC pass
-
-## Unaddressed
-
-> 00:06:20: {\i1}Nah, he's just using it.
-
-why is shirou so sure?
-
-> 00:22:28: I can't obey that order.
-
-works, but maybe (uhh, fuck I had a suggestion here)
-
-> 00:53:15: I'm the one you'll be fighting here.
-
-maybe "You'll have to go through me" or similar?
-
-> 01:05:33: If I sit idly by, two will disappear.
-
-not sure about 'disappear' here
-
-> 01:17:53: but the treasure box of a magician sounds pretty.
-
-I think I prefer 'sorcerer' for 魔法使い (mahoutsukai), feels more "mythical" than 'magician'.
-Would need consultation with Light's Fate Translator Friend
-
-> 01:23:12: {\i1}Go, go.
-
-TL: Is this 囂々? either way, I don't exactly like this
-
-> 01:29:39: There is currently estimated to be over sixty victims.
-
-'is' or 'are'?
-
-> 01:30:09: She's definitely died at least once.
-
-This feels... weird, idk, kinda like "people die when they are killed"
-"It's as if she'd died and been put back together?" or something?
-
-## Addressed
+"who'll pay" -> "paying" ?
 
 > 00:03:11: Uhm, Senpai.
 
