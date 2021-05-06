@@ -11,9 +11,8 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [VCB-Studio] Fate stay night Heaven's Feel III - spring song [Ma10p_1080p][x265_flac].mkv
-Video File: [VCB-Studio] Fate stay night Heaven's Feel III - spring song [Ma10p_1080p][x265_flac].mkv
-Keyframes File: [VCB-Studio] Fate stay night Heaven's Feel III - spring song [Ma10p_1080p][x265_flac]_keyframes.txt
+Audio File: FSNHF_BD_03 (Premux).mkv
+Video File: FSNHF_BD_03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -24,7 +23,9 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,1:57:21.22,1:57:21.22,ED3,,0,0,0,code once,
 Comment: 0,1:57:21.22,1:57:21.22,ED3,chapter,0,0,0,,{ED}
+Dialogue: 0,1:57:21.22,1:57:27.48,ED3,,0,0,0,,
 Dialogue: 0,1:57:21.22,1:57:27.48,ED3,eng,0,0,0,kara,
 Dialogue: 0,1:57:27.48,1:57:33.23,ED3,eng,0,0,0,kara,
 Dialogue: 0,1:57:33.23,1:57:43.08,ED3,eng,0,0,0,kara,
