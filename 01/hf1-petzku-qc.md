@@ -6,30 +6,9 @@ general strong distaste of "Holy Grail War", I'd recommend opting for "Grail War
 
 ### Dialogue
 
-> 00:40:30: Yes. It is the reason I'm here.
-
-"it is" but "I'm" is a slightly odd combination, though alternatives aren't too good either
-
-> 01:11:35: Senpai, do you remember?
-
-feels translationese
-
-> 01:14:48: If I ever did something bad, would you forgive me?
-
-compare dialogue in this scene to HF2 rain scene
-
-> 01:15:50: This just in from the front.
-
-"from the front"? feels weird
-
 > 01:27:09: It can sever even a Master-Servant contract.
 
 Archer possibly too certain?
-
-> 01:28:41: A complex number space?
-
-The typical loc for this is "imaginary number space" (plus, kyousuu is specifically "imaginary number", complex is 複素数 fukusosuu)
-However, I prefer FGO's version, "Void Space" over either
 
 ### TS
 
@@ -38,6 +17,29 @@ However, I prefer FGO's version, "Void Space" over either
 possibly TS the restaurant sign?
 
 ## Addressed already
+
+> 01:28:41: A complex number space?
+
+The typical loc for this is "imaginary number space" (plus, kyousuu is specifically "imaginary number", complex is 複素数 fukusosuu)
+However, I prefer FGO's version, "Void Space" over either
+>> I much prefer "Imaginary number space" over "Void space" here
+
+> 01:15:50: This just in from the front.
+
+"from the front"? feels weird
+
+> 01:14:48: If I ever did something bad, would you forgive me?
+
+compare dialogue in this scene to HF2 rain scene
+
+> 01:11:35: Senpai, do you remember?
+
+feels translationese
+
+> 00:40:30: Yes. It is the reason I'm here.
+
+"it is" but "I'm" is a slightly odd combination, though alternatives aren't too good either
+>> "Yes. It's why I'm here."
 
 > 00:02:36 TS
 

@@ -410,7 +410,7 @@ Dialogue: 100,0:40:04.59,0:40:07.68,Default,Shirou,0,0,0,,She has a good heart.
 Dialogue: 100,0:40:12.22,0:40:14.98,Default,Shirou,0,0,0,,What about your injuries, Saber? Are you okay?
 Dialogue: 100,0:40:15.60,0:40:18.73,Default,Saber,0,0,0,,Yes, though I'd hesitate to say I'm in perfect condition.
 Dialogue: 100,0:40:25.36,0:40:29.53,Default,Shirou,0,0,0,,Uhm, do you want the Holy Grail, too?
-Dialogue: 100,0:40:30.12,0:40:33.54,Default,Saber,0,0,0,,Yes. It is the reason I'm here.
+Dialogue: 100,0:40:30.12,0:40:33.54,Default,Saber,0,0,0,,Yes. It's why I'm here.
 Dialogue: 100,0:40:36.50,0:40:40.96,Default,Shirou,0,0,0,,{\q2}Berserker's Master said \Nher name was "Einzbern", right?
 Dialogue: 100,0:40:43.50,0:40:46.05,Default,Shirou,0,0,0,,Didn't think they'd drag little kids into this.
 Dialogue: 100,0:40:49.51,0:40:50.51,Default,Shirou,0,0,0,,Saber?
@@ -821,7 +821,7 @@ Dialogue: 100,1:28:01.26,1:28:02.22,Default,Zouken,0,0,0,,Preposterous!
 Dialogue: 100,1:28:02.67,1:28:05.43,Default,Tohsaka,0,0,0,,What's going on?
 Dialogue: 100,1:28:05.43,1:28:07.64,Default,Shirou,0,0,0,,Tohsaka, look!
 Dialogue: 100,1:28:08.18,1:28:10.97,Default,Shirou,0,0,0,,What in the world {\i1}is{\i0} that?
-Dialogue: 100,1:28:41.46,1:28:43.84,Default,Tohsaka,0,0,0,,An imaginary number space? {### void space or imaginary number space?}
+Dialogue: 100,1:28:41.46,1:28:43.84,Default,Tohsaka,0,0,0,,An imaginary number space?
 Dialogue: 100,1:28:44.84,1:28:45.76,Default,Zouken,0,0,0,,Absurd.
 Dialogue: 100,1:28:49.93,1:28:51.43,Default,Zouken,0,0,0,,This is unthinkable.
 Dialogue: 100,1:28:51.43,1:28:53.14,Default,Zouken,0,0,0,,How utterly absurd!
