@@ -5,22 +5,9 @@
 
 ## Dialogue
 
-> 00:03:10
-
-TV announcer has no subs
-
-> 01:17:36: The knowledge of the Einzberns is in Archer's arm.
-
-"The knowledge" implies it's everything (it's not)
-pls2gib TLC
-
 > 01:22:59: {\i1}She went for a lovely walk.
 
 whole sequence: make this like 10x more nursery rhyme-y
-
-> 00:06:20: {\i1}Nah, he's just using it.
-
-why is shirou so sure?
 
 > 01:23:12: {\i1}Go, go.
 
@@ -28,25 +15,7 @@ TL: Is this 囂々? either way, I don't exactly like this
 >> Should be rewritten alongside the nursery rhyme bit
 
 
-## Addressed but subject to change once I look at them again later (Light)
-
-> 00:29:53: TS
-
-maybe TS sign? skippable
->> Probably skippable, but they do put heavy emphasis on it by shoving it right in your face, so maybe worth doing?
-
-> 0:35:18: {\i1}If I want her to stop shedding tears...
-> 0:35:23: {\i1\q2}If nobody else will blame Sakura, \Nif she has to do it herself...
-> 0:35:30: {\i1\q2}I'll take her by the hand \Nand drag her into the sunlight.
-
-These lines especially are really awkward (but >shirou, so idk)
->> I can't think of much better, either. If we want to touch this, it'll have to be a complete rewrite.
-
-> 00:04:28: {\i1}There's still someone in this town {The pause, this is gonna be awkward-gsk}
-> 00:04:34: {\i1}I have to settle the score with.
-
-I dislike these lines but idk waht do do
->> unlikely to change unless a significantly better line is proposed
+## Addressed
 
 > 0:38:52: {\q2}If you plan to uphold your \Nprior convictions, then so be it. {## this line makes no sense within this context anymore lol. In the VN, he says this before Shirou finds Sakura, before he's decided to give up on his ideals and save just her. Here in the anime it's just nonsensical because Archer knows he's already given up his past ideals why is anime so cursed aaaaaaaaaaaaaaah}
 > 0:38:57: I know where that leads.
@@ -57,7 +26,40 @@ third line "a different path" -> "this path" or something, and adjust rest to ma
 >> I think it's probably fine if we put emphasis on that he's no longer following his usual path
 >> "But if you choose to follow this path, ..."?
 
-## Addressed
+> 00:04:28: {\i1}There's still someone in this town {The pause, this is gonna be awkward-gsk}
+> 00:04:34: {\i1}I have to settle the score with.
+
+I dislike these lines but idk waht do do
+>> unlikely to change unless a significantly better line is proposed
+
+> 0:35:18: {\i1}If I want her to stop shedding tears...
+> 0:35:23: {\i1\q2}If nobody else will blame Sakura, \Nif she has to do it herself...
+> 0:35:30: {\i1\q2}I'll take her by the hand \Nand drag her into the sunlight.
+
+These lines especially are really awkward (but >shirou, so idk)
+>> I can't think of much better, either. If we want to touch this, it'll have to be a complete rewrite.
+>>> Moving down for now. Previous comment still stands, but I also wanna get stuff marked done already if they're not detrimental.
+
+> 00:29:53: TS
+
+maybe TS sign? skippable
+>> Probably skippable, but they do put heavy emphasis on it by shoving it right in your face, so maybe worth doing?
+
+> 00:06:20: {\i1}Nah, he's just using it.
+
+why is shirou so sure?
+>> "because "Or is he just using it?" is too weak"
+
+> 01:17:36: The knowledge of the Einzberns is in Archer's arm.
+
+"The knowledge" implies it's everything (it's not)
+pls2gib TLC
+>> Original line not wrong. Changed to "Archer's arm holds knowledge of the Einzberns."
+
+> 00:03:10
+
+TV announcer has no subs
+>> Dub was only able to clearly make out the CC'd parts. Those have been added, rest is still unsubbed. Maybe check the VN?
 
 > 01:40:25: TS
 

@@ -46,8 +46,9 @@ Dialogue: 100,0:02:01.43,0:02:04.73,Default,Shirou,0,0,0,,Why am I back here?
 Dialogue: 100,0:02:25.17,0:02:26.63,Default,Shirou,0,0,0,,{\i1}What...
 Dialogue: 100,0:02:28.42,0:02:29.55,Default,Shirou,0,0,0,,{\i1}...are you?
 Dialogue: 100,0:02:30.59,0:02:33.72,Default,Shirou,0,0,0,,{\i1}Wh-What is...
-Comment: 100,0:03:06.08,0:03:11.09,Default,Newscaster,0,0,0,,{## Missing TL}
-Comment: 100,0:03:17.09,0:03:27.10,Default,Newscaster,0,0,0,,{## Missing TL}
+Dialogue: 100,0:03:06.08,0:03:07.58,Default,Newscaster,0,0,0,,{\an8}...an investigation underway.
+Dialogue: 100,0:03:07.58,0:03:11.09,Default,Newscaster,0,0,0,,{\q2\an8}However, when the police arrived \Nthis morning, they discovered...
+Comment: 100,0:03:07.58,0:03:27.10,Default,Newscaster,0,0,0,,
 Dialogue: 100,0:03:09.71,0:03:12.17,Default,Sakura,0,0,0,,Uhm, Senpai.
 Dialogue: 100,0:03:13.97,0:03:15.13,Default,Sakura,0,0,0,,Senpai?
 Dialogue: 100,0:03:16.43,0:03:18.59,Default,Shirou,0,0,0,,Oh, what is it?
@@ -70,7 +71,7 @@ Dialogue: 100,0:06:06.93,0:06:08.18,Default,Shirou,0,0,0,,{\i1}Ryuudou Temple.
 Dialogue: 100,0:06:09.39,0:06:12.77,Default,Shirou,0,0,0,,{\i1}What's that shadow-looking thing's end goal here?
 Dialogue: 100,0:06:14.48,0:06:16.36,Default,Shirou,0,0,0,,{\i1}How does it tie back to Zouken?
 Dialogue: 100,0:06:17.69,0:06:19.07,Default,Shirou,0,0,0,,{\i1}Is it working under him?
-Dialogue: 100,0:06:20.32,0:06:22.82,Default,Shirou,0,0,0,,{\i1}Nah, he's just using it.
+Dialogue: 100,0:06:20.32,0:06:22.82,Default,Shirou,0,0,0,,{\i1}Nah, he's gotta be using it.
 Dialogue: 100,0:06:25.03,0:06:27.12,Default,Shirou,0,0,0,,{\i1}I'd better hear Tohsaka's thoughts, too.
 Dialogue: 100,0:06:36.63,0:06:37.67,Default,Shirou,0,0,0,,What?
 Dialogue: 100,0:06:41.71,0:06:45.38,Default,Illya,0,0,0,,Oh, you're alive, Mister! {## :BirbBlush:}
@@ -664,7 +665,7 @@ Dialogue: 100,1:17:10.19,1:17:13.98,Default,Tohsaka,0,0,0,,Oh, I w-wouldn't say 
 Dialogue: 100,1:17:23.83,1:17:27.33,Default,Tohsaka,0,0,0,,Illya, can we talk about you-know-what in my room?
 Dialogue: 100,1:17:28.50,1:17:30.71,Default,Shirou,0,0,0,,What's this you-know-what?
 Dialogue: 100,1:17:30.71,1:17:35.13,Default,Tohsaka,0,0,0,,I figure we need a secret weapon or two.
-Dialogue: 100,1:17:36.09,1:17:40.26,Default,Illya,0,0,0,,The knowledge of the Einzberns is in Archer's arm.
+Dialogue: 100,1:17:36.09,1:17:40.26,Default,Illya,0,0,0,,Archer's arm holds knowledge of the Einzberns.
 Dialogue: 100,1:17:41.34,1:17:46.18,Default,Illya,0,0,0,,{\q2}Tohsaka said we might be \Nable to put it to use somehow.
 Dialogue: 100,1:17:46.77,1:17:51.10,Default,Illya,0,0,0,,I don't really care about Kischur Zelretch's leftovers,
 Dialogue: 100,1:17:53.15,1:17:58.03,Default,Illya,0,0,0,,but the treasure box of a magician sounds pretty.
