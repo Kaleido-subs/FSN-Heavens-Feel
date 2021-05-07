@@ -128,7 +128,7 @@ Dialogue: 100,0:10:02.71,0:10:04.79,Default,Mitsuzuri,0,0,0,,Or you eyeing anoth
 Dialogue: 100,0:10:04.79,0:10:05.88,Default,Sakura,0,0,0,,N-No...
 Dialogue: 100,0:10:05.88,0:10:07.38,Default,Mitsuzuri,0,0,0,,Perfecto! Come join us, then!
 Dialogue: 100,0:10:07.38,0:10:09.84,Default,Issei,0,0,0,,Geez. Pushy as ever.
-Comment: 100,0:10:07.92,0:10:11.47,Default,,0,0,0,,{\an8}{bg line}
+Dialogue: 100,0:10:07.92,0:10:11.47,Default,,0,0,0,,{\an8}C'mon, what's the hol'-up? Let's go!
 Dialogue: 100,0:10:16.10,0:10:17.60,Default,Issei,0,0,0,,What's wrong, Emiya?
 Dialogue: 100,0:10:18.06,0:10:19.18,Default,Shirou,0,0,0,,Nothing...
 Dialogue: 100,0:10:19.18,0:10:21.48,Default,Fuji-nee,0,0,0,,Hey, Shirou!
@@ -811,7 +811,7 @@ Dialogue: 100,1:26:43.18,1:26:44.68,Default,Shirou,0,0,0,,Saber! Watch out!
 Dialogue: 100,1:26:44.68,1:26:45.68,Default,Shirou,0,0,0,,Don't let that sword—
 Dialogue: 100,1:26:50.81,1:26:52.44,Default,Archer,0,0,0,,Don't let that sword touch you!
 Dialogue: 100,1:27:04.87,1:27:06.99,Default,Archer,0,0,0,,That sword dispels magecraft.
-Dialogue: 100,1:27:08.37,1:27:10.66,Default,Archer,0,0,0,TLC,It can sever even a Master-Servant contract. {### Is it correct for Archer to be so sure?}
+Dialogue: 100,1:27:08.37,1:27:10.66,Default,Archer,0,0,0,,It can sever even a Master-Servant contract.
 Dialogue: 100,1:27:12.00,1:27:13.25,Default,Shirou,0,0,0,,She's bad news...
 Dialogue: 100,1:27:16.13,1:27:19.67,Default,Zouken,0,0,0,,I had hoped to settle this quickly.
 Dialogue: 100,1:27:39.78,1:27:44.36,Default,Zouken,0,0,0,,Her magic would indeed be futile against Saber.

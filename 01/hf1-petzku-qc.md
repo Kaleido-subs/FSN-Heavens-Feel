@@ -6,17 +6,20 @@ general strong distaste of "Holy Grail War", I'd recommend opting for "Grail War
 
 ### Dialogue
 
-> 01:27:09: It can sever even a Master-Servant contract.
-
-Archer possibly too certain?
-
 ### TS
+
+
+## Addressed already
 
 > 01:31:02 TS
 
 possibly TS the restaurant sign?
+>> Matters little, and Scy doesn't seem keen on TSing much more
 
-## Addressed already
+> 01:27:09: It can sever even a Master-Servant contract.
+
+Archer possibly too certain?
+
 
 > 01:28:41: A complex number space?
 
