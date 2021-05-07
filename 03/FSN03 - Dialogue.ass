@@ -65,19 +65,19 @@ Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor zabaniya layer 100,{
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor zabaniya layer 100,{\4c!color.interp_lab($loop_grad / line.height, "&H252529&", "&H280A97&")!}
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 100,0:00:47.65,0:00:50.24,Default,Zouken,0,0,0,,Surely you're acutely aware
-Dialogue: 100,0:00:51.28,0:00:54.70,Default,Zouken,0,0,0,,who slayed Shinji.
+Dialogue: 100,0:00:51.28,0:00:54.70,Default,Zouken,0,0,0,,who slew Shinji.
 Dialogue: 100,0:00:59.96,0:01:00.79,Default,Zouken,0,0,0,,Well, well...
 Dialogue: 100,0:01:01.50,0:01:04.46,Default,Zouken,0,0,0,,{\q2}It appears you've stopped \Naverting your eyes from the truth.
-Dialogue: 100,0:01:06.17,0:01:12.89,Default,Zouken,0,0,0,,{\q2}But I'm afraid it will be no easy feat to destroy it \Nafter it's been in my care for many a year{s}.
+Dialogue: 100,0:01:06.17,0:01:12.89,Default,Zouken,0,0,0,,{\q2}But I'm afraid it will be no easy feat to destroy it \Nafter it's been in my care for so many a year{s}.
 Dialogue: 100,0:01:12.89,0:01:18.52,Default,Zouken,0,0,0,,{\q2}If I had my druthers, you would have \Nbeen the one to betray Sakura,
-Dialogue: 100,0:01:18.52,0:01:21.44,Default,Zouken,0,0,0,,but I suppose my insurance was worth it.
+Dialogue: 100,0:01:18.52,0:01:21.44,Default,Zouken,0,0,0,,but I suppose my insurance paid off.
 Dialogue: 100,0:01:21.44,0:01:24.11,Default,Shirou,0,0,0,,Insurance?
-Dialogue: 100,0:01:24.11,0:01:28.36,Default,Zouken,0,0,0,,{\q2}It's yet to be fully awakened, \Nlying concealed under its human guise,
+Dialogue: 100,0:01:24.11,0:01:28.36,Default,Zouken,0,0,0,,{\q2}It's yet to be fully awakened, \Nlying concealed underneath its human guise,
 Dialogue: 100,0:01:28.36,0:01:32.61,Default,Zouken,0,0,0,,but perhaps it may have done a good deed for once.
 Dialogue: 100,0:01:36.16,0:01:38.91,Default,Shirou,0,0,0,,Zouken, where's Sakura?
 Dialogue: 100,0:01:45.13,0:01:48.96,Default,Illya,0,0,0,,So, how's you-know-who doing?
 Dialogue: 100,0:02:09.98,0:02:12.90,Default,Zouken,0,0,0,,You have my gratitude.
-Dialogue: 100,0:02:12.90,0:02:20.24,Default,Zouken,0,0,0,,{\q2}She once merely accepted what \Ncame to pass, regardless of intentions,
+Dialogue: 100,0:02:12.90,0:02:20.24,Default,Zouken,0,0,0,,{\q2}Once, she would merely accept what came to pass, \Nregardless of intentions,
 Dialogue: 100,0:02:20.24,0:02:22.83,Default,Zouken,0,0,0,,but you taught her to desire others.
 Dialogue: 100,0:02:23.50,0:02:28.25,Default,Zouken,0,0,0,,{\q2}Now that it has killed its kinsman, \Nit can no longer contain itself.
 Dialogue: 100,0:02:28.80,0:02:33.72,Default,Zouken,0,0,0,,{\q2}The Einzberns' Holy Grail \Nhas absorbed the soul of Archer,
@@ -86,9 +86,9 @@ Dialogue: 100,0:02:40.60,0:02:41.77,Default,Shirou,0,0,0,,Zouken!
 Dialogue: 100,0:02:57.66,0:03:03.41,Default,Zouken,0,0,0,,Now, accept the shadow, Sakura!
 Dialogue: 100,0:03:08.25,0:03:10.71,Default,Sakura,0,0,0,,Very well, Grandfather.
 Dialogue: 100,0:03:22.85,0:03:24.27,Default,Illya,0,0,0,,Sakura...
-Dialogue: 100,0:03:38.45,0:03:42.54,Default,Sakura,0,0,0,,That's right. I suppose you were here, too.
+Dialogue: 100,0:03:38.45,0:03:42.54,Default,Sakura,0,0,0,,Oh, right. I suppose you were here, too.
 Dialogue: 100,0:03:42.99,0:03:44.12,Default,Tohsaka,0,0,0,,Sorry to say.
-Dialogue: 100,0:03:44.12,0:03:48.29,Default,Tohsaka,0,0,0,,Unlike Shirou, I have no reason to save you.
+Dialogue: 100,0:03:44.12,0:03:48.29,Default,Tohsaka,0,0,0,,Unlike Shirou, I see zero reason to spare you.
 Dialogue: 100,0:03:48.88,0:03:53.00,Default,Tohsaka,0,0,0,,{\q2}It doesn't take a genius to figure out \Nyour next move would be to kidnap Illya.
 Dialogue: 100,0:03:54.88,0:03:57.18,Default,Sakura,0,0,0,,That's not very nice.
 Dialogue: 100,0:03:57.72,0:04:01.18,Default,Sakura,0,0,0,,Do you think I'm that bad of a person?
@@ -117,7 +117,7 @@ Dialogue: 100,0:06:07.39,0:06:09.97,Default,Sakura,0,0,0,,Why are you defending 
 Dialogue: 100,0:06:11.77,0:06:14.19,Default,Sakura,0,0,0,,Why won't you say anything?
 Dialogue: 100,0:06:15.06,0:06:17.06,Default,Sakura,0,0,0,,Why won't you chastise me?
 Dialogue: 100,0:06:17.65,0:06:21.57,Default,Sakura,0,0,0,,You saw what I did to Nii-san...
-Dialogue: 100,0:06:22.53,0:06:23.65,Default,Shirou,0,0,0,,No.
+Dialogue: 100,0:06:22.53,0:06:23.65,Default,Shirou,0,0,0,,No!
 Dialogue: 100,0:06:23.65,0:06:24.91,Default,Shirou,0,0,0,,Zouken set that—
 Dialogue: 100,0:06:24.91,0:06:26.24,Default,Sakura,0,0,0,,No, he did not.
 Dialogue: 100,0:06:26.87,0:06:29.37,Default,Sakura,0,0,0,,Look at me, Senpai.
@@ -132,7 +132,7 @@ Dialogue: 100,0:06:56.77,0:07:00.27,Default,Sakura,0,0,0,,{\q2}You can't betray 
 Dialogue: 100,0:07:08.28,0:07:11.12,Default,Sakura,0,0,0,,I'll put you out of your misery.
 Dialogue: 100,0:07:11.83,0:07:16.50,Default,Sakura,0,0,0,,{\q2}You won't have to suffer any longer, \Nand you'll never have to leave my side again.
 Dialogue: 100,0:07:26.05,0:07:29.39,Default,Rider,0,0,0,,I'm simply doing what you told me to, Sakura.
-Dialogue: 100,0:07:30.43,0:07:33.68,Default,Rider,0,0,0,,{\q2}You ordered me to protect Emiya Shirou, \Nno matter what happened.
+Dialogue: 100,0:07:30.43,0:07:33.68,Default,Rider,0,0,0,,{\q2}You ordered me to protect Emiya Shirou, no matter what.
 Dialogue: 100,0:07:35.39,0:07:38.40,Default,Sakura,0,0,0,,You're a bad girl, Rider.
 Dialogue: 100,0:07:42.73,0:07:45.70,Default,Rider,0,0,0,,Sakura, you mustn't go there.
 Dialogue: 100,0:07:46.32,0:07:48.20,Default,Rider,0,0,0,,There is nothing there.
@@ -156,7 +156,7 @@ Dialogue: 100,0:09:24.75,0:09:28.63,Default,Illya,0,0,0,,If you want to open the
 Dialogue: 100,0:09:28.63,0:09:31.13,Default,Illya,0,0,0,,we have to go to my castle to get it.
 Dialogue: 100,0:09:33.14,0:09:34.47,Default,Sakura,0,0,0,,Very well.
 Dialogue: 100,0:09:34.93,0:09:37.56,Default,Sakura,0,0,0,,I'll fall for that.
-Dialogue: 100,0:09:49.07,0:09:52.32,Default,Sakura,0,0,0,,Don't come see me ever again.
+Dialogue: 100,0:09:49.07,0:09:52.32,Default,Sakura,0,0,0,,Don't ever come see me again.
 Dialogue: 100,0:09:53.20,0:09:55.70,Default,Sakura,0,0,0,,Next time, I'll have no choice but to kill you.
 Dialogue: 100,0:09:58.66,0:10:02.50,Default,Illya,0,0,0,,See you. It's been a lot of fun,
 Dialogue: 100,0:10:03.04,0:10:04.33,Default,Illya,0,0,0,,Mister.
@@ -169,7 +169,7 @@ Dialogue: 100,0:10:36.66,0:10:38.49,Default,Alteria,0,0,0,,This is your final wa
 Dialogue: 100,0:10:38.91,0:10:42.25,Default,Alteria,0,0,0,,If you remain steadfast in your pursuit,
 Dialogue: 100,0:10:42.58,0:10:44.71,Default,Alteria,0,0,0,,I will have your head.
 Dialogue: 100,0:11:12.44,0:11:14.99,Default,Kotomine,0,0,0,,{\i1}The battle has already been decided.
-Dialogue: 100,0:11:19.99,0:11:24.71,Default,Kotomine,0,0,0,,{\i1\q2}This outcome had been predetermined \Na long, long time ago.
+Dialogue: 100,0:11:19.99,0:11:24.71,Default,Kotomine,0,0,0,,{\i1\q2}In fact, this outcome had been \Npredestined a long, long time ago.
 Dialogue: 100,0:11:25.29,0:11:27.58,Default,Kotomine,0,0,0,,{\i1}This twisted Holy Grail War
 Dialogue: 100,0:11:28.29,0:11:30.67,Default,Kotomine,0,0,0,,{\i1}should have had but one Holy Grail.
 Dialogue: 100,0:11:31.75,0:11:35.13,Default,Kotomine,0,0,0,,{\i1}And yet, there was a second one in our midst.
@@ -184,24 +184,24 @@ Dialogue: 100,0:12:02.58,0:12:06.62,Default,Kotomine,0,0,0,,{\i1}If it cannot be
 Dialogue: 100,0:12:08.79,0:12:12.92,Default,Kotomine,0,0,0,,{\i1}then I shall join the actors on stage.
 Dialogue: 100,0:12:19.09,0:12:20.39,Default,Shirou,0,0,0,,Kotomine...
 Dialogue: 100,0:12:20.97,0:12:23.81,Default,Shirou,0,0,0,,Save Tohsaka.
-Dialogue: 100,0:13:17.78,0:13:18.94,Default,Kotomine,0,0,0,,Are you awake?
+Dialogue: 100,0:13:17.78,0:13:19.07,Default,Kotomine,0,0,0,,Are you awake?
 Dialogue: 100,0:13:19.65,0:13:21.41,Default,Kotomine,0,0,0,,Can you move your body?
 Dialogue: 100,0:13:23.95,0:13:25.28,Default,Shirou,0,0,0,,Kotomine...
 Dialogue: 100,0:13:27.37,0:13:28.33,Default,Shirou,0,0,0,,How's Tohsaka?
 Dialogue: 100,0:13:30.33,0:13:33.46,Default,Kotomine,0,0,0,,She was even more drained than you.
 Dialogue: 100,0:13:34.46,0:13:37.17,Default,Kotomine,0,0,0,,I buried her in the Tohsaka garden.
 Dialogue: 100,0:13:38.30,0:13:39.05,Default,Shirou,0,0,0,,Huh?
-Dialogue: 100,0:13:39.63,0:13:40.59,Default,Shirou,0,0,0,,Buried?
+Dialogue: 100,0:13:39.63,0:13:40.76,Default,Shirou,0,0,0,,Buried?
 Dialogue: 100,0:13:41.13,0:13:45.10,Default,Kotomine,0,0,0,,She should return to her usual, snappy self by dawn.
 Dialogue: 100,0:13:46.72,0:13:48.10,Default,Shirou,0,0,0,,Okay, good.
 Dialogue: 100,0:13:48.85,0:13:52.31,Default,Shirou,0,0,0,,You've been a lifesaver. I have to get going.
-Dialogue: 100,0:13:53.56,0:13:55.86,Default,Kotomine,0,0,0,,Where will you go next?
+Dialogue: 100,0:13:53.56,0:13:55.86,Default,Kotomine,0,0,0,,Where do you think you're going?
 Dialogue: 100,0:13:58.44,0:14:02.91,Default,Shirou,0,0,0,,Illya went with Sakura to protect us.
 Dialogue: 100,0:14:03.53,0:14:04.41,Default,Shirou,0,0,0,,So...
-Dialogue: 100,0:14:04.41,0:14:09.37,Default,Kotomine,0,0,0,,So Matou Sakura has become your enemy, I take it?
+Dialogue: 100,0:14:04.41,0:14:09.37,Default,Kotomine,0,0,0,,{\q2}You have taken Matou Sakura \Nas your enemy, then?
 Dialogue: 100,0:14:19.88,0:14:21.26,Default,Kotomine,0,0,0,,Come with me.
 Dialogue: 100,0:14:24.80,0:14:31.43,Default,Kotomine,0,0,0,,{\q2}Matou Zouken's objective is to possess \Nthe empty shell of Matou Sakura.
-Dialogue: 100,0:14:32.81,0:14:35.81,Default,Kotomine,0,0,0,,As such, we must take back Illyasviel
+Dialogue: 100,0:14:32.81,0:14:35.81,Default,Kotomine,0,0,0,,As such, we must bring back Illyasviel {-bring back Illya -bring back Illya -bring back Illya}
 Dialogue: 100,0:14:35.81,0:14:40.94,Default,Kotomine,0,0,0,,{\q2}and defeat Matou Zouken \Nbefore Matou Sakura winds up a husk.
 Dialogue: 100,0:14:41.74,0:14:46.32,Default,Kotomine,0,0,0,,So far, our goals align.
 Dialogue: 100,0:14:46.32,0:14:47.95,Default,Shirou,0,0,0,,Goals?
@@ -210,9 +210,9 @@ Dialogue: 100,0:15:05.26,0:15:07.72,Default,Shirou,0,0,0,,Oh, come to think of i
 Dialogue: 100,0:15:08.55,0:15:10.47,Default,Kotomine,0,0,0,,Do not fall back on her.
 Dialogue: 100,0:15:10.47,0:15:13.27,Default,Kotomine,0,0,0,,Her path is still connected.
 Dialogue: 100,0:15:13.89,0:15:17.48,Default,Kotomine,0,0,0,,{\q2}We must not let her catch wind of \Nour actions before we reach the castle.
-Dialogue: 100,0:15:31.83,0:15:35.91,Default,Radio,0,0,0,,{\an8\q2}Regarding the missing persons incidents \Nin Fuyuki City two nights ago,
-Dialogue: 100,0:15:35.91,0:15:40.54,Default,Radio,0,0,0,,{\an8\q2}the number of victims and cause of \Nthe incidents remain under investigation.
-Dialogue: 100,0:15:40.54,0:15:45.42,Default,Radio,0,0,0,,{\an8\q2}Additionally, the widespread blackout that occurred at the \Nsame time near Shinto Station and spanned several hours—
+Dialogue: 100,0:15:31.83,0:15:35.91,Default,Radio,0,0,0,,{\an8\q2}And now, an update on the missing persons \Nincidents in Fuyuki City two nights ago.
+Dialogue: 100,0:15:35.91,0:15:40.54,Default,Radio,0,0,0,,{\an8\q2}The full extent and cause of the event \Nremain under investigation.
+Dialogue: 100,0:15:40.54,0:15:45.42,Default,Radio,0,0,0,,{\an8\q2}Authorities are looking into potential links\N{\alpha&HFF&\fscx60}...{\r}concerning the widespread blackout near Shinto—
 Dialogue: 100,0:15:46.43,0:15:52.06,Default,Kotomine,0,0,0,,{\q2}That man would have killed \NMatou Sakura before it came to this.
 Dialogue: 100,0:15:55.31,0:16:02.94,Default,Kotomine,0,0,0,,{\q2}Your father was a man who would cast off \Nhis human emotions in the name of justice.
 Dialogue: 100,0:16:03.57,0:16:08.32,Default,Kotomine,0,0,0,,Emiya Kiritsugu's way of life was unpleasant to me.
@@ -266,9 +266,9 @@ Dialogue: 100,0:20:23.41,0:20:26.00,Default,Kotomine,0,0,0,,Now then, Emiya Shir
 Dialogue: 100,0:20:27.71,0:20:30.50,Default,Kotomine,0,0,0,,Do you have any bouldering experience?
 Dialogue: 100,0:20:37.76,0:20:42.43,Default,Sella,0,0,0,,Must we really ready the dress for those people?
 Dialogue: 100,0:20:43.43,0:20:46.93,Default,Illya,0,0,0,,{\q2}Have you forgotten? \NOur role is to complete the Holy Grail.
-Dialogue: 100,0:20:46.93,0:20:54.57,Default,Illya,0,0,0,,{\q2}As long as the vessel fits, \Nit doesn't need to be me.
+Dialogue: 100,0:20:46.93,0:20:54.57,Default,Illya,0,0,0,,{\q2}It doesn't need to be me. \NIt can be anyone so long as the vessel fits.
 Dialogue: 100,0:21:32.40,0:21:35.44,Default,Shirou,0,0,0,,{\q2}Who in their right mind \N{\i1}chucks{\i0} people through windows?!
-Dialogue: 100,0:21:37.73,0:21:43.82,Default,Kotomine,0,0,0,,{\q2}I could no longer bear the sight \Nof seeing you dangling from one arm.
+Dialogue: 100,0:21:37.73,0:21:43.82,Default,Kotomine,0,0,0,,{\q2}I could no longer bear the sight \Nof seeing you dangling by one arm.
 Dialogue: 100,0:21:43.82,0:21:46.12,Default,Sella,0,0,0,,And who are you people supposed to be?
 Dialogue: 100,0:21:46.12,0:21:47.49,Default,Leysritt,0,0,0,,Ruffians.
 Dialogue: 100,0:21:47.49,0:21:50.58,Default,Shirou,0,0,0,,Ah, no, we're...
@@ -278,18 +278,18 @@ Dialogue: 100,0:21:57.30,0:21:58.51,Default,Illya,0,0,0,,What are you doing here
 Dialogue: 100,0:22:00.67,0:22:01.93,Default,Illya,0,0,0,,Leave.
 Dialogue: 100,0:22:02.84,0:22:05.22,Default,Illya,0,0,0,,There's nothing left for you to do.
 Dialogue: 100,0:22:06.60,0:22:09.72,Default,Illya,0,0,0,,Let me deal with Sakura.
-Dialogue: 100,0:22:11.06,0:22:14.81,Default,Illya,0,0,0,,This is my role to play.
+Dialogue: 100,0:22:11.06,0:22:14.81,Default,Illya,0,0,0,,This is my part to play.
 Dialogue: 100,0:22:17.57,0:22:18.94,Default,Shirou,0,0,0,,You stupid idiot.
 Dialogue: 100,0:22:26.53,0:22:27.83,Default,Illya,0,0,0,,What?
 Dialogue: 100,0:22:28.87,0:22:30.20,Default,Shirou,0,0,0,,I don't care.
-Dialogue: 100,0:22:33.29,0:22:36.08,Default,Shirou,0,0,0,,I don't care about your role!
+Dialogue: 100,0:22:33.29,0:22:36.08,Default,Shirou,0,0,0,,I don't care about that!
 Dialogue: 100,0:22:36.08,0:22:40.13,Default,Shirou,0,0,0,,{\q2}You can grandstand and pretend \Nyou're all fine and dandy as much as you want,
 Dialogue: 100,0:22:40.13,0:22:41.88,Default,Shirou,0,0,0,,but I'm not gonna let you fool me!
 Dialogue: 100,0:22:43.30,0:22:45.39,Default,Illya,0,0,0,,Who's grandstanding?
 Dialogue: 100,0:22:45.39,0:22:46.76,Default,Illya,0,0,0,,I'm the Holy Grail, so—
 Dialogue: 100,0:22:46.76,0:22:48.89,Default,Shirou,0,0,0,,That's called grandstanding, idiot!
 Dialogue: 100,0:22:49.35,0:22:51.02,Default,Shirou,0,0,0,,You're Illya before you are the Grail!
-Dialogue: 100,0:22:52.23,0:22:57.06,Default,Shirou,0,0,0,,Don't go sacrificing yourself for something else!
+Dialogue: 100,0:22:52.23,0:22:57.06,Default,Shirou,0,0,0,,Don't go sacrificing yourself for some cause!
 Dialogue: 100,0:22:58.61,0:23:01.53,Default,Illya,0,0,0,,You're one to talk...
 Dialogue: 100,0:23:12.12,0:23:13.00,Default,Shirou,0,0,0,,Illya.
 Dialogue: 100,0:23:18.34,0:23:23.13,Default,Illya,0,0,0,,{\i1}This can't possibly turn out well.
@@ -310,9 +310,9 @@ Dialogue: 100,0:24:38.04,0:24:38.92,Default,Kotomine,0,0,0,,We're leaving.
 Dialogue: 100,0:24:48.47,0:24:49.38,Default,Shirou,0,0,0,,{\i1}He's fast!
 Dialogue: 100,0:24:50.89,0:24:53.43,Default,Shirou,0,0,0,,{\i1}But at this pace...
 Dialogue: 100,0:24:59.73,0:25:00.98,Default,Illya,0,0,0,,Berserker...
-Dialogue: 100,0:25:47.32,0:25:50.70,Default,Kotomine,0,0,0,,I suppose you aren't just a puppet.
+Dialogue: 100,0:25:47.32,0:25:50.70,Default,Kotomine,0,0,0,,I suppose you aren't just a mere puppet.
 Dialogue: 100,0:25:56.03,0:25:57.33,Default,Kotomine,0,0,0,,Take her.
-Dialogue: 100,0:26:01.04,0:26:05.46,Default,Kotomine,0,0,0,,Emiya, if you save a lady, you must not kill.
+Dialogue: 100,0:26:01.04,0:26:05.46,Default,Kotomine,0,0,0,,Emiya, when saving a lady, you must not kill.
 Dialogue: 100,0:26:06.42,0:26:11.55,Default,Kotomine,0,0,0,,Seeing death up close wears on the soul.
 Dialogue: 100,0:26:17.26,0:26:18.77,Default,Shirou,0,0,0,,Let's go, Illya!
 Dialogue: 100,0:26:28.94,0:26:31.53,Default,True Assassin,0,0,0,,The white Holy Grail will not escape.
@@ -335,10 +335,10 @@ Dialogue: 100,0:28:26.43,0:28:28.35,Default,Kotomine,0,0,0,,{\i1}A detrimental f
 Dialogue: 100,0:28:29.02,0:28:32.90,Default,Kotomine,0,0,0,,{\i1\q2}Heretic that I was, \NI still had a good head on my shoulders.
 Dialogue: 100,0:28:35.15,0:28:39.03,Default,Kotomine,0,0,0,,{\i1}I prayed and strove to correct myself.
 Dialogue: 100,0:28:39.95,0:28:45.37,Default,Kotomine,0,0,0,,{\i1}As my final effort, I loved a single woman.
-Dialogue: 100,0:28:54.63,0:28:58.63,Default,Kotomine,0,0,0,,{\i1}More precisely, I wished to.
+Dialogue: 100,0:28:54.63,0:28:58.63,Default,Kotomine,0,0,0,,{\i1}Or rather, I wished to.
 Dialogue: 100,0:28:58.63,0:29:01.76,Default,Kotomine,0,0,0,,{\i1}I attempted to love, and even sired a child.
-Dialogue: 100,0:29:02.39,0:29:04.26,Default,Kotomine,0,0,0,,{\i1}But the results were no different.
-Dialogue: 100,0:29:06.14,0:29:10.27,Default,Kotomine,0,0,0,,{\i1}I was unable to love you.
+Dialogue: 100,0:29:02.39,0:29:04.26,Default,Kotomine,0,0,0,,{\i1}But to no avail.
+Dialogue: 100,0:29:06.14,0:29:10.27,Default,Kotomine,0,0,0,,I was unable to love you.
 Dialogue: 100,0:29:11.98,0:29:16.36,Default,Claudia,0,0,0,,No, you love me very much.
 Dialogue: 100,0:29:29.71,0:29:30.75,Default,True Assassin,0,0,0,,Noble Phantasm.
 Comment: 100,0:29:32.88,0:29:34.13,Default,True Assassin,0,0,0,,{\pos(960,1024)}Zabaniya!
@@ -360,7 +360,7 @@ Dialogue: 100,0:30:49.83,0:30:52.41,Default,Zouken,0,0,0,,Ah, so you mean to kil
 Dialogue: 100,0:30:52.41,0:30:54.92,Default,Kotomine,0,0,0,,Within my palm lies final respite.
 Dialogue: 100,0:30:54.92,0:30:58.84,Default,Kotomine,0,0,0,,The inferno of your sins shall incise{carve?} my sigil.
 Dialogue: 100,0:30:59.13,0:31:04.22,Default,Kotomine,0,0,0,,The grant of life eternal is bestowed only by death.
-Dialogue: 100,0:31:05.01,0:31:08.97,Default,Kotomine,0,0,0,,{\q2}Absolution is at hand. \NSworn upon my blood and my bone—
+Dialogue: 100,0:31:05.01,0:31:08.97,Default,Kotomine,0,0,0,,{\q2}Absolution is at hand. \N{\alpha&HFF&\fscx60}...{\r}Sworn upon my blood and my bone—
 Dialogue: 100,0:31:09.56,0:31:11.22,Default,Zouken,0,0,0,,What will this accomplish?
 Dialogue: 100,0:31:11.22,0:31:13.56,Default,Zouken,0,0,0,,There is no salvation for you.
 Dialogue: 100,0:31:14.52,0:31:16.35,Default,Kotomine,0,0,0,,{\pos(960,1024)}Kýrie, eléison.
@@ -373,16 +373,17 @@ Dialogue: 100,0:32:10.91,0:32:15.16,Default,Claudia,0,0,0,,{\i1}See? You're cryi
 Dialogue: 100,0:32:17.42,0:32:19.46,Default,Kotomine,0,0,0,,{\i1}That was a misunderstanding.
 Dialogue: 100,0:32:23.09,0:32:25.59,Default,Kotomine,0,0,0,,{\i1}Indeed, I was sad.
 Dialogue: 100,0:32:26.34,0:32:29.09,Default,Kotomine,0,0,0,,{\i1}But I was not mourning that woman's death.
-Dialogue: 100,0:32:33.93,0:32:39.35,Default,Kotomine,0,0,0,,{\i1\q2}"If she was to die regardless, \NI would have liked to kill her myself."
+Dialogue: 100,0:32:33.93,0:32:39.35,Default,Kotomine,0,0,0,,{\i1\q2}"If she was to die regardless, \NI would rather it had been by my hand."
 Dialogue: 100,0:32:52.41,0:32:53.95,Default,Illya,0,0,0,,Shirou?
 Dialogue: 100,0:32:54.41,0:32:56.62,Default,Shirou,0,0,0,,You okay, Illya?
+Dialogue: 100,0:32:57.46,0:32:58.46,Default,Illya,0,0,0,,Yeah.
 Dialogue: 100,0:33:04.80,0:33:09.05,Default,Illya,0,0,0,,Shirou, run. Berserker's looking for me.
 Dialogue: 100,0:33:09.97,0:33:11.18,Default,Illya,0,0,0,,Shirou!
 Dialogue: 100,0:33:17.68,0:33:20.14,Default,Shirou,0,0,0,,A good brother saves his little sister.
 Dialogue: 100,0:33:21.44,0:33:22.48,Default,Illya,0,0,0,,But I'm...
 Dialogue: 100,0:33:23.69,0:33:25.02,Default,Shirou,0,0,0,,It's okay.
 Dialogue: 100,0:33:25.02,0:33:28.69,Default,Shirou,0,0,0,,{\q2}You're like a little sister to me now, \Nso I'll make sure to protect you.
-Dialogue: 100,0:33:30.11,0:33:33.12,Default,Shirou,0,0,0,,Even if we aren't related by blood.
+Dialogue: 100,0:33:30.11,0:33:33.12,Default,Shirou,0,0,0,,It's not like we need to be blood-related.
 Dialogue: 100,0:33:42.83,0:33:47.80,Default,Illya,0,0,0,,{\q2}Shirou, once you use Archer's arm, \Nthere's no turning back.
 Dialogue: 100,0:33:48.30,0:33:49.05,Default,Shirou,0,0,0,,Yeah.
 Dialogue: 100,0:33:50.84,0:33:52.51,Default,Illya,0,0,0,,You'll die.
@@ -399,7 +400,7 @@ Dialogue: 100,0:34:33.84,0:34:36.39,Default,Shirou,0,0,0,,{\i1}My vow to protect
 Dialogue: 100,0:34:36.39,0:34:38.72,Default,Shirou,0,0,0,,{\i1}My resolve to bring Illya back.
 Dialogue: 100,0:34:39.18,0:34:42.98,Default,Shirou,0,0,0,,{\i1}I may end up forgetting everything.
 Dialogue: 100,0:34:43.77,0:34:48.98,Default,Shirou,0,0,0,,{\i1}But he gave me this arm because I needed it.
-Dialogue: 100,0:34:52.32,0:34:54.86,Default,Shirou,0,0,0,,I can defeat him, right, Illya?{Callback to Archer's line in Fate?}{###}
+Dialogue: 100,0:34:52.32,0:34:54.86,Default,Shirou,0,0,0,,It's fine if I defeat him, right?{Callback to Archer's line in Fate?}
 Dialogue: 100,0:34:59.41,0:35:00.45,Default,Illya,0,0,0,,Yeah.
 Comment: 100,0:35:18.85,0:35:22.98,Default,Shirou,0,0,0,,{\i1\q2}My body and mind give in \Nto the crawl of nothingness.
 Comment: 100,0:35:25.31,0:35:27.65,Default,Shirou,0,0,0,,{\i1}Why am I here?
@@ -413,7 +414,7 @@ Dialogue: 100,0:36:27.00,0:36:29.54,Default,Shirou,0,0,0,,keep up with {\i1}me{\
 Dialogue: 100,0:36:46.85,0:36:48.73,Default,Shirou,0,0,0,,Trace on!
 Dialogue: 100,0:37:09.87,0:37:12.67,Default,Shirou,0,0,0,,Trigger off.
 Comment: 100,0:37:26.89,0:37:30.56,Default,Shirou,0,0,0,,{\pos(960,1024)}Nine Lives Blade Works!
-Dialogue: 100,0:38:36.09,0:38:37.96,Default,Berserker,0,0,0,,You must protect her.
+Dialogue: 100,0:38:36.09,0:38:37.96,Default,Berserker,0,0,0,,She's in your hands now.
 Dialogue: 100,0:38:58.69,0:38:59.94,Default,Illya,0,0,0,,Shirou.
 Dialogue: 100,0:39:09.74,0:39:10.91,Default,Shirou,0,0,0,,Saber...
 Dialogue: 100,0:39:23.51,0:39:25.05,Default,Sakura,0,0,0,,How does it feel?
@@ -421,12 +422,12 @@ Dialogue: 100,0:39:25.51,0:39:28.93,Default,Sakura,0,0,0,,I've claimed your hear
 Dialogue: 100,0:39:34.31,0:39:38.23,Default,Sakura,0,0,0,,Father Kotomine, you died ten years ago.
 Dialogue: 100,0:39:38.90,0:39:43.53,Default,Sakura,0,0,0,,And yet you live to tell the tale because, uhh...
 Dialogue: 100,0:39:43.53,0:39:45.36,Default,Sakura,0,0,0,,I ate the reason a little while ago...
-Dialogue: 100,0:39:45.82,0:39:49.37,Default,Sakura,0,0,0,,{\q2}It was that golden man bathed in \Nthe contents of the Holy Grail.
-Dialogue: 100,0:39:50.08,0:39:56.04,Default,Sakura,0,0,0,,{\q2}But he couldn't be blackened, \Nso it flowed straight into you, his Master.
-Dialogue: 100,0:39:56.04,0:39:57.63,Default,Sakura,0,0,0,,Was that it?
+Dialogue: 100,0:39:45.82,0:39:49.37,Default,Sakura,0,0,0,,{\q2}It was that golden man bathed in \Nthe contents of the Grail.
+Dialogue: 100,0:39:50.08,0:39:56.04,Default,Sakura,0,0,0,,{\q2}But he couldn't be tainted, \Nso it flowed straight into you, his Master.
+Dialogue: 100,0:39:56.04,0:39:57.63,Default,Sakura,0,0,0,,Did I get that right?
 Dialogue: 100,0:39:58.79,0:40:02.00,Default,Kotomine,0,0,0,,How you've changed, Matou Sakura.
 Dialogue: 100,0:40:03.09,0:40:05.88,Default,Sakura,0,0,0,,Yes, indeed I have.
-Dialogue: 100,0:40:06.47,0:40:10.68,Default,Sakura,0,0,0,,I am not the Matou Sakura you used to know.
+Dialogue: 100,0:40:06.47,0:40:10.68,Default,Sakura,0,0,0,,I'm not the Matou Sakura you used to know.
 Dialogue: 100,0:40:11.97,0:40:15.48,Default,Sakura,0,0,0,,That weak girl is no more.
 Dialogue: 100,0:40:19.77,0:40:21.98,Default,Kotomine,0,0,0,,No need to hide it.
 Dialogue: 100,0:40:22.73,0:40:24.94,Default,Sakura,0,0,0,,Hide what?
@@ -483,7 +484,7 @@ Dialogue: 100,0:45:44.14,0:45:45.93,Default,Shirou,0,0,0,,The Greater Grail?
 Dialogue: 100,0:45:46.18,0:45:49.23,Default,Illya,0,0,0,,It's a magic circle on the Tohsakas' land.
 Dialogue: 100,0:45:50.06,0:45:53.56,Default,Illya,0,0,0,,It manages the system of the Holy Grail War.
 Dialogue: 100,0:45:55.07,0:45:57.44,Default,Illya,0,0,0,,It all started three hundred years ago
-Dialogue: 100,0:45:58.07,0:46:01.74,Default,Illya,0,0,0,,{\q2}when the three great families—\Nthe Einzberns, Makiris, and Tohsakas—
+Dialogue: 100,0:45:58.07,0:46:01.74,Default,Illya,0,0,0,,{\q2}when the three great families—\N{\alpha&HFF&\fscx60}...{\r}the Einzberns, Makiris, and Tohsakas—
 Dialogue: 100,0:46:02.28,0:46:05.70,Default,Illya,0,0,0,,{\q2}tried to use the power of \Nthe Holy Grail to reach the outside world.
 Dialogue: 100,0:46:06.70,0:46:08.79,Default,Illya,0,0,0,,That is their true objective.
 Dialogue: 100,0:46:10.04,0:46:13.33,Default,Illya,0,0,0,,A sacred mystery thought to be lost to the Einzberns.
