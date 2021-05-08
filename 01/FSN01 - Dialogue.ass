@@ -231,7 +231,7 @@ Dialogue: 100,0:20:26.04,0:20:27.96,Default,Shirou,0,0,0,,Even the club advisor 
 Dialogue: 100,0:20:29.17,0:20:31.67,Default,Sakura,0,0,0,,No, I'm fine.
 Dialogue: 100,0:20:37.17,0:20:41.55,Default,Sakura,0,0,0,,Senpai, I have a favor to ask of you.
 Dialogue: 100,0:20:44.22,0:20:49.56,Default,Sakura,0,0,0,,{\q2}Could you please try to come home \Nfrom school as soon as possible today?
-Dialogue: 100,0:20:50.77,0:20:51.69,Default,Newscaster,0,0,0,,This just in:
+Dialogue: 100,0:20:50.77,0:20:52.40,Default,Newscaster,0,0,0,,This just in:
 Dialogue: 100,0:20:52.40,0:20:57.65,Default,Newscaster,0,0,0,,{\q2}Four victims were found dead in the \Nresidential district of Miyama Town, Fuyuki City.
 Dialogue: 100,0:20:58.11,0:21:03.12,Default,Newscaster,0,0,0,,{\q2}Preliminary reports from the Fuyuki Police Department \Nstate that they were all found with stab wounds.
 Dialogue: 100,0:21:03.12,0:21:03.91,Default,Newscaster,0,0,0,,The police are currently...
