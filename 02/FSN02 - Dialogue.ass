@@ -668,7 +668,7 @@ Dialogue: 100,1:17:30.71,1:17:35.13,Default,Tohsaka,0,0,0,,I figure we need a se
 Dialogue: 100,1:17:36.09,1:17:40.26,Default,Illya,0,0,0,,Archer's arm holds knowledge of the Einzberns.
 Dialogue: 100,1:17:41.34,1:17:46.18,Default,Illya,0,0,0,,{\q2}Tohsaka said we might be \Nable to put it to use somehow.
 Dialogue: 100,1:17:46.77,1:17:51.10,Default,Illya,0,0,0,,I don't really care about Kischur Zelretch's leftovers,
-Dialogue: 100,1:17:53.15,1:17:58.03,Default,Illya,0,0,0,,but the treasure box of a magician sounds pretty.
+Dialogue: 100,1:17:53.15,1:17:58.03,Default,Illya,0,0,0,,but I'm sure a magician's treasures will be lovely.
 Dialogue: 100,1:18:00.86,1:18:02.78,Default,Shirou,0,0,0,,Kischur Zel...
 Dialogue: 100,1:18:04.37,1:18:05.62,Default,Sakura,0,0,0,,Senpai.
 Dialogue: 100,1:18:07.66,1:18:12.04,Default,Sakura,0,0,0,,Uhm, thank you.
@@ -749,8 +749,8 @@ Dialogue: 100,1:29:11.49,1:29:12.33,Default,Shirou,0,0,0,,Saku—
 Dialogue: 100,1:29:17.62,1:29:18.87,Default,Shirou,0,0,0,,{\i1}Shut it out.
 Dialogue: 100,1:29:20.71,1:29:21.71,Default,Shirou,0,0,0,,{\i1}Stop.
 Dialogue: 100,1:29:30.22,1:29:33.01,Default,Shirou,0,0,0,,{\i1}They're nothing alike.
-Dialogue: 100,1:29:35.73,1:29:39.85,Default,Newscaster,0,0,0,,There are currently estimated to be over sixty victims.
-Dialogue: 100,1:29:40.77,1:29:45.57,Default,Newscaster,0,0,0,,{\q2}There are also forty buildings whose residents' \Nwhereabouts are presently unknown.
+Dialogue: 100,1:29:35.73,1:29:39.85,Default,Newscaster,0,0,0,,There are currently over sixty confirmed victims.
+Dialogue: 100,1:29:40.77,1:29:45.57,Default,Newscaster,0,0,0,,{\q2}Furthermore, there are forty buildings \Nwhose residents are currently unaccounted for.
 Dialogue: 100,1:29:48.65,1:29:49.99,Default,Shirou,0,0,0,,How's Sakura?
 Dialogue: 100,1:29:51.62,1:29:52.78,Default,Tohsaka,0,0,0,,Alive.
 Dialogue: 100,1:29:56.62,1:29:57.58,Default,Tohsaka,0,0,0,,But...
