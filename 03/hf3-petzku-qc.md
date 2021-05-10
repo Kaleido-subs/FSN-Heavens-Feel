@@ -114,6 +114,7 @@ I feel like this would more commonly be `be back`
 > 01:08:35: Silence. This is my duty.
 
 possible monty python reference: `None shall pass.` Might be too meme since she *just* let Rin pass...
+maybe a slightly less memorable line, like "I move for no man", or maybe in a later scene (no, memes are bad, don't do this)
 
 > 01:11:42: Even now, he still believes he can save you.
 
@@ -127,9 +128,75 @@ I'd add a `Well,` at the start
 
 `Yes, I believe that plan could work.` maybe
 
+> 01:17:09: This isn't enough to stop me!
+
+even more meme than previous: `Just a flesh wound!`... ok yes definitely don't do this lol
+
+> 01:21:58: {\q2}It connects paths to infinite parallel worlds, \Nand channels mana through them.
+
+no comma, maybe reword too
+`It forms connections to infinite parallel worlds and channels mana from them.`
+
+> 01:22:26: {\q2}All I have to do to counter you is release \Nan equal amount of mana in response.
+
+this is better than previously, but still bad imo
+original suggestion: `All I have to do is to match your output`, current is probably better though
+
+> 01:24:53: Every day, the pain, the pain, the pain, the pain...
+
+better way to handle repetition? `Every day, the pain... the ceaseless, <other adjectives> pain`
+
+> 01:28:02: I always wanted you to smile.
+
+`to be happy` rather?
+
+> 01:33:29: Th-This is the kind of person I am.
+
+this phrasing irks me much but I'm bad yet again
+
+> 01:38:52: {\q2}Even if you let this thing out, \Nyour wish won't come true.
+
+`That thing won't be granting your wish, even if you do{/manage to} let it out.`
+
+> 01:39:29: At zero, there is nothing but the fact of "existence".
+
+quotes seem unnecessary
+
+> 01:41:07: You, who wishes to protect Matou Sakura?
+
+should be `wish`
+
+> 01:41:17: That is what humans are.
+
+possibly `what Man is`.
+remember to check kirei's language on this topic otherwise
+
+> 01:43:02: {\q2}You have no wish for yourself. \NI am your antithesis.
+
+I don't like "no wish for yourself"
+
+> 01:43:36: {\i1\q2}and we both chose a single way \Nof life to seek absolution.
+
+move linebreak, before `way` should be good
+
+> 01:45:43: {\i1\q2}Over five hundred years, \Nour desire lasted but the blink of an eye.
+
+not quite sure what this is meant to say
+
+> 01:47:32: {\i1}Nope. You won't die.
+
+I feel like illya's lines shouldn't be italicised here (yes I see her lips not moving)
+
+> 01:49:26: ya...
+
+should have an ellipsis before or something
+
 ## Encode etc
 
 > 01:12:50: aliasing on rider's chains, some on saber's armor too
+> 01:35:04: Aliasing on Rule Breaker edge
+
+### probably irrelevant audio issues, apparently present in masters
 
 > 00:13:18: Are you awake?
 
