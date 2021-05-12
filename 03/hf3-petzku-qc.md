@@ -4,104 +4,34 @@ note: 44:41 (waking up, to ash and dust)
 
 ## Dialogue
 
-> 00:01:18: but I suppose my insurance was worth it.
-
-`insurance` is not that good here. if it stays, use `paid off`, but prefer a better word
-
-> 00:01:28: but perhaps it may have done a good deed for once.
-
-I'm having trouble following what Zouken is saying here
-might need some more love
-
-> 00:02:22: but you taught her to desire others.
-
-TLC? if accurate, fine, otherwise something along the lines of `desire for herself`
-
-> 00:02:25: {\q2}Now that it has killed its kinsman, \Nit can no longer contain itself.
-
-something about `kinsman` bothers me
-
-> 00:11:36: {\i1}That vessel was a match for the Holy Grail.
-
-`match` sounds kinda weird here
-
-> 00:14:07: So Matou Sakura has become your enemy, I take it?
-
-`You have taken Matou Sakura as your enemy, then?`
-Would like some TLC on this
-
-> 00:16:30: And yet he continued to hold on to it.
-
-this whole exchange needs a *lot* of work IMO
-
 > 00:17:59: TS
 
 Left side, missing sign (probably unimportant)
 
-> 00:21:42: {\q2}I could no longer bear the sight \Nof seeing you dangling from one arm.
-
-`dangling by` if that works in english, anyway "from" means the arm is what you're holding on to
-
-> 00:22:49: You're Illya before you are the Grail!
-
-maybe `You're Illya, first and foremost!`
-probably needs further thought
-
-> 00:33:33: Even if we aren't related by blood.
-
-unfuck this plox
-
 **stuff above maybe done already**
 
-> 00:47:17: So they chose a single, young man,
 
-this sounds like "single" as in "unmarried", is that intentional? does this need TLC?
+## Encode etc
 
-> 00:47:22: burdened him with all the evils of the world,
-> 00:47:27: {\q2}and tried to prove the goodness \Nof all humans other than him.
+> 01:12:50: aliasing on rider's chains, some on saber's armor too
+> 01:35:04: Aliasing on Rule Breaker edge
 
-maybe something like:
-```txt
-and burdened him with all the evils of the world
-so the rest of mankind{humanity, humans, idk} would be free from evil.
-```
+### probably irrelevant audio issues, apparently present in masters
 
-> 00:48:10: {\q2}When that happened, \Nthe Holy Grail accepted one wish.
+> 00:13:18: Are you awake?
 
-accepted -> granted?
+Audio feels really robotic to me
 
-> 00:48:51: {\q2}Because of that decision, \NA{\fnGandhi Sans Extra Glyphs}?{\r}ra Mainiiu failed to be born
+> 00:24:47: more audio problems, static-y this time
 
-`Because of that decision` -> `Thanks to that` ?
+Apparently at least this one is intentional, the first one probably is too.
 
-> 00:49:34: {\q2}Once that thing is born, \NSakura will never be the same.
+## Done
 
-`Sakura will never be the same` -> `there's no going back for Sakura`, maybe
+> 01:22:26: {\q2}All I have to do to counter you is release \Nan equal amount of mana in response.
 
-> 00:50:18: {\q2}A treasure unlike any other \Npassed down through the Tohsaka line.
-
-needs comma after `other`
-
-> 00:58:34: {\q2}I don't want to let go of it, \Nand I couldn't if I wanted, anyway.
-
-maybe: `I don't want to let go of it.\NNot that I could, even if I wanted.`
-
-> 00:58:45: {\q2}Are you saying that if I take Shirou and run, \Nyou can self-destruct and take Angra Mainiiu with you?
-
-don't like the word "self-destruct"
-
-> 01:00:10: {\q2}Sakura, apologies for the burden, \Nbut form a contract with Assassin.
-
-`but I need you to` maybe? this works too
-
-> 01:05:13: Taking Kiritsugu's place?
-
-sounds more like Illya asking if she'd be taking his place.
-maybe `Trying to take Kiritsugu's place?`, though that has similar interpretations too
-
-> 01:05:15: No, Kiritsugu and I are two different people.
-
-maybe something in the vein of `No, I am not him.`, or `No. I can't be a replacement for him.`, or something. fine enough as is too
+this is better than previously, but still bad imo
+original suggestion: `All I have to do is to match your output`, current is probably better though
 
 > 01:05:49: You'd better come back with Sakura by sunrise.
 
@@ -136,11 +66,6 @@ even more meme than previous: `Just a flesh wound!`... ok yes definitely don't d
 
 no comma, maybe reword too
 `It forms connections to infinite parallel worlds and channels mana from them.`
-
-> 01:22:26: {\q2}All I have to do to counter you is release \Nan equal amount of mana in response.
-
-this is better than previously, but still bad imo
-original suggestion: `All I have to do is to match your output`, current is probably better though
 
 > 01:24:53: Every day, the pain, the pain, the pain, the pain...
 
@@ -186,27 +111,117 @@ not quite sure what this is meant to say
 > 01:47:32: {\i1}Nope. You won't die.
 
 I feel like illya's lines shouldn't be italicised here (yes I see her lips not moving)
+// Nah, for telepathy I'll probably also keep it italicised
 
 > 01:49:26: ya...
 
 should have an ellipsis before or something
 
-## Encode etc
+> 01:05:15: No, Kiritsugu and I are two different people.
 
-> 01:12:50: aliasing on rider's chains, some on saber's armor too
-> 01:35:04: Aliasing on Rule Breaker edge
+maybe something in the vein of `No, I am not him.`, or `No. I can't be a replacement for him.`, or something. fine enough as is too
 
-### probably irrelevant audio issues, apparently present in masters
+> 01:05:13: Taking Kiritsugu's place?
 
-> 00:13:18: Are you awake?
+sounds more like Illya asking if she'd be taking his place.
+maybe `Trying to take Kiritsugu's place?`, though that has similar interpretations too
+// Fine with the line after, where Shirou clarifies the intentions behind Illya's line.
 
-Audio feels really robotic to me
+> 01:00:10: {\q2}Sakura, apologies for the burden, \Nbut form a contract with Assassin.
 
-> 00:24:47: more audio problems, static-y this time
+`but I need you to` maybe? this works too
 
-Apparently at least this one is intentional, the first one probably is too.
+> 00:47:22: burdened him with all the evils of the world,
+> 00:47:27: {\q2}and tried to prove the goodness \Nof all humans other than him.
 
-## Done
+maybe something like:
+
+```txt
+and burdened him with all the evils of the world
+so the rest of mankind{humanity, humans, idk} would be free from evil.
+```
+
+> 00:48:10: {\q2}When that happened, \Nthe Holy Grail accepted one wish.
+
+accepted -> granted?
+
+> 00:48:51: {\q2}Because of that decision, \NA{\fnGandhi Sans Extra Glyphs}?{\r}ra Mainiiu failed to be born
+
+`Because of that decision` -> `Thanks to that` ?
+
+> 00:49:34: {\q2}Once that thing is born, \NSakura will never be the same.
+
+`Sakura will never be the same` -> `there's no going back for Sakura`, maybe
+
+> 00:50:18: {\q2}A treasure unlike any other \Npassed down through the Tohsaka line.
+
+needs comma after `other`
+
+> 00:58:34: {\q2}I don't want to let go of it, \Nand I couldn't if I wanted, anyway.
+
+maybe: `I don't want to let go of it.\NNot that I could, even if I wanted.`
+
+> 00:58:45: {\q2}Are you saying that if I take Shirou and run, \Nyou can self-destruct and take Angra Mainiiu with you?
+
+don't like the word "self-destruct"
+// I think it's perfectly fine
+
+> 00:33:33: Even if we aren't related by blood.
+
+unfuck this plox
+// Unfucked
+
+> 00:01:18: but I suppose my insurance was worth it.
+
+`insurance` is not that good here. if it stays, use `paid off`, but prefer a better word
+// Got "contingency plan" now. Any other ideas welcome if you have anything.
+
+> 00:47:17: So they chose a single, young man,
+
+this sounds like "single" as in "unmarried", is that intentional? does this need TLC?
+// That line is fine
+
+> 00:22:49: You're Illya before you are the Grail!
+
+maybe `You're Illya, first and foremost!`
+probably needs further thought
+// I much prefer what we have now (after a slight edit)
+
+> 00:21:42: {\q2}I could no longer bear the sight \Nof seeing you dangling from one arm.
+
+`dangling by` if that works in english, anyway "from" means the arm is what you're holding on to
+
+> 00:16:30: And yet he continued to hold on to it.
+
+this whole exchange needs a *lot* of work IMO
+// Changes applied. I think most of it is fine, but if you have further issues, lmk
+
+> 00:14:07: So Matou Sakura has become your enemy, I take it?
+
+`You have taken Matou Sakura as your enemy, then?`
+Would like some TLC on this
+// TLC'd and is good
+
+> 00:11:36: {\i1}That vessel was a match for the Holy Grail.
+
+`match` sounds kinda weird here
+// It fits well enough.
+
+> 00:02:22: but you taught her to desire others.
+
+TLC? if accurate, fine, otherwise something along the lines of `desire for herself`
+// TLC'd, is okey-dokey
+
+> 00:02:25: {\q2}Now that it has killed its kinsman, \Nit can no longer contain itself.
+
+something about `kinsman` bothers me
+// Got no issues with it myself.
+
+> 00:01:28: but perhaps it may have done a good deed for once.
+
+I'm having trouble following what Zouken is saying here
+might need some more love
+// I had no issues understanding this the first time around. He's talking about Angry Mango may have actually done something good by killing Shinji, despite being all the world's evils and not being fully released yet.
 
 > 00:11:21: {\i1\q2}This outcome had been predetermined \Na long, long time ago.
 
