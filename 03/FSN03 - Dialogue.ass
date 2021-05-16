@@ -337,7 +337,7 @@ Dialogue: 100,0:28:35.15,0:28:39.03,Default,Kotomine,0,0,0,,{\i1}I prayed and st
 Dialogue: 100,0:28:39.95,0:28:45.37,Default,Kotomine,0,0,0,,{\i1}As my final effort, I loved a single woman.
 Dialogue: 100,0:28:54.63,0:28:58.63,Default,Kotomine,0,0,0,,{\i1}Or rather, I wished to.
 Dialogue: 100,0:28:58.63,0:29:01.76,Default,Kotomine,0,0,0,,{\i1}I attempted to love, and even sired a child.
-Dialogue: 100,0:29:02.39,0:29:04.26,Default,Kotomine,0,0,0,,{\i1}But to no avail.
+Dialogue: 100,0:29:02.39,0:29:04.26,Default,Kotomine,0,0,0,,{\i1}And yet...
 Dialogue: 100,0:29:06.14,0:29:10.27,Default,Kotomine,0,0,0,,I was unable to love you.
 Dialogue: 100,0:29:11.98,0:29:16.36,Default,Claudia,0,0,0,,No, you love me very much.
 Dialogue: 100,0:29:29.71,0:29:30.75,Default,True Assassin,0,0,0,,Noble Phantasm.
@@ -364,16 +364,16 @@ Dialogue: 100,0:31:05.01,0:31:08.97,Default,Kotomine,0,0,0,,{\q2}Absolution is a
 Dialogue: 100,0:31:09.56,0:31:11.22,Default,Zouken,0,0,0,,What will this accomplish?
 Dialogue: 100,0:31:11.22,0:31:13.56,Default,Zouken,0,0,0,,There is no salvation for you.
 Dialogue: 100,0:31:14.52,0:31:16.35,Default,Kotomine,0,0,0,,{\pos(960,1024)}Kýrie, eléison.
-Dialogue: 100,0:31:33.29,0:31:37.67,Default,True Assassin,0,0,0,,{\q2}So you used the holy Word of the Bible \Nto attack his spirit directly.
+Dialogue: 100,0:31:33.29,0:31:37.67,Default,True Assassin,0,0,0,,{\q2}So you used the Word of the Bible \Nto attack his spirit directly.
 Dialogue: 100,0:31:40.67,0:31:44.88,Default,True Assassin,0,0,0,,You were pure poison to my magus.
 Dialogue: 100,0:31:46.43,0:31:47.93,Default,True Assassin,0,0,0,,And you...
-Dialogue: 100,0:31:49.97,0:31:52.22,Default,True Assassin,0,0,0,,have already been tainted, have you not? {###}
+Dialogue: 100,0:31:49.97,0:31:52.22,Default,True Assassin,0,0,0,,have already been tainted, have you not?
 Dialogue: 100,0:31:55.06,0:31:58.40,Default,True Assassin,0,0,0,,Hmph. I made a grave error.
 Dialogue: 100,0:32:10.91,0:32:15.16,Default,Claudia,0,0,0,,{\i1}See? You're crying.
 Dialogue: 100,0:32:17.42,0:32:19.46,Default,Kotomine,0,0,0,,{\i1}That was a misunderstanding.
 Dialogue: 100,0:32:23.09,0:32:25.59,Default,Kotomine,0,0,0,,{\i1}Indeed, I was sad.
 Dialogue: 100,0:32:26.34,0:32:29.09,Default,Kotomine,0,0,0,,{\i1}But I was not mourning that woman's death.
-Dialogue: 100,0:32:33.93,0:32:39.35,Default,Kotomine,0,0,0,,{\i1\q2}"If she were to die regardless, \NI would rather it had been by my hand."
+Dialogue: 100,0:32:33.93,0:32:39.35,Default,Kotomine,0,0,0,,{\i1\q2}If you were to die regardless, \NI would rather it had been by my hand.
 Dialogue: 100,0:32:52.41,0:32:53.95,Default,Illya,0,0,0,,Shirou?
 Dialogue: 100,0:32:54.41,0:32:56.62,Default,Shirou,0,0,0,,You okay, Illya?
 Dialogue: 100,0:32:57.46,0:32:58.46,Default,Illya,0,0,0,,Yeah.
