@@ -510,7 +510,7 @@ Dialogue: 100,0:59:37.22,0:59:39.43,Default,True Assassin,0,0,0,,Now I can make 
 Dialogue: 100,0:59:44.02,0:59:45.65,Default,Shirou,0,0,0,,Saber!
 Dialogue: 100,1:00:05.62,1:00:06.50,Default,Shirou,0,0,0,,Illya!
 Dialogue: 100,1:00:21.47,1:00:22.77,Default,True Assassin,0,0,0,,That's as far as you go.
-Dialogue: 100,1:00:23.14,1:00:25.60,Default,True Assassin,0,0,0,,This is the end. {###}
+Dialogue: 100,1:00:23.14,1:00:25.60,Default,True Assassin,0,0,0,,You've served your purpose.
 Dialogue: 100,1:00:33.28,1:00:36.49,Default,Archer,0,0,0,,{\q2}Can't even kill one little boy without \None of your fancy surprise attacks?
 Dialogue: 100,1:00:36.49,1:00:37.86,Default,Archer,0,0,0,,Pathetic.
 Dialogue: 100,1:00:40.58,1:00:43.91,Default,True Assassin,0,0,0,,How did you manage to get here?
@@ -762,7 +762,7 @@ Dialogue: 100,1:30:14.47,1:30:17.35,Default,Tohsaka,0,0,0,,I can't tell you who 
 Dialogue: 100,1:30:17.35,1:30:21.31,Default,Tohsaka,0,0,0,,{\q2}but the pain may have destroyed \Nnot just her body, but her mind as well.
 Dialogue: 100,1:30:22.98,1:30:27.11,Default,Tohsaka,0,0,0,,{\q2}We don't have a second to waste \Nif we want to beat Zouken and the shadow.
 Dialogue: 100,1:30:28.49,1:30:30.86,Default,Tohsaka,0,0,0,,Let's do what we can right now.
-Dialogue: 100,1:30:36.95,1:30:38.91,Default,Tohsaka,0,0,0,,But, Shirou, {###}
+Dialogue: 100,1:30:36.95,1:30:38.91,Default,Tohsaka,0,0,0,,But, Shirou,
 Dialogue: 100,1:30:40.21,1:30:45.63,Default,Tohsaka,0,0,0,,{\q2}if it turns out that Zouken and that shadow \Naren't actually working together,
 Dialogue: 100,1:30:46.00,1:30:47.63,Default,Tohsaka,0,0,0,,what will you do?
 Dialogue: 100,1:31:01.69,1:31:03.19,Default,Illya,0,0,0,,Good morning.
@@ -853,8 +853,8 @@ Dialogue: 100,1:38:48.82,1:38:50.03,Default,Shirou,0,0,0,,She will.
 Dialogue: 100,1:38:50.03,1:38:51.82,Default,Shirou,0,0,0,,She definitely will!
 Dialogue: 100,1:38:52.53,1:38:56.66,Default,Zouken,0,0,0,,But the same cannot be said for others.
 Dialogue: 100,1:38:56.66,1:39:01.71,Default,Zouken,0,0,0,,She may have eaten her fill last night,
-Dialogue: 100,1:39:01.71,1:39:05.42,Default,Zouken,0,0,0,,but it will strike again as early as tomorrow.
-Dialogue: 100,1:39:06.84,1:39:12.93,Default,Zouken,0,0,0,,{\q2}How many days will it take for it \Nto finish feeding on the people of this city?
+Dialogue: 100,1:39:01.71,1:39:05.42,Default,Zouken,0,0,0,,but she will strike again as early as tomorrow.
+Dialogue: 100,1:39:06.84,1:39:12.93,Default,Zouken,0,0,0,,{\q2}How many days will it take for her \Nto finish feeding on the people of this city?
 Dialogue: 100,1:39:15.05,1:39:16.68,Default,Zouken,0,0,0,,Surely you understand.
 Dialogue: 100,1:39:17.56,1:39:20.35,Default,Zouken,0,0,0,,Strike down evil for the sake of the many.
 Dialogue: 100,1:39:20.81,1:39:24.52,Default,Zouken,0,0,0,,If you wish to become Emiya Kiritsugu,
@@ -863,9 +863,9 @@ Dialogue: 100,1:39:54.59,1:39:56.93,Default,Shirou,0,0,0,,Sakura, you up yet?
 Dialogue: 100,1:40:00.89,1:40:01.77,Default,Sakura,0,0,0,,Yes.
 Dialogue: 100,1:40:02.94,1:40:05.94,Default,Sakura,0,0,0,,Good morning, Senpai.
 Dialogue: 100,1:41:14.92,1:41:16.30,Default,Shirou,0,0,0,,Hey, Sakura.
-Dialogue: 100,1:41:16.63,1:41:20.89,Default,Shirou,0,0,0,,{\q2}Is there anything you wanna do \Nafter this battle is over?
+Dialogue: 100,1:41:16.63,1:41:20.89,Default,Shirou,0,0,0,,{\q2}Is there anything you wanna do \Nafter the battle is over?
 Dialogue: 100,1:41:23.81,1:41:27.14,Default,Sakura,0,0,0,,I can't really think of anything.
-Dialogue: 100,1:41:27.14,1:41:31.44,Default,Sakura,0,0,0,,{\q2}As long as I'm with you, \Nit doesn't matter what we do.
+Dialogue: 100,1:41:27.14,1:41:31.44,Default,Sakura,0,0,0,,{\q2}As long as I'm with you, \NI'm fine with anything.
 Dialogue: 100,1:41:32.94,1:41:36.65,Default,Shirou,0,0,0,,Then how about we go somewhere fun?
 Dialogue: 100,1:41:37.70,1:41:39.07,Default,Shirou,0,0,0,,Where would you like to go?
 Dialogue: 100,1:41:42.45,1:41:48.17,Default,Sakura,0,0,0,,Well, I suppose I'd like to go flower-viewing...
@@ -899,7 +899,7 @@ Dialogue: 100,1:45:02.61,1:45:06.57,Default,Sakura,0,0,0,,{\i1}Fujimura-sensei, 
 Dialogue: 100,1:45:09.57,1:45:13.33,Default,Sakura,0,0,0,,{\i1}I'm sorry I couldn't keep my promise.
 Dialogue: 100,1:45:19.33,1:45:24.59,Default,Sakura,0,0,0,,Rider, thank you for not killing Senpai.
 Dialogue: 100,1:45:28.76,1:45:29.80,Default,Rider,0,0,0,,Sakura...
-Dialogue: 100,1:45:35.10,1:45:36.98,Default,Sakura,0,0,0,,By my last Command Spell...
+Dialogue: 100,1:45:35.10,1:45:36.98,Default,Sakura,0,0,0,,By my final Command Spell...
 Dialogue: 100,1:45:39.15,1:45:41.36,Default,Sakura,0,0,0,,Please, Rider...
 Dialogue: 100,1:45:48.74,1:45:51.78,Default,Sakura,0,0,0,,{\i1}I'll be the one to stop Grandfather.
 Dialogue: 100,1:45:52.70,1:45:54.58,Default,Sakura,0,0,0,,{\i1}It may have taken me a long time,

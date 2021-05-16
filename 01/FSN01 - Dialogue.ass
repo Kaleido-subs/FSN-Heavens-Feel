@@ -128,7 +128,7 @@ Dialogue: 100,0:10:02.71,0:10:04.79,Default,Mitsuzuri,0,0,0,,Or you eyeing anoth
 Dialogue: 100,0:10:04.79,0:10:05.88,Default,Sakura,0,0,0,,N-No...
 Dialogue: 100,0:10:05.88,0:10:07.38,Default,Mitsuzuri,0,0,0,,Perfecto! Come join us, then!
 Dialogue: 100,0:10:07.38,0:10:09.84,Default,Issei,0,0,0,,Geez. Pushy as ever.
-Dialogue: 100,0:10:07.92,0:10:11.47,Default,,0,0,0,,{\an8}C'mon, what's the hol'-up? Let's go!
+Dialogue: 100,0:10:07.92,0:10:11.47,Default,Mitsuzuri,0,0,0,,{\an8}C'mon, what's the hol'-up? Let's go!
 Dialogue: 100,0:10:16.10,0:10:17.60,Default,Issei,0,0,0,,What's wrong, Emiya?
 Dialogue: 100,0:10:18.06,0:10:19.18,Default,Shirou,0,0,0,,Nothing...
 Dialogue: 100,0:10:19.18,0:10:21.48,Default,Fuji-nee,0,0,0,,Hey, Shirou!
@@ -848,9 +848,9 @@ Dialogue: 100,1:31:22.46,1:31:23.17,Default,Shirou,0,0,0,,It's fine.
 Dialogue: 100,1:31:34.80,1:31:35.43,Default,Kotomine,0,0,0,,Want some?
 Dialogue: 100,1:31:35.43,1:31:36.26,Default,Shirou,0,0,0,,Hell, no!
 Dialogue: 100,1:31:38.64,1:31:41.43,Default,Shirou,0,0,0,,Why did you call me here?
-Dialogue: 100,1:31:52.03,1:31:55.95,Default,Kotomine,0,0,0,,Emiya Shirou, what did you witness last night?
-Dialogue: 100,1:32:01.08,1:32:06.92,Default,Kotomine,0,0,0,,You see, I have my own stake in this Holy Grail War.
-Dialogue: 100,1:32:06.92,1:32:11.09,Default,Kotomine,0,0,0,,{\q2}Rin has already reported to me \Nabout the incident at Ryuudou Temple.
+Dialogue: 100,1:31:52.03,1:31:55.95,Default,Kotomine,0,0,0,,Emiya Shirou, what did you see last night?
+Dialogue: 100,1:32:01.08,1:32:06.92,Default,Kotomine,0,0,0,,You see, I have been overseeing this Holy Grail War,
+Dialogue: 100,1:32:06.92,1:32:11.09,Default,Kotomine,0,0,0,,{\q2}and have received a report from Rin \Nconcerning an incident at Ryuudou Temple.
 Dialogue: 100,1:32:13.34,1:32:16.34,Default,Shirou,0,0,0,,We got into a fight with Matou Zouken.
 Dialogue: 100,1:32:16.34,1:32:20.22,Default,Shirou,0,0,0,,He had Caster with him, but, uh...
 Dialogue: 100,1:32:20.81,1:32:23.23,Default,Shirou,0,0,0,,It looked like he was puppeteering her corpse.
