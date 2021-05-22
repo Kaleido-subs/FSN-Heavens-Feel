@@ -21,12 +21,12 @@ Style: Signs,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:08.99,Signs,,0,0,0,,{\an7\pos(960,1070)\c&H000000&\p1}m -960 -1070 l 960 -1070 960 10 -960 10
-Dialogue: 0,0:00:08.99,0:00:18.00,Signs,,0,0,0,,{\an7\pos(960,1070)\c&H000000&\p1}m -960 -1070 l 960 -1070 960 10 -960 10
-Dialogue: 0,0:00:18.00,0:00:22.13,Signs,,0,0,0,,{\an7\pos(960,1070)\c&H000000&\fad(0,1000)\p1}m -960 -1070 l 960 -1070 960 10 -960 10
-Dialogue: 1,0:00:02.19,0:00:10.03,Signs,,0,0,0,,{\pos(960,500)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\blur0.6\fad(2000,2000)}Aniplex, Notes, and ufotable
-Dialogue: 1,0:00:02.19,0:00:10.03,Signs,,0,0,0,,{\pos(960,570)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\blur0.6\fad(2000,2000)}present
-Dialogue: 1,0:00:11.45,0:00:18.00,Signs,,0,0,0,,{\pos(960,538.33)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\blur0.6\fad(2000,2000)}a ufotable production
+Dialogue: 0,0:00:00.00,0:00:08.99,Signs,,0,0,0,,{\an7\pos(960,1070)\fnFOT Rodin Pro EB\b800\c&H000000&\p1}m -960 -1070 l 960 -1070 960 10 -960 10
+Dialogue: 0,0:00:08.99,0:00:18.00,Signs,,0,0,0,,{\an7\pos(960,1070)\fnFOT Rodin Pro EB\b800\c&H000000&\p1}m -960 -1070 l 960 -1070 960 10 -960 10
+Dialogue: 0,0:00:18.00,0:00:22.13,Signs,,0,0,0,,{\an7\pos(960,1070)\fnFOT Rodin Pro EB\b800\c&H000000&\p1}m -960 -1070 l 960 -1070 960 10 -960 10
+Dialogue: 1,0:00:02.19,0:00:10.03,Signs,,0,0,0,,{\pos(960,500)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\b800\blur0.6\fad(2000,2000)}Aniplex, Notes, and ufotable
+Dialogue: 1,0:00:02.19,0:00:10.03,Signs,,0,0,0,,{\pos(960,570)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\b800\blur0.6\fad(2000,2000)}present
+Dialogue: 1,0:00:11.45,0:00:18.00,Signs,,0,0,0,,{\pos(960,538.33)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\b800\blur0.6\fad(2000,2000)}a ufotable production
 Dialogue: 0,0:03:08.58,0:03:17.09,Signs,,0,0,0,TODAY,{\b1\blur0.8\xshad1.5\yshad1\fnArial\fs18\pos(906,781)\c&HEEFCFF&\4c&H4E76A4&}Today's Topic
 Dialogue: 0,0:03:08.58,0:03:17.09,Signs,,0,0,0,CAVE-IN,{\b1\blur2.5\fnArial\fs29\bord0\pos(1131,839)\c&H3A649B&\1a&H40&}P{*\c&H39639B&}a{*\c&H38629B&}r{*\c&H37619B&}t{*\c&H35609B&}i{*\c&H345F9B&}a{*\c&H335E9B&}l {*\c&H315C9C&}C{*\c&H305B9C&}a{*\c&H2E5A9C&}v{*\c&H2D599C&}e{*\c&H2C589C&}-{*\c&H2B579C&}i{*\c&H2A569C&}n {*\c&H28549C&}o{*\c&H26539C&}n {*\c&H24519C&}E{*\c&H23509C&}n{*\c&H224F9C&}z{*\c&H214E9C&}o{*\c&H1F4E9D&}u {*\c&H1D4C9D&}M{*\c&H1C4B9D&}o{*\c&H1B4A9D&}u{*\c&H1A499D&}n{*\c&H18489D&}t{*\c&H17479D&}a{*\c&H16469D&}i{*\c&H15459D&}n{*\c&H14449D&}, {*\c&H12429D&}F{*\c&H10419D&}u{*\c&H0F409D&}y{*\c&H0E3F9E&}u{*\c&H0D3E9E&}k{*\c&H0C3D9E&}i {*\c&H093B9E&}C{*\c&H083A9E&}i{*\c&H07399E&}ty{\c&H06389E&}
 Dialogue: 1,0:03:08.58,0:03:17.09,Signs,,0,0,0,CAVE-IN,{\b1\blur2.5\fnArial\fs29\bord0\pos(1131,839)\c&H3A649B&}P{*\c&H39639B&}a{*\c&H38629B&}r{*\c&H37619B&}t{*\c&H35609B&}i{*\c&H345F9B&}a{*\c&H335E9B&}l {*\c&H315C9C&}C{*\c&H305B9C&}a{*\c&H2E5A9C&}v{*\c&H2D599C&}e{*\c&H2C589C&}-{*\c&H2B579C&}i{*\c&H2A569C&}n {*\c&H28549C&}o{*\c&H26539C&}n {*\c&H24519C&}E{*\c&H23509C&}n{*\c&H224F9C&}z{*\c&H214E9C&}o{*\c&H1F4E9D&}u {*\c&H1D4C9D&}M{*\c&H1C4B9D&}o{*\c&H1B4A9D&}u{*\c&H1A499D&}n{*\c&H18489D&}t{*\c&H17479D&}a{*\c&H16469D&}i{*\c&H15459D&}n{*\c&H14449D&}, {*\c&H12429D&}F{*\c&H10419D&}u{*\c&H0F409D&}y{*\c&H0E3F9E&}u{*\c&H0D3E9E&}k{*\c&H0C3D9E&}i{*\c&H0B3C9E&} C{*\c&H083A9E&}i{*\c&H07399E&}ty{\c&H06389E&}

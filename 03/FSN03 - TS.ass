@@ -22,10 +22,10 @@ Style: Signs,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:08.99,Signs,,0,0,0,,{\an7\pos(960,1070)\c&H000000&\p1}m -960 -1070 l 960 -1070 960 10 -960 10
-Dialogue: 0,0:00:08.99,0:00:18.00,Signs,,0,0,0,,{\an7\pos(960,1070)\c&H000000&\p1}m -960 -1070 l 960 -1070 960 10 -960 10
-Dialogue: 0,0:00:18.00,0:00:22.00,Signs,,0,0,0,,{\an7\pos(960,1070)\c&H000000&\p1}m -960 -1070 l 960 -1070 960 10 -960 10
-Dialogue: 1,0:00:02.19,0:00:10.03,Signs,,0,0,0,,{\pos(960,500)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\blur0.6\fad(2000,2000)}Aniplex, Notes, and ufotable
-Dialogue: 1,0:00:02.19,0:00:10.03,Signs,,0,0,0,,{\pos(960,570)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\blur0.6\fad(2000,2000)}present
-Dialogue: 1,0:00:11.45,0:00:18.00,Signs,,0,0,0,,{\pos(960,538.33)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\blur0.6\fad(2000,2000)}a ufotable production
-Dialogue: 0,0:52:24.45,0:52:27.61,Signs,,0,0,0,,{\pos(961.6,824)\org(960,1024)\frz1.87\fry0.21\frx0.8\fax0.05}Ryuudou Temple
+Dialogue: 0,0:00:00.00,0:00:08.99,Signs,,0,0,0,,{\an7\pos(960,1070)\fnFOT Rodin Pro EB\b800\c&H000000&\p1}m -960 -1070 l 960 -1070 960 10 -960 10
+Dialogue: 0,0:00:08.99,0:00:18.00,Signs,,0,0,0,,{\an7\pos(960,1070)\fnFOT Rodin Pro EB\b800\c&H000000&\p1}m -960 -1070 l 960 -1070 960 10 -960 10
+Dialogue: 0,0:00:18.00,0:00:22.00,Signs,,0,0,0,,{\an7\pos(960,1070)\fnFOT Rodin Pro EB\b800\c&H000000&\p1}m -960 -1070 l 960 -1070 960 10 -960 10
+Dialogue: 1,0:00:02.19,0:00:10.03,Signs,,0,0,0,,{\pos(960,500)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\b800\blur0.6\fad(2000,2000)}Aniplex, Notes, and ufotable
+Dialogue: 1,0:00:02.19,0:00:10.03,Signs,,0,0,0,,{\pos(960,570)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\b800\blur0.6\fad(2000,2000)}present
+Dialogue: 1,0:00:11.45,0:00:18.00,Signs,,0,0,0,,{\pos(960,538.33)\fscx105.5\fscy99\fnFOT Rodin Pro EB\fs43\b800\blur0.6\fad(2000,2000)}a ufotable production
+Dialogue: 0,0:52:24.45,0:52:27.61,Signs,,0,0,0,,{\pos(961.6,388.01)\org(961.6,388.01)\fry-1.02\frx0.30\frz0.8\fax0.02}Ryuudou Temple
