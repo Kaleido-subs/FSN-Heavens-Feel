@@ -28,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,code once,color = require '0x.color'
 Comment: 100,0:00:00.00,0:00:00.00,NP,,0,0,0,template line actor grad loop grad 50,!maxloop('grad', line.height)!
 Comment: 101,0:00:00.00,0:00:00.00,NP,,0,0,0,template line actor grad,
-Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line,{!ln.tag.pos(5,5,0,0)!}
+Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line,{!ln.tag.pos(5,5,0,0)!\b100}
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor grad layer 100,{\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01}
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor rho_aias layer 100,{\bord2.4\blur1}
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor grad layer 101,{\blur0.65}
@@ -944,39 +944,39 @@ Dialogue: 100,1:50:45.54,1:50:47.37,Default,Shirou,0,0,0,,Sakura!
 Dialogue: 100,1:55:51.55,1:55:57.05,Default,Shirou,0,0,0,,I told you before. I'll be your personal superhero.
 Dialogue: 100,1:55:59.10,1:56:03.44,Default,Shirou,0,0,0,,So grit your teeth!
 Comment: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,kara,The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,903.8,1920,904.8)\4c&H000056&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,904.8,1920,905.8)\4c&H000059&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,905.8,1920,906.8)\4c&H01005B&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,906.8,1920,907.8)\4c&H01005D&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,907.8,1920,908.8)\4c&H01005F&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,908.8,1920,909.8)\4c&H010062&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,909.8,1920,910.8)\4c&H020064&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,910.8,1920,911.8)\4c&H020066&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,911.8,1920,912.8)\4c&H020069&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,912.8,1920,913.8)\4c&H02006B&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,913.8,1920,914.8)\4c&H02006D&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,914.8,1920,915.8)\4c&H020070&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,915.8,1920,916.8)\4c&H020072&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,916.8,1920,917.8)\4c&H020074&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,917.8,1920,918.8)\4c&H020077&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,918.8,1920,919.8)\4c&H020079&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,919.8,1920,920.8)\4c&H02007C&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,920.8,1920,921.8)\4c&H02007E&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,921.8,1920,922.8)\4c&H020080&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,922.8,1920,923.8)\4c&H020083&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,923.8,1920,924.8)\4c&H020085&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,924.8,1920,925.8)\4c&H020088&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,925.8,1920,926.8)\4c&H02008A&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,926.8,1920,927.8)\4c&H02008D&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,927.8,1920,928.8)\4c&H02008F&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,928.8,1920,929.8)\4c&H020092&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,929.8,1920,930.8)\4c&H020094&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,930.8,1920,931.8)\4c&H020097&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,931.8,1920,932.8)\4c&H020099&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,932.8,1920,933.8)\4c&H01009C&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,933.8,1920,934.8)\4c&H01009E&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,934.8,1920,935.8)\4c&H0100A1&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,935.8,1920,936.8)\4c&H0100A3&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,936.8,1920,937.8)\4c&H0000A6&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,937.8,1920,938.8)\4c&H0000A8&}The Seven Rings that Cover the Fiery Heavens
-Dialogue: 101,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\blur0.65}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,903.8,1920,904.8)\4c&H000056&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,904.8,1920,905.8)\4c&H000059&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,905.8,1920,906.8)\4c&H01005B&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,906.8,1920,907.8)\4c&H01005D&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,907.8,1920,908.8)\4c&H01005F&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,908.8,1920,909.8)\4c&H010062&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,909.8,1920,910.8)\4c&H020064&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,910.8,1920,911.8)\4c&H020066&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,911.8,1920,912.8)\4c&H020069&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,912.8,1920,913.8)\4c&H02006B&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,913.8,1920,914.8)\4c&H02006D&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,914.8,1920,915.8)\4c&H020070&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,915.8,1920,916.8)\4c&H020072&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,916.8,1920,917.8)\4c&H020074&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,917.8,1920,918.8)\4c&H020077&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,918.8,1920,919.8)\4c&H020079&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,919.8,1920,920.8)\4c&H02007C&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,920.8,1920,921.8)\4c&H02007E&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,921.8,1920,922.8)\4c&H020080&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,922.8,1920,923.8)\4c&H020083&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,923.8,1920,924.8)\4c&H020085&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,924.8,1920,925.8)\4c&H020088&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,925.8,1920,926.8)\4c&H02008A&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,926.8,1920,927.8)\4c&H02008D&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,927.8,1920,928.8)\4c&H02008F&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,928.8,1920,929.8)\4c&H020092&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,929.8,1920,930.8)\4c&H020094&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,930.8,1920,931.8)\4c&H020097&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,931.8,1920,932.8)\4c&H020099&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,932.8,1920,933.8)\4c&H01009C&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,933.8,1920,934.8)\4c&H01009E&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,934.8,1920,935.8)\4c&H0100A1&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,935.8,1920,936.8)\4c&H0100A3&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,936.8,1920,937.8)\4c&H0000A6&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 100,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\bord2.4\blur1\clip(0,937.8,1920,938.8)\4c&H0000A8&}The Seven Rings that Cover the Fiery Heavens
+Dialogue: 101,1:03:44.38,1:03:47.34,NP,grad rho_aias,0,0,0,fx,{\an5\pos(960.00,920.40)\b100\blur0.65}The Seven Rings that Cover the Fiery Heavens
