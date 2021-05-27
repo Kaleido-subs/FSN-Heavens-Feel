@@ -44,7 +44,7 @@ Dialogue: 100,0:01:30.53,0:01:32.99,Default,Shirou,0,0,0,,Thank goodness. You're
 Dialogue: 100,0:01:46.63,0:01:47.50,Default,Shirou,0,0,0,,Saber!
 Dialogue: 100,0:02:01.43,0:02:04.73,Default,Shirou,0,0,0,,Why am I back here?
 Dialogue: 100,0:02:25.17,0:02:26.63,Default,Shirou,0,0,0,,{\i1}What...
-Dialogue: 100,0:02:28.42,0:02:29.55,Default,Shirou,0,0,0,,{\i1}...are you?
+Dialogue: 100,0:02:28.42,0:02:29.55,Default,Shirou,0,0,0,,{\i1}are you?
 Dialogue: 100,0:02:30.59,0:02:33.72,Default,Shirou,0,0,0,,{\i1}Wh-What is...
 Dialogue: 100,0:03:06.08,0:03:07.58,Default,Newscaster,0,0,0,,{\an8}...an investigation underway.
 Dialogue: 100,0:03:07.58,0:03:11.09,Default,Newscaster,0,0,0,,{\q2\an8}However, when the police arrived \Nthis morning, they discovered...
@@ -160,7 +160,7 @@ Dialogue: 100,0:16:10.91,0:16:14.66,Default,Tohsaka,0,0,0,,you've made an enemy 
 Dialogue: 100,0:16:16.62,0:16:17.92,Default,Shinji,0,0,0,,Sakura...
 Dialogue: 100,0:16:18.42,0:16:20.71,Default,Shinji,0,0,0,,Sakura this, Sakura that, Sakura...
 Dialogue: 100,0:16:20.71,0:16:22.79,Default,Shinji,0,0,0,,It's always Sakura, Sakura, Sakura!
-Dialogue: 100,0:16:23.30,0:16:26.09,Default,Shinji,0,0,0,,Who gives a shit about her?
+Dialogue: 100,0:16:23.30,0:16:26.09,Default,Shinji,0,0,0,,Who gives a shit about her?!
 Dialogue: 100,0:16:26.09,0:16:28.47,Default,Shinji,0,0,0,,{\i1}I{\i0} was chosen as a Master, not her!
 Dialogue: 100,0:16:33.47,0:16:35.47,Default,Shinji,0,0,0,,Get up, Rider!
 Dialogue: 100,0:16:36.98,0:16:38.64,Default,Shinji,0,0,0,,You piece of...
@@ -195,7 +195,7 @@ Dialogue: 100,0:18:55.11,0:18:57.91,Default,Shinji,0,0,0,,Hey! I'm right here!
 Dialogue: 100,0:18:59.91,0:19:02.33,Default,Shinji,0,0,0,,We still have unfinished business!
 Dialogue: 100,0:19:02.33,0:19:04.46,Default,Shinji,0,0,0,,One more time, Sakura!
 Dialogue: 100,0:19:04.46,0:19:07.63,Default,Shinji,0,0,0,,Give me command rights again!
-Dialogue: 100,0:19:10.88,0:19:13.63,Default,Shinji,0,0,0,,What's with this dumbass goody-two-shoes act?
+Dialogue: 100,0:19:10.88,0:19:13.63,Default,Shinji,0,0,0,,What's with this dumbass goody-two-shoes act?!
 Dialogue: 100,0:19:13.63,0:19:17.64,Default,Shinji,0,0,0,,You still have one Command Spell! Just use that!
 Dialogue: 100,0:19:17.64,0:19:22.52,Default,Tohsaka,0,0,0,,{\q2}Shinji, if she runs out of Command Spells, \NRider will be free.
 Dialogue: 100,0:19:22.52,0:19:27.52,Default,Tohsaka,0,0,0,,{\q2}At that point, even a tome \Nwould just burn up immediately.
