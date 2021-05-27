@@ -599,7 +599,7 @@ Dialogue: 100,0:57:12.49,0:57:15.04,Default,Rider,0,0,0,,You have reason to beli
 Dialogue: 100,0:57:15.04,0:57:15.87,Default,Shirou,0,0,0,,Yeah.
 Dialogue: 100,0:57:18.50,0:57:19.87,Default,Rider,0,0,0,,Very well.
 Dialogue: 100,0:57:26.26,0:57:30.43,Default,Rider,0,0,0,,I, the Servant Rider, albeit temporarily,
-Dialogue: 100,0:57:30.89,0:57:36.35,Default,Rider,0,0,0,,{\q2}swear to become your wings \Nand take you to the ends of the earth.
+Dialogue: 100,0:57:30.89,0:57:36.35,Default,Rider,0,0,0,,{\q2}swear to become your wings \Nand take you to the ends of the Earth.
 Dialogue: 100,0:57:53.91,0:57:56.91,Default,Tohsaka,0,0,0,,And here I thought you came back.
 Dialogue: 100,0:57:58.37,0:58:03.54,Default,Tohsaka,0,0,0,,{\q2}But you sent your shadow out to run your \Nerrands instead. Oh, how you've grown, Sakura.
 Dialogue: 100,0:58:04.54,0:58:08.88,Default,Sakura,0,0,0,,Nee-san, take Senpai and run.
@@ -612,7 +612,7 @@ Dialogue: 100,0:58:34.70,0:58:38.16,Default,Sakura,0,0,0,,{\q2}I don't want to l
 Dialogue: 100,0:58:39.41,0:58:46.71,Default,Tohsaka,0,0,0,,{\q2}Are you saying that if I take Shirou and run, \Nyou can self-destruct and take A{\fnGandhi Sans Extra Glyphs}ŋ{\r}ra Mainiiu with you?
 Dialogue: 100,0:58:48.63,0:58:49.80,Default,Sakura,0,0,0,,Yes.
 Dialogue: 100,0:58:50.17,0:58:51.34,Default,Sakura,0,0,0,,So...
-Dialogue: 100,0:58:53.05,0:58:58.35,Default,Tohsaka,0,0,0,,{\q2}No. What you actually mean is \N"I don't know how long I can hold out".
+Dialogue: 100,0:58:53.05,0:58:58.35,Default,Tohsaka,0,0,0,,{\q2}No. What you actually mean is, \N"I don't know how long I can hold out".
 Dialogue: 100,0:59:00.10,0:59:01.39,Default,Tohsaka,0,0,0,,Have you noticed?
 Dialogue: 100,0:59:02.77,0:59:06.27,Default,Tohsaka,0,0,0,,{\q2}For a while now, everything you've said \Nand done has been all over the place.
 Dialogue: 100,0:59:06.65,0:59:09.15,Default,Tohsaka,0,0,0,,{\q2}One second, you say you want to \Ntake him down with you,
@@ -664,7 +664,7 @@ Dialogue: 100,1:03:19.28,1:03:20.94,Default,Saber Alter,0,0,0,,They are coming.
 Dialogue: 100,1:03:25.61,1:03:29.16,Default,Sakura,0,0,0,,Go. Let Nee-san alone come here.
 Dialogue: 100,1:03:30.16,1:03:31.50,Default,Saber Alter,0,0,0,,What of Emiya Shirou?
 Dialogue: 100,1:03:32.33,1:03:34.75,Default,Sakura,0,0,0,,Ah... K...
-Dialogue: 100,1:04:32.31,1:04:36.14,Default,Shirou,0,0,0,,{\i1}I swear. I can't believe
+Dialogue: 100,1:04:32.31,1:04:36.14,Default,Shirou,0,0,0,,{\i1}I swear. I can't believe...
 Dialogue: 100,1:04:39.65,1:04:43.03,Default,Shirou,0,0,0,,{\i1}how precious Sakura was to me.
 Dialogue: 100,1:04:48.41,1:04:51.03,Default,Illya,0,0,0,,I guess this is it, then. Off you go.
 Dialogue: 100,1:04:52.08,1:04:52.79,Default,Illya,0,0,0,,Rin.
@@ -694,7 +694,7 @@ Dialogue: 100,1:07:41.79,1:07:42.54,Default,Saber Alter,0,0,0,,Rin.
 Dialogue: 100,1:07:46.75,1:07:48.29,Default,Tohsaka,0,0,0,,Oh, I get it.
 Dialogue: 100,1:07:51.42,1:07:53.72,Default,Tohsaka,0,0,0,,Sakura's serious.
 Dialogue: 100,1:08:00.22,1:08:03.14,Default,Tohsaka,0,0,0,,Sorry. I gotta go on ahead.
-Dialogue: 100,1:08:06.85,1:08:10.86,Default,Tohsaka,0,0,0,,If you want to save Sakura, you'd better not be late.
+Dialogue: 100,1:08:06.85,1:08:10.86,Default,Tohsaka,0,0,0,,{\q2}If you want to save Sakura, \Nyou'd better not be late.
 Dialogue: 100,1:08:30.59,1:08:34.26,Default,Shirou,0,0,0,,Saber, you're not gonna let us through, are you?
 Dialogue: 100,1:08:34.51,1:08:37.84,Default,Dark Knight,0,0,0,,Silence. This is my duty.
 Dialogue: 100,1:08:40.35,1:08:43.97,Default,Rider,0,0,0,,If I go all-out, I can contend with her for two minutes.
@@ -748,7 +748,7 @@ Dialogue: 100,1:15:33.97,1:15:36.89,Default,Rider,0,0,0,,He trusts me.
 Dialogue: 100,1:15:38.18,1:15:40.77,Default,Rider,0,0,0,,Oh, just like he used to trust...
 Dialogue: 100,1:15:42.43,1:15:43.73,Default,Saber Alter,0,0,0,,Cease your drivel!
 Dialogue: 100,1:17:09.31,1:17:11.65,Default,Saber Alter,0,0,0,,This isn't enough to stop me!
-Dialogue: 100,1:17:16.78,1:17:17.86,Default,Rider,0,0,0,,Noble Phantasm.
+Dialogue: 100,1:17:16.78,1:17:17.86,Default,Rider,0,0,0,,Noble Phantasm!
 Dialogue: 100,1:17:24.04,1:17:25.04,Default,Saber Alter,0,0,0,,Come at me!
 Dialogue: 100,1:17:36.13,1:17:37.88,Default,Shirou,0,0,0,,Commence projection!
 Dialogue: 100,1:17:38.76,1:17:41.09,Default,Shirou,0,0,0,,Search. Select.
@@ -799,13 +799,13 @@ Dialogue: 100,1:24:15.57,1:24:19.70,Default,Sakura,0,0,0,,I hated you for growin
 Dialogue: 100,1:24:20.66,1:24:22.45,Default,Sakura,0,0,0,,I wanted to beat you.
 Dialogue: 100,1:24:23.25,1:24:27.96,Default,Sakura,0,0,0,,{\q2}Just once, I wanted you to praise me \Nand tell me I did well.
 Dialogue: 100,1:24:29.00,1:24:33.05,Default,Sakura,0,0,0,,I used to be a daughter of the Tohsaka family.
-Dialogue: 100,1:24:33.30,1:24:38.47,Default,Sakura,0,0,0,,So I thought you'd come save me one day!
+Dialogue: 100,1:24:33.30,1:24:38.47,Default,Sakura,0,0,0,,So I thought you'd come to save me one day!
 Dialogue: 100,1:24:39.14,1:24:42.68,Default,Sakura,0,0,0,,But you never did!
 Dialogue: 100,1:24:43.68,1:24:45.81,Default,Sakura,0,0,0,,It's been eleven painful years.
 Dialogue: 100,1:24:46.69,1:24:48.69,Default,Sakura,0,0,0,,It was enough to drive me insane.
 Dialogue: 100,1:24:49.56,1:24:52.23,Default,Sakura,0,0,0,,But is this really my fault?
 Dialogue: 100,1:24:52.98,1:24:57.07,Default,Sakura,0,0,0,,Day after day, all I felt was pain...
-Dialogue: 100,1:24:58.28,1:25:00.58,Default,Sakura,0,0,0,,I didn't ask to end up like this.
+Dialogue: 100,1:24:58.28,1:25:00.58,Default,Sakura,0,0,0,,I didn't ask to end up like this!
 Dialogue: 100,1:25:02.41,1:25:05.71,Default,Sakura,0,0,0,,I was driven into a corner.
 Dialogue: 100,1:25:09.67,1:25:13.46,Default,Tohsaka,0,0,0,,Yeah, so what?
 Dialogue: 100,1:25:17.01,1:25:17.80,Default,Sakura,0,0,0,,Huh?
@@ -819,7 +819,7 @@ Dialogue: 100,1:25:49.12,1:25:51.58,Default,Tohsaka,0,0,0,,even for how insensit
 Dialogue: 100,1:25:52.84,1:25:55.71,Default,Tohsaka,0,0,0,,I never once thought
 Dialogue: 100,1:25:57.05,1:25:59.55,Default,Tohsaka,0,0,0,,that I was blessed.
 Dialogue: 100,1:26:08.23,1:26:09.52,Default,Sakura,0,0,0,,How dare you...
-Dialogue: 100,1:26:12.27,1:26:15.36,Default,Sakura,0,0,0,,How dare you say that?
+Dialogue: 100,1:26:12.27,1:26:15.36,Default,Sakura,0,0,0,,How dare you say that?!
 Dialogue: 100,1:26:17.69,1:26:18.65,Default,Tohsaka,0,0,0,,Sakura.
 Dialogue: 100,1:26:27.37,1:26:28.79,Default,Tohsaka,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord2.6\shad0.01\4c&H1708A8&\1a&HFE&\3a&HFE&\4a&H00&\blur1}End of the World
 Dialogue: 101,1:26:27.37,1:26:28.79,Default,Tohsaka,0,0,0,,{\pos(960,944)\fscx50.4\fscy53.2\fnArtois\fsp1\b0\bord0\shad0\blur0.65}End of the World
@@ -874,7 +874,7 @@ Dialogue: 100,1:33:43.51,1:33:46.85,Default,Sakura,0,0,0,,I've killed so many pe
 Dialogue: 100,1:33:47.89,1:33:50.77,Default,Sakura,0,0,0,,Nii-san, Grandfather...
 Dialogue: 100,1:33:51.86,1:33:53.90,Default,Sakura,0,0,0,,Even Nee-san...
 Dialogue: 100,1:33:54.98,1:33:56.19,Default,Sakura,0,0,0,,And you still...
-Dialogue: 100,1:33:56.65,1:34:00.61,Default,Sakura,0,0,0,,You still want me to live?
+Dialogue: 100,1:33:56.65,1:34:00.61,Default,Sakura,0,0,0,,You still want me to live?!
 Dialogue: 100,1:34:00.61,1:34:01.70,Default,Shirou,0,0,0,,Yes!
 Dialogue: 100,1:34:02.37,1:34:03.66,Default,Shirou,0,0,0,,Of course I do!
 Dialogue: 100,1:34:04.66,1:34:07.91,Default,Shirou,0,0,0,,You have to take responsibility for what you took!
@@ -941,7 +941,7 @@ Dialogue: 100,1:42:02.76,1:42:08.31,Default,Kotomine,0,0,0,,{\q2}bears no doubts
 Dialogue: 100,1:42:11.10,1:42:16.40,Default,Kotomine,0,0,0,,{\q2}If he is born, he will surely kill without end, \Nexactly as he was created to.
 Dialogue: 100,1:42:16.86,1:42:23.20,Default,Kotomine,0,0,0,,And when only he remains, will he forgive himself?
 Dialogue: 100,1:42:25.29,1:42:28.58,Default,Kotomine,0,0,0,,I want to know.
-Dialogue: 100,1:42:31.83,1:42:36.59,Default,Shirou,0,0,0,,{\i1}That's{\i0} why you're doing this?
+Dialogue: 100,1:42:31.83,1:42:36.59,Default,Shirou,0,0,0,,{\i1}That's{\i0} why you're doing this?!
 Dialogue: 100,1:42:49.56,1:42:54.02,Default,Kotomine,0,0,0,,Yes. That is my goal.
 Dialogue: 100,1:42:54.02,1:42:55.48,Default,Kotomine,0,0,0,,Emiya Shirou.
 Dialogue: 100,1:42:56.11,1:43:02.32,Default,Kotomine,0,0,0,,{\q2}Your wish is one of self-sacrifice. \NI am your antithesis.
@@ -967,7 +967,7 @@ Dialogue: 100,1:45:07.32,1:45:11.33,Default,Nagato,0,0,0,,{\q2}If we cannot rid 
 Dialogue: 100,1:45:14.58,1:45:20.38,Default,Zolken,0,0,0,,If paradise cannot be reached by mere humans...
 Dialogue: 100,1:45:21.84,1:45:27.18,Default,Justeaze,0,0,0,,{\q2}We need strive for that which transcends humans—\Na new form for humanity.
 Dialogue: 100,1:45:28.39,1:45:32.89,Default,Three,0,0,0,,Yes, to purge all evils from this world,
-Dialogue: 100,1:45:33.81,1:45:38.90,Default,Three,0,0,0,,we shall stake our lives on this one wish.
+Dialogue: 100,1:45:33.81,1:45:38.98,Default,Three,0,0,0,,{\t(4188,5148,\3c&HFFFFFF&\4a&HFF&)}we shall stake our lives on this one wish.
 Dialogue: 100,1:45:43.28,1:45:49.78,Default,Zouken,0,0,0,,{\i1\q2}Our five hundred-year aspirations \Nultimately lasted but the blink of an eye.
 Dialogue: 100,1:45:53.49,1:45:55.08,Default,Zouken,0,0,0,,{\i1}Shame...
 Dialogue: 100,1:45:55.62,1:45:58.75,Default,Zouken,0,0,0,,{\i1}I was just one step away.
