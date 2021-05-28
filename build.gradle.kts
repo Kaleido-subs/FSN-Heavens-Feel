@@ -84,12 +84,6 @@ subs {
         out(get("mergedname_ss"))
 	}
 
-    chapters {
-        from(cleanmerge_full.item())
-        chapterMarker("chapter")
-    }
-
-
     mux {
         title(get("filetitle"))
 
@@ -144,8 +138,6 @@ subs {
 				compression(CompressionType.ZLIB)
 			}
 		}
-
-        chapters(chapters.item()) { lang("eng") }
 
         attach(get("common_fonts")) {
             includeExtensions("ttf", "otf")

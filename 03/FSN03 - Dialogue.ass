@@ -63,7 +63,6 @@ Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor rho_aias layer 100,{
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor rho_aias layer 100,{\4c!color.interp_lab($loop_grad / line.height, "&H000054&", "&H0000A9&")!}
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor zabaniya layer 100,{\bord3.6\blur1}
 Comment: 0,0:00:00.00,0:00:00.00,NP,,0,0,0,mixin line actor zabaniya layer 100,{\4c!color.interp_lab($loop_grad / line.height, "&H252529&", "&H280A97&")!}
-Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 100,0:00:47.65,0:00:50.24,Default,Zouken,0,0,0,,Surely you're acutely aware
 Dialogue: 100,0:00:51.28,0:00:54.70,Default,Zouken,0,0,0,,who slew Shinji.
 Dialogue: 100,0:00:59.96,0:01:00.79,Default,Zouken,0,0,0,,Well, well...
