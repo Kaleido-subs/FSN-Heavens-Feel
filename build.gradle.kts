@@ -121,7 +121,7 @@ subs {
             subtitles {
                 include(false)
             }
-            includeChapters(false)
+            includeChapters(true)
 			attachments { include(false) }
 		}
 
