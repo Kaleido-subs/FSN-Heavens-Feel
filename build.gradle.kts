@@ -84,6 +84,11 @@ subs {
         out(get("mergedname_ss"))
 	}
 
+	// "virtual" task to easily run both cleanmerges
+	val cleanmerge by task<DefaultSubTask> {
+		dependsOn(cleanmerge_ss.item(), cleanmerge_full.item())
+	}
+
     mux {
         title(get("filetitle"))
 
