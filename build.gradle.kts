@@ -42,6 +42,15 @@ subs {
 		loglevel(Automation.LogLevel.WARNING)
 	}
 
+    val foreign_ktemplate by task<Automation> {
+        from(get("foreign"))
+
+        video(get("premux"))
+		script("0x.KaraTemplater.moon")
+		macro("0x539's Templater")
+		loglevel(Automation.LogLevel.WARNING)
+	}
+
 
     merge {
         from(dialogue_ktemplate.item())
@@ -66,6 +75,10 @@ subs {
 	}
 
     val merge_ss by task<Merge> {
+		if (file(get("foreign")).exists()) {
+			from(foreign_ktemplate.item())
+		}
+
         from(ed_ktemplate.item())
 
         if (file(get("IS")).exists()) {
