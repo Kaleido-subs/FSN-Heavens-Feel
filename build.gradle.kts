@@ -54,7 +54,6 @@ subs {
 
         from(get("TS"))
 
-        out(get("mergedname_full"))
     }
 
 	val cleanmerge_full by task<ASS> {
@@ -62,6 +61,8 @@ subs {
     	ass {
 			events.lines.removeIf { it.isKaraTemplate() }
 	    }
+
+        out(get("mergedname_full"))
 	}
 
     val merge_ss by task<Merge> {
@@ -72,8 +73,6 @@ subs {
         }
 
         from(get("TS"))
-
-        out(get("mergedname_ss"))
     }
 
 	val cleanmerge_ss by task<ASS> {
@@ -81,6 +80,8 @@ subs {
     	ass {
 			events.lines.removeIf { it.isKaraTemplate() }
 	    }
+
+        out(get("mergedname_ss"))
 	}
 
     chapters {
