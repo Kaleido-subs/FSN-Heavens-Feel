@@ -108,12 +108,12 @@ subs {
                 }
             } else {
                 audio(0) {
-                    lang("eng")
+                    lang("jpn")
                     default(true)
                     forced(true)
                 }
                 audio(1) {
-                    lang("jpn")
+                    lang("eng")
                     default(false)
                     forced(false)
                 }
@@ -127,7 +127,7 @@ subs {
 
         from(cleanmerge_ss.item()) {
             tracks {
-                name(get("subtitle_ss"))
+                name(get("subtitle_full"))
                 lang("eng")
                 default(true)
 				forced(true)
@@ -137,7 +137,7 @@ subs {
 
 		from(cleanmerge_full.item()) {
 			tracks {
-                name(get("subtitle_full"))
+                name(get("subtitle_ss"))
 				lang("eng")
 				default(false)
 				forced(false)
