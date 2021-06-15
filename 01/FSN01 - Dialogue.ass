@@ -515,7 +515,7 @@ Dialogue: 100,0:50:23.12,0:50:28.59,Default,Saber,0,0,0,,{\q2}He and I fought in
 Dialogue: 100,0:50:29.92,0:50:31.17,Default,Saber,0,0,0,,But then he...
 Dialogue: 100,0:50:31.47,0:50:37.18,Default,Kotomine,0,0,0,,{\q2}Emiya Kiritsugu betrayed \Nthe Holy Grail at the very end.
 Dialogue: 100,0:50:37.64,0:50:41.60,Default,Saber,0,0,0,,He destroyed the Holy Grail.
-Dialogue: 100,0:50:49.28,0:50:52.57,Default,Kotomine,0,0,0,,Kill the one to save the ten.
+Dialogue: 100,0:50:49.28,0:50:52.57,Default,Kotomine,0,0,0,,"Kill the one to save the ten."
 Dialogue: 100,0:50:52.57,0:50:56.70,Default,Kotomine,0,0,0,,He was the epitome of an unsalvageable saint.
 Dialogue: 100,0:51:17.18,0:51:25.52,Default,Shirou,0,0,0,,{\q2}Even so, the Kiritsugu I knew would never \Nabandon the victims of the Grail War.
 Dialogue: 100,0:51:26.65,0:51:30.48,Default,Shirou,0,0,0,,I've always looked up to superheroes like him.
