@@ -137,22 +137,22 @@ subs {
             attachments { include(false) }
         }
 
-        from(cleanmerge_ss.item()) {
+        from(cleanmerge_full.item()) {
             tracks {
                 name(get("subtitle_full"))
                 lang("eng")
-                default(true)
-                forced(true)
+                default(false)
+                forced(false)
                 compression(CompressionType.ZLIB)
             }
         }
 
-        from(cleanmerge_full.item()) {
+        from(cleanmerge_ss.item()) {
             tracks {
                 name(get("subtitle_ss"))
                 lang("eng")
-                default(false)
-                forced(false)
+                default(true)
+                forced(true)
                 compression(CompressionType.ZLIB)
             }
         }
